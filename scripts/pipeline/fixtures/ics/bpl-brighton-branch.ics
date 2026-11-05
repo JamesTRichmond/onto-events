@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Boston Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:bpl-brighton-branch-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Brighton STEAM Story Hour
+DESCRIPTION:Science-themed picture books followed by simple hands-on physics and nature experiments for kids.
+LOCATION:BPL Brighton Branch
+URL:https://www.bpl.org/locations/brighton/
+END:VEVENT
+BEGIN:VEVENT
+UID:bpl-brighton-branch-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Brighton Garden Book & Seed Exchange
+DESCRIPTION:Community seed swap and discussion of urban vegetable gardening and pollinator habitats in the library garden.
+LOCATION:BPL Brighton Branch
+URL:https://www.bpl.org/locations/brighton/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Expansion Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:gerber-hart-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261025T200000Z
+DTEND:20261025T213000Z
+SUMMARY:Midwest Queer Archives: Special Exhibition Gallery Tour
+DESCRIPTION:Guided curator-led tour of historical manuscripts, posters, and grassroots periodicals documenting Chicago LGBTQ+ history.
+LOCATION:Gerber/Hart Library and Archives
+URL:https://www.gerberhart.org/events/gallery-tour
+END:VEVENT
+BEGIN:VEVENT
+UID:gerber-hart-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261029T180000Z
+DTEND:20261029T193000Z
+SUMMARY:Gerber/Hart Community Book Discussion Circle
+DESCRIPTION:Monthly community reading discussion focusing on landmark queer literature and contemporary Midwestern writers.
+LOCATION:Gerber/Hart Library and Archives
+URL:https://www.gerberhart.org/events/book-discussion
+END:VEVENT
+END:VCALENDAR

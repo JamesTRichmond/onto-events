@@ -1,0 +1,11 @@
+{
+  "name": "decode-uri-component",
+  "version": "0.5.0-onto.1",
+  "description": "Private CommonJS adaptation of decode-uri-component 0.5.0 for Onto's SDK54 parser",
+  "private": true,
+  "license": "MIT",
+  "main": "index.js",
+  "sideEffects": false,
+  "files": ["index.js", "license", "README.md"],
+  "repository": "SamVerschueren/decode-uri-component"
+}

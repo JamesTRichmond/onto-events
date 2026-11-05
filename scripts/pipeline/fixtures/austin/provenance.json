@@ -1,0 +1,46 @@
+{
+  "checkedOn": "2026-10-18",
+  "method": "Official-publisher search-index excerpts returned by web_search; NOT direct HTTP response bodies.",
+  "liveCapture": false,
+  "liveActivationAllowed": false,
+  "offlineExpansionBasis": "Attributed official-publisher indexed standing schedules; recurring offline projections, not captured dated event exports.",
+  "directFetchResult": "ENOTFOUND",
+  "limitations": "Index freshness, full-page context, cancellations, holidays and publisher terms could not be checked. Exact attributed standing-schedule excerpts support bounded offline expansion. Both live feeds remain paused pending direct verification.",
+  "fixtures": [
+    {
+      "feedId": "texas-farmers-market-mueller",
+      "path": "scripts/pipeline/fixtures/austin/texas-farmers-market-mueller.txt",
+      "publisherUrl": "https://texasfarmersmarket.org/mueller/",
+      "searchQuery": "site:texasfarmersmarket.org/mueller/ \"Sundays\" \"10\" \"2\" \"Philomena\" exact quoted schedule text",
+      "excerpt": "Every Sunday from 10am-2pm, rain or shine! 2006 Philomena St, Austin TX 78723",
+      "corroboratingIndexedEvidence": {
+        "publisherUrls": [
+          "https://texasfarmersmarket.org/events/",
+          "https://texasfarmersmarket.org/events/tfm-at-mueller-nov-1"
+        ],
+        "excerpt": "TFM at Mueller Sundays 10:00am – 2:00pm Rain or Shine At the Branch Park Pavilion 2006 Philomena St. Austin, Texas 78723"
+      },
+      "sha256": "9ac57d4d56575d76f0b2246a2b075f5f3830f1920ce8e8eb5ed1131240a27e63"
+    },
+    {
+      "feedId": "sfc-farmers-market-downtown",
+      "path": "scripts/pipeline/fixtures/austin/sfc-farmers-market-downtown.txt",
+      "publisherUrl": "https://sustainablefoodcenter.org/farmers-markets-support/sfc-farmers-markets/",
+      "searchQuery": "site:sustainablefoodcenter.org farmers market days hours address",
+      "excerpts": [
+        "SFC Farmers’ Market Downtown",
+        "Hours: Saturdays, 9 AM – 1 PM",
+        "Republic Square, 422 Guadalupe St, Austin, TX 78701",
+        "Sustainable Food Center operates two farmers’ market locations for your convenience. Both markets are open Saturdays from 9 AM – 1 PM year-round, rain or shine, except during severe weather."
+      ],
+      "transformation": "Four separate indexed excerpts joined with newlines; not a contiguous publisher page capture.",
+      "corroboratingIndexedEvidence": {
+        "publisherUrl": "https://sustainablefoodcenter.org/venue/republic-square/",
+        "listedDates": ["2026-10-24", "2026-10-31", "2026-11-07", "2026-11-14"],
+        "listedLocalHours": "9am-1pm",
+        "method": "Official venue-calendar search-index results, not raw response capture."
+      },
+      "sha256": "0c4f4371855efa9890258597efd572a7c30c03a20437917b6440f6c19df188a4"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:cpl-woodson-regional-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Vivian G. Harsh African American History Seminar
+DESCRIPTION:Archival research workshop exploring South Side civil rights manuscripts, Black Chicago Renaissance literature, and historic photographs.
+LOCATION:CPL Woodson Regional Library
+URL:https://www.chipublib.org/locations/79/
+END:VEVENT
+BEGIN:VEVENT
+UID:cpl-woodson-regional-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Woodson Youth Robotics & Science Saturday
+DESCRIPTION:Hands-on robotics programming and interactive physics activities for middle school youth in Washington Heights.
+LOCATION:CPL Woodson Regional Library
+URL:https://www.chipublib.org/locations/79/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:old-town-school-folk-music-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Old Town School Family Barn Dance & Folk Singalong
+DESCRIPTION:All-ages square dance, traditional folk songs, and acoustic instrument jam in Gary and Laura Maurer Concert Hall.
+LOCATION:Old Town School of Folk Music
+URL:https://www.oldtownschool.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:old-town-school-folk-music-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Lincoln Square Roots & World Music Concert
+DESCRIPTION:Acoustic concert featuring visiting traditional fingerstyle guitarists and Appalachian ballad singers.
+LOCATION:Old Town School of Folk Music
+URL:https://www.oldtownschool.org/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,81 @@
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+
+app-example
+
+# generated native folders
+/ios
+/android
+
+# env & secrets (all forms)
+.env
+.env.*
+
+# logs & coverage
+*.log
+coverage/
+
+# Exact operator-file bytes staged for isolated PostgreSQL tests
+/supabase/tests/.generated/
+
+# local web deploy staging (drag-drop to Cloudflare)
+/web-deploy
+
+# Claude desktop app drops chat deliverables here when this folder is attached
+/Claude outputs/
+scripts/brand/out/
+scripts/outreach/credentials.json
+
+# Local non-repository folders
+/.scratch/
+/.codex/
+/GitHub - onto/
+/onto.events/
+/onto-deploy/
+/onto-foundation/
+/onto - All Local Files/
+/output/
+/audit/
+/draft-places-nyc-2026-10-24.tar.gz
+/City_Expansion_Loop_Plans/
+/Expansion Plans for Existing Cities/
+/Updated Codex Goal and Grok Advisor/
+/FEATURE_IDEAS.md
+/ONTO-PM-BRIEFING-AND-GOAL-2026-10-27.md
+/city-launch-blueprint.md
+/tallahassee-discovery-loop.md

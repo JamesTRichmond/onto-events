@@ -1,0 +1,105 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AMOS - ECPv6.17.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AMOS
+X-ORIGINAL-URL:https://ashevillescience.org
+X-WR-CALDESC:Events for AMOS
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20250309T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20251102T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20270314T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20271107T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20280312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20281105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260923T100000
+DTEND;TZID=America/New_York:20270111T170000
+DTSTAMP:20260407T193915Z
+CREATED:20260407T193915Z
+LAST-MODIFIED:20260407T193915Z
+UID:2940-1790157600-1799686800@ashevillescience.org
+SUMMARY:Measurement Rules!
+DESCRIPTION:A FEATURED EXHIBITION FROM CHILDREN’S MUSEUM OF PITTSBURGH  \nThe Asheville Museum of Science presents Measurement Rules\, developed by Children’s Museum of Pittsburgh (Pittsburgh\, PA). On view September 23rd-January 10th\, 2027.  \nMeasurement is an essential part of our lives\, but not always easy to understand. Gauge height\, distance\, volume and more in Measurement Rules\, an interactive exhibit that introduces visitors to various units of measurement. Master the basics and then begin to compare\, classify and categorize different ways to measure using traditional—and not-so-traditional—tools. Hands-on experiences allow visitors to understand measurement in relation to the world around them\, collaborate with others and become confident in the language of measurement. In this exhibit\, visitors can:  \n\nStep on the Chicken Scale to see how many chickens they weigh! \n\n\nCount Five Mississippi’s and see how close they can get to doing it in five actual seconds. \n\n\nMeasure balls of different sizes using tools such as rulers\, calipers\, and gauges. Sort the balls into the shoots to test their measurements. \n\n\nUse the cubic blocks to build animals at the Block Table. Visitors can guess how many one inch blocks they used to build their animal and then count to see if their guess was right. The number of one inch blocks used equals the animal’s volume! 
+URL:https://ashevillescience.org/event/measurement-rules/
+LOCATION:Asheville Museum of Science\, 43 Patton Ave\, Asheville\, NC\, 28801\, United States
+ATTACH;FMTTYPE=image/jpeg:https://ashevillescience.org/wp-content/uploads/MeasurementRules1200x675.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261010T173000
+DTEND;TZID=America/New_York:20261010T203000
+DTSTAMP:20261004T151644Z
+CREATED:20260813T160705Z
+LAST-MODIFIED:20261004T151644Z
+UID:3508-1791653400-1791664200@ashevillescience.org
+SUMMARY:Dinner Under Dinos- Parent's Night Out!
+DESCRIPTION:Parents- enjoy a night out downtown during Asheville’s Restaurant Week while treating your kid(s) to a special after-hours event just for them- dinner and a movie at AMOS! \nClick here for tickets!\n—————————————————————————————–\nThis fun-filled night includes cheese pizza from a local vendor\, free exhibit play\, scavenger hunts for special prizes\, and an optional kid-friendly movie. Parent drop-off begins at 5:30 with a pickup time between 8:30-9:00\, plenty of time for you to enjoy a meal and get in a little shopping! \nDinner Under Dinos is for children 5+. All children must be able to go to the bathroom independently. Children may also bring a cozy blanket\, water bottle\, snacks or an alternative meal. For more info contact redacted@example.invalid. \nTime: 5:30pm-8:30pm – Child(ren) must be picked up no later than 9:00pm; late fees apply after 9:00. \nAge: 5+ * All children must be able to use the restroom independently to participate.\n \nCost: First Child = $35.00; Additional Sibling = $30.00
+URL:https://ashevillescience.org/event/dinner-under-dinos-parents-night-out/
+LOCATION:Asheville Museum of Science\, 43 Patton Ave\, Asheville\, NC\, 28801\, United States
+CATEGORIES:After Hours Events
+ATTACH;FMTTYPE=image/jpeg:https://ashevillescience.org/wp-content/uploads/Dinner-Under-Dinos-Website-2-1.jpg
+ORGANIZER;CN="Asheville Museum of Science":MAILTO:abryant
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261029T180000
+DTEND;TZID=America/New_York:20261029T210000
+DTSTAMP:20261002T120501Z
+CREATED:20260609T192409Z
+LAST-MODIFIED:20261002T120501Z
+UID:3072-1793296800-1793307600@ashevillescience.org
+SUMMARY:AMOS After Hours: Conspiracies\, Urban Legends\, Local Lore
+DESCRIPTION:AMOS 21+ night is back with our Halloween After Hours!\nBuy Tickets Now\n\nThis Halloween season are you ready to step into the world of conspiracy theories\, local lore\, and urban legends? \nJoin our community of science experts\, storytellers\, artists\, and folklorists as we bunk or debunk some of history’s greatest mysteries. What do YOU want to believe? \nThis year we’re adding a little treat to your tricks- spooky onigiri from Nibbly Onigiri and specialty themed cocktails. \nMeet our Lucky 13 Lineup: \nKatie Ybarra\, Montford Park Players- Tinfoil Hat Contest (The Rules: you can bring one from home or make one at AMOS. Must use enough tinfoil to protect head from mind control. Judging is at 8pm and 1st place prize is two tickets to our Under the Stars party). \nNOAA- Cloud Seeding and Weather Modification \nFeminist Bird Club- Are Birds Real? \nOut of the Woods Therapy- Your Brain on Conspiracies \nBeth Frith- Chocolate Ensh*ttification Lab (experiments to tell if our candy is getting worse) \nShara Crosby (@birth.mark tattoo)- Taylor Swift Easter Egg Temporary Tattoos (are you a swifty\, a gaylor\, an artler\, or a hater? Choose your conspiracy) \nKate Whittier- The Moon Landing and Space Secrets \nRemix It! AVL- Is Recycling a Conspiracy? \nElla Parker\, AMOS- Broom Making Workshop (brooms! Cultural symbol\, tool\, gravitational anomaly? Make your own to take home!) \nJJ Frid\, WCU Forensic Osteology- Tales from the Crypt (the true story of restoring Riverside Cemetery’s gravesites after Helene) \nAMOS- The Brown Mountain Lights \nUNCA + Minerals Research Lab- Quartz and the Asheville Vortex \nThe Science of Appalachian Granny Witches \n————————————————————————— \n\n\nCostumes are encouraged but cannot include masks that cover the entire face\, weapons\, or weapon-like objects. \nPre-registration is strongly recommended. Tickets are $25 online*.  \nMust be 21+\, your admission includes one free drink.  \n*AMOS has a limited amount of income-based discounted tickets for $15. If you would like to reserve a sliding scale ticket please email redacted@example.invalid.
+URL:https://ashevillescience.org/event/amos-after-hours/
+LOCATION:Asheville Museum of Science\, 43 Patton Ave\, Asheville\, NC\, 28801\, United States
+CATEGORIES:After Hours Events
+ATTACH;FMTTYPE=image/jpeg:https://ashevillescience.org/wp-content/uploads/websiteHWafterhours.jpg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Orlando Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:ocls-winter-garden-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T153000Z
+SUMMARY:OCLS Winter Garden Branch (S.C. Battaglia) Community Showcase
+DESCRIPTION:Directly accessible from the West Orange Trail commercial corridor.
+LOCATION:OCLS Winter Garden Branch (S.C. Battaglia)
+URL:https://www.ocls.info/locations-hours/winter-garden-branch
+END:VEVENT
+BEGIN:VEVENT
+UID:ocls-winter-garden-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T220000Z
+DTEND:20261027T233000Z
+SUMMARY:OCLS Winter Garden Branch (S.C. Battaglia) Evening Program
+DESCRIPTION:VERIFIED: Downtown Winter Garden branch hosting weekly Lego clubs historical societies and family storytimes.
+LOCATION:OCLS Winter Garden Branch (S.C. Battaglia)
+URL:https://www.ocls.info/locations-hours/winter-garden-branch
+END:VEVENT
+END:VCALENDAR

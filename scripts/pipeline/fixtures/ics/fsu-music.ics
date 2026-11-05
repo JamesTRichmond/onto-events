@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FSU College of Music//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FSU College of Music
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T020000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T020000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:fsu-music-001@calendar.fsu.edu
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260918T193000
+DTEND;TZID=America/New_York:20260918T210000
+SUMMARY:Guest Artist Recital – Richard Master and Hsiang Tu\, duo piano
+DESCRIPTION:Internationally acclaimed duo pianists Richard Master and Hsiang Tu perform works by Brahms\, Debussy\, and Ravel.
+LOCATION:Dohnányi Recital Hall (DRH)
+URL:https://calendar.fsu.edu/event/guest-artist-recital-master-tu
+CATEGORIES:music
+END:VEVENT
+BEGIN:VEVENT
+UID:fsu-music-002@calendar.fsu.edu
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260925T193000
+DTEND;TZID=America/New_York:20260925T213000
+SUMMARY:FSU Symphony Orchestra Season Opener
+DESCRIPTION:The University Symphony Orchestra opens its 2026-2027 season with masterworks of the orchestral repertoire at Ruby Diamond.
+LOCATION:Ruby Diamond Concert Hall (RDCH)
+URL:https://calendar.fsu.edu/event/orchestra-season-opener
+CATEGORIES:music
+END:VEVENT
+BEGIN:VEVENT
+UID:fsu-music-003@calendar.fsu.edu
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20261002T193000
+DTEND;TZID=America/New_York:20261002T210000
+SUMMARY:FSU Chamber Winds & Percussion Ensemble
+DESCRIPTION:An evening of virtuosic chamber wind and contemporary percussion compositions in Opperman Music Hall.
+LOCATION:Opperman Music Hall (OMH)
+URL:https://calendar.fsu.edu/event/chamber-winds-percussion
+CATEGORIES:music
+END:VEVENT
+BEGIN:VEVENT
+UID:fsu-music-004@calendar.fsu.edu
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20261009T193000
+DTEND;TZID=America/New_York:20261009T210000
+SUMMARY:Faculty Showcase: Vocal Arts & Chamber Music
+DESCRIPTION:Distinguished FSU College of Music faculty present an intimate evening of vocal art songs and chamber ensemble repertoire.
+LOCATION:Longmire Recital Hall (LON)
+URL:https://calendar.fsu.edu/event/faculty-vocal-showcase
+CATEGORIES:music
+END:VEVENT
+END:VCALENDAR

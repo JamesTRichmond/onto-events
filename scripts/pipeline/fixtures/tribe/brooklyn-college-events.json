@@ -1,0 +1,64 @@
+{
+  "pages": [
+    {
+      "total": 4,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 102067,
+          "global_id": "www.brooklyn.edu?id=102067",
+          "title": "Undergraduate Open House",
+          "description": "Picture yourself at Brooklyn College. At our Fall Open House, you’ll explore 70+ majors, 100+ minors, and 4+1 programs across business, education, science, the arts, and the humanities—and see how they connect to real careers. Walk the campus. Sit in on conversations with current students and faculty. Learn how affordable tuition, internships, and career support help students turn passions into professions. Whether you’re just starting to explore or ready to choose a major, this is your chance to find where you belong—and what’s next. Your future starts here .",
+          "url": "https://www.brooklyn.edu/event/undergraduate-open-house/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-18 14:00:00",
+          "utc_end_date": "2026-10-18 17:00:00",
+          "venue": {
+            "venue": "Brooklyn College Campus"
+          }
+        },
+        {
+          "id": 130495,
+          "global_id": "www.brooklyn.edu?id=130495",
+          "title": "Brooklyn College’s Clean Energy Future",
+          "description": "Join Brooklyn College for a panel discussion featuring experts in sustainability, energy planning, and community decarbonization. Learn about emerging efforts to develop neighborhood-scale thermal energy and electric systems, opportunities for collaboration among public agencies and institutions, and how Brooklyn College’s Energy Master Plan is evaluating thermal energy networks (TENs) as part of its long-term clean energy future. Please register here .",
+          "url": "https://www.brooklyn.edu/event/brooklyn-colleges-clean-energy-future-3/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-20 16:30:00",
+          "utc_end_date": "2026-10-20 18:00:00",
+          "venue": {
+            "venue": "Library, Room 150, Woody Tanger Auditorium"
+          }
+        },
+        {
+          "id": 102099,
+          "global_id": "www.brooklyn.edu?id=102099",
+          "title": "Art, M.F.A. Open House",
+          "description": "Meet with faculty and admissions representatives to discuss the Art, M.F.A. program, admission requirements, tour the facilities, and learn about the application process. This is a hybrid event. For those who would like to tour our Meier Bernstein Art Library, the in-person tour will start at 6 p.m. For those who cannot attend in person, our virtual info session will start at 7 p.m. via Zoom.",
+          "url": "https://www.brooklyn.edu/event/graduate-open-house-2026-school-of-visual-media-and-performing-arts-art-m-f-a/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-20 22:00:00",
+          "utc_end_date": "2026-10-21 00:00:00",
+          "venue": []
+        },
+        {
+          "id": 130118,
+          "global_id": "www.brooklyn.edu?id=130118",
+          "title": "Faculty Recital: Abendlider/Liebeslieder",
+          "description": "Brahms’ Liebeslieder Waltzes , op. 52 and op. 65 with Christine Cornell, soprano; Margaret Dobbins, mezzo-soprano; Patrick Silk, tenor; George Baolin, bass; Jay Simon Abrera and William Rayment, piano. Malcolm Merriweather and Ursula Oppens, Directors.",
+          "url": "https://www.brooklyn.edu/event/faculty-recital-abendlider-liebeslieder/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-20 23:00:00",
+          "utc_end_date": "2026-10-21 00:30:00",
+          "venue": {
+            "venue": "Leonard & Claire Tow Center for the Performing Arts, Tow Atrium"
+          }
+        }
+      ]
+    }
+  ]
+}

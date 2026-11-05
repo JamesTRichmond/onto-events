@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Pensacola Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:pensacola-museum-of-history-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:City of Five Flags Docent History Tour
+DESCRIPTION:Guided walkthrough of 460+ years of Spanish, French, British, Confederate, and American history in Pensacola.
+LOCATION:Pensacola Museum of History
+URL:https://historicpensacola.org/explore-unsurpassed-history/pensacola-museum-of-history/
+END:VEVENT
+BEGIN:VEVENT
+UID:pensacola-museum-of-history-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Trader Jon & Maritime Pensacola Archival Talk
+DESCRIPTION:Public history lecture on 20th-century naval aviation culture and waterfront commerce.
+LOCATION:Pensacola Museum of History
+URL:https://historicpensacola.org/explore-unsurpassed-history/pensacola-museum-of-history/
+END:VEVENT
+END:VCALENDAR

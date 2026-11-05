@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Synthetic contract fixture; not a live source. -->
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:event="http://purl.org/rss/1.0/modules/event/">
+  <title>Fixture calendar</title><id>https://fixture.example/</id><updated>2026-10-30T00:00:00Z</updated>
+  <entry><id>urn:fixture:atom-concert</id><title>Strings &amp; brass &#x266B;</title><updated>2026-10-30T00:00:00Z</updated><event:startdate>2026-11-01T19:00:00-07:00</event:startdate><event:location>Fixture Hall</event:location><link rel="self" href="https://fixture.example/api/entry"/><link rel="alternate" href="https://fixture.example/atom-concert"/><summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">One <b>show</b> only.</div></summary></entry>
+  <entry><id>urn:fixture:article</id><title>Music news</title><published>2026-11-01T19:00:00-07:00</published><updated>2026-11-01T19:00:00-07:00</updated></entry>
+</feed>

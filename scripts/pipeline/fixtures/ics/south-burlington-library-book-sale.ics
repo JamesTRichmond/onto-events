@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Bargain Book Sale
+X-WR-TIMEZONE:Eastern Time (US & Canada)
+BEGIN:VEVENT
+DTSTAMP:20261010T003003Z
+UID:tag:localist.com\,2008:EventInstance_54055320208351
+DTSTART:20261010T140000Z
+DTEND:20261010T180000Z
+DESCRIPTION:Friends of the SBPL present their annual bargain book sale in t
+ he library on Oct.10th and 11th.  Most books are $1.00 or $2.00.  We have 
+ sorted books in great condition that include popular fiction\, non-fiction
+  (history and biography)\,books for children and young adults. This year w
+ e have a unique collection of 100 leather-bound classics\, and various fam
+ ous musicians' memoirs and anthologies.  All proceeds benefit the library.
+GEO:44.465811;-73.177174
+LOCATION:South Burlington Public Library\, Community 
+SUMMARY:Bargain Book Sale
+URL;VALUE=URI:https://events.uvm.edu/event/friends-of-the-south-burlington-
+ library-bargain-book-sale-8539
+CATEGORIES:Fundraisers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T003003Z
+UID:tag:localist.com\,2008:EventInstance_54047275969997
+DTSTART:20261011T140000Z
+DTEND:20261011T180000Z
+DESCRIPTION:Friends of the SBPL present their annual bargain book sale in t
+ he library on Oct.10th and 11th.  Most books are $1.00 or $2.00.  We have 
+ sorted books in great condition that include popular fiction\, non-fiction
+  (history and biography)\,books for children and young adults. This year w
+ e have a unique collection of 100 leather-bound classics\, and various fam
+ ous musicians' memoirs and anthologies.  All proceeds benefit the library.
+GEO:44.465811;-73.177174
+LOCATION:South Burlington Public Library\, Community 
+SUMMARY:Bargain Book Sale
+URL;VALUE=URI:https://events.uvm.edu/event/friends-of-the-south-burlington-
+ library-bargain-book-sale-8539
+CATEGORIES:Fundraisers
+END:VEVENT
+END:VCALENDAR

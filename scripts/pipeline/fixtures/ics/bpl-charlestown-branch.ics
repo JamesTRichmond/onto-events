@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Boston Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:bpl-charlestown-branch-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Charlestown Little Learners Storytime
+DESCRIPTION:Early language development and interactive picture books for infants and toddlers in Charlestown.
+LOCATION:BPL Charlestown Branch
+URL:https://www.bpl.org/locations/charlestown/
+END:VEVENT
+BEGIN:VEVENT
+UID:bpl-charlestown-branch-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Charlestown Maritime History Talk
+DESCRIPTION:Illustrated lecture detailing Boston Naval Shipyard craftsmanship and naval history during the American Revolution.
+LOCATION:BPL Charlestown Branch
+URL:https://www.bpl.org/locations/charlestown/
+END:VEVENT
+END:VCALENDAR

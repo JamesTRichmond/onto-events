@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto.events//Tokyo Community Feeds//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Minato City Mita Library (港区立三田図書館)
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:tokyo-minato-mita-library-evt0@onto.events
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=Asia/Tokyo:20260920T103000
+DTEND;TZID=Asia/Tokyo:20260920T113000
+SUMMARY:Bilingual Storytime & Picture Book Circle
+DESCRIPTION:Interactive Japanese and English storytelling, songs, and picture book reading for toddlers and caregivers.
+LOCATION:Minato City Mita Library
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-minato-mita-library-evt1@onto.events
+DTSTAMP:20261031T120000Z
+DTSTART;TZID=Asia/Tokyo:20261107T103000
+DTEND;TZID=Asia/Tokyo:20261107T113000
+SUMMARY:Bilingual Storytime & Picture Book Circle
+DESCRIPTION:Interactive Japanese and English storytelling, songs, and picture book reading for toddlers and caregivers.
+LOCATION:Minato City Mita Library
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-minato-mita-library-evt2@onto.events
+DTSTAMP:20261031T120000Z
+DTSTART;TZID=Asia/Tokyo:20261114T140000
+DTEND;TZID=Asia/Tokyo:20261114T153000
+SUMMARY:Shiba Waterfront Cultural History Talk
+DESCRIPTION:Neighborhood lecture examining the Edo-period maritime heritage and transit development of the Tokyo Bay shoreline.
+LOCATION:Minato City Mita Library
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

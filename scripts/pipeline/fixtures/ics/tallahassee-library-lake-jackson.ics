@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lake Jackson Branch Library//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lake Jackson Branch Library
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T020000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T020000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:lcpl-lj-001@leoncountyfl.gov
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260915T150000
+DTEND;TZID=America/New_York:20260915T170000
+SUMMARY:Craft and Create: Open Makerspace Lab
+DESCRIPTION:Explore endless creative possibilities in the Open Lab. Bring your own craft project or use library tools and equipment.
+LOCATION:Lake Jackson Branch Library
+URL:https://leoncountyfl.libcal.com/event/16949306
+CATEGORIES:arts,community
+END:VEVENT
+BEGIN:VEVENT
+UID:lcpl-lj-002@leoncountyfl.gov
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260916T103000
+DTEND;TZID=America/New_York:20260916T113000
+SUMMARY:Preschool Story Time (Ages 3-6) @ Lake Jackson Branch
+DESCRIPTION:Interactive story hour with songs\, fingerplays and early phonics practice for toddlers and preschoolers.
+LOCATION:Lake Jackson Branch Library
+URL:https://leoncountyfl.libcal.com/event/11130001
+CATEGORIES:learning,family
+END:VEVENT
+BEGIN:VEVENT
+UID:lcpl-lj-003@leoncountyfl.gov
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260923T160000
+DTEND;TZID=America/New_York:20260923T173000
+SUMMARY:Lake Jackson Nature & Science Explorers
+DESCRIPTION:Explore local wetland ecology\, wildlife\, and native plants with hands-on specimen investigation.
+LOCATION:Lake Jackson Branch Library
+URL:https://leoncountyfl.libcal.com/event/16949323
+CATEGORIES:learning,outdoors
+END:VEVENT
+END:VCALENDAR

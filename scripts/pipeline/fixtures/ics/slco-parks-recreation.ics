@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+PRODID:-//Trumba Corporation//Trumba Calendar Services 0.11.26102//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Salt Lake County Events Calendar|Parks & Recreation
+X-WR-TIMEZONE:America/Denver
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Denver
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Farm and Sky: Solar Party
+LOCATION:Wheeler Historic Farm
+DTSTART;TZID=America/Denver:20260905T110000
+DTEND;TZID=America/Denver:20260905T130000
+URL:clarkplanetarium.eventbrite.com
+DTSTAMP:20260106T115242Z
+DESCRIPTION:Event Location/Address: 6351 South 900 East\nMurray\, Utah 841
+ 21<br>Neighborhood: Murray<br>Event Type: Activities<br>Sensory Friendly 
+ Program: No<br>ASL: No<br>Spanish Interpretation: No<br>Other Languages A
+ valiable: No<br>Whee [trimmed]
+CATEGORIES:Parks &amp; Recreation
+UID:http://uid.trumba.com/event/195039561
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wheeler Farm Sunday Market
+LOCATION:Wheeler Farm
+DTSTART;TZID=America/Denver:20260906T090000
+DTEND;TZID=America/Denver:20260906T130000
+URL:https://www.saltlakecounty.gov/wheeler-farm/
+DTSTAMP:20260415T152908Z
+DESCRIPTION:Event Location/Address: 6351 South 900 East\nMurray\, Utah 841
+ 21<br>Neighborhood: County Wide\,Murray<br>Department Email: [email redac
+ ted]<br>Contact phone: [phone redacted]<br>Event Type: Activities<br>Sens
+ ory Friendly Program [trimmed]
+CATEGORIES:Parks &amp; Recreation
+UID:http://uid.trumba.com/event/201158747
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Storytime at the Farm
+LOCATION:Wheeler Farm
+DTSTART;TZID=America/Denver:20260908T090000
+DTEND;TZID=America/Denver:20260908T093000
+DTSTAMP:20260105T152956Z
+DESCRIPTION:Event Location/Address: 6351 South 900 East\nMurray\, Utah 841
+ 21<br>Neighborhood: Murray<br>Event Type: Activities<br>Sensory Friendly 
+ Program: No<br>ASL: No<br>Spanish Interpretation: No<br>Other Languages A
+ valiable: No<br>Whee [trimmed]
+CATEGORIES:Parks &amp; Recreation
+UID:http://uid.trumba.com/event/195012948
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farm And Sky: Star Party
+LOCATION:Wheeler Historic Farm
+DTSTART;TZID=America/Denver:20260911T210000
+DTEND;TZID=America/Denver:20260911T230000
+DTSTAMP:20260106T120431Z
+DESCRIPTION:Event Location/Address: 6351 South 900 East\nMurray\, Utah 841
+ 21<br>Neighborhood: Murray<br>Event Type: Activities<br>Register Link: cl
+ arkplanetarium.eventbrite.com<br>Sensory Friendly Program: No<br>ASL: No<
+ br>Spanish Interpret [trimmed]
+CATEGORIES:Parks &amp; Recreation
+UID:http://uid.trumba.com/event/195039728
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wheeler Farm Sunday Market
+LOCATION:Wheeler Farm
+DTSTART;TZID=America/Denver:20260913T090000
+DTEND;TZID=America/Denver:20260913T130000
+URL:https://www.saltlakecounty.gov/wheeler-farm/
+DTSTAMP:20260415T152908Z
+DESCRIPTION:Event Location/Address: 6351 South 900 East\nMurray\, Utah 841
+ 21<br>Neighborhood: County Wide\,Murray<br>Department Email: [email redac
+ ted]<br>Contact phone: [phone redacted]<br>Event Type: Activities<br>Sens
+ ory Friendly Program [trimmed]
+CATEGORIES:Parks &amp; Recreation
+UID:http://uid.trumba.com/event/201158748
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FAMU Foster-Tanner Fine Arts Gallery//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FAMU Foster-Tanner Fine Arts Gallery
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T020000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T020000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:famu-ft-001@famu.edu
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260918T173000
+DTEND;TZID=America/New_York:20260918T193000
+SUMMARY:Fall Faculty & Alumni Fine Arts Biennial Opening Reception
+DESCRIPTION:Opening reception for the biennial exhibition showcasing contemporary painting\, sculpture\, ceramics\, and photography by Florida A&M visual arts faculty and alumni. Free public admission.
+LOCATION:Foster-Tanner Fine Arts Gallery
+URL:https://events.famu.edu/event/foster-tanner-biennial-opening
+CATEGORIES:arts
+END:VEVENT
+BEGIN:VEVENT
+UID:famu-ft-002@famu.edu
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20261002T140000
+DTEND;TZID=America/New_York:20261002T160000
+SUMMARY:Visiting Artist Gallery Talk & Printmaking Workshop
+DESCRIPTION:Visiting master printmaker presents a gallery lecture and hands-on linocut printmaking demonstration for students and the community.
+LOCATION:Foster-Tanner Fine Arts Gallery
+URL:https://events.famu.edu/event/visiting-artist-talk-printmaking
+CATEGORIES:arts,learning
+END:VEVENT
+END:VCALENDAR

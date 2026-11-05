@@ -1,0 +1,42 @@
+{
+  "pages": [
+    {
+      "total": 2,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 7152,
+          "global_id": "www.queensfarm.org?id=7152",
+          "title": "Pumpkin Patch",
+          "description": "<p><strong>October is pumpkin month at Queens Farm!</strong><br />\nEnjoy the crisp fall air as you wander through the patch to scoop up the perfect pumpkin. Stroll through the 47-acre grounds and soak in some New York history – Queens Farm is one of the longest continuously farmed sites in New York State, dating back to 1697.</p>\n<p>Pumpkins priced by size.<br />\nRemember to BYOB (Bring Your Own Bag).</p>\n<p>Note: You are welcome to feed to alpaca, goats, and sheep. (Available at the farm store). Please don’t give pumpkins, apples, donuts, or other “people food” to any livestock on the farm! Our farmers regulate these animals’ diets to keep them healthy.</p>\n<p>2026 Schedule<br />\nDaily, October<br />\nWeekdays, 1pm – 5pm<br />\nWeekends, 10am – 5pm</p>\n<p>Free Admission*</p>\n<p>*The Pumpkin Patch will be open October 3 &#038; 4 for Agriculture Fair ticket holders only<br />\n*The Pumpkin Patch will be open October 31 to Halloween on the Farm ticket holders only</p>\n<p><strong>The farm, as well as our pumpkin patch, closes at 5pm sharp. If you arrive at 5pm, we will honor your visit and allow you 15 minutes to choose your pumpkin.<br />\nYou will be asked to leave no later than 5:15.</strong></p>",
+          "url": "https://www.queensfarm.org/event/pumpkin-patch-33/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-01 04:00:00",
+          "utc_end_date": "2026-11-01 03:59:59",
+          "venue": {
+            "venue": "Queens County Farm Museum",
+            "address": "73-50 Little Neck Parkway",
+            "city": "Queens"
+          }
+        },
+        {
+          "id": 8589,
+          "global_id": "www.queensfarm.org?id=8589",
+          "title": "Amazing Maize Maze",
+          "description": "<p>New York City’s only corn maze is waiting for you at The Queens County Farm Museum! The adventure begins with a Stalk Talk to prepare you for the challenge of finding clues, solving puzzles, and mazing your way to Victory Bridge – where the stunning vista of this 3-acre living labyrinth is revealed. How long will it take you to find your way through 3 acres of towering corn stalks? The Amazing Maize Maze is must-see NYC. Sponsored by Con Edison.</p>\n<p>$17 adults; $10 children (ages 3-11)<br />\nFree for children 2 and under (no ticket required)</p>\n<p>Saturdays &#038; Sundays, August 29 &#8211; November 1<br />\n(+ September 7)<br />\n11am &#8211; 4pm (last entry 4pm)</p>\n<p>Queens County Farm Museum, 73-50 Little Neck Parkway, Floral Park, NY 11004<br />\nFree on-site parking!</p>",
+          "url": "https://www.queensfarm.org/event/amazing-maize-maze-35/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-17 15:00:00",
+          "utc_end_date": "2026-10-17 20:00:00",
+          "venue": {
+            "venue": "Queens County Farm Museum",
+            "address": "73-50 Little Neck Parkway",
+            "city": "Queens"
+          }
+        }
+      ]
+    }
+  ]
+}

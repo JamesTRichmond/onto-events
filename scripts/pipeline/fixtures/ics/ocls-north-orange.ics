@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Orlando Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:ocls-north-orange-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T153000Z
+SUMMARY:OCLS North Orange Branch Community Showcase
+DESCRIPTION:Major civic presence in Apopka.
+LOCATION:OCLS North Orange Branch
+URL:https://www.ocls.info/locations-hours/north-orange-branch
+END:VEVENT
+BEGIN:VEVENT
+UID:ocls-north-orange-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T220000Z
+DTEND:20261027T233000Z
+SUMMARY:OCLS North Orange Branch Evening Program
+DESCRIPTION:VERIFIED: Serving Apopka and northern Orange County with outdoor garden classes and family storytimes.
+LOCATION:OCLS North Orange Branch
+URL:https://www.ocls.info/locations-hours/north-orange-branch
+END:VEVENT
+END:VCALENDAR

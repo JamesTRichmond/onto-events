@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Tucson Fixture//EN
+X-WR-TIMEZONE:America/Phoenix
+BEGIN:VEVENT
+UID:pcpl-flowing-wells-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T170000Z
+DTEND:20261024T183000Z
+SUMMARY:Flowing Wells Preschool Read-Aloud & Sing-Along
+DESCRIPTION:Early literacy rhythm instruments, songs, and picture books for children ages 2 to 5.
+LOCATION:Flowing Wells Library
+URL:https://www.library.pima.gov/locations/flowing-wells/
+END:VEVENT
+BEGIN:VEVENT
+UID:pcpl-flowing-wells-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261028T010000Z
+DTEND:20261028T023000Z
+SUMMARY:Community Tech Help & Computer Basics
+DESCRIPTION:Drop-in technology assistance for email, smartphones, and navigating online public services.
+LOCATION:Flowing Wells Library
+URL:https://www.library.pima.gov/locations/flowing-wells/
+END:VEVENT
+END:VCALENDAR

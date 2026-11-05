@@ -1,0 +1,76 @@
+{
+ "pages": [
+  {
+   "total": 3,
+   "total_pages": 1,
+   "events": [
+    {
+     "id": 9147,
+     "global_id": "www.ashevilleyards.com?id=9147",
+     "title": "Mini Golf Pop Up",
+     "description": "<p>Conveniently located in downtown Asheville, the pop up features a playful outdoor mini golf course alongside food from Asheville Brewing. Whether you’re planning a family outing, date night, or an afternoon with friends, Asheville Mini Golf Pop Up is the perfect reason to come downtown and have some fun!</p>",
+     "url": "https://www.ashevilleyards.com/event/mini-golf-pop-up/",
+     "all_day": true,
+     "hide_from_listings": false,
+     "start_date": "2026-10-01 00:00:00",
+     "end_date": "2026-10-31 23:59:59",
+     "utc_start_date": "2026-10-01 04:00:00",
+     "utc_end_date": "2026-11-01 03:59:59",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 97,
+      "venue": "Asheville Yards",
+      "address": "75 Coxe Ave",
+      "city": "Asheville",
+      "stateprovince": "NC",
+      "url": "https://www.ashevilleyards.com/venue/asheville-yards/"
+     }
+    },
+    {
+     "id": 9139,
+     "global_id": "www.ashevilleyards.com?id=9139",
+     "title": "Jamie Ager Rally featuring Members of the Steep Canyon Rangers!",
+     "description": "<p>Join U.S. Congressional candidate Jamie Ager for a free rally and concert at Asheville Yards on Tuesday, October 13. The event features members of the Steep Canyon Rangers, Jon Stickley, Amanda Anne Platt, Casey Driessen, Woody Platt &amp; Shannon Whitworth, along with members of Fireside Collective, The Honeycutters and Town Mountain. Doors open at 5 PM and the event begins at 6 PM. Dinner and appetizers available from Asheville Brewing This is a standing room event with a limited amount of [trimmed]</p>",
+     "url": "https://www.ashevilleyards.com/event/jamie-ager/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-10-13 18:00:00",
+     "end_date": "2026-10-13 18:00:00",
+     "utc_start_date": "2026-10-13 22:00:00",
+     "utc_end_date": "2026-10-13 22:00:00",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 97,
+      "venue": "Asheville Yards",
+      "address": "75 Coxe Ave",
+      "city": "Asheville",
+      "stateprovince": "NC",
+      "url": "https://www.ashevilleyards.com/venue/asheville-yards/"
+     }
+    },
+    {
+     "id": 9155,
+     "global_id": "www.ashevilleyards.com?id=9155",
+     "title": "Holiday Ice Rink",
+     "description": "<p>Whether you’re planning a family outing, a festive date night or a weekend adventure, we have something for everyone to enjoy including holiday-inspired craft cocktails and hot chocolate, festive photo ops, a weekly winter market and weekly theme nights. Don’t miss your chance to create unforgettable memories this holiday season. Admission to Asheville Yards is FREE to all non-skaters, all season long.</p>",
+     "url": "https://www.ashevilleyards.com/event/holiday-ice-rink/",
+     "all_day": true,
+     "hide_from_listings": false,
+     "start_date": "2026-11-20 00:00:00",
+     "end_date": "2027-01-18 23:59:59",
+     "utc_start_date": "2026-11-20 05:00:00",
+     "utc_end_date": "2027-01-19 04:59:59",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 97,
+      "venue": "Asheville Yards",
+      "address": "75 Coxe Ave",
+      "city": "Asheville",
+      "stateprovince": "NC",
+      "url": "https://www.ashevilleyards.com/venue/asheville-yards/"
+     }
+    }
+   ]
+  }
+ ]
+}

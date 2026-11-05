@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Philadelphia Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:temple-boyer-music-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Temple Symphony Orchestra & Wind Ensemble Concert
+DESCRIPTION:Classical masterworks, symphonic student performance, and contemporary chamber music in Lew Klein Hall.
+LOCATION:Boyer College Lew Klein Hall
+URL:https://boyer.temple.edu/events
+END:VEVENT
+BEGIN:VEVENT
+UID:temple-boyer-music-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Temple Symphony Orchestra & Wind Ensemble Concert (Session 2)
+DESCRIPTION:Classical masterworks, symphonic student performance, and contemporary chamber music in Lew Klein Hall. Follow-up community session.
+LOCATION:Boyer College Lew Klein Hall
+URL:https://boyer.temple.edu/events
+END:VEVENT
+END:VCALENDAR

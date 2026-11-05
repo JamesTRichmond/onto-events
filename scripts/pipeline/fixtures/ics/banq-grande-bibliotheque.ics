@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Montreal Events Sync//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+UID:banq-grande-bibliotheque-20261024@onto.events
+SUMMARY:Heure du conte bilingue / Bilingual Family Story Hour
+LOCATION:Grande Bibliothèque (BAnQ)
+DESCRIPTION:Lecture interactive de contes jeunesse québécois et comptines bilingues à l'Espace Jeunesse.
+DTSTART:20261024T180000Z
+DTEND:20261024T200000Z
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:banq-grande-bibliotheque-20261101@onto.events
+SUMMARY:Heure du conte bilingue / Bilingual Family Story Hour
+LOCATION:Grande Bibliothèque (BAnQ)
+DESCRIPTION:Lecture interactive de contes jeunesse québécois et comptines bilingues à l'Espace Jeunesse.
+DTSTART:20261107T150000Z
+DTEND:20261107T160000Z
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

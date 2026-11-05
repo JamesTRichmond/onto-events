@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Philadelphia Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:temple-university-events-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Temple University Civic Dialogue & Urban Forum
+DESCRIPTION:Public faculty symposium, urban policy roundtable, and community Q&A in North Philadelphia.
+LOCATION:Temple University Student Center
+URL:https://events.temple.edu/
+END:VEVENT
+BEGIN:VEVENT
+UID:temple-university-events-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Temple University Civic Dialogue & Urban Forum (Session 2)
+DESCRIPTION:Public faculty symposium, urban policy roundtable, and community Q&A in North Philadelphia. Follow-up community session.
+LOCATION:Temple University Student Center
+URL:https://events.temple.edu/
+END:VEVENT
+END:VCALENDAR

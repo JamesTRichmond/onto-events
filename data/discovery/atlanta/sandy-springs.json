@@ -1,0 +1,75 @@
+{
+  "municipality": "Sandy Springs",
+  "county": "Fulton",
+  "state": "GA",
+  "serviceRegion": "atlanta",
+  "verifiedOn": null,
+  "streamsCount": 12,
+  "sampleSources": [
+    {
+      "id": "afpls-sandy-springs-branch",
+      "publisher": "Sandy Springs Branch Library",
+      "vertical": "learning",
+      "county": "Fulton",
+      "municipality": "Sandy Springs",
+      "endpointType": null,
+      "candidateUrl": "https://fulcolibrary.bibliocommons.com/events/sandy-springs.ics",
+      "status": "unverified-candidate",
+      "verifiedOn": null,
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    },
+    {
+      "id": "chattahoochee-river-nra-palisades",
+      "publisher": "Chattahoochee River National Recreation Area",
+      "vertical": "outdoors",
+      "county": "Fulton",
+      "municipality": "Sandy Springs",
+      "endpointType": null,
+      "candidateUrl": "https://www.nps.gov/chat/planyourvisit/calendar.htm",
+      "status": "unverified-candidate",
+      "verifiedOn": null,
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    },
+    {
+      "id": "atl-stream-fulton-sandy-springs-civic-11",
+      "publisher": null,
+      "vertical": "Civic & Public Libraries",
+      "county": "Fulton",
+      "municipality": "Sandy Springs",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Sandy Springs Fulton County Georgia Civic & Public Libraries public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    },
+    {
+      "id": "atl-stream-fulton-sandy-springs-livep-12",
+      "publisher": null,
+      "vertical": "Live Performing Arts & Indie Music",
+      "county": "Fulton",
+      "municipality": "Sandy Springs",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Sandy Springs Fulton County Georgia Live Performing Arts & Indie Music public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    },
+    {
+      "id": "atl-stream-fulton-sandy-springs-visual-13",
+      "publisher": null,
+      "vertical": "Visual Arts & Museums",
+      "county": "Fulton",
+      "municipality": "Sandy Springs",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Sandy Springs Fulton County Georgia Visual Arts & Museums public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    }
+  ],
+  "status": "unverified",
+  "verifiedStreamsCount": 0
+}

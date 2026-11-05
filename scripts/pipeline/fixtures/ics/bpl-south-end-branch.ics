@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Boston Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:bpl-south-end-branch-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:South End Toddler Tales & Song Circle
+DESCRIPTION:Lively story reading, musical instruments, and bilingual rhyme for infants, toddlers, and caregivers in the South End branch reading room.
+LOCATION:BPL South End Branch
+URL:https://www.bpl.org/locations/south-end/
+END:VEVENT
+BEGIN:VEVENT
+UID:bpl-south-end-branch-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:South End Book Discussion Group
+DESCRIPTION:Monthly community fiction and memoir discussion circle hosted in the neighborhood library meeting space.
+LOCATION:BPL South End Branch
+URL:https://www.bpl.org/locations/south-end/
+END:VEVENT
+END:VCALENDAR

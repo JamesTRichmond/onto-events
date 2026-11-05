@@ -1,0 +1,46 @@
+{
+  "pages": [
+    {
+      "total": 3,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 125957,
+          "global_id": "www.posterhouse.org?id=125957",
+          "title": "JAJAJA: The Joy of Creating from Within",
+          "description": "<p><span style=\"font-weight: 400;\">In celebration of Hispanic Heritage Month, Poster House presents a panel discussion exploring how one’s cultural background, lived experience, and memory can inform their creative practice.</span></p>\n<p><span style=\"font-weight: 400;\">Hosted by artist and designer Zipeng Zhu, this conversation will bring together Abraham Lule, Daniela Castiblanco, Isabel Urbina Peña, and Carlos Bocai to reflect on what it means to make deeply personal work. Together, the panelists will consider how heritage and identity can shape visual language, as well as how humor, joy, and play manifest in the creative process.</span></p>\n<p><strong>This program is presented by Poster House’s CMYK Council, the museum’s BIPOC advisory board that works to ensure the museum is accessibl",
+          "url": "https://www.posterhouse.org/event/jajaja-the-joy-of-creating-from-within/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-16 22:00:00",
+          "utc_end_date": "2026-10-16 23:30:00",
+          "venue": []
+        },
+        {
+          "id": 119919,
+          "global_id": "www.posterhouse.org?id=119919",
+          "title": "Poster Tots: Paper Puppets",
+          "description": "<p><span style=\"font-weight: 400;\">Très mignon! Trailblazing female design duo Lefor-Openo created an iconic cartoon style in their posters, as highlighted in our exhibition </span><a href=\"https://posterhouse.org/exhibition/cuteness-conservatism-consumption-lefor-openo-and-postwar-france/\" target=\"_blank\" rel=\"noopener\"><i><span style=\"font-weight: 400;\">Cuteness, Conservatism, &amp; Consumption: Lefor-Openo and Postwar France</span></i></a><span style=\"font-weight: 400;\">. Lefor Openo’s signature characters are the template for this month’s Poster Tots workshop, which introduces little ones to the timeless joy of creating and decorating paper figures. Practice cutting and pasting and design a character that would fit right in on Lefor-Openo’s posters! </span></p>\n<p><span style=\"font-wei",
+          "url": "https://www.posterhouse.org/event/poster-tots-paper-puppets/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-17 14:30:00",
+          "utc_end_date": "2026-10-17 16:00:00",
+          "venue": []
+        },
+        {
+          "id": 125227,
+          "global_id": "www.posterhouse.org?id=125227",
+          "title": "Third Sunday Always Free",
+          "description": "<p><span style=\"font-weight: 400;\">Poster House is free on the third Sunday of every month, often featuring complimentary programming geared toward families. Be sure to sign up to secure your spot—or just enjoy the museum at your own pace!</span></p>\n<p><b>Accessibility Note:</b><span style=\"font-weight: 400;\"> Masks are available free of charge at the museum. Assistive listening devices and stools are available. ASL (American Sign Language) interpretation or a CART (Communication Access Realtime Translation) is also available upon request. Please contact </span><a href=\"mailto:access@posterhouse.org\"><span style=\"font-weight: 400;\">access@posterhouse.org</span></a><span style=\"font-weight: 400;\"> or (914) 295-2387 to request interpretation services and to address any other accessibility n",
+          "url": "https://www.posterhouse.org/event/third-sunday-always-free-14/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-18 14:00:00",
+          "utc_end_date": "2026-10-18 22:00:00",
+          "venue": []
+        }
+      ]
+    }
+  ]
+}

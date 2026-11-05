@@ -1,0 +1,24 @@
+{
+  "pages": [
+    {
+      "total": 1,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 813181,
+          "global_id": "www.bcc.cuny.edu?id=813181",
+          "title": "Senate Executive",
+          "description": "",
+          "url": "https://www.bcc.cuny.edu/event/senate-executive-3/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-19 18:15:00",
+          "utc_end_date": "2026-10-19 19:30:00",
+          "venue": {
+            "venue": "Language Hall, PCR &#8211; LH 17"
+          }
+        }
+      ]
+    }
+  ]
+}

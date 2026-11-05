@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Orlando Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:ocls-hiawassee-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T153000Z
+SUMMARY:OCLS Hiawassee Branch Community Showcase
+DESCRIPTION:West Colonial corridor community anchor.
+LOCATION:OCLS Hiawassee Branch
+URL:https://www.ocls.info/locations-hours/hiawassee-branch
+END:VEVENT
+BEGIN:VEVENT
+UID:ocls-hiawassee-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T220000Z
+DTEND:20261027T233000Z
+SUMMARY:OCLS Hiawassee Branch Evening Program
+DESCRIPTION:VERIFIED: Active west-side branch with after-school tutoring teen gaming and job-search workshops.
+LOCATION:OCLS Hiawassee Branch
+URL:https://www.ocls.info/locations-hours/hiawassee-branch
+END:VEVENT
+END:VCALENDAR

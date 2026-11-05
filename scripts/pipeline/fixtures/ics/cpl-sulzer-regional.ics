@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:cpl-sulzer-regional-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Sulzer Family LEGO & Engineering Challenge
+DESCRIPTION:Creative structural building challenges and open LEGO brick play for elementary students and caregivers in Lincoln Square.
+LOCATION:CPL Sulzer Regional Library
+URL:https://www.chipublib.org/locations/67/
+END:VEVENT
+BEGIN:VEVENT
+UID:cpl-sulzer-regional-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:North Side Community Book & Author Discussion
+DESCRIPTION:Monthly book circle exploring contemporary Chicago fiction, poetry, and neighborhood history in the community auditorium.
+LOCATION:CPL Sulzer Regional Library
+URL:https://www.chipublib.org/locations/67/
+END:VEVENT
+END:VCALENDAR

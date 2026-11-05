@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Egyptian Theatre - ECPv6.17.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Egyptian Theatre
+X-ORIGINAL-URL:https://www.parkcityshows.com
+X-WR-CALDESC:Events for Egyptian Theatre
+BEGIN:VTIMEZONE
+TZID:America/Denver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+DTSTART:20260308T090000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+DTSTART:20261101T080000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Denver:20261016T200000
+DTEND;TZID=America/Denver:20261016T223000
+DTSTAMP:20261001T150000Z
+UID:egyptian-acoustic-20261016@parkcityshows.com
+SUMMARY:Main Street Acoustic Masters Showcase
+DESCRIPTION:Live acoustic performance featuring Mountain West roots singer-songwriters on the historic Egyptian Theatre mainstage.
+URL:https://www.parkcityshows.com/event/acoustic-masters/2026-10-16/
+LOCATION:Egyptian Theatre\, 328 Main St\, Park City\, UT\, 84060\, United States
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Denver:20261018T180000
+DTEND;TZID=America/Denver:20261018T203000
+DTSTAMP:20261001T150000Z
+UID:egyptian-improv-20261018@parkcityshows.com
+SUMMARY:Park City Comedy & Improv Night
+DESCRIPTION:An evening of fast-paced improvisational comedy and hilarious sketch scenes performed by regional artists.
+URL:https://www.parkcityshows.com/event/comedy-improv-night/2026-10-18/
+LOCATION:Egyptian Theatre\, 328 Main St\, Park City\, UT\, 84060\, United States
+END:VEVENT
+END:VCALENDAR

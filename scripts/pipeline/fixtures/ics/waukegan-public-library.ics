@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Expansion Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:waukegan-main-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T170000Z
+DTEND:20261024T183000Z
+SUMMARY:Ray Bradbury Literary Festival & Creative Writing Circle
+DESCRIPTION:Annual celebratory creative writing lab and speculative fiction readings celebrating native son Ray Bradbury in downtown Waukegan.
+LOCATION:Waukegan Public Library (Main)
+URL:https://www.waukeganpl.org
+END:VEVENT
+BEGIN:VEVENT
+UID:waukegan-main-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261028T160000Z
+DTEND:20261028T170000Z
+SUMMARY:Bilingual Family Story Hour & Musical Games
+DESCRIPTION:Bilingual Spanish-English story reading, musical instruments, and crafts for children and families across Lake County.
+LOCATION:Waukegan Public Library (Main)
+URL:https://www.waukeganpl.org
+END:VEVENT
+END:VCALENDAR

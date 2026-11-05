@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Council on Culture & Arts (COCA) - Tallahassee Arts//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Council on Culture & Arts
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T020000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T020000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:coca-2026-001@tallahasseearts.org
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260925T180000
+DTEND;TZID=America/New_York:20260925T210000
+SUMMARY:First Friday Railroad Square Art Walk
+DESCRIPTION:Monthly celebration of art\, live music\, open artist studios\, and food trucks at Railroad Square Art District.
+LOCATION:Railroad Square Craft House\, 602 McDonnell Dr\, Tallahassee\, FL 32310
+URL:https://tallahasseearts.org/event/first-friday-railroad-square
+CATEGORIES:arts,community
+END:VEVENT
+BEGIN:VEVENT
+UID:coca-2026-002@tallahasseearts.org
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20261016T190000
+DTEND;TZID=America/New_York:20261016T220000
+SUMMARY:Southern Songwriters Showcase
+DESCRIPTION:An evening of acoustic originals featuring regional Florida songsmiths. Doors 6:30 PM, show 7:00 PM. Admission $10.
+LOCATION:Railroad Square Craft House\, 602 McDonnell Dr\, Tallahassee\, FL 32310
+URL:https://tallahasseearts.org/event/southern-songwriters
+CATEGORIES:music,arts
+END:VEVENT
+BEGIN:VEVENT
+UID:coca-2026-003@tallahasseearts.org
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20261023T180000
+DTEND;TZID=America/New_York:20261023T203000
+SUMMARY:Clay & Craft Workshop
+DESCRIPTION:Hands-on introductory ceramic pottery workshop at the Railroad Square studios. All skill levels welcome.
+LOCATION:Railroad Square Craft House\, 602 McDonnell Dr\, Tallahassee\, FL 32310
+URL:https://tallahasseearts.org/event/clay-craft-workshop
+CATEGORIES:arts,learning
+END:VEVENT
+END:VCALENDAR

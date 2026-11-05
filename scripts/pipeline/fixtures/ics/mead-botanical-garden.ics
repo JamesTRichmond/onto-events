@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Orlando Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:mead-botanical-garden-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T153000Z
+SUMMARY:Mead Botanical Garden Community Showcase
+DESCRIPTION:Historic botanical oasis with boardwalks along Howell Creek.
+LOCATION:Mead Botanical Garden
+URL:https://meadgarden.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:mead-botanical-garden-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T220000Z
+DTEND:20261027T233000Z
+SUMMARY:Mead Botanical Garden Evening Program
+DESCRIPTION:VERIFIED: 48-acre public park in Winter Park hosting bird watching walks chamber music in the grove and yoga.
+LOCATION:Mead Botanical Garden
+URL:https://meadgarden.org/
+END:VEVENT
+END:VCALENDAR

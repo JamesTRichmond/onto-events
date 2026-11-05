@@ -1,0 +1,22 @@
+{
+ "features": [
+  {
+   "properties": {
+    "stationIdentifier": "KSLC",
+    "name": "Salt Lake City, Salt Lake City International Airport"
+   }
+  },
+  {
+   "properties": {
+    "stationIdentifier": "KSVR",
+    "name": "South Valley Regional Airport"
+   }
+  },
+  {
+   "properties": {
+    "stationIdentifier": "UT224",
+    "name": "SR-224 at Meadows Drive"
+   }
+  }
+ ]
+}

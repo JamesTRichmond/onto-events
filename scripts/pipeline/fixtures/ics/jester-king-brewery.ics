@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Jester King Brewery Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:jkb-farm-tour-20261025@onto.events
+DTSTAMP:20260905T120000Z
+DTSTART:20261025T180000Z
+DTEND:20261025T193000Z
+SUMMARY:Hill Country Farm Tour & Wild Fermentation Walk
+DESCRIPTION:Walking tour exploring the farm grounds, native yeast foraging, oak barrel cellar aging, and land stewardship.
+LOCATION:Jester King Brewery
+URL:https://jesterkingbrewery.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:jkb-makers-market-20261102@onto.events
+DTSTAMP:20260905T120000Z
+DTSTART:20261102T170000Z
+DTEND:20261102T210000Z
+SUMMARY:Open Air Makers Market & Live Bluegrass
+DESCRIPTION:Local artisans, woodworkers, ceramicists, and Hill Country bluegrass musicians in the outdoor beer garden.
+LOCATION:Jester King Brewery
+URL:https://jesterkingbrewery.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:jkb-sunset-gathering-20261114@onto.events
+DTSTAMP:20260905T120000Z
+DTSTART:20261114T210000Z
+DTEND:20261114T233000Z
+SUMMARY:Community Campfire Social & Acoustic Music
+DESCRIPTION:Evening community gathering around the outdoor fire pits with farm pizza, refreshments, and acoustic melodies.
+LOCATION:Jester King Brewery
+URL:https://jesterkingbrewery.com/
+END:VEVENT
+END:VCALENDAR

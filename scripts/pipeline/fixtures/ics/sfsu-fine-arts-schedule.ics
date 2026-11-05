@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//San Francisco Fixture//EN
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:sfsu-fine-arts-schedule-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T180000Z
+DTEND:20261024T193000Z
+SUMMARY:SFSU Contemporary Student Art Showcase
+DESCRIPTION:Exhibition of student painting, printmaking, and sculpture followed by an open artist talk in the Fine Arts Gallery.
+LOCATION:San Francisco State University Fine Arts Gallery
+URL:https://finearts.sfsu.edu/
+END:VEVENT
+BEGIN:VEVENT
+UID:sfsu-fine-arts-schedule-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:McKenna Theatre Ensemble Matinee
+DESCRIPTION:Student theatrical ensemble performance exploring contemporary adaptations in the McKenna Theatre.
+LOCATION:San Francisco State University Fine Arts Gallery
+URL:https://finearts.sfsu.edu/
+END:VEVENT
+END:VCALENDAR

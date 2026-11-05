@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Orlando Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:rollins-museum-of-art-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T153000Z
+SUMMARY:Rollins Museum of Art (RMA) Community Showcase
+DESCRIPTION:Formerly Cornell Fine Arts Museum.
+LOCATION:Rollins Museum of Art (RMA)
+URL:https://www.rollins.edu/rma/
+END:VEVENT
+BEGIN:VEVENT
+UID:rollins-museum-of-art-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T220000Z
+DTEND:20261027T233000Z
+SUMMARY:Rollins Museum of Art (RMA) Evening Program
+DESCRIPTION:VERIFIED: Teaching museum with European American and contemporary collections hosting gallery walks and weekend tours.
+LOCATION:Rollins Museum of Art (RMA)
+URL:https://www.rollins.edu/rma/
+END:VEVENT
+END:VCALENDAR

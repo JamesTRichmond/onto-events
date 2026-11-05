@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:cpl-lozano-pilsen-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Pilsen Cuentos Bilingües: Bilingual Family Reading
+DESCRIPTION:Spanish and English picture books, Mexican traditional games, and family art activities at Lozano Branch.
+LOCATION:CPL Lozano Branch Library (Pilsen)
+URL:https://www.chipublib.org/locations/45/
+END:VEVENT
+BEGIN:VEVENT
+UID:cpl-lozano-pilsen-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Pilsen Community Mural & Art Workshop
+DESCRIPTION:Youth cultural workshop learning about Chicago muralist traditions and creating collaborative chalk canvas art.
+LOCATION:CPL Lozano Branch Library (Pilsen)
+URL:https://www.chipublib.org/locations/45/
+END:VEVENT
+END:VCALENDAR

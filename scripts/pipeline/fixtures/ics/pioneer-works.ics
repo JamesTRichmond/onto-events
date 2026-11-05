@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto fixture//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pioneer Works Cultural Calendar
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:pw-second-sundays-20261108
+DTSTART:20261108T170000Z
+DTEND:20261108T230000Z
+SUMMARY:Second Sundays: Open Studios, Live Sound & Science
+LOCATION:Pioneer Works, 159 Pioneer St, Brooklyn, NY 11231
+DESCRIPTION:Monthly open house featuring artist residency open studios, site-specific installations, courtyard performances, and public telescope observations.
+URL:https://pioneerworks.org/programs/second-sundays-november-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pw-stargazing-terrace-20261113
+DTSTART:20261113T230000Z
+DTEND:20261114T020000Z
+SUMMARY:Night Sky Observation & Astrophysics Lecture
+LOCATION:Pioneer Works, 159 Pioneer St, Brooklyn, NY 11231
+DESCRIPTION:Join Pioneer Works astronomers and guest astrophysicists for garden terrace telescope viewing of Saturn and deep-sky objects alongside celestial talks.
+URL:https://pioneerworks.org/programs/stargazing-november-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pw-experimental-sound-20261120
+DTSTART:20261121T010000Z
+DTEND:20261121T040000Z
+SUMMARY:Interdisciplinary Sound: Acoustic Ecology Showcase
+LOCATION:Pioneer Works, 159 Pioneer St, Brooklyn, NY 11231
+DESCRIPTION:An evening of spatial audio synthesis, modular synthesizers, and live acoustic performance in the Main Hall.
+URL:https://pioneerworks.org/programs/sound-series-acoustic-ecology
+END:VEVENT
+END:VCALENDAR

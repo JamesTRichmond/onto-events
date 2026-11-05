@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Calendar - Department of Art
+X-WR-TIMEZONE:Eastern Time (US & Canada)
+BEGIN:VEVENT
+DTSTAMP:20261015T235237Z
+UID:tag:localist.com\,2008:EventInstance_54233098601589
+DTSTART:20261016T200000Z
+DTEND:20261016T230000Z
+DESCRIPTION:"the catalyst effect" \n\na showcase of 1st year works from the MFA studio art program\n\n \n\nOpening Reception: Friday\, October 16\, 4:00 - 7:00 pm\n\nOn view: October 16 - 23\, 2026\n\nWorking Method Contemporary Gallery\n\nCarnaghi Arts Building (CAB)\n\n2214 Belle Vue Way\n\nTallahassee\, FL 32304
+GEO:30.438775;-84.322571
+LOCATION:Carnaghi Arts Building
+SUMMARY:"the catalyst effect" Opening Reception
+URL;VALUE=URI:https://calendar.fsu.edu/event/the-catalyst-effect-opening-reception
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Receptions
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235237Z
+UID:tag:localist.com\,2008:EventInstance_54249812779257
+DTSTART:20261027T153000Z
+DTEND:20261027T163000Z
+DESCRIPTION:Learn about FSU’s Honors in the Major and IDEA Grant funding opportunities with Professor Carrie Ann Baade\, art students and alumni.\n\n \n\nTuesday\, October 27\, 11:30 am\n\nThe session will be held in FAB 249\n\nPresented by the BA Studio Art Program\n\n \n\nSession Presenters Include:\n\n*Professor Carrie Ann Baade\, Department of Art\, HITM Liaison\n\n*BA student Anna Garufo\, currently enrolled in HITM and a recent Idea Grant awardee\n\n*Alumna Raven Watkins\, graduated with HITM and recipient of the Tyler Grant\n\nPresentations will be followed by a Q&A.\n\nWe hope to see you there!\n\n \n\nArtwork by Allie Zieper\, BA Honors in Studio Art.
+GEO:30.44416;-84.289845
+LOCATION:Fine Arts Building (FAB)\, 249
+SUMMARY:HITM & IDEA Grant BA Student Info Session
+URL;VALUE=URI:https://calendar.fsu.edu/event/hitm-idea-grant-ba-student-info-session
+CATEGORIES:General
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235237Z
+UID:tag:localist.com\,2008:EventInstance_53515672114084
+DTSTART:20261029T210000Z
+DTEND:20261029T230000Z
+DESCRIPTION:Oct. 29\, 2026\, 5:00 p.m.-7:00 p.m.\nFAB Gallery\n\nThis exhibition will be a culmination project from the hybrid class "Unstill Life\," taught by Jean Shon and nia love. The exhibition features photographs of the body in relation to historically contested sites in Tallahassee.
+GEO:30.44416;-84.289845
+LOCATION:Fine Arts Building (FAB)\, FAB Gallery
+SUMMARY:"Unstill Life" Opening Reception
+URL;VALUE=URI:https://calendar.fsu.edu/event/unstill-life-opening-reception
+CATEGORIES:Arts/Entertainment
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235237Z
+UID:tag:localist.com\,2008:EventInstance_53816827550601
+DTSTART:20261105T230000Z
+DTEND:20261106T000000Z
+DESCRIPTION:Tim Hawkinson – Thursday\, November 5th\, 2026 @ 6:00 pm in FAB 249\nTim Hawkinson creates complex\, idiosyncratic sculptures from everyday materials to explore identity\, time\, and mechanics.\n\nEach year\, the Florida State University Department of Art’s Visiting Artist Program brings leading studio artists from around the world to Tallahassee. Their interactive artist talks give all art students the opportunity to engage and build connections with these talented and innovative artists. Hand selected by a faculty committee\, these artists represent a wide variety of disciplines and experiences and come ready to share their work and inspire our students to expand their practices in exciting new ways.
+GEO:30.44416;-84.289845
+LOCATION:Fine Arts Building (FAB)\, 249
+SUMMARY:Visiting Artist Talk: Tim Hawkinson
+URL;VALUE=URI:https://calendar.fsu.edu/event/copy-of-visiting-artist-talk-hannah-israel
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Artist Talk
+END:VEVENT
+END:VCALENDAR

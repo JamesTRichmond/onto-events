@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Georgetown Palace Theatre Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:gpt-broadway-revue-20261025@onto.events
+DTSTAMP:20260905T120000Z
+DTSTART:20261025T013000Z
+DTEND:20261025T040000Z
+SUMMARY:Mainstage Musical Revue: Broadway Across Texas
+DESCRIPTION:Live community theatrical revue featuring classic musical theatre selections performed by local talent on the historic Palace stage.
+LOCATION:Georgetown Palace Theatre
+URL:https://www.georgetownpalace.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:gpt-youth-acting-workshop-20261102@onto.events
+DTSTAMP:20260905T120000Z
+DTSTART:20261102T160000Z
+DTEND:20261102T183000Z
+SUMMARY:Youth Stage Acting & Improvisation Workshop
+DESCRIPTION:Introduction to stage acting, vocal projection, and creative theatre games for youth actors.
+LOCATION:Georgetown Palace Theatre
+URL:https://www.georgetownpalace.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:gpt-acoustic-showcase-20261114@onto.events
+DTSTAMP:20260905T120000Z
+DTSTART:20261114T013000Z
+DTEND:20261114T033000Z
+SUMMARY:Acoustic Songwriters Showcase on the Square
+DESCRIPTION:An evening of intimate acoustic melodies and storytelling with Hill Country singer-songwriters.
+LOCATION:Georgetown Palace Theatre
+URL:https://www.georgetownpalace.com/
+END:VEVENT
+END:VCALENDAR

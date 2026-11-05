@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Los Angeles Fixture//EN
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:glendale-central-library-event-1@onto.events
+DTSTAMP:20261018T120000Z
+DTSTART:20261024T180000Z
+DTEND:20261024T193000Z
+SUMMARY:Glendale Central Library Community Showcase
+DESCRIPTION:Renovated Glendale civic library offering MakerSpace labs, art gallery exhibits, and children's theater workshops.
+LOCATION:Glendale Central Library
+URL:https://www.eglendalelac.org
+END:VEVENT
+BEGIN:VEVENT
+UID:glendale-central-library-event-2@onto.events
+DTSTAMP:20261018T120000Z
+DTSTART:20261028T010000Z
+DTEND:20261028T023000Z
+SUMMARY:Glendale Central Library Evening Arts & Discussion
+DESCRIPTION:Evening public program and cultural discussion at Glendale Central Library.
+LOCATION:Glendale Central Library
+URL:https://www.eglendalelac.org
+END:VEVENT
+END:VCALENDAR

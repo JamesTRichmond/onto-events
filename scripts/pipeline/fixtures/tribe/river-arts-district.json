@@ -1,0 +1,208 @@
+{
+ "pages": [
+  {
+   "total": 9,
+   "total_pages": 1,
+   "events": [
+    {
+     "id": 57024,
+     "global_id": "www.riverartsdistrict.com?id=57024",
+     "title": "Drift, In and Out: Art Exhibit by Linsey Gray",
+     "description": "<p>In the heat of the summer, time seems to lose its rigid edges, softening into the hazy, rhythmic expanse of a daydream. *Drift, In and Out*, invites you to step into this liminal space—a place where the rush of the day-to-day fades, replaced by the slow, restorative cadence of the natural world. Opening Reception August 12th from 4pm – 6pm Join artist Linsey Gray for conversation and light hors d’oeuvres provided by Table Asheville 18 N. Lexington Avenue in Downtown Asheville Drawing [trimmed]</p>",
+     "url": "https://www.riverartsdistrict.com/event/drift-in-and-out-art-exhibit-by-linsey-gray/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-08-12 16:00:00",
+     "end_date": "2026-10-28 21:00:00",
+     "utc_start_date": "2026-08-12 20:00:00",
+     "utc_end_date": "2026-10-29 01:00:00",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 57027,
+      "venue": "Table Asheville",
+      "address": "18 N. Lexington Ave",
+      "city": "Asheville",
+      "url": "https://www.riverartsdistrict.com/venue/table-asheville/"
+     }
+    },
+    {
+     "id": 56743,
+     "global_id": "www.riverartsdistrict.com?id=56743",
+     "title": "PostDiluvian: Chrys Corn Goodman + Maryana Rivera",
+     "description": "<p>TWO LOCAL ARTISTS REFLECT ON THEIR WORK SINCE THE FLOOD POSTDILUVIAN EXHIBITION SHOWCASES THE WORK OF CHRYS CORN GOODMAN AND MARYANA RIVERA Two Asheville artists, Chrys Corn Goodman and Maryana Rivera, have been honored with an invitation to exhibit images of the work that they have created since Hurricane Helene devastated the River Arts District two years ago. The exhibition, titled PostDiluvian , will be at Pink Dog Gallery at 348 Depot Street in Asheville, with an opening reception on [trimmed]</p>",
+     "url": "https://www.riverartsdistrict.com/event/postdiluvian-exhibition-opening-reception/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-09-25 12:00:00",
+     "end_date": "2026-10-25 17:00:00",
+     "utc_start_date": "2026-09-25 16:00:00",
+     "utc_end_date": "2026-10-25 21:00:00",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 737,
+      "venue": "Pink Dog Gallery",
+      "address": "348 Depot Street",
+      "city": "Asheville",
+      "stateprovince": "NC",
+      "geo_lat": 35.5819169,
+      "geo_lng": -82.5643273,
+      "url": "https://www.riverartsdistrict.com/venue/pink-dog-creative-gallery/"
+     }
+    },
+    {
+     "id": 10034022,
+     "global_id": "www.riverartsdistrict.com?id=10034022",
+     "title": "Hot Shop: 30 Minute Make Your Own",
+     "description": "<p>Receive a guided experience to create your own glass keepsakes in our glassblowing studio. In this hands-on class, you will work one-on-one with an experienced instructor to create a unique piece of glass art. Choose between crafting a paperweight, ornament, pumpkin, or cup, then customize your piece with your choice of two colors. Learn the basics of glassblowing, and feel free to ask questions as your instructor assists you during the entire process! All levels welcome. If you would like to [trimmed]</p>",
+     "url": "https://www.riverartsdistrict.com/event/hot-shop-30-minute-make-your-own/2026-10-09/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-10-09 10:30:00",
+     "end_date": "2026-10-09 17:00:00",
+     "utc_start_date": "2026-10-09 14:30:00",
+     "utc_end_date": "2026-10-09 21:00:00",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 29933,
+      "venue": "North Carolina Glass Center",
+      "address": "140 Roberts Street",
+      "city": "Asheville",
+      "stateprovince": "NC",
+      "geo_lat": 35.5860015,
+      "geo_lng": -82.5659418,
+      "url": "https://www.riverartsdistrict.com/venue/north-carolian-glass-center/"
+     }
+    },
+    {
+     "id": 10034827,
+     "global_id": "www.riverartsdistrict.com?id=10034827",
+     "title": "Champagne + Shopping",
+     "description": "<p>Unwind. Sip. Adorn. Join us every Friday and Saturday from 5 to 7pm for our signature in-store ritual. Champagne + Shopping is a moment to pause, to play, and to discover. Whether you’re exploring fine jewelry, finding your new must-have handbag, or trying on a new fragrance, you’ll be surrounded by warmth, beauty, and bubbles. No appointment needed. Just bring your sparkle.</p>",
+     "url": "https://www.riverartsdistrict.com/event/champagne-shopping/2026-10-09/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-10-09 17:00:00",
+     "end_date": "2026-10-09 19:00:00",
+     "utc_start_date": "2026-10-09 21:00:00",
+     "utc_end_date": "2026-10-09 23:00:00",
+     "timezone": "America/New_York",
+     "venue": []
+    },
+    {
+     "id": 10028064,
+     "global_id": "www.riverartsdistrict.com?id=10028064",
+     "title": "Marvelous Monday Open Studio with Instructor!",
+     "description": "<p>PREREGISTRATION REQUIRED AT https://310art.com/marvelousmondays/marvelousmondays-2024 Our popular open studio class! Bring your tools and projects – we have easels, water containers, and paper towels. Dress for the studio! Your mentors are Heather C , Lorelle, Susan, and Linda. work under the expert guidance of four of our wonderful teachers. With a combined expertise in sketching, drawing, pastel, oils, watercolor and more, our teachers will be available to guide you through your creative [trimmed]</p>",
+     "url": "https://www.riverartsdistrict.com/event/marvelous-monday-open-studio-with-instructor-2023-01-30-2023-07-03-2/2026-10-12/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-10-12 10:00:00",
+     "end_date": "2026-10-12 13:00:00",
+     "utc_start_date": "2026-10-12 14:00:00",
+     "utc_end_date": "2026-10-12 17:00:00",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 1887,
+      "venue": "310 ART at Re Imagine Studio",
+      "address": "15 Spivey Lake Drive",
+      "city": "Fairview",
+      "geo_lat": 35.577363,
+      "geo_lng": -82.567622,
+      "url": "https://www.riverartsdistrict.com/venue/310-art-at-riverview-station/"
+     }
+    },
+    {
+     "id": 10035996,
+     "global_id": "www.riverartsdistrict.com?id=10035996",
+     "title": "Life Drawing 2nd Tuesdays &#8211; Medium Poses, Undraped",
+     "description": "<p>Untutored sessions with live model, undraped. All mediums allowed. Please use non-odor solvents if using oil mediums. The short/medium sessions will begin with ten 1-minute short poses for a quick warm-up, then 10, 15, and 20-minute poses for the remainder of the 2 hr. session. Pre-registration is requested. You may register on site IF there is space available. Adult attendees only. Doors close at 5:50 to allow for prompt start at 6pm.</p>",
+     "url": "https://www.riverartsdistrict.com/event/life-drawing-2nd-tuesdays-medium-poses-undraped/2026-10-13/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-10-13 18:00:00",
+     "end_date": "2026-10-13 20:00:00",
+     "utc_start_date": "2026-10-13 22:00:00",
+     "utc_end_date": "2026-10-14 00:00:00",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 764,
+      "venue": "Trackside Studios",
+      "address": "375 Depot Street",
+      "city": "Asheville",
+      "geo_lat": 35.5805429,
+      "geo_lng": -82.5646109,
+      "url": "https://www.riverartsdistrict.com/venue/trackside-studios/"
+     }
+    },
+    {
+     "id": 10019120,
+     "global_id": "www.riverartsdistrict.com?id=10019120",
+     "title": "Third Thursday Open Studio Social",
+     "description": "<p>Third Thursdays are opportunities for artists to network, share ideas, and create together with extended gallery hours! Feel free to bring supplies and work on art among community. Resident artists and outside artists are all welcome. Event happens 5 pm-close, time depending on turn out</p>",
+     "url": "https://www.riverartsdistrict.com/event/third-thursday-open-studio-social/2026-10-15/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-10-15 17:00:00",
+     "end_date": "2026-10-15 20:00:00",
+     "utc_start_date": "2026-10-15 21:00:00",
+     "utc_end_date": "2026-10-16 00:00:00",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 8556,
+      "venue": "Foundation Studios",
+      "address": "27 Foundy St - Suite 10",
+      "city": "Asheville",
+      "stateprovince": "NC",
+      "geo_lat": 35.5765665,
+      "geo_lng": -82.5654846,
+      "url": "https://www.riverartsdistrict.com/venue/foundation-studios/"
+     }
+    },
+    {
+     "id": 10035990,
+     "global_id": "www.riverartsdistrict.com?id=10035990",
+     "title": "Life Drawing 1st Tuesdays &#8211; Clothed, Medium Poses",
+     "description": "<p>Untutored sessions with live model, draped or costumed. All mediums allowed. Please use non-odor solvents if using oil mediums. The short/medium sessions will begin with ten 1-minute short poses for a quick warm-up, then 10, 15, and 20-minute poses for the remainder of the 2 hr. session. Pre-registration is requested. You may register on site IF there is space available. Adult attendees only. Doors close at 5:50 to allow for prompt start at 6pm.</p>",
+     "url": "https://www.riverartsdistrict.com/event/life-drawing-1st-tuesdays-clothed-medium-poses/2026-11-03/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-11-03 18:00:00",
+     "end_date": "2026-11-03 20:00:00",
+     "utc_start_date": "2026-11-03 23:00:00",
+     "utc_end_date": "2026-11-04 01:00:00",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 764,
+      "venue": "Trackside Studios",
+      "address": "375 Depot Street",
+      "city": "Asheville",
+      "geo_lat": 35.5805429,
+      "geo_lng": -82.5646109,
+      "url": "https://www.riverartsdistrict.com/venue/trackside-studios/"
+     }
+    },
+    {
+     "id": 10036057,
+     "global_id": "www.riverartsdistrict.com?id=10036057",
+     "title": "Mars Landing Gallery &#8211; First Fridays in Mars Hill, NC",
+     "description": "<p>The Catherine Cervas Fine Art Gallery is open for First Fridays! All are welcome to visit Mars Landing Arts Center, Mars Hill, NC, where you will find her showing in Gallery #2. About 20 minutes north of Asheville, Mars Hill offers First Friday events from 5:00pm-8:00pm. It is a great place to see more art to kick off your weekend in Western North Carolina! For more information, visit catherinecervasfineart.com</p>",
+     "url": "https://www.riverartsdistrict.com/event/mars-landing-gallery-first-fridays-in-mars-hill-nc/2026-11-06/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-11-06 17:00:00",
+     "end_date": "2026-11-06 20:00:00",
+     "utc_start_date": "2026-11-06 22:00:00",
+     "utc_end_date": "2026-11-07 01:00:00",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 56329,
+      "venue": "Mars Landing Gallery &amp; Art Center",
+      "address": "37 Library Street",
+      "city": "Mars Hill",
+      "url": "https://www.riverartsdistrict.com/venue/mars-landing-gallery-art-center/"
+     }
+    }
+   ]
+  }
+ ]
+}

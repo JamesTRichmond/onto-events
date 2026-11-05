@@ -1,0 +1,260 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Springshare//LibCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Senior Residence Visits and Extended Services
+X-WR-CALDESC:
+X-WR-TIMEZONE:America/New_York
+X-PUBLISHED-TTL:PT15M
+BEGIN:VEVENT
+DTSTART:20261015T133000Z
+DTEND:20261015T143000Z
+DTSTAMP:20261015T000000Z
+SUMMARY:Brookestone Senior Residence
+DESCRIPTION:Extended Services will visit Brookestone Senior Residence with books\, audiobooks\, DVDs\, and other items for residents to check out.\n\nBrookestone Senior Residence\n3373 Apalachee Parkway\nTallahassee\, FL 32311
+CATEGORIES:
+UID:LibCal-15239-16321184
+URL:https://leoncountyfl.libcal.com/event/16321184
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261015T150000Z
+DTEND:20261015T160000Z
+DTSTAMP:20261015T000000Z
+SUMMARY:Lake Ella Manor
+DESCRIPTION:Extended Services will visit Lake Ella Manor with books\, audiobooks\, DVDs\, and other items for residents to check out.\n\nLake Ella Manor\n1433 N Adams Street\nTallahassee\, FL 32303
+CATEGORIES:
+UID:LibCal-15239-16321124
+URL:https://leoncountyfl.libcal.com/event/16321124
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261020T140000Z
+DTEND:20261020T150000Z
+DTSTAMP:20261020T000000Z
+SUMMARY:Kenwood Place
+DESCRIPTION:Extended Services will visit Kenwood Place with books\, audiobooks\, DVDs\, and other items for residents to check out.\n\nKenwood Place\n410 Junco Court\nTallahassee\, FL 32304
+CATEGORIES:
+UID:LibCal-15239-16321254
+URL:https://leoncountyfl.libcal.com/event/16321254
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261020T153000Z
+DTEND:20261020T163000Z
+DTSTAMP:20261020T000000Z
+SUMMARY:Casa Calderon
+DESCRIPTION:Extended Services will visit Casa Calderon with books\, audiobooks\, DVDs\, and other items for residents to check out.\n\nCasa Calderon\n800 W Virginia Street\nTallahassee\, FL 32304
+CATEGORIES:
+UID:LibCal-15239-16321282
+URL:https://leoncountyfl.libcal.com/event/16321282
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261022T133000Z
+DTEND:20261022T143000Z
+DTSTAMP:20261022T000000Z
+SUMMARY:Independence Landing
+DESCRIPTION:Extended Services will visit Independence Landing with books\, audiobooks\, DVDs\, and other items for residents to check out.\n\nIndependence Landing\n3025 School House Road\nTallahassee\, FL 32311
+CATEGORIES:
+UID:LibCal-15239-16321317
+URL:https://leoncountyfl.libcal.com/event/16321317
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261022T150000Z
+DTEND:20261022T160000Z
+DTSTAMP:20261022T000000Z
+SUMMARY:Westminster Gardens
+DESCRIPTION:Extended Services will visit Westminster Gardens with books\, audiobooks\, DVDs\, and other items for residents to check out.\n\nWestminster Gardens\n301 E Carolina Street\nTallahassee\, FL 32301
+CATEGORIES:
+UID:LibCal-15239-16321342
+URL:https://leoncountyfl.libcal.com/event/16321342
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261027T140000Z
+DTEND:20261027T150000Z
+DTSTAMP:20261027T000000Z
+SUMMARY:Jamestown Woods
+DESCRIPTION:Library Extended Services will visit Jamestown Woods with books\, audiobooks\, DVDs\, and other items for residents to check out.\n\nJamestown Woods\n3150 Windsong Drive\nTallahassee\, FL 32308
+CATEGORIES:
+UID:LibCal-15239-16320997
+URL:https://leoncountyfl.libcal.com/event/16320997
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261027T153000Z
+DTEND:20261027T163000Z
+DTSTAMP:20261027T000000Z
+SUMMARY:Miccosukee Hills Apartments
+DESCRIPTION:Extended Services will visit Miccosukee Hills Apartments with books\, audiobooks\, DVDs\, and other items for residents to check out. \n\nMiccosukee Hills Apartments\n3201 Miccosukee Road \nTallahassee\, FL 32308
+CATEGORIES:
+UID:LibCal-15239-16321076
+URL:https://leoncountyfl.libcal.com/event/16321076
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T133000Z
+DTEND:20261029T143000Z
+DTSTAMP:20261029T000000Z
+SUMMARY:Brookestone Senior Residence
+DESCRIPTION:Extended Services will visit Brookestone Senior Residence with books\, audiobooks\, DVDs\, and other items for residents to check out.\n\nBrookestone Senior Residence\n3373 Apalachee Parkway\nTallahassee\, FL 32311
+CATEGORIES:
+UID:LibCal-15239-16321185
+URL:https://leoncountyfl.libcal.com/event/16321185
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T150000Z
+DTEND:20261029T160000Z
+DTSTAMP:20261029T000000Z
+SUMMARY:Lake Ella Manor
+DESCRIPTION:Extended Services will visit Lake Ella Manor with books\, audiobooks\, DVDs\, and other items for residents to check out.\n\nLake Ella Manor\n1433 N Adams Street\nTallahassee\, FL 32303
+CATEGORIES:
+UID:LibCal-15239-16321125
+URL:https://leoncountyfl.libcal.com/event/16321125
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261103T150000Z
+DTEND:20261103T160000Z
+DTSTAMP:20261103T000000Z
+SUMMARY:Kenwood Place
+DESCRIPTION:Extended Services will visit Kenwood Place with books\, audiobooks\, DVDs\, and other items for residents to check out.\n\nKenwood Place\n410 Junco Court\nTallahassee\, FL 32304
+CATEGORIES:
+UID:LibCal-15239-16321255
+URL:https://leoncountyfl.libcal.com/event/16321255
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261103T163000Z
+DTEND:20261103T173000Z
+DTSTAMP:20261103T000000Z
+SUMMARY:Casa Calderon
+DESCRIPTION:Extended Services will visit Casa Calderon with books\, audiobooks\, DVDs\, and other items for residents to check out.\n\nCasa Calderon\n800 W Virginia Street\nTallahassee\, FL 32304
+CATEGORIES:
+UID:LibCal-15239-16321283
+URL:https://leoncountyfl.libcal.com/event/16321283
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261105T143000Z
+DTEND:20261105T153000Z
+DTSTAMP:20261105T000000Z
+SUMMARY:Independence Landing
+DESCRIPTION:Extended Services will visit Independence Landing with books\, audiobooks\, DVDs\, and other items for residents to check out.\n\nIndependence Landing\n3025 School House Road\nTallahassee\, FL 32311
+CATEGORIES:
+UID:LibCal-15239-16321318
+URL:https://leoncountyfl.libcal.com/event/16321318
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261105T160000Z
+DTEND:20261105T170000Z
+DTSTAMP:20261105T000000Z
+SUMMARY:Westminster Gardens
+DESCRIPTION:Extended Services will visit Westminster Gardens with books\, audiobooks\, DVDs\, and other items for residents to check out.\n\nWestminster Gardens\n301 E Carolina Street\nTallahassee\, FL 32301
+CATEGORIES:
+UID:LibCal-15239-16321343
+URL:https://leoncountyfl.libcal.com/event/16321343
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261110T150000Z
+DTEND:20261110T160000Z
+DTSTAMP:20261110T000000Z
+SUMMARY:Jamestown Woods
+DESCRIPTION:Library Extended Services will visit Jamestown Woods with books\, audiobooks\, DVDs\, and other items for residents to check out.\n\nJamestown Woods\n3150 Windsong Drive\nTallahassee\, FL 32308
+CATEGORIES:
+UID:LibCal-15239-16320998
+URL:https://leoncountyfl.libcal.com/event/16320998
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261110T163000Z
+DTEND:20261110T173000Z
+DTSTAMP:20261110T000000Z
+SUMMARY:Miccosukee Hills Apartments
+DESCRIPTION:Extended Services will visit Miccosukee Hills Apartments with books\, audiobooks\, DVDs\, and other items for residents to check out. \n\nMiccosukee Hills Apartments\n3201 Miccosukee Road \nTallahassee\, FL 32308
+CATEGORIES:
+UID:LibCal-15239-16321077
+URL:https://leoncountyfl.libcal.com/event/16321077
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T143000Z
+DTEND:20261112T153000Z
+DTSTAMP:20261112T000000Z
+SUMMARY:Brookestone Senior Residence
+DESCRIPTION:Extended Services will visit Brookestone Senior Residence with books\, audiobooks\, DVDs\, and other items for residents to check out.\n\nBrookestone Senior Residence\n3373 Apalachee Parkway\nTallahassee\, FL 32311
+CATEGORIES:
+UID:LibCal-15239-16321186
+URL:https://leoncountyfl.libcal.com/event/16321186
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T160000Z
+DTEND:20261112T170000Z
+DTSTAMP:20261112T000000Z
+SUMMARY:Lake Ella Manor
+DESCRIPTION:Extended Services will visit Lake Ella Manor with books\, audiobooks\, DVDs\, and other items for residents to check out.\n\nLake Ella Manor\n1433 N Adams Street\nTallahassee\, FL 32303
+CATEGORIES:
+UID:LibCal-15239-16321126
+URL:https://leoncountyfl.libcal.com/event/16321126
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261117T150000Z
+DTEND:20261117T160000Z
+DTSTAMP:20261117T000000Z
+SUMMARY:Kenwood Place
+DESCRIPTION:Extended Services will visit Kenwood Place with books\, audiobooks\, DVDs\, and other items for residents to check out.\n\nKenwood Place\n410 Junco Court\nTallahassee\, FL 32304
+CATEGORIES:
+UID:LibCal-15239-16321256
+URL:https://leoncountyfl.libcal.com/event/16321256
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261117T163000Z
+DTEND:20261117T173000Z
+DTSTAMP:20261117T000000Z
+SUMMARY:Casa Calderon
+DESCRIPTION:Extended Services will visit Casa Calderon with books\, audiobooks\, DVDs\, and other items for residents to check out.\n\nCasa Calderon\n800 W Virginia Street\nTallahassee\, FL 32304
+CATEGORIES:
+UID:LibCal-15239-16321284
+URL:https://leoncountyfl.libcal.com/event/16321284
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T143000Z
+DTEND:20261119T153000Z
+DTSTAMP:20261119T000000Z
+SUMMARY:Independence Landing
+DESCRIPTION:Extended Services will visit Independence Landing with books\, audiobooks\, DVDs\, and other items for residents to check out.\n\nIndependence Landing\n3025 School House Road\nTallahassee\, FL 32311
+CATEGORIES:
+UID:LibCal-15239-16321319
+URL:https://leoncountyfl.libcal.com/event/16321319
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T160000Z
+DTEND:20261119T170000Z
+DTSTAMP:20261119T000000Z
+SUMMARY:Westminster Gardens
+DESCRIPTION:Extended Services will visit Westminster Gardens with books\, audiobooks\, DVDs\, and other items for residents to check out.\n\nWestminster Gardens\n301 E Carolina Street\nTallahassee\, FL 32301
+CATEGORIES:
+UID:LibCal-15239-16321344
+URL:https://leoncountyfl.libcal.com/event/16321344
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261124T150000Z
+DTEND:20261124T160000Z
+DTSTAMP:20261124T000000Z
+SUMMARY:Jamestown Woods
+DESCRIPTION:Library Extended Services will visit Jamestown Woods with books\, audiobooks\, DVDs\, and other items for residents to check out.\n\nJamestown Woods\n3150 Windsong Drive\nTallahassee\, FL 32308
+CATEGORIES:
+UID:LibCal-15239-16320999
+URL:https://leoncountyfl.libcal.com/event/16320999
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261124T163000Z
+DTEND:20261124T173000Z
+DTSTAMP:20261124T000000Z
+SUMMARY:Miccosukee Hills Apartments
+DESCRIPTION:Extended Services will visit Miccosukee Hills Apartments with books\, audiobooks\, DVDs\, and other items for residents to check out. \n\nMiccosukee Hills Apartments\n3201 Miccosukee Road \nTallahassee\, FL 32308
+CATEGORIES:
+UID:LibCal-15239-16321078
+URL:https://leoncountyfl.libcal.com/event/16321078
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261201T150000Z
+DTEND:20261201T160000Z
+DTSTAMP:20261201T000000Z
+SUMMARY:Jamestown Woods
+DESCRIPTION:Library Extended Services will visit Jamestown Woods with books\, audiobooks\, DVDs\, and other items for residents to check out.\n\nJamestown Woods\n3150 Windsong Drive\nTallahassee\, FL 32308
+CATEGORIES:
+UID:LibCal-15239-16321000
+URL:https://leoncountyfl.libcal.com/event/16321000
+END:VEVENT
+END:VCALENDAR

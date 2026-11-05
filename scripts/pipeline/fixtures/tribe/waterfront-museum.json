@@ -1,0 +1,66 @@
+{
+  "pages": [
+    {
+      "total": 4,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 10008686,
+          "global_id": "waterfrontmuseum.org?id=10008686",
+          "title": "OPEN HOURS",
+          "description": "The Waterfront Museum is open on most SATURDAYS 1-5pm and THURSDAYS 4-8pm for free tours for families and individuals when the barge is docked in Red Hook. We will be closed on Thursday, October 29th 2026 and Saturday, October 31st 2026",
+          "url": "https://waterfrontmuseum.org/event/open-hours/2026-10-17/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-17 17:00:00",
+          "utc_end_date": "2026-10-17 21:00:00",
+          "venue": {
+            "venue": "Waterfront Museum"
+          }
+        },
+        {
+          "id": 10009032,
+          "global_id": "waterfrontmuseum.org?id=10009032",
+          "title": "Justin Orvis Steimer",
+          "description": "October 10 – October 17 – The Universe has a Shape, it is You” – a series of paintings on boat sails dealing with the pain, grief, and failure of divorce while continuing to find a path forward. Opening Reception Saturday, October 10th from 1-5 pm Closing Reception – Saturday, October 17th from 1-5 pm Open Hours Saturdays 1-5pm & Thursdays 4-8pm More information here",
+          "url": "https://waterfrontmuseum.org/event/justin-orvis-steimer/2026-10-17/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-17 17:00:00",
+          "utc_end_date": "2026-10-17 21:00:00",
+          "venue": {
+            "venue": "Waterfront Museum"
+          }
+        },
+        {
+          "id": 4718,
+          "global_id": "waterfrontmuseum.org?id=4718",
+          "title": "viBe theater",
+          "description": "October 17 at 7 pm – Join viBeCompany for New Works – a reading series featuring original one-act plays by emerging playwrights. This special reading event showcases four distinct works in development: Radio Rèv by Bianca Berger, Flip Side by Jazela Wright, Shadow by Jeniah Martin, and Our Other Side by Alex Holloman. Following these readings, fully staged productions of all four plays will premiere live at The Flea Theater in December 2026. New Works is directed by Kenya Lewis, stage managed by Kamilah Mariam, and produced by viBe Theater Experience. Following these readings, fully staged productions of all four plays will premiere in December 2026 and spring/summer 2027! Tickets and more information here",
+          "url": "https://waterfrontmuseum.org/event/vibe-theater/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-17 23:00:00",
+          "utc_end_date": "2026-10-18 01:00:00",
+          "venue": {
+            "venue": "Waterfront Museum"
+          }
+        },
+        {
+          "id": 10009053,
+          "global_id": "waterfrontmuseum.org?id=10009053",
+          "title": "Nautilus Renaissance Viol Consort",
+          "description": "October 18, 3 pm and 7 pm – Music from Anne of Brittany’s Court: Duchess of Brittany and Twice Queen of France Music by composers who wrote music for Anne of Brittany, including Jean Mouton, Antoine de Fevin, Pierre Moulu, Pietrequin Bonnel, Antonius Divitis, and Claudin de Sermisy. Performed by a consort of renaissance viols directed by David Hatcher, who founded the Linarol Consort in the UK. As a bonus, David Hatcher will afterwards perform a mini-recital of British folk tunes on the Northumbrian pipes. Tickets and more information here",
+          "url": "https://waterfrontmuseum.org/event/nautilus-renaissance-viol-consort/2026-10-18/1/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-18 19:00:00",
+          "utc_end_date": "2026-10-18 20:00:00",
+          "venue": {
+            "venue": "Waterfront Museum"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Miami-Dade Public Library System//NONSGML Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MDPLS South Dade Regional Library Events
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:mdpls-sd-20261016-art@mdpls.org
+DTSTAMP:20261015T000000Z
+DTSTART:20261016T180000Z
+DTEND:20261016T193000Z
+SUMMARY:Creative Arts Studio: Watercolor Workshop
+DESCRIPTION:Learn fundamental watercolor painting techniques with local artists.
+LOCATION:South Dade Regional Library
+URL:https://www.mdpls.org/events/sd-watercolor
+CATEGORIES:Arts & Culture
+END:VEVENT
+BEGIN:VEVENT
+UID:mdpls-sd-20261018-computer@mdpls.org
+DTSTAMP:20261015T000000Z
+DTSTART:20261018T150000Z
+DTEND:20261018T163000Z
+SUMMARY:Digital Skills: Computer Basics for Adults
+DESCRIPTION:Hands-on class covering internet security, email, and navigation.
+LOCATION:South Dade Regional Library
+URL:https://www.mdpls.org/events/sd-computer
+CATEGORIES:Learning & Tech
+END:VEVENT
+END:VCALENDAR

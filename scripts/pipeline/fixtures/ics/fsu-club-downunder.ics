@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Calendar - Club Downunder
+X-WR-TIMEZONE:Eastern Time (US & Canada)
+BEGIN:VEVENT
+DTSTAMP:20261015T234808Z
+UID:tag:localist.com\,2008:EventInstance_54228385475161
+DTSTART:20261016T000000Z
+DTEND:20261016T010000Z
+DESCRIPTION:Join us at Club Downunder for free food\, mocktails\, and live jazz. \n---\nEvent Details: https://hq.fsu.edu/rsvp?id=377991
+GEO:30.444504;-84.297163
+LOCATION:Club Downunder
+SUMMARY:CDU Presents: Live Lounge
+URL;VALUE=URI:https://calendar.fsu.edu/event/cdu-presents-live-lounge
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234808Z
+UID:tag:localist.com\,2008:EventInstance_54228386038406
+DTSTART:20261020T230000Z
+DTEND:20261021T020000Z
+DESCRIPTION:The Talent Show is a cultural celebration and presentation honoring the end of Hispanic Heritage Month.\nHosted at CDU\, performers will showcase their talent and culture through music\, dancing\, art\, and other performances. Using an anonymous Google Form\, the public will decide their top three winners. Winners will receive trophies and prizes donated by a local vendor. Attendees will be encouraged to wear clothes that represent their culture. Food and beverages provided will be free of charge to the public. \n---\nEvent Details: https://hq.fsu.edu/rsvp?id=378042
+GEO:30.444504;-84.297163
+LOCATION:Club Downunder
+SUMMARY:HLSU Talent Show
+URL;VALUE=URI:https://calendar.fsu.edu/event/hlsu-talent-show
+END:VEVENT
+END:VCALENDAR

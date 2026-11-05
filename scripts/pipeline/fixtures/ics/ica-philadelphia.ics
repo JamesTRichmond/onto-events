@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Philadelphia Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:ica-philadelphia-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:ICA Contemporary Artist Talk & Exhibition Opening
+DESCRIPTION:Opening gallery reception, artist dialogue, and experimental performance exploring contemporary visual media.
+LOCATION:Institute of Contemporary Art at UPenn
+URL:https://icaphila.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:ica-philadelphia-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:ICA Contemporary Artist Talk & Exhibition Opening (Session 2)
+DESCRIPTION:Opening gallery reception, artist dialogue, and experimental performance exploring contemporary visual media. Follow-up community session.
+LOCATION:Institute of Contemporary Art at UPenn
+URL:https://icaphila.org/
+END:VEVENT
+END:VCALENDAR

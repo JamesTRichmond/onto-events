@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Flagstaff Fixture//EN
+X-WR-TIMEZONE:America/Phoenix
+BEGIN:VEVENT
+UID:nau-central-events-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T170000Z
+DTEND:20261024T183000Z
+SUMMARY:NAU Campus Colloquium & Public Lecture
+DESCRIPTION:Public academic lecture, faculty panel discussion, and community presentation at NAU.
+LOCATION:Northern Arizona University (Central Events)
+URL:https://events.nau.edu/calendar.ics
+END:VEVENT
+BEGIN:VEVENT
+UID:nau-central-events-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261028T210000Z
+DTEND:20261028T223000Z
+SUMMARY:NAU Campus Colloquium & Public Lecture (Encore)
+DESCRIPTION:Public academic lecture, faculty panel discussion, and community presentation at NAU.
+LOCATION:Northern Arizona University (Central Events)
+URL:https://events.nau.edu/calendar.ics
+END:VEVENT
+END:VCALENDAR

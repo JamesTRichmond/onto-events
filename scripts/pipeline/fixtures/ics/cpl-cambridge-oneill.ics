@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Boston Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:cpl-cambridge-oneill-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:North Cambridge Nature & Story Hour
+DESCRIPTION:Outdoor-themed book readings and plant-pressing activities for young children in the O’Neill branch.
+LOCATION:Cambridge Public Library (O’Neill Branch)
+URL:https://www.cambridgema.gov/cpl
+END:VEVENT
+BEGIN:VEVENT
+UID:cpl-cambridge-oneill-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:North Cambridge Evening Fiction Book Group
+DESCRIPTION:Monthly book circle exploring contemporary world fiction and translation in North Cambridge.
+LOCATION:Cambridge Public Library (O’Neill Branch)
+URL:https://www.cambridgema.gov/cpl
+END:VEVENT
+END:VCALENDAR

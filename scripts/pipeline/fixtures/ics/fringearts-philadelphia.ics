@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Philadelphia Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:fringearts-philadelphia-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:FringeArts Progressive Performance & Waterfront Showcase
+DESCRIPTION:Cutting-edge contemporary theatre, experimental dance, and waterfront live music on the Delaware River.
+LOCATION:FringeArts
+URL:https://fringearts.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:fringearts-philadelphia-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:FringeArts Progressive Performance & Waterfront Showcase (Session 2)
+DESCRIPTION:Cutting-edge contemporary theatre, experimental dance, and waterfront live music on the Delaware River. Follow-up community session.
+LOCATION:FringeArts
+URL:https://fringearts.com/
+END:VEVENT
+END:VCALENDAR

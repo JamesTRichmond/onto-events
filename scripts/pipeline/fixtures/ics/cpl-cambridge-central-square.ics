@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Boston Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:cpl-cambridge-central-square-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Central Square Family Read-Aloud & Craft Circle
+DESCRIPTION:Lively illustrated story readings and collage art workshops for neighborhood families.
+LOCATION:Cambridge Public Library (Central Square Branch)
+URL:https://www.cambridgema.gov/cpl
+END:VEVENT
+BEGIN:VEVENT
+UID:cpl-cambridge-central-square-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Central Square Digital Literacy & Tech Clinic
+DESCRIPTION:Open walk-in assistance for digital privacy, smartphone navigation, and online public services in the community lab.
+LOCATION:Cambridge Public Library (Central Square Branch)
+URL:https://www.cambridgema.gov/cpl
+END:VEVENT
+END:VCALENDAR

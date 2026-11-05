@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Pensacola Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:pensacola-mess-hall-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:MESS Hall Saturday Science Mess Kits & Inquiry Lab
+DESCRIPTION:Hands-on physics, chemistry, and engineering experiments for curious kids and families.
+LOCATION:Pensacola MESS Hall
+URL:https://pensacolamesshall.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:pensacola-mess-hall-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Science on the Street & Maker Challenge
+DESCRIPTION:Interactive STEM design challenge at the Pensacola MESS Hall on Wright Street.
+LOCATION:Pensacola MESS Hall
+URL:https://pensacolamesshall.org/
+END:VEVENT
+END:VCALENDAR

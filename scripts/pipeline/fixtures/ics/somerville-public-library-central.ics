@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Boston Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:somerville-public-library-central-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Somerville Saturday Morning Story & Music Jam
+DESCRIPTION:Interactive rhythm instruments, musical storytelling, and folk songs for infants and young children on Central Hill.
+LOCATION:Somerville Public Library (Central Library)
+URL:https://www.somervillepubliclibrary.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:somerville-public-library-central-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Somerville Comic & Graphic Novel Workshop
+DESCRIPTION:Hands-on comic sketching, storytelling panels, and visual character design for teens and young adults.
+LOCATION:Somerville Public Library (Central Library)
+URL:https://www.somervillepubliclibrary.org/
+END:VEVENT
+END:VCALENDAR

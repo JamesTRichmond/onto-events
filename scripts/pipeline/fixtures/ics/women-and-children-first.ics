@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Expansion Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:wcf-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261026T000000Z
+DTEND:20261026T013000Z
+SUMMARY:Andersonville Author Talk: Contemporary Midwestern Voices
+DESCRIPTION:Live author reading, audience Q&A, and book signing celebrating newly released poetry and literary fiction in Andersonville.
+LOCATION:Women & Children First Bookstore
+URL:https://www.womenandchildrenfirst.com/event/author-talk
+END:VEVENT
+BEGIN:VEVENT
+UID:wcf-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261028T160000Z
+DTEND:20261028T170000Z
+SUMMARY:Kids Storytime Circle & Picture Book Exploration
+DESCRIPTION:All-ages inclusive family story hour featuring diverse picture books and interactive songs for young readers and parents.
+LOCATION:Women & Children First Bookstore
+URL:https://www.womenandchildrenfirst.com/event/storytime
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Philadelphia Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:flp-independence-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Old City Children Story Hour & Craft Circle
+DESCRIPTION:Weekly children story hour and seasonal craft circle near Washington Square and Independence Hall.
+LOCATION:FLP Independence Branch Library
+URL:https://libwww.freelibrary.org/locations/independence-library
+END:VEVENT
+BEGIN:VEVENT
+UID:flp-independence-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Old City Children Story Hour & Craft Circle (Session 2)
+DESCRIPTION:Weekly children story hour and seasonal craft circle near Washington Square and Independence Hall. Follow-up community session.
+LOCATION:FLP Independence Branch Library
+URL:https://libwww.freelibrary.org/locations/independence-library
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Philadelphia Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:flp-northeast-regional-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Northeast Regional Family Storytime & Media Lab
+DESCRIPTION:Preschool reading circle, youth digital storytelling workshops, and community language exchanges.
+LOCATION:FLP Northeast Regional Library
+URL:https://libwww.freelibrary.org/locations/northeast-regional-library
+END:VEVENT
+BEGIN:VEVENT
+UID:flp-northeast-regional-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Northeast Regional Family Storytime & Media Lab (Session 2)
+DESCRIPTION:Preschool reading circle, youth digital storytelling workshops, and community language exchanges. Follow-up community session.
+LOCATION:FLP Northeast Regional Library
+URL:https://libwww.freelibrary.org/locations/northeast-regional-library
+END:VEVENT
+END:VCALENDAR

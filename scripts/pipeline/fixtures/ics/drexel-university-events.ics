@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Philadelphia Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:drexel-university-events-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Drexel Innovation Showcase & Tech Colloquium
+DESCRIPTION:Faculty and student engineering demo, digital design presentations, and public keynote in the Great Court.
+LOCATION:Drexel Main Building Auditorium
+URL:https://drexel.edu/events
+END:VEVENT
+BEGIN:VEVENT
+UID:drexel-university-events-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Drexel Innovation Showcase & Tech Colloquium (Session 2)
+DESCRIPTION:Faculty and student engineering demo, digital design presentations, and public keynote in the Great Court. Follow-up community session.
+LOCATION:Drexel Main Building Auditorium
+URL:https://drexel.edu/events
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//San Marcos Parks and Recreation Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:smpr-river-cleanup-20261025@onto.events
+DTSTAMP:20260905T120000Z
+DTSTART:20261025T150000Z
+DTEND:20261025T180000Z
+SUMMARY:San Marcos River Stewardship & Native Planting
+DESCRIPTION:Community volunteers gather for native wildflower planting and river habitat cleanup along the upper San Marcos River.
+LOCATION:San Marcos Parks and Recreation
+URL:https://www.sanmarcostx.gov/parks
+END:VEVENT
+BEGIN:VEVENT
+UID:smpr-trail-walk-20261102@onto.events
+DTSTAMP:20260905T120000Z
+DTSTART:20261102T153000Z
+DTEND:20261102T170000Z
+SUMMARY:Guided Nature Trail Walk & Birding Exploration
+DESCRIPTION:Park naturalist guided walk discovering native birds and limestone springs in Hays County.
+LOCATION:San Marcos Parks and Recreation
+URL:https://www.sanmarcostx.gov/parks
+END:VEVENT
+BEGIN:VEVENT
+UID:smpr-sunset-yoga-20261114@onto.events
+DTSTAMP:20260905T120000Z
+DTSTART:20261114T230000Z
+DTEND:20261115T000000Z
+SUMMARY:Community Sunset Yoga at the Park
+DESCRIPTION:All-levels community yoga session overlooking the river greenbelt. Bring your own mat or towel.
+LOCATION:San Marcos Parks and Recreation
+URL:https://www.sanmarcostx.gov/parks
+END:VEVENT
+END:VCALENDAR

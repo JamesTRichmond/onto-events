@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//fixture//EN
+BEGIN:VEVENT
+UID:vcal_15416-admin.gocolumbialions.com
+DTSTART:20261024T220000Z
+DTEND:20261025T000000Z
+SUMMARY:Columbia University  Volleyball vs Cornell 
+LOCATION:New York\, N.Y.\, SCHILLER COURT AT LEVIEN GYMNASIUM
+URL:https://admin.gocolumbialions.com/calendar.aspx?game_id=15416&amp;sport_id=26
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_15457-admin.gocolumbialions.com
+DTSTART:20261024T230000Z
+DTEND:20261025T010000Z
+SUMMARY:Columbia University  Men's Soccer vs Yale
+LOCATION:New York\, N.Y.\, ROCCO B. COMMISSO SOCCER STADIUM
+URL:https://admin.gocolumbialions.com/calendar.aspx?game_id=15457&amp;sport_id=10
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_15458-admin.gocolumbialions.com
+DTSTART:20261027T230000Z
+DTEND:20261028T010000Z
+SUMMARY:Columbia University  Men's Soccer vs Hofstra
+LOCATION:New York\, N.Y.\, ROCCO B. COMMISSO SOCCER STADIUM
+URL:https://admin.gocolumbialions.com/calendar.aspx?game_id=15458&amp;sport_id=10
+END:VEVENT
+END:VCALENDAR

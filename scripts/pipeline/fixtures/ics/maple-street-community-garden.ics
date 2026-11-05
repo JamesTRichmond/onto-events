@@ -1,0 +1,581 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Maple Street Community Garden Calendar
+X-WR-TIMEZONE:America/New_York
+X-WR-CALDESC:Public MSCG event calendar \n
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260813T090000
+DTEND;TZID=America/New_York:20260813T103000
+RRULE:FREQ=WEEKLY;UNTIL=20261101T035959Z;BYDAY=WE
+DTSTAMP:20261017T181406Z
+UID:B94E2AA3-4310-4698-A65C-A6E43F877FBF
+CREATED:20260930T190748Z
+LAST-MODIFIED:20260930T190842Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Open Garden Hours - Garden Minder Keiko
+TRANSP:OPAQUE
+X-APPLE-CREATOR-IDENTITY:com.apple.calendar
+X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260401T103000
+DTEND;TZID=America/New_York:20260401T123000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20261217T045959Z;BYDAY=WE
+DTSTAMP:20261017T181406Z
+UID:0saeruuaj88jc27u53st2dbkno@google.com
+CREATED:20260223T225017Z
+DESCRIPTION:The Compost Committee is working in the garden on maintenance a
+ nd turning bins. <br><br>Unfortunately\, there is no Food Scrap Drop off on
+  Wednesdays. Come by on Saturdays 10:30am-12:30pm. <br><br><b>Please consid
+ er becoming a </b><a href="mailto:mscg-compost-updates@googlegroups.com" ta
+ rget="_blank"><u><b><u>volunteer</u></b></u></a><b> or making a </b><a href
+ ="https://maplestreetcommunitygarden.org/donate" target="_blank"><u><b><u>d
+ onation </u></b></u></a><b>to support our local\, community project run ent
+ irely by volunteers. </b>
+LAST-MODIFIED:20260223T225203Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:No Food Scrap Drop Off - Garden is Open! 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260402T173000
+DTEND;TZID=America/New_York:20260402T193000
+RRULE:FREQ=WEEKLY;UNTIL=20261029T035959Z
+EXDATE;TZID=America/New_York:20260528T173000
+EXDATE;TZID=America/New_York:20260827T173000
+DTSTAMP:20261017T181406Z
+UID:6laocuaclcoua4uod8jovr45lc@google.com
+CREATED:20260306T140146Z
+DESCRIPTION:The Gardening Committee invites all plant enthusiasts\, from mi
+ ghty beginners to green thumbs\, to join our workday. \n\nNo RSVP needed\, 
+ just show up! \n\nHere are our gardening session hours for the rest of the 
+ season: \n🍀Thursdays: 5:30-7:30pm\n🍀Weekends: 10am-1pm\n* 1st & 3rd weeke
+ nds: Sundays\n* All others: Saturdays\n\nNo prior experience is needed to v
+ olunteer! We garden communally and each garden shift is led by a gardening 
+ captain that will guide you through the day’s task. Feel free to come for t
+ he whole session\, or just for a little bit. Any questions can be directed 
+ to gardening.mscg@gmail.com.
+LAST-MODIFIED:20260910T170157Z
+LOCATION:237 Maple Street Brooklyn\, NY 11225
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:MSCG - Gardening Session
+TRANSP:OPAQUE
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-MAPKIT-HANDLE=CAESyQII2TIaEgm
+ 4zOmymFREQBG7Cb5p+nxSwCLAAQoNVW5pdGVkIFN0YXRlcxICVVMaCE5ldyBZb3JrIgJOWSoMS2
+ luZ3MgQ291bnR5MghOZXcgWW9yazoFMTEyMjVCCEJyb29rbHluUghNYXBsZSBTdFoDMjM3YgwyM
+ zcgTWFwbGUgU3RyC0xvbmcgSXNsYW5kigEQUHJvc3BlY3QgTGVmZmVydIoBGVByb3NwZWN0IExl
+ ZmZlcnRzIEdhcmRlbnOKAQdXaW5nYXRligEQUHJvc3BlY3QgSGVpZ2h0cyoMMjM3IE1hcGxlIFN
+ 0MgwyMzcgTWFwbGUgU3QyE0Jyb29rbHluLCBOWSAgMTEyMjUyDVVuaXRlZCBTdGF0ZXM4OUAAUA
+ FaJwolEhIJuMzpsphUREARuwm+afp8UsAY2TIgidvCkserhI+pAZADAQ==;X-APPLE-RADIUS=7
+ 0.58732753293177;X-APPLE-REFERENCEFRAME=1;X-TITLE="237 Maple Street Brookly
+ n, NY 11225":geo:40.660910,-73.952784
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260421T143000
+DTEND;TZID=America/New_York:20260421T163000
+RRULE:FREQ=WEEKLY;UNTIL=20261101T035959Z;BYDAY=TU
+EXDATE;TZID=America/New_York:20260616T143000
+EXDATE;TZID=America/New_York:20260623T143000
+EXDATE;TZID=America/New_York:20260630T143000
+EXDATE;TZID=America/New_York:20260707T143000
+EXDATE;TZID=America/New_York:20260714T143000
+EXDATE;TZID=America/New_York:20260721T143000
+EXDATE;TZID=America/New_York:20260728T143000
+EXDATE;TZID=America/New_York:20260811T143000
+EXDATE;TZID=America/New_York:20260818T143000
+EXDATE;TZID=America/New_York:20260825T143000
+EXDATE;TZID=America/New_York:20260901T143000
+EXDATE;TZID=America/New_York:20260915T143000
+EXDATE;TZID=America/New_York:20260922T143000
+EXDATE;TZID=America/New_York:20260929T143000
+EXDATE;TZID=America/New_York:20261006T143000
+DTSTAMP:20261017T181406Z
+UID:1p2mb94rtto34di0hprvg7lcag@google.com
+CREATED:20260422T171518Z
+LAST-MODIFIED:20260929T140612Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Open Garden Hours - Garden Minder Brenda
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260422T123000
+DTEND;TZID=America/New_York:20260422T143000
+RRULE:FREQ=WEEKLY;UNTIL=20261101T035959Z;BYDAY=WE
+EXDATE;TZID=America/New_York:20260422T123000
+EXDATE;TZID=America/New_York:20260506T123000
+EXDATE;TZID=America/New_York:20260513T123000
+EXDATE;TZID=America/New_York:20260701T123000
+EXDATE;TZID=America/New_York:20260715T123000
+EXDATE;TZID=America/New_York:20260812T123000
+EXDATE;TZID=America/New_York:20260916T123000
+EXDATE;TZID=America/New_York:20261014T123000
+EXDATE;TZID=America/New_York:20261021T123000
+DTSTAMP:20261017T181406Z
+UID:2hlbcbf3v0jf3814vamabiaehq@google.com
+CREATED:20260422T171612Z
+LAST-MODIFIED:20260926T165529Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Open Garden Hours - Garden Minder Nance
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260425T100000
+DTEND;TZID=America/New_York:20260425T130000
+RRULE:FREQ=MONTHLY;UNTIL=20261024T035959Z;BYDAY=4SA
+EXDATE;TZID=America/New_York:20260926T100000
+DTSTAMP:20261017T181406Z
+UID:7644ndpdb6kcavjrn91jq7mh4u@google.com
+CREATED:20260306T173247Z
+LAST-MODIFIED:20260926T134247Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MSCG - Gardening Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261024T150000Z
+DTEND:20261024T160000Z
+DTSTAMP:20261017T181406Z
+UID:298j749m9qg3og1i6lmvfv87lf@google.com
+CREATED:20261017T160136Z
+DESCRIPTION:Join us for Community Compost Conversations on Saturday\, Octob
+ er 24th at 11am! \n\nOur very own master composters Julia D. and Emma H. wi
+ ll share their knowledge and magic of compost with our community. \n\nNo RS
+ VP needed\; just come and meet your fellow compost curious neighbors. \n\nA
+ LL ARE WELCOME!
+LAST-MODIFIED:20261017T160136Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Compost Conversations 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260419T100000
+DTEND;TZID=America/New_York:20260419T130000
+RRULE:FREQ=MONTHLY;UNTIL=20261018T035959Z;BYDAY=3SU
+DTSTAMP:20261017T181406Z
+UID:229rrdoukfu6ag80fpqfrr23q6@google.com
+CREATED:20260306T173134Z
+LAST-MODIFIED:20260906T211307Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MSCG - Gardening Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260424T130000
+DTEND;TZID=America/New_York:20260424T143000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20261101T035959Z;BYDAY=FR
+EXDATE;TZID=America/New_York:20260703T130000
+EXDATE;TZID=America/New_York:20260918T130000
+DTSTAMP:20261017T181406Z
+UID:72gpvlfknb96801bek0qnso3dg@google.com
+CREATED:20260422T171833Z
+LAST-MODIFIED:20260918T142454Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Open Garden Hours - Garden Minder Arlene
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260805T143000
+DTEND;TZID=America/New_York:20260805T160000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20261102T045959Z;BYDAY=WE
+DTSTAMP:20261017T181406Z
+UID:244s31s4n84svkvsu7j7es1pfa@google.com
+CREATED:20260422T171755Z
+LAST-MODIFIED:20260930T191029Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Open Garden Hours - Garden Minder Keiko
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261010T100000
+DTEND;TZID=America/New_York:20261010T130000
+RRULE:FREQ=MONTHLY;UNTIL=20271213T045959Z;BYDAY=2SA
+DTSTAMP:20261017T181406Z
+UID:t2kbdfleqea16a5p8biekdh7cn@google.com
+CREATED:20260306T173015Z
+DESCRIPTION:The Gardening Committee invites all plant enthusiasts\, from mi
+ ghty beginners to green thumbs\, to join our workday.\n\nNo RSVP needed\, j
+ ust show up!\n\nHere are our gardening session hours for the rest of the se
+ ason:\n🍀Thursdays: 5:30-7:30pm\n🍀Weekends: 10am-1pm\n* 1st & 3rd weekends
+ : Sundays\n* All others: Saturdays\n\nNo prior experience is needed to volu
+ nteer! We garden communally and each garden shift is led by a gardening cap
+ tain that will guide you through the day’s task. Feel free to come for the 
+ whole session\, or just for a little bit. Any questions can be directed to 
+ gardening.mscg@gmail.com.
+LAST-MODIFIED:20260906T211333Z
+LOCATION:237 Maple Street Brooklyn\, NY 11225
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:MSCG - Gardening Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261101T100000
+DTEND;TZID=America/New_York:20261101T130000
+RRULE:FREQ=MONTHLY;UNTIL=20271213T045959Z;BYDAY=1SU
+DTSTAMP:20261017T181406Z
+UID:s62o6cr3rd1rs5odcm9cee3ti8@google.com
+CREATED:20260306T172802Z
+DESCRIPTION:The Gardening Committee invites all plant enthusiasts\, from mi
+ ghty beginners to green thumbs\, to join our workday.\n\nNo RSVP needed\, j
+ ust show up!\n\nHere are our gardening session hours for the rest of the se
+ ason:\n🍀Thursdays: 5:30-7:30pm\n🍀Weekends: 10am-1pm\n* 1st & 3rd weekends
+ : Sundays\n* All others: Saturdays\n\nNo prior experience is needed to volu
+ nteer! We garden communally and each garden shift is led by a gardening cap
+ tain that will guide you through the day’s task. Feel free to come for the 
+ whole session\, or just for a little bit. Any questions can be directed to 
+ gardening.mscg@gmail.com.
+LAST-MODIFIED:20260906T211158Z
+LOCATION:237 Maple St. Brooklyn\, NY 11225
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:MSCG - Gardening Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260420T130000
+DTEND;TZID=America/New_York:20260420T143000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20261101T035959Z;BYDAY=MO
+EXDATE;TZID=America/New_York:20260921T130000
+DTSTAMP:20261017T181406Z
+UID:2h0dbnvvjvn64gb70l9v8lmqe9@google.com
+CREATED:20260422T171349Z
+LAST-MODIFIED:20260930T191306Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Open Garden Hours - Garden Minder Arlene
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261029T173000
+DTEND;TZID=America/New_York:20261029T193000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20261217T045959Z
+DTSTAMP:20261017T181406Z
+UID:okbcd7fld2pqt6l43kkfk5nimi@google.com
+CREATED:20260306T140146Z
+DESCRIPTION:The Gardening Committee invites all plant enthusiasts\, from mi
+ ghty beginners to green thumbs\, to join our workday. \n\nNo RSVP needed\, 
+ just show up! \n\nHere are our gardening session hours for the rest of the 
+ season: \n🍀Thursdays: 5:30-7:30pm\n🍀Weekends: 10am-1pm\n* 1st & 3rd weeke
+ nds: Sundays\n* All others: Saturdays\n\nNo prior experience is needed to v
+ olunteer! We garden communally and each garden shift is led by a gardening 
+ captain that will guide you through the day’s task. Feel free to come for t
+ he whole session\, or just for a little bit. Any questions can be directed 
+ to gardening.mscg@gmail.com.
+LAST-MODIFIED:20260906T211105Z
+LOCATION:237 Maple Street Brooklyn\, NY 11225
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:MSCG - Gardening Session
+TRANSP:OPAQUE
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-MAPKIT-HANDLE=CAESyQII2TIaEgm
+ 4zOmymFREQBG7Cb5p+nxSwCLAAQoNVW5pdGVkIFN0YXRlcxICVVMaCE5ldyBZb3JrIgJOWSoMS2
+ luZ3MgQ291bnR5MghOZXcgWW9yazoFMTEyMjVCCEJyb29rbHluUghNYXBsZSBTdFoDMjM3YgwyM
+ zcgTWFwbGUgU3RyC0xvbmcgSXNsYW5kigEQUHJvc3BlY3QgTGVmZmVydIoBGVByb3NwZWN0IExl
+ ZmZlcnRzIEdhcmRlbnOKAQdXaW5nYXRligEQUHJvc3BlY3QgSGVpZ2h0cyoMMjM3IE1hcGxlIFN
+ 0MgwyMzcgTWFwbGUgU3QyE0Jyb29rbHluLCBOWSAgMTEyMjUyDVVuaXRlZCBTdGF0ZXM4OUAAUA
+ FaJwolEhIJuMzpsphUREARuwm+afp8UsAY2TIgidvCkserhI+pAZADAQ==;X-APPLE-RADIUS=7
+ 0.58732753293177;X-APPLE-REFERENCEFRAME=1;X-TITLE="237 Maple Street Brookly
+ n, NY 11225":geo:40.660910,-73.952784
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261004T100000
+DTEND;TZID=America/New_York:20261004T130000
+RRULE:FREQ=MONTHLY;UNTIL=20261214T045959Z;BYDAY=1SU
+DTSTAMP:20261017T181406Z
+UID:hc40qg5r8sua8la44v0vn6l0rs@google.com
+CREATED:20260306T172802Z
+DESCRIPTION:The Gardening Committee invites all plant enthusiasts\, from mi
+ ghty beginners to green thumbs\, to join our workday.\n\nNo RSVP needed\, j
+ ust show up!\n\nHere are our gardening session hours for the rest of the se
+ ason:\n🍀Thursdays: 5:30-7:30pm\n🍀Weekends: 10am-1pm\n* 1st & 3rd weekends
+ : Sundays\n* All others: Saturdays\n\nNo prior experience is needed to volu
+ nteer! We garden communally and each garden shift is led by a gardening cap
+ tain that will guide you through the day’s task. Feel free to come for the 
+ whole session\, or just for a little bit. Any questions can be directed to 
+ gardening.mscg@gmail.com.
+LAST-MODIFIED:20260906T211410Z
+LOCATION:237 Maple St. Brooklyn\, NY 11225
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:MSCG - Gardening Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261024T100000
+DTEND;TZID=America/New_York:20261024T130000
+RRULE:FREQ=MONTHLY;UNTIL=20271213T045959Z;BYDAY=4SA
+DTSTAMP:20261017T181406Z
+UID:t9kr60dpte7eenv7f77c0tjeas@google.com
+CREATED:20260306T173247Z
+LAST-MODIFIED:20260906T211235Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:MSCG - Gardening Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260421T120000
+DTEND;TZID=America/New_York:20260421T143000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20261101T035959Z;BYDAY=TU
+EXDATE;TZID=America/New_York:20260630T120000
+EXDATE;TZID=America/New_York:20260714T120000
+EXDATE;TZID=America/New_York:20260707T120000
+EXDATE;TZID=America/New_York:20260721T120000
+EXDATE;TZID=America/New_York:20260728T120000
+EXDATE;TZID=America/New_York:20260901T120000
+DTSTAMP:20261017T181406Z
+UID:1san8efinqipkkfj475a3tflr1@google.com
+CREATED:20260422T171434Z
+LAST-MODIFIED:20260910T165038Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Open Garden Hours - Garden Minder Cheryl
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261025T160000Z
+DTEND:20261025T180000Z
+DTSTAMP:20261017T181406Z
+UID:77p917t2gu0kpl18if7dqp3b6a@google.com
+CREATED:20260923T214501Z
+DESCRIPTION:Learn how to grow your own oyster mushrooms using a simple buck
+ et method! Please bring your own container: a bucket or food-safe container
+  with a lid ie. large yogurt container or soup-to-go container works great!
+  <br><br>Date: Sunday\, October 25<br>Time: 12–2 PM  <br><br><b>RSVP here:<
+ /b><br><b> </b><a href="https://docs.google.com/forms/d/e/1FAIpQLSeTZUmw21B
+ TPpmG4xqAmvtc9qDiYBmHVjjYyAfqphUsYrN-UQ/viewform?usp=header">https://docs.g
+ oogle.com/forms/d/e/1FAIpQLSeTZUmw21BTPpmG4xqAmvtc9qDiYBmHVjjYyAfqphUsYrN-U
+ Q/viewform?usp=header</a><br><br><b>NOTE</b>: We have only 10 spots for thi
+ s workshop. If you have RSVP'd and cannot make it\, please email<b> compost
+ .mscg@gmail.com</b> ASAP so we can give the spot to someone else.
+LAST-MODIFIED:20261017T153826Z
+LOCATION:237 Maple St\, Brooklyn\, NY 11225\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grow Your Own Oyster Mushrooms At Home! 
+TRANSP:OPAQUE
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-MAPKIT-HANDLE=CAESyQII2TIaEgm
+ 4zOmymFREQBG7Cb5p+nxSwCLAAQoNVW5pdGVkIFN0YXRlcxICVVMaCE5ldyBZb3JrIgJOWSoMS2
+ luZ3MgQ291bnR5MghOZXcgWW9yazoFMTEyMjVCCEJyb29rbHluUghNYXBsZSBTdFoDMjM3YgwyM
+ zcgTWFwbGUgU3RyC0xvbmcgSXNsYW5kigEQUHJvc3BlY3QgTGVmZmVydIoBGVByb3NwZWN0IExl
+ ZmZlcnRzIEdhcmRlbnOKAQdXaW5nYXRligEQUHJvc3BlY3QgSGVpZ2h0cyoMMjM3IE1hcGxlIFN
+ 0MgwyMzcgTWFwbGUgU3QyE0Jyb29rbHluLCBOWSAgMTEyMjUyDVVuaXRlZCBTdGF0ZXM4OUAAUA
+ FaJwolEhIJuMzpsphUREARuwm+afp8UsAY2TIgidvCkserhI+pAZADAQ==;X-APPLE-RADIUS=7
+ 0.58732753293177;X-APPLE-REFERENCEFRAME=1;X-TITLE="237 Maple St, Brooklyn, 
+ NY 11225, USA":geo:40.660910,-73.952784
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260813T090000
+DTEND;TZID=America/New_York:20260813T110000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20261102T045959Z;BYDAY=TH
+DTSTAMP:20261017T181406Z
+UID:rs4cu5p44ccmq1dn1ldsebs69h@google.com
+CREATED:20260422T171755Z
+LAST-MODIFIED:20260930T190550Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Open Garden Hours - Garden Minder Skye
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260402T190000
+DTEND;TZID=America/New_York:20260402T203000
+RRULE:FREQ=MONTHLY;INTERVAL=2;BYDAY=1TH
+DTSTAMP:20261017T181406Z
+UID:dgbgalsffgflfedak42gk8rqm0_R20260402T230000@google.com
+CREATED:20210218T001357Z
+LAST-MODIFIED:20260720T013831Z
+LOCATION:https://us02web.zoom.us/j/83179487707?pwd=ckRhVk1ISHQ4dm9KOFJxNXN0
+ MVRGdz09
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:General Meeting
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT2H
+X-WR-ALARMUID:34A3EEE1-C5EE-4402-B2B8-53C994B530E2
+UID:34A3EEE1-C5EE-4402-B2B8-53C994B530E2
+ATTACH;VALUE=URI:Chord
+X-APPLE-DEFAULT-ALARM:TRUE
+ACKNOWLEDGED:20250807T230934Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260804T140000
+DTEND;TZID=America/New_York:20260804T153000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20261103T045959Z;BYDAY=TU
+DTSTAMP:20261017T181406Z
+UID:003snopc5bg0d5t6d087c91vsc@google.com
+CREATED:20260801T140239Z
+LAST-MODIFIED:20260801T140239Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MSCG - Community Senior Socials
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261024T170000Z
+DTEND:20261024T200000Z
+DTSTAMP:20261017T181406Z
+UID:7bnvi8f0lcli93f1p9f5jscvlv@google.com
+CREATED:20260923T120553Z
+DESCRIPTION:Join Takiya G. and Chelsea B. for this autumnal-themed workshop
+  in collaboration with <a href="https://teaartsculture.org" target="_blank"
+ >Tea Arts and Culture</a> and Garden Minders. <br><br>Participants will hel
+ p make a delicious oat milk chai and learn about the warming spices used to
+  personalize our beverage. They'll also engage in flower bundle dyeing givi
+ ng them the opportunity to take home a beautiful piece they make themselves
+ .
+LAST-MODIFIED:20260923T140913Z
+LOCATION:237 Maple St\, Brooklyn\, NY 11225\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Community Tea + Flower Bundle Dyeing Event 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260105T190000
+DTEND;TZID=America/New_York:20260105T200000
+RRULE:FREQ=MONTHLY;BYDAY=1MO
+DTSTAMP:20261017T181406Z
+UID:5odpl43sin3tshk0m25k5sh7gm@google.com
+CREATED:20251216T202050Z
+LAST-MODIFIED:20260720T013831Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:MSCG - Fundraising Committee Meeting
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260516T103000
+DTEND;TZID=America/New_York:20260516T123000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20261220T045959Z;BYDAY=SA
+EXDATE;TZID=America/New_York:20260718T103000
+EXDATE;TZID=America/New_York:20260926T103000
+DTSTAMP:20261017T181406Z
+UID:89C18866-5086-442C-A53F-871D3B3BC828
+CREATED:20260516T141534Z
+DESCRIPTION:<p dir="ltr"><b>Please consider becoming a </b><a href="mailto:
+ mscg-compost-updates@googlegroups.com"><b><u>volunteer</u></b></a><b> or ma
+ king a </b><a href="https://maplestreetcommunitygarden.org/donate"><b><u>do
+ nation </u></b></a><b>to support our local\, community project run entirely
+  by volunteers. </b></p><p dir="ltr"><b>We post unexpected closures on </b>
+ <a href="https://www.instagram.com/maplestreetgarden/"><b><u>Instagram</u><
+ /b></a><b>. </b></p><p dir="ltr">*We ask that you follow the below protocol
+  and best practices: </p><p dir="ltr"><b>PLEASE CHOP ALL YOUR SCRAPS </b>(c
+ ut up anything big\, like whole squash/melon or citrus)<b> and TAKE OFF all
+  stickers and rubber bands. </b></p><p dir="ltr"><b>WE ACCEPT ONLY:</b></p>
+ <ul><li dir="ltr"><p dir="ltr">Fruit &amp\; vegetable scraps</p></li><li di
+ r="ltr"><p dir="ltr">Coffee grounds &amp\; filters (brown filters preferred
+ !)</p></li><li dir="ltr"><p dir="ltr">Tea bags (non-metal\, only paper)</p>
+ </li><li dir="ltr"><p dir="ltr">Egg and Nut shells</p></li><li dir="ltr"><p
+  dir="ltr">Clean + dry leaves (no street leaves please)</p></li><li dir="lt
+ r"><p dir="ltr">Paper Towls (brown preferred)</p></li><li dir="ltr"><p dir=
+ "ltr">Paper plates and bowls</p></li></ul><br><p dir="ltr"><b>DO NOT BRING:
+  </b></p><ul><li dir="ltr"><p dir="ltr">Rice\, pasta\, bread\, cereal\, or 
+ grains</p></li><li dir="ltr"><p dir="ltr">Meat\, Chicken or Fish </p></li><
+ li dir="ltr"><p dir="ltr">Fats or Oils</p></li><li dir="ltr"><p dir="ltr">D
+ airy products or byproducts</p></li><li dir="ltr"><p dir="ltr">Animal Waste
+  or Hair </p></li><li dir="ltr"><p dir="ltr">Litter or bedding</p></li><li 
+ dir="ltr"><p dir="ltr">Dried or cut flowers (conventional flowers typically
+  carry a<a href="https://www.nwf.org/en/Magazines/National-Wildlife/2000/Pe
+ sticides-and-Cut-Flowers"><u> </u><u>LOT of pesticides</u></a>\, please lim
+ it them in our compost)</p></li><li dir="ltr"><p dir="ltr">House plants &am
+ p\; potting soil *please <u>do not compost plants that are diseased</u> or 
+ infested with bugs</p></li><li dir="ltr"><p dir="ltr">Ornamental items like
+  wreaths &amp\; Christmas trees- <u>sticks and twigs do not break down</u> 
+ in our compost\, please either chop them into very small pieces or leave th
+ em curbside</p></li></ul><br><b>To sign up on our Compost Updates list so y
+ ou can receive email notifications when we unexpectedly close (due to weath
+ er or low volunteer turnout)\, when we reopen in spring or close for the wi
+ nter\, sign up </b><a href="mailto:mscg-compost-updates@googlegroups.com"><
+ b><u>here</u></b></a><b>. </b>
+LAST-MODIFIED:20260926T134215Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Food Scrap Drop Off 
+TRANSP:OPAQUE
+X-APPLE-CREATOR-IDENTITY:com.apple.mobilecal
+X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260921T143000
+DTEND;TZID=America/New_York:20260921T154500
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20261102T045959Z;BYDAY=MO
+EXDATE;TZID=America/New_York:20260921T143000
+DTSTAMP:20261017T181406Z
+UID:1ra6ufl1qju0gq7ji0oalh7c29@google.com
+CREATED:20260930T191248Z
+LAST-MODIFIED:20260930T191257Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Open Garden Hours - Garden Minder Grace
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261018T180000Z
+DTEND:20261018T210000Z
+DTSTAMP:20261017T181406Z
+UID:4pp80pqsrhhc4vaeveb4cedbm9@google.com
+CREATED:20260904T141334Z
+LAST-MODIFIED:20260904T141334Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Garden Minders End of Season Celebration
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261018T100000
+DTEND;TZID=America/New_York:20261018T130000
+RRULE:FREQ=MONTHLY;UNTIL=20271213T045959Z;BYDAY=3SU
+DTSTAMP:20261017T181406Z
+UID:vbab0e153om74uu8bq93j3r159@google.com
+CREATED:20260306T173134Z
+LAST-MODIFIED:20260906T211307Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:MSCG - Gardening Session
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

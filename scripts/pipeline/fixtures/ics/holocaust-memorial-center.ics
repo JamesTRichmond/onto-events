@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Orlando Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:holocaust-memorial-center-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T153000Z
+SUMMARY:Holocaust Memorial Resource & Education Center of Florida Community Showcase
+DESCRIPTION:Prominent cultural education center in Orange County.
+LOCATION:Holocaust Memorial Resource & Education Center of Florida
+URL:https://www.holocaustedu.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:holocaust-memorial-center-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T220000Z
+DTEND:20261027T233000Z
+SUMMARY:Holocaust Memorial Resource & Education Center of Florida Evening Program
+DESCRIPTION:VERIFIED: Educational exhibits survivor testimony series and human rights community forums.
+LOCATION:Holocaust Memorial Resource & Education Center of Florida
+URL:https://www.holocaustedu.org/
+END:VEVENT
+END:VCALENDAR

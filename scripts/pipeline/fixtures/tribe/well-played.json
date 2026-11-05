@@ -1,0 +1,148 @@
+{
+ "pages": [
+  {
+   "total": 6,
+   "total_pages": 1,
+   "events": [
+    {
+     "id": 10000463,
+     "global_id": "wellplayedasheville.com?id=10000463",
+     "title": "Sunday Morning Trivia Brunch!",
+     "description": "<p>Join us every Sunday from 10:30AM – 1PM! Bring your friends and family to compete in our highly interactive Sunday Morning Trivia Brunch. Be prepared to enjoy a delicious breakfast, Mimosas, and breakfast beers &amp; cocktails while deciphering multiple rounds of general knowledge trivia questions. Then stay for board games after! We can’t wait to see you there. Cheers!</p>",
+     "url": "https://wellplayedasheville.com/event/sunday-morning-trivia-brunch/2026-10-11/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-10-11 10:30:00",
+     "end_date": "2026-10-11 13:00:00",
+     "utc_start_date": "2026-10-11 14:30:00",
+     "utc_end_date": "2026-10-11 17:00:00",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 94437,
+      "venue": "Well Played Board Game Café",
+      "address": "162 Coxe Ave, 101",
+      "city": "Asheville",
+      "stateprovince": "NC",
+      "url": "https://wellplayedasheville.com/venue/well-played-board-game-cafe/"
+     },
+     "categories": []
+    },
+    {
+     "id": 95138,
+     "global_id": "wellplayedasheville.com?id=95138",
+     "title": "Family Friendly Dungeons &amp; Dragons",
+     "description": "<p>Join us for an enchanting evening of Family Friendly Dungeons and Dragons! Well Played Board Game Café invites adventurers of all ages to our Family Friendly Dungeons and Dragons Night. Embark on magical quests guided by our wise Dungeon Master, where young heroes and seasoned explorers unite. Enjoy an evening filled with epic storytelling, thrilling adventures, and unforgettable memories. Whether you’re new to the game or a seasoned player, this event promises laughter, teamwork, and a grand [trimmed]</p>",
+     "url": "https://wellplayedasheville.com/event/family-friendly-dungeons-dragons-37/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-10-12 17:00:00",
+     "end_date": "2026-10-12 20:00:00",
+     "utc_start_date": "2026-10-12 21:00:00",
+     "utc_end_date": "2026-10-13 00:00:00",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 94437,
+      "venue": "Well Played Board Game Café",
+      "address": "162 Coxe Ave, 101",
+      "city": "Asheville",
+      "stateprovince": "NC",
+      "url": "https://wellplayedasheville.com/venue/well-played-board-game-cafe/"
+     },
+     "categories": []
+    },
+    {
+     "id": 10000297,
+     "global_id": "wellplayedasheville.com?id=10000297",
+     "title": "Game Designers of NC Meetup",
+     "description": "<p>Come playtest the next generation of games with the Game Designers of North Carolina! Meet your local designers, give your feedback, and discover your next favorite game! Join us from 6-10PM every other Tuesday to playtest board game prototypes with your friends and other players who attend! Feedback by all playtesters is encouraged. For more info about GDoNC, visit: https://gdofnc.herokuapp.com/</p>",
+     "url": "https://wellplayedasheville.com/event/game-designers-of-nc-meetup/2026-10-13/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-10-13 18:00:00",
+     "end_date": "2026-10-13 22:00:00",
+     "utc_start_date": "2026-10-13 22:00:00",
+     "utc_end_date": "2026-10-14 02:00:00",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 94437,
+      "venue": "Well Played Board Game Café",
+      "address": "162 Coxe Ave, 101",
+      "city": "Asheville",
+      "stateprovince": "NC",
+      "url": "https://wellplayedasheville.com/venue/well-played-board-game-cafe/"
+     },
+     "categories": []
+    },
+    {
+     "id": 10000854,
+     "global_id": "wellplayedasheville.com?id=10000854",
+     "title": "Magic: The Gathering at Well Played",
+     "description": "<p>Planeswalkers, unite! Join us every Tuesday night at Well Played for our weekly Magic: The Gathering meetup. Whether you’ve been playing for years or are just starting your journey into the Multiverse, this is your chance to battle, brew, and build community with fellow MTG fans. Casual Standard Format Play – We have multiple decks available for use, so you can jump into a game even if you don’t have your own cards. Learn to Play – New to Magic? No problem! Our Game Masters are here to show you [trimmed]</p>",
+     "url": "https://wellplayedasheville.com/event/magic-the-gathering-at-well-played/2026-10-13/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-10-13 18:00:00",
+     "end_date": "2026-10-13 22:00:00",
+     "utc_start_date": "2026-10-13 22:00:00",
+     "utc_end_date": "2026-10-14 02:00:00",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 94437,
+      "venue": "Well Played Board Game Café",
+      "address": "162 Coxe Ave, 101",
+      "city": "Asheville",
+      "stateprovince": "NC",
+      "url": "https://wellplayedasheville.com/venue/well-played-board-game-cafe/"
+     },
+     "categories": []
+    },
+    {
+     "id": 10001721,
+     "global_id": "wellplayedasheville.com?id=10001721",
+     "title": "Asheville Board Game Club Meetup",
+     "description": "<p>Love tabletop games or want to learn something new? Join our weekly public meetup for a fun, casual evening of board games, card games, and great company. We play a wide variety of games—strategy, party, cooperative, and more—and we’re always happy to teach, so no experience needed! Come solo or bring a friend every Wednesday from 5:30-9:30 p.m. There’s always a seat at the table! For more info about Asheville Board Game Club, visit: [trimmed]</p>",
+     "url": "https://wellplayedasheville.com/event/asheville-board-game-club-meetup-2/2026-10-14/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-10-14 17:30:00",
+     "end_date": "2026-10-14 21:30:00",
+     "utc_start_date": "2026-10-14 21:30:00",
+     "utc_end_date": "2026-10-15 01:30:00",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 94437,
+      "venue": "Well Played Board Game Café",
+      "address": "162 Coxe Ave, 101",
+      "city": "Asheville",
+      "stateprovince": "NC",
+      "url": "https://wellplayedasheville.com/venue/well-played-board-game-cafe/"
+     },
+     "categories": []
+    },
+    {
+     "id": 95147,
+     "global_id": "wellplayedasheville.com?id=95147",
+     "title": "Blood on the Clocktower: Social Deduction Showdown",
+     "description": "<p>Join us in our private room for another sessions of lies, secrets, and murder—can you survive the night? Step into a shadowy world of mystery, murder, and mayhem in Blood on the Clocktower , the cult-favorite social deduction game where lying, bluffing, and sharp observation are key to survival. If you’re a fan of Secret Hitler , Werewolf , or The Resistance , this game takes the genre to the next level—with everyone playing the whole time, and even the dead still whispering in the game… Gather [trimmed]</p>",
+     "url": "https://wellplayedasheville.com/event/blood-on-the-clocktower-social-deduction-showdown-28/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-10-25 14:00:00",
+     "end_date": "2026-10-25 17:00:00",
+     "utc_start_date": "2026-10-25 18:00:00",
+     "utc_end_date": "2026-10-25 21:00:00",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 94437,
+      "venue": "Well Played Board Game Café",
+      "address": "162 Coxe Ave, 101",
+      "city": "Asheville",
+      "stateprovince": "NC",
+      "url": "https://wellplayedasheville.com/venue/well-played-board-game-cafe/"
+     },
+     "categories": []
+    }
+   ]
+  }
+ ]
+}

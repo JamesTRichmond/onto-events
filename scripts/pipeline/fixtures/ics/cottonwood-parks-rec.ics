@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Flagstaff Fixture//EN
+X-WR-TIMEZONE:America/Phoenix
+BEGIN:VEVENT
+UID:cottonwood-parks-rec-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261025T160000Z
+DTEND:20261025T173000Z
+SUMMARY:Verde Valley Youth Basketball Skills Clinic
+DESCRIPTION:Community youth skills coaching and pickup scrimmages at the Cottonwood gym.
+LOCATION:Cottonwood Recreation Center
+URL:https://cottonwoodaz.gov/events/youth-basketball
+END:VEVENT
+BEGIN:VEVENT
+UID:cottonwood-parks-rec-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261029T200000Z
+DTEND:20261029T213000Z
+SUMMARY:Cottonwood Community Senior Fitness & Aquatics Walk
+DESCRIPTION:Low-impact water aerobics and indoor track walking program for Verde Valley seniors.
+LOCATION:Cottonwood Recreation Center
+URL:https://cottonwoodaz.gov/events/senior-fitness
+END:VEVENT
+END:VCALENDAR

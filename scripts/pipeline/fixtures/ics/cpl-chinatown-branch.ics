@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:cpl-chinatown-branch-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Chinatown Bilingual Mandarin-English Family Storytime
+DESCRIPTION:Interactive story reading, nursery rhymes, and papercrafts celebrating Chinese literature and cultural traditions.
+LOCATION:CPL Chinatown Branch Library
+URL:https://www.chipublib.org/locations/21/
+END:VEVENT
+BEGIN:VEVENT
+UID:cpl-chinatown-branch-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Chinatown Community Tea Ceremony & Calligraphy
+DESCRIPTION:Cultural demonstration of traditional brush calligraphy and green tea appreciation in the central community hall.
+LOCATION:CPL Chinatown Branch Library
+URL:https://www.chipublib.org/locations/21/
+END:VEVENT
+END:VCALENDAR

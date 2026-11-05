@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Boston Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:brookline-public-library-main-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Brookline Village Family Storytime & Craft
+DESCRIPTION:Storytelling, sing-alongs, and hands-on art projects for preschool and elementary students in the Children’s Room.
+LOCATION:Public Library of Brookline (Main Library)
+URL:https://www.brooklinelibrary.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:brookline-public-library-main-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Brookline Author Series & Civic Dialogue
+DESCRIPTION:Evening presentation with award-winning New England non-fiction authors and audience Q&A in Hunneman Hall.
+LOCATION:Public Library of Brookline (Main Library)
+URL:https://www.brooklinelibrary.org/
+END:VEVENT
+END:VCALENDAR

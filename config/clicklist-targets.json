@@ -1,0 +1,6 @@
+{
+  "$schema": "./clicklist-targets.schema.json",
+  "version": 1,
+  "description": "Opt-in manifest for cross-repository clicklist synchronization from JamesTRichmond/onto",
+  "targets": []
+}

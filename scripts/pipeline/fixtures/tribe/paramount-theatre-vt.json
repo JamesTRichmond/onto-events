@@ -1,0 +1,551 @@
+{
+  "capturedAt": "2026-10-09T14:51:39.874Z",
+  "requestedUrl": "https://paramountvt.org/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-10-09+00%3A00%3A00&end_date=2026-12-08+23%3A59%3A59&page=1",
+  "evidence": "Real read-only public API capture on the recorded date. The bounded leading time/logistics and admission/rating blocks are unchanged; unrelated biographies, contacts and producer metadata omitted. Explicit audience/age paragraphs retained. Dates and identities are not rewritten. Counts describe this capture, not a hosted catalog.",
+  "pages": [
+    {
+      "total_pages": 1,
+      "total": 23,
+      "events": [
+        {
+          "id": 14511,
+          "global_id": "paramountvt.org?id=14511",
+          "title": "Movie: White Zombie (1932)",
+          "url": "https://paramountvt.org/event/movie-white-zombie-1932/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "start_date": "2026-10-09 00:00:00",
+          "end_date": "2026-10-09 23:59:59",
+          "utc_start_date": "2026-10-09 04:00:00",
+          "utc_end_date": "2026-10-10 03:59:59",
+          "timezone": "America/New_York",
+          "categories": [
+            {
+              "name": "Big Screen",
+              "slug": "big-screen-2",
+              "term_group": 0,
+              "term_taxonomy_id": 22,
+              "taxonomy": "tribe_events_cat",
+              "description": "",
+              "parent": 0,
+              "count": 58,
+              "filter": "raw",
+              "id": 22,
+              "urls": {
+                "self": "https://paramountvt.org/wp-json/tribe/events/v1/categories/22",
+                "collection": "https://paramountvt.org/wp-json/tribe/events/v1/categories"
+              }
+            }
+          ],
+          "description": "<p><strong>2PM</strong></p>\n<p><strong>Lobby doors open and seating begins at 1:30PM</strong></p>\n<p><strong>Tickets:</strong> FREE, no ticket required</p>\n<p><strong>Run Time:</strong> 69 minutes</p>\n<p><strong>Rating:</strong> Not rated, it is widely considered equivalent to a <strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"ep\" data-complete=\"true\" data-copy-service-computed-style=\"font-family: &quot;Google Sans&quot;, Roboto, Arial, sans-serif; font-size: 16px; font-weight: 700; margin: 0px; text-decoration: none; border-bottom: 0px rgb(10, 10, 10);\">PG rating<!--TgQPHd|||[]--></strong> or <strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"ep\" data-complete=\"true\" data-copy-service-computed-style=\"font-family: &quot;Google Sans&quot;, Roboto, Arial, sans-serif; font-size: 16px; font-weight: 700; margin: 0px; text-decoration: none; border-bottom: 0px rgb(10, 10, 10);\">G rating<!--TgQPHd|||[]--></strong> today due to the lack of modern graphic violence, profanity, or sexual content.</p>",
+          "venue": []
+        },
+        {
+          "id": 14491,
+          "global_id": "paramountvt.org?id=14491",
+          "title": "Movie: Practical Magic",
+          "url": "https://paramountvt.org/event/movie-practical-magic/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "start_date": "2026-10-09 00:00:00",
+          "end_date": "2026-10-09 23:59:59",
+          "utc_start_date": "2026-10-09 04:00:00",
+          "utc_end_date": "2026-10-10 03:59:59",
+          "timezone": "America/New_York",
+          "categories": [
+            {
+              "name": "Big Screen",
+              "slug": "big-screen-2",
+              "term_group": 0,
+              "term_taxonomy_id": 22,
+              "taxonomy": "tribe_events_cat",
+              "description": "",
+              "parent": 0,
+              "count": 58,
+              "filter": "raw",
+              "id": 22,
+              "urls": {
+                "self": "https://paramountvt.org/wp-json/tribe/events/v1/categories/22",
+                "collection": "https://paramountvt.org/wp-json/tribe/events/v1/categories"
+              }
+            }
+          ],
+          "description": "<p><strong>7PM</strong></p>\n<p><strong>Lobby doors open and seating begins at 6:30PM</strong></p>\n<p><strong>Tickets:</strong> $5 includes tax and fees</p>\n<p><strong>Run time:</strong> 108 minutes</p>\n<p><strong>Rating:</strong> PG-13</p>\n<p><strong>Production Year:</strong> 1998</p>",
+          "venue": []
+        },
+        {
+          "id": 14247,
+          "global_id": "paramountvt.org?id=14247",
+          "title": "Fraggle Rock: Back to the Rock LIVE",
+          "url": "https://paramountvt.org/event/fraggle-rock-back-to-the-rock-live/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "start_date": "2026-10-12 00:00:00",
+          "end_date": "2026-10-12 23:59:59",
+          "utc_start_date": "2026-10-12 04:00:00",
+          "utc_end_date": "2026-10-13 03:59:59",
+          "timezone": "America/New_York",
+          "categories": [],
+          "description": "<p><strong>6PM<br />\n</strong><strong>Lobby doors open: 5PM</strong><br />\n<strong>Seating begins: 5:30PM</strong></p>\n<p><strong>Tickets:</strong> $40, $45, $55 + tax/fees</p>",
+          "venue": []
+        },
+        {
+          "id": 13737,
+          "global_id": "paramountvt.org?id=13737",
+          "title": "AUSTRALIA&#8217;S THUNDER FROM DOWN UNDER",
+          "url": "https://paramountvt.org/event/australias-thunder-from-down-under/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "start_date": "2026-10-16 00:00:00",
+          "end_date": "2026-10-16 23:59:59",
+          "utc_start_date": "2026-10-16 04:00:00",
+          "utc_end_date": "2026-10-17 03:59:59",
+          "timezone": "America/New_York",
+          "categories": [],
+          "description": "<p><strong>7PM</strong><br />\n<strong>Lobby opens: 6PM</strong><br />\n<strong>Seating begins: 6:30 PM</strong></p>\n<p><strong>Tickets:</strong> $39, $49, $59 + tax/fees</p>\n<p><strong>Age restriction:</strong> 18+ No exceptions.</p>",
+          "venue": []
+        },
+        {
+          "id": 14426,
+          "global_id": "paramountvt.org?id=14426",
+          "title": "Asleep at the Wheel",
+          "url": "https://paramountvt.org/event/asleep-at-the-wheel/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "start_date": "2026-10-17 00:00:00",
+          "end_date": "2026-10-17 23:59:59",
+          "utc_start_date": "2026-10-17 04:00:00",
+          "utc_end_date": "2026-10-18 03:59:59",
+          "timezone": "America/New_York",
+          "categories": [],
+          "description": "<p><strong>7PM</strong></p>\n<p><strong>Lobby doors open at 6PM </strong><br />\n<strong>Seating begins at 6:30PM</strong></p>\n<p><strong>Tickets:</strong> $35, $45, $55, $95</p>",
+          "venue": []
+        },
+        {
+          "id": 14684,
+          "global_id": "paramountvt.org?id=14684",
+          "title": "Met Opera: Macbeth (Verdi)",
+          "url": "https://paramountvt.org/event/met-opera-macbeth-verdi/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "start_date": "2026-10-20 00:00:00",
+          "end_date": "2026-10-20 23:59:59",
+          "utc_start_date": "2026-10-20 04:00:00",
+          "utc_end_date": "2026-10-21 03:59:59",
+          "timezone": "America/New_York",
+          "categories": [
+            {
+              "name": "Met Opera in HD",
+              "slug": "met-opera-in-hd",
+              "term_group": 0,
+              "term_taxonomy_id": 12,
+              "taxonomy": "tribe_events_cat",
+              "description": "",
+              "parent": 0,
+              "count": 95,
+              "filter": "raw",
+              "id": 12,
+              "urls": {
+                "self": "https://paramountvt.org/wp-json/tribe/events/v1/categories/12",
+                "collection": "https://paramountvt.org/wp-json/tribe/events/v1/categories"
+              }
+            }
+          ],
+          "description": "<p><strong>1PM</strong><br />\n<strong>Lobby doors open and seating begins: 12:30PM</strong><br />\n<strong>Tickets:</strong> $20 (includes tax) + fees</p>\n<p><em>Encore presentation</em><br />\n<em>Estimated run time: 3 hours including intermission</em></p>",
+          "venue": []
+        },
+        {
+          "id": 14293,
+          "global_id": "paramountvt.org?id=14293",
+          "title": "Comedian Bob Marley",
+          "url": "https://paramountvt.org/event/comedian-bob-marley-3/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "start_date": "2026-10-23 00:00:00",
+          "end_date": "2026-10-23 23:59:59",
+          "utc_start_date": "2026-10-23 04:00:00",
+          "utc_end_date": "2026-10-24 03:59:59",
+          "timezone": "America/New_York",
+          "categories": [],
+          "description": "<p><strong>7:30PM<br />\nLobby doors open: 6:30PM</strong><br />\n<strong>Seating begins: 7PM</strong></p>\n<p><strong>Tickets:</strong> $40, $45 + tax/fees</p>",
+          "venue": []
+        },
+        {
+          "id": 14517,
+          "global_id": "paramountvt.org?id=14517",
+          "title": "Movie: House on Haunted Hill (1958)",
+          "url": "https://paramountvt.org/event/movie-house-on-haunted-hill-1958/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "start_date": "2026-10-23 00:00:00",
+          "end_date": "2026-10-23 23:59:59",
+          "utc_start_date": "2026-10-23 04:00:00",
+          "utc_end_date": "2026-10-24 03:59:59",
+          "timezone": "America/New_York",
+          "categories": [
+            {
+              "name": "Big Screen",
+              "slug": "big-screen-2",
+              "term_group": 0,
+              "term_taxonomy_id": 22,
+              "taxonomy": "tribe_events_cat",
+              "description": "",
+              "parent": 0,
+              "count": 58,
+              "filter": "raw",
+              "id": 22,
+              "urls": {
+                "self": "https://paramountvt.org/wp-json/tribe/events/v1/categories/22",
+                "collection": "https://paramountvt.org/wp-json/tribe/events/v1/categories"
+              }
+            }
+          ],
+          "description": "<p><strong>2PM</strong></p>\n<p><strong>Lobby doors open and seating begins at 1:30PM</strong></p>\n<p><strong>Tickets:</strong> FREE, no ticket required</p>\n<p><strong>Run Time: </strong>75 minutes</p>\n<p><strong>Rating:</strong> Not rated, commonly assigned a PG rating for its mild, classic horror content.</p>",
+          "venue": []
+        },
+        {
+          "id": 14331,
+          "global_id": "paramountvt.org?id=14331",
+          "title": "Mavis Staples",
+          "url": "https://paramountvt.org/event/mavis-staples-2/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "start_date": "2026-10-25 00:00:00",
+          "end_date": "2026-10-25 23:59:59",
+          "utc_start_date": "2026-10-25 04:00:00",
+          "utc_end_date": "2026-10-26 03:59:59",
+          "timezone": "America/New_York",
+          "categories": [],
+          "description": "<p>7PM</p>\n<p><strong>Lobby doors open: 6PM</strong><br />\n<strong>Seating begins: 6:30PM</strong></p>\n<p><strong>Tickets:</strong> $55, $65, $75, $85 + tax/fees</p>\n<p><strong>Complimentary vouchers are not valid for this performance</strong></p>",
+          "venue": []
+        },
+        {
+          "id": 13589,
+          "global_id": "paramountvt.org?id=13589",
+          "title": "The Price Is Right Live &#8211; On Stage",
+          "url": "https://paramountvt.org/event/the-price-is-right-live-on-stage/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "start_date": "2026-10-28 00:00:00",
+          "end_date": "2026-10-28 23:59:59",
+          "utc_start_date": "2026-10-28 04:00:00",
+          "utc_end_date": "2026-10-29 03:59:59",
+          "timezone": "America/New_York",
+          "categories": [],
+          "description": "<p><strong>7:30PM</strong><br />\n<strong>Seating begins: 7PM<br />\nCheck-in begins: 5:30PM</strong></p>\n<p><strong>Tickets:</strong> $49, $59, $69 + tax/fees</p>\n<p><strong>Complimentary vouchers are not valid for this performance.</strong></p>\n<p>Come on Down to THE PRICE IS RIGHT LIVE&#x2122;, you could be next! This family-friendly show is making its way to you, get your tickets TODAY!</p>",
+          "venue": []
+        },
+        {
+          "id": 14299,
+          "global_id": "paramountvt.org?id=14299",
+          "title": "Sing Along Broadway",
+          "url": "https://paramountvt.org/event/sing-along-broadway/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "start_date": "2026-10-29 00:00:00",
+          "end_date": "2026-10-29 23:59:59",
+          "utc_start_date": "2026-10-29 04:00:00",
+          "utc_end_date": "2026-10-30 03:59:59",
+          "timezone": "America/New_York",
+          "categories": [],
+          "description": "<p><strong>7:30PM<br />\n</strong><strong>Lobby doors open: 6:30PM</strong><br />\n<strong>Seating begins: 7PM</strong></p>\n<p><strong>Tickets:</strong>All seats $29 + tax/fees</p>",
+          "venue": []
+        },
+        {
+          "id": 14508,
+          "global_id": "paramountvt.org?id=14508",
+          "title": "Movie: Night of the Living Dead (1968)",
+          "url": "https://paramountvt.org/event/movie-night-of-the-living-dead-1968/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "start_date": "2026-10-30 00:00:00",
+          "end_date": "2026-10-30 23:59:59",
+          "utc_start_date": "2026-10-30 04:00:00",
+          "utc_end_date": "2026-10-31 03:59:59",
+          "timezone": "America/New_York",
+          "categories": [
+            {
+              "name": "Big Screen",
+              "slug": "big-screen-2",
+              "term_group": 0,
+              "term_taxonomy_id": 22,
+              "taxonomy": "tribe_events_cat",
+              "description": "",
+              "parent": 0,
+              "count": 58,
+              "filter": "raw",
+              "id": 22,
+              "urls": {
+                "self": "https://paramountvt.org/wp-json/tribe/events/v1/categories/22",
+                "collection": "https://paramountvt.org/wp-json/tribe/events/v1/categories"
+              }
+            }
+          ],
+          "description": "<p><strong>2PM</strong></p>\n<p><strong>Lobby doors open and seating begins at 1:30PM</strong></p>\n<p><strong>Tickets:</strong> FREE, no ticket required</p>\n<p><strong>Run Time: </strong>96 minutes</p>\n<p><strong>Rating:</strong> Not rated but often considered comparable to a modern <strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"ep\" data-complete=\"true\" data-copy-service-computed-style=\"font-family: &quot;Google Sans&quot;, Roboto, Arial, sans-serif; font-size: 16px; font-weight: 700; margin: 0px; text-decoration: none; border-bottom: 0px rgb(10, 10, 10);\">R<!--TgQPHd|||[]--></strong> or <strong class=\"rQesXe MPyX\" data-sfc-cp=\"\" data-sfc-root=\"ep\" data-complete=\"true\" data-copy-service-computed-style=\"font-family: &quot;Google Sans&quot;, Roboto, Arial, sans-serif; font-size: 16px; font-weight: 700; margin: 0px; text-decoration: none; border-bottom: 0px rgb(10, 10, 10);\">17+<!--TgQPHd|||[]--></strong> rating due to its intense themes and graphic nature.</p>",
+          "venue": []
+        },
+        {
+          "id": 14495,
+          "global_id": "paramountvt.org?id=14495",
+          "title": "Movie: Hocus Pocus",
+          "url": "https://paramountvt.org/event/movie-hocus-pocus/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "start_date": "2026-10-30 00:00:00",
+          "end_date": "2026-10-30 23:59:59",
+          "utc_start_date": "2026-10-30 04:00:00",
+          "utc_end_date": "2026-10-31 03:59:59",
+          "timezone": "America/New_York",
+          "categories": [
+            {
+              "name": "Big Screen",
+              "slug": "big-screen-2",
+              "term_group": 0,
+              "term_taxonomy_id": 22,
+              "taxonomy": "tribe_events_cat",
+              "description": "",
+              "parent": 0,
+              "count": 58,
+              "filter": "raw",
+              "id": 22,
+              "urls": {
+                "self": "https://paramountvt.org/wp-json/tribe/events/v1/categories/22",
+                "collection": "https://paramountvt.org/wp-json/tribe/events/v1/categories"
+              }
+            }
+          ],
+          "description": "<p><strong>7PM</strong></p>\n<p><strong>Lobby doors open and seating begins at 6:30PM</strong></p>\n<p><strong>Tickets:</strong> $5 includes tax and fees</p>\n<p><strong>Run time:</strong> 95 minutes</p>\n<p><strong>Rating:</strong> PG</p>\n<p><strong>Production Year:</strong> 1993</p>",
+          "venue": []
+        },
+        {
+          "id": 14501,
+          "global_id": "paramountvt.org?id=14501",
+          "title": "Movie: Halloween",
+          "url": "https://paramountvt.org/event/movie-halloween/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "start_date": "2026-10-31 00:00:00",
+          "end_date": "2026-10-31 23:59:59",
+          "utc_start_date": "2026-10-31 04:00:00",
+          "utc_end_date": "2026-11-01 03:59:59",
+          "timezone": "America/New_York",
+          "categories": [
+            {
+              "name": "Big Screen",
+              "slug": "big-screen-2",
+              "term_group": 0,
+              "term_taxonomy_id": 22,
+              "taxonomy": "tribe_events_cat",
+              "description": "",
+              "parent": 0,
+              "count": 58,
+              "filter": "raw",
+              "id": 22,
+              "urls": {
+                "self": "https://paramountvt.org/wp-json/tribe/events/v1/categories/22",
+                "collection": "https://paramountvt.org/wp-json/tribe/events/v1/categories"
+              }
+            }
+          ],
+          "description": "<p><strong>7PM</strong></p>\n<p><strong>Lobby doors open and seating begins at 6:30PM</strong></p>\n<p><strong>Tickets:</strong> <strong>FREE</strong>, no ticket required</p>\n<p><strong>Run time:</strong> 91 minutes</p>\n<p><strong>Rating:</strong> R</p>\n<p><strong>Production Year:</strong> 1978</p>",
+          "venue": []
+        },
+        {
+          "id": 14337,
+          "global_id": "paramountvt.org?id=14337",
+          "title": "Get the Led Out",
+          "url": "https://paramountvt.org/event/get-the-led-out/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "start_date": "2026-11-06 00:00:00",
+          "end_date": "2026-11-06 23:59:59",
+          "utc_start_date": "2026-11-06 05:00:00",
+          "utc_end_date": "2026-11-07 04:59:59",
+          "timezone": "America/New_York",
+          "categories": [],
+          "description": "<p><strong>7:30PM</strong></p>\n<p><strong>Lobby doors open: 6:30PM</strong><br />\n<strong>Seating begins: 7PM</strong></p>\n<p><strong>Tickets:</strong> $45, $55, $65, $75 + tax/fees</p>",
+          "venue": []
+        },
+        {
+          "id": 13798,
+          "global_id": "paramountvt.org?id=13798",
+          "title": "Punch Brothers",
+          "url": "https://paramountvt.org/event/punch-brothers/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "start_date": "2026-11-08 00:00:00",
+          "end_date": "2026-11-08 23:59:59",
+          "utc_start_date": "2026-11-08 05:00:00",
+          "utc_end_date": "2026-11-09 04:59:59",
+          "timezone": "America/New_York",
+          "categories": [],
+          "description": "<p><strong>7PM<br />\nLobby doors open: 6PM</strong><br />\n<strong>Seating begins: 6:30PM</strong></p>\n<p><strong>Tickets:</strong> $59, $69, $79, $99 + tax/fees</p>\n<p><strong>Ticket Limit:</strong> 6</p>",
+          "venue": []
+        },
+        {
+          "id": 13930,
+          "global_id": "paramountvt.org?id=13930",
+          "title": "A Drag Queen Christmas",
+          "url": "https://paramountvt.org/event/a-drag-queen-christmas/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "start_date": "2026-11-13 00:00:00",
+          "end_date": "2026-11-13 23:59:59",
+          "utc_start_date": "2026-11-13 05:00:00",
+          "utc_end_date": "2026-11-14 04:59:59",
+          "timezone": "America/New_York",
+          "categories": [],
+          "description": "<p><strong>7:30PM</strong></p>\n<p><strong>Lobby doors open: 6:30PM</strong><br />\n<strong>Seating begins: 7PM</strong></p>\n<p><strong>Tickets</strong>: $30, $35, $55, $75, $85, $95, $129 + tax/fees</p>\n<p><b>Age Restriction:</b> 18+</p>\n<p><b>Complimentary vouchers are not valid for this performance.</b></p>",
+          "venue": []
+        },
+        {
+          "id": 14202,
+          "global_id": "paramountvt.org?id=14202",
+          "title": "Judy Collins: Farewell Tour with the Vermont Symphony Orchestra",
+          "url": "https://paramountvt.org/event/sweet-judy-blue-eyes-with-vermont-symphony-orchestra/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "start_date": "2026-11-14 00:00:00",
+          "end_date": "2026-11-14 23:59:59",
+          "utc_start_date": "2026-11-14 05:00:00",
+          "utc_end_date": "2026-11-15 04:59:59",
+          "timezone": "America/New_York",
+          "categories": [],
+          "description": "<p><strong>7PM<br />\nLobby doors open: 6PM</strong><br />\n<strong>Seating begins: 6:30PM</strong></p>\n<p><strong>Tickets:</strong> $70, $90, $105, $175 + tax/fees</p>\n<p><strong>Complimentary vouchers are not valid for this performance.</strong></p>\n<p><strong><em>This event is made possible through the generous support of Jennifer and Fred Bagley and anonymous donors.</em></strong></p>",
+          "venue": []
+        },
+        {
+          "id": 14321,
+          "global_id": "paramountvt.org?id=14321",
+          "title": "VSO Jukebox: Jukebox Turns Ten",
+          "url": "https://paramountvt.org/event/vso-jukebox-jukebox-turns-ten/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "start_date": "2026-11-15 00:00:00",
+          "end_date": "2026-11-15 23:59:59",
+          "utc_start_date": "2026-11-15 05:00:00",
+          "utc_end_date": "2026-11-16 04:59:59",
+          "timezone": "America/New_York",
+          "categories": [
+            {
+              "name": "Vermont Symphony Orchestra",
+              "slug": "vermont-symphony-orchestra",
+              "term_group": 0,
+              "term_taxonomy_id": 28,
+              "taxonomy": "tribe_events_cat",
+              "description": "",
+              "parent": 0,
+              "count": 20,
+              "filter": "raw",
+              "id": 28,
+              "urls": {
+                "self": "https://paramountvt.org/wp-json/tribe/events/v1/categories/28",
+                "collection": "https://paramountvt.org/wp-json/tribe/events/v1/categories"
+              }
+            }
+          ],
+          "description": "<p><strong>4PM</strong><br />\n<strong>Lobby open and seating begins: 3:30PM</strong></p>\n<p><strong>Tickets:</strong><br />\nPay-What-You-Can<br />\n$15, $20, $25, $30 + tax/fees</p>\n<p>All tickets are seated General Admission. Availability will be based on a first come, first served basis. The audience will sit on stage at The Paramount Theatre with the musicians for this performance.</p>",
+          "venue": []
+        },
+        {
+          "id": 14631,
+          "global_id": "paramountvt.org?id=14631",
+          "title": "Dark Star Orchestra",
+          "url": "https://paramountvt.org/event/dark-star-orchestra-5/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "start_date": "2026-11-17 00:00:00",
+          "end_date": "2026-11-17 23:59:59",
+          "utc_start_date": "2026-11-17 05:00:00",
+          "utc_end_date": "2026-11-18 04:59:59",
+          "timezone": "America/New_York",
+          "categories": [
+            {
+              "name": "Just Released",
+              "slug": "just-released",
+              "term_group": 0,
+              "term_taxonomy_id": 23,
+              "taxonomy": "tribe_events_cat",
+              "description": "",
+              "parent": 0,
+              "count": 12,
+              "filter": "raw",
+              "id": 23,
+              "urls": {
+                "self": "https://paramountvt.org/wp-json/tribe/events/v1/categories/23",
+                "collection": "https://paramountvt.org/wp-json/tribe/events/v1/categories"
+              }
+            }
+          ],
+          "description": "<p><strong>7:30PM</strong></p>\n<p><strong>Lobby doors open @ 6:30PM</strong><br />\n<strong>Seating begins @ 7:00PM</strong></p>\n<p><strong>Tickets:</strong> $40, $50, $60 + tax/fees</p>\n<p><strong>Complimentary vouchers are not valid for this performance.</strong></p>",
+          "venue": []
+        },
+        {
+          "id": 13910,
+          "global_id": "paramountvt.org?id=13910",
+          "title": "Golden Girls: The Laughs Continue",
+          "url": "https://paramountvt.org/event/golden-girls-the-laughs-continue/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "start_date": "2026-11-21 00:00:00",
+          "end_date": "2026-11-21 23:59:59",
+          "utc_start_date": "2026-11-21 05:00:00",
+          "utc_end_date": "2026-11-22 04:59:59",
+          "timezone": "America/New_York",
+          "categories": [],
+          "description": "<div class=\"tribe-events-schedule updated published\">\n<div class=\"tribe-events-cost\"><strong>7PM<br />\nLobby doors open: </strong>6PM<br />\n<strong>Seating begins:</strong> 6:30PM</div>\n</div>\n<div class=\"tribe-events-schedule updated published\">\n<div></div>\n</div>\n<div class=\"tribe_single-event_copy\">\n<p><strong>Tickets: </strong>$29, $39, $49, $59 + tax/fees</p>\n<p style=\"margin-top: 0in;\"><strong><span style=\"font-family: 'Segoe UI',sans-serif; color: #212529;\">Contains adult themes, recommended for ages 18+</span></strong></p>",
+          "venue": []
+        },
+        {
+          "id": 14176,
+          "global_id": "paramountvt.org?id=14176",
+          "title": "A Charlie Brown Christmas &#8211; Live on Stage!",
+          "url": "https://paramountvt.org/event/a-charlie-brown-christmas-2/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "start_date": "2026-12-02 00:00:00",
+          "end_date": "2026-12-02 23:59:59",
+          "utc_start_date": "2026-12-02 05:00:00",
+          "utc_end_date": "2026-12-03 04:59:59",
+          "timezone": "America/New_York",
+          "categories": [],
+          "description": "<p><strong>7PM<br />\nLobby doors open: 6PM</strong><br />\n<strong>Seating begins: 6:30PM</strong></p>\n<p><strong>Tickets:</strong> $45, $55, $65 + tax/fees</p>",
+          "venue": []
+        },
+        {
+          "id": 14390,
+          "global_id": "paramountvt.org?id=14390",
+          "title": "VSO: Holiday Pops",
+          "url": "https://paramountvt.org/event/vso-holiday-pops-6/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "start_date": "2026-12-04 00:00:00",
+          "end_date": "2026-12-04 23:59:59",
+          "utc_start_date": "2026-12-04 05:00:00",
+          "utc_end_date": "2026-12-05 04:59:59",
+          "timezone": "America/New_York",
+          "categories": [
+            {
+              "name": "Vermont Symphony Orchestra",
+              "slug": "vermont-symphony-orchestra",
+              "term_group": 0,
+              "term_taxonomy_id": 28,
+              "taxonomy": "tribe_events_cat",
+              "description": "",
+              "parent": 0,
+              "count": 20,
+              "filter": "raw",
+              "id": 28,
+              "urls": {
+                "self": "https://paramountvt.org/wp-json/tribe/events/v1/categories/28",
+                "collection": "https://paramountvt.org/wp-json/tribe/events/v1/categories"
+              }
+            }
+          ],
+          "description": "<p><strong>7:30PM</strong><br />\n<strong>Lobby doors open: 6:30PM</strong><br />\n<strong>Seating begins: 7PM</strong></p>\n<p><strong>Tickets:</strong> $33, $45 + tax/fees<br />\n<strong>Student tickets:</strong> $10 + tax/fees</p>\n<p>We’re celebrating the season with music that is both reflective and radiant—sending audiences home with a melody in their hearts and a sense of holiday warmth. Our upcoming Holiday Pops concerts feature the full orchestra alongside VSO’s 80-voice chorus, leading spirited sing-alongs and performing festive favorites by Leroy Anderson, George Frideric Handel, Duke Ellington, and Georges Bizet. This year’s program also introduces two works new to VSO audiences: Margaret Bonds’ The Ballad of the Brown King, a powerful cantata honoring Balthazar with text by Langston Hughes, and Bob Krogstad’s Christmas at the Movies, a nostalgic medley featuring themes from The Grinch, The Polar Express, Miracle on 34th Street, and more. Beloved traditional carols round out this joyful, family-friendly holiday tradition.</p>",
+          "venue": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:evanston-public-library-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Evanston Family Maker Studio & Storytime
+DESCRIPTION:STEM projects, creative craft exploration, and interactive read-alouds for North Shore families on Orrington Avenue.
+LOCATION:Evanston Public Library (Main)
+URL:https://www.epl.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:evanston-public-library-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Evanston Writers & Authors Series
+DESCRIPTION:Evening presentation with regional Midwestern authors discussing new non-fiction releases.
+LOCATION:Evanston Public Library (Main)
+URL:https://www.epl.org/
+END:VEVENT
+END:VCALENDAR

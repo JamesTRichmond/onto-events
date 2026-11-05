@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Los Angeles Fixture//EN
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:lacounty-library-west-hollywood-event-1@onto.events
+DTSTAMP:20261018T120000Z
+DTSTART:20261024T180000Z
+DTEND:20261024T193000Z
+SUMMARY:LA County Library — West Hollywood Library Community Showcase
+DESCRIPTION:Modern multi-story civic library overlooking West Hollywood Park with author talks, exhibitions, and reading programs.
+LOCATION:LA County Library — West Hollywood Library
+URL:https://lacountylibrary.org/west-hollywood-library/
+END:VEVENT
+BEGIN:VEVENT
+UID:lacounty-library-west-hollywood-event-2@onto.events
+DTSTAMP:20261018T120000Z
+DTSTART:20261028T010000Z
+DTEND:20261028T023000Z
+SUMMARY:LA County Library — West Hollywood Library Evening Arts & Discussion
+DESCRIPTION:Evening public program and cultural discussion at LA County Library — West Hollywood Library.
+LOCATION:LA County Library — West Hollywood Library
+URL:https://lacountylibrary.org/west-hollywood-library/
+END:VEVENT
+END:VCALENDAR

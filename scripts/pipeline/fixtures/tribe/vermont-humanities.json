@@ -1,0 +1,1615 @@
+{
+  "capture": {
+    "startedAt": "2026-10-15T23:31:48.110Z",
+    "completedAt": "2026-10-15T23:31:49.022Z",
+    "evaluationClock": "2026-10-15T23:31:42.544Z",
+    "publicUrl": "https://www.vermonthumanities.org/wp-json/tribe/events/v1/events",
+    "rawCaptureSha256": "f983edbdbf764f445b383d303d1033aaf466d678937d8f387f8fe075de0eb712"
+  },
+  "sanitization": "Real public API responses. Original event dates,IDs,UTC/local clocks,full eligibility/age prose and pagination retained. Unconsumed author/organizer/media/tracking fields omitted; direct contact strings redacted. No dates or occurrences invented.",
+  "pages": [
+    {
+      "total": 48,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 46189,
+          "global_id": "www.vermonthumanities.org?id=46189",
+          "url": "https://www.vermonthumanities.org/event/vermont-sampler-stories-vermont-state-university-castleton-2026/",
+          "title": "Vermont Sampler Stories",
+          "description": "<p>This presentation is based on the research Michele Pagan has done into the Revolutionary War ancestors of the girls who made 19th century schoolgirl samplers. Needlework samplers are a visual record of the values that guided early female education in Vermont, including its focus on needlework as an essential skill for all girls and women. As artifacts of female education, they provide insight into family dynamics, local history, and community values.</p>\n<h4>About the presenter</h4>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-43804 alignleft\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2025/08/Michele-Pagan-Headshot-225x300.jpg\" alt=\"Headshot of Michele Pagan, an older white woman standing in front of some windows wearing a black floral blouse\" width=\"225\" height=\"300\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2025/08/Michele-Pagan-Headshot-225x300.jpg 225w, https://www.vermonthumanities.org/wp-content/uploads/2025/08/Michele-Pagan-Headshot-768x1024.jpg 768w, https://www.vermonthumanities.org/wp-content/uploads/2025/08/Michele-Pagan-Headshot-1152x1536.jpg 1152w, https://www.vermonthumanities.org/wp-content/uploads/2025/08/Michele-Pagan-Headshot-1536x2048.jpg 1536w, https://www.vermonthumanities.org/wp-content/uploads/2025/08/Michele-Pagan-Headshot-scaled.jpg 900w\" sizes=\"auto, (max-width: 225px) 100vw, 225px\" /></p>\n<p>Michele Pagán is a recently-returned native Vermonter, who spent her childhood in Bennington. She is a graduate of the University of Vermont and the University of Connecticut, where she studied clothing and textiles. She credits her early experience visiting the Bennington Museum with opening new doors to her, allowing her to envision a unique career trajectory. The Bennington Museum recently published her research entitled <em>Geography and Technological Change in Vermont: The Transition from Homespun Flax To Machine-Made Cotton Textiles</em>.</p>\n<p>Today she is a textile conservator in private practice who likes to say that she is “saving history one piece of fabric at a time.” She works out of her studio in East Dorset. Michele is currently the Special Projects Coordinator with the VT Sampler Initiative, and instigated the 2025 “From Bennington to Brownington: the Vermont Samplers Driving Tour,” in conjunction with the Vermont State 250th Commemoration of the start of the American Revolution.</p>",
+          "all_day": false,
+          "start_date": "2026-10-15 12:30:00",
+          "end_date": "2026-10-15 14:00:00",
+          "utc_start_date": "2026-10-15 16:30:00",
+          "utc_end_date": "2026-10-15 18:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 38928,
+            "venue": "Vermont State University Castleton, Jeffords Auditorium",
+            "url": "https://www.vermonthumanities.org/venue/castleton-university-jeffords-auditorium/",
+            "address": "233 South St",
+            "city": "Castleton",
+            "stateprovince": "Vermont",
+            "zip": "05735",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 647,
+              "name": "250th",
+              "slug": "250th"
+            },
+            {
+              "id": 103,
+              "name": "Speakers Bureau",
+              "slug": "speakers-bureau"
+            },
+            {
+              "id": 108,
+              "name": "Vermont Reads",
+              "slug": "vermont-reads"
+            }
+          ]
+        },
+        {
+          "id": 47434,
+          "global_id": "www.vermonthumanities.org?id=47434",
+          "url": "https://www.vermonthumanities.org/event/vsu-castleton-granger-palooza-5/",
+          "title": "Granger Palooza! A Celebration of Vermont&#8217;s Native American Heritage",
+          "description": "<p>Granger House is located in a community rich in Native American heritage. Come learn about Vermont’s Native American history and culture through stories, songs, and discussions with Chief Roger Longtoe of Vermont’s Elnu Abenaki. Light refreshments will be served.</p>\n<p>Parking at the house is limited; however, extensive parking is available in the Leavenworth Hall, Jeffords Science Center, and Campus Center parking lots, all within a short distance of the house. More information on parking and accessibility is available on the <a href=\"https://maps.vermontstate.edu/?id=2192#!ct/91070,99288,85140,106310,106311,85141,99290?s/\">VTSU – Castleton map.</a></p>\n<p>No restroom facilities are currently available at the house; however, accessible restrooms are available at several adjacent locations including the Campus Center and nearby Moriarty House. All site staff will be able to provide directions to those locations.</p>\n<h4>About the Fall Festival 2026</h4>\n<p>Each year, our Fall Festival celebrates National Arts and Humanities Month in October and reminds Vermonters of the impact and breadth of the humanities. This year’s <strong><em>Fall Festival 2026: Our Woven History</em></strong> recognizes the stories contained in our <a href=\"https://www.vermonthumanities.org/programs/book-a-program/vermont-reads/vermont-reads-2026/\">Vermont Reads 2026 book, <em>Charity &amp; Sylvia</em> by Tillie Walden</a>, while also commemorating the 250th anniversary of our nation’s founding.</p>\n<hr />\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-26677 alignleft\" src=\"https://vermonthumanities.org/wp-content/uploads/2021/08/info-pCropSmall.jpg\" alt=\"Question mark symbol\" width=\"95\" height=\"95\" />Please contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> for information on disability services. To request a specific accommodation, contact us at least three weeks prior to the event. Vermont Humanities strives to provide accommodations whenever possible. All event locations are ADA accessible.</p>",
+          "all_day": false,
+          "start_date": "2026-10-15 16:00:00",
+          "end_date": "2026-10-15 18:00:00",
+          "utc_start_date": "2026-10-15 20:00:00",
+          "utc_end_date": "2026-10-15 22:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 47424,
+            "venue": "VSU Castleton- Granger House",
+            "url": "https://www.vermonthumanities.org/venue/vsu-castleton-granger-house/",
+            "address": "30 Seminary Lane",
+            "city": "Castleton",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05735",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 658,
+              "name": "Fall Festival 2026",
+              "slug": "fall-festival-2026"
+            }
+          ]
+        },
+        {
+          "id": 46994,
+          "global_id": "www.vermonthumanities.org?id=46994",
+          "url": "https://www.vermonthumanities.org/event/mcl-threads-of-history-ff26-3/",
+          "title": "Threads of History: The Remarkable Life of Fred Nicklewhite – Tailor, Jazz Lover, and Village Icon",
+          "description": "<p>Arriving in Manchester during the Woodrow Wilson era, master tailor Fred Nicklewhite became an essential thread in the fabric of Manchester Village. Renowned for crafting fine bespoke suits for summer guests at the Equinox Hotel, Fred was equally known for his gentle spirit, love of scripture and poetry, and personal friendships with Harlem jazz legends like Duke Ellington and Cab Calloway. Join Manchester Historical Society Curator Shawn Harrington in the Library as we celebrate the story of a man who lived past his second century, loved horse racing and great music, and left an indelible mark on our community.</p>\n<h4>About the Fall Festival 2026</h4>\n<p>Each year, our Fall Festival celebrates National Arts and Humanities Month in October and reminds Vermonters of the impact and breadth of the humanities. This year’s <strong><em>Fall Festival 2026: Our Woven History</em></strong> recognizes the stories contained in our <a href=\"https://www.vermonthumanities.org/programs/book-a-program/vermont-reads/vermont-reads-2026/\">Vermont Reads 2026 book, <em>Charity &amp; Sylvia</em> by Tillie Walden</a>, while also commemorating the 250th anniversary of our nation’s founding.</p>\n<hr />\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-26677 alignleft\" src=\"https://vermonthumanities.org/wp-content/uploads/2021/08/info-pCropSmall.jpg\" alt=\"Question mark symbol\" width=\"95\" height=\"95\" />Please contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> for information on disability services. To request a specific accommodation, contact us at least three weeks prior to the event. Vermont Humanities strives to provide accommodations whenever possible. All event locations are ADA accessible.</p>",
+          "all_day": false,
+          "start_date": "2026-10-15 17:30:00",
+          "end_date": "2026-10-15 19:00:00",
+          "utc_start_date": "2026-10-15 21:30:00",
+          "utc_end_date": "2026-10-15 23:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 8633,
+            "venue": "Manchester Community Library",
+            "url": "https://www.vermonthumanities.org/venue/manchester-community-library/",
+            "address": "138 Cemetery Ave",
+            "city": "Manchester Center",
+            "zip": "05255",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 658,
+              "name": "Fall Festival 2026",
+              "slug": "fall-festival-2026"
+            }
+          ]
+        },
+        {
+          "id": 47442,
+          "global_id": "www.vermonthumanities.org?id=47442",
+          "url": "https://www.vermonthumanities.org/event/vsu-castleton-granger-palooza-6/",
+          "title": "Granger Palooza! Presenting the Past in 3D Workshop",
+          "description": "<p>The Castleton Hidden History Project is using advanced 3D technologies to document and share the history of Granger House and its residents. Come join VTSU students and faculty for a workshop on 3D scanning and 3D printing as new ways to present the past. Advance registration encouraged.</p>\n<p><a class=\"button\" href=\"https://forms.gle/66PiaGhwD87NvtTU6\">Register Here</a></p>\n<p>Parking at the house is limited; however, extensive parking is available in the Leavenworth Hall, Jeffords Science Center, and Campus Center parking lots, all within a short distance of the house. More information on parking and accessibility is available on the <a href=\"https://maps.vermontstate.edu/?id=2192#!ct/91070,99288,85140,106310,106311,85141,99290?s/\">VTSU – Castleton map.</a></p>\n<p>No restroom facilities are currently available at the house; however, accessible restrooms are available at several adjacent locations including the Campus Center and nearby Moriarty House. All site staff will be able to provide directions to those locations.</p>\n<h4>About the Fall Festival 2026</h4>\n<p>Each year, our Fall Festival celebrates National Arts and Humanities Month in October and reminds Vermonters of the impact and breadth of the humanities. This year’s <strong><em>Fall Festival 2026: Our Woven History</em></strong> recognizes the stories contained in our <a href=\"https://www.vermonthumanities.org/programs/book-a-program/vermont-reads/vermont-reads-2026/\">Vermont Reads 2026 book, <em>Charity &amp; Sylvia</em> by Tillie Walden</a>, while also commemorating the 250th anniversary of our nation’s founding.</p>\n<hr />\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-26677 alignleft\" src=\"https://vermonthumanities.org/wp-content/uploads/2021/08/info-pCropSmall.jpg\" alt=\"Question mark symbol\" width=\"95\" height=\"95\" />Please contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> for information on disability services. To request a specific accommodation, contact us at least three weeks prior to the event. Vermont Humanities strives to provide accommodations whenever possible. All event locations are ADA accessible.</p>",
+          "all_day": false,
+          "start_date": "2026-10-16 14:00:00",
+          "end_date": "2026-10-16 16:00:00",
+          "utc_start_date": "2026-10-16 18:00:00",
+          "utc_end_date": "2026-10-16 20:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 47424,
+            "venue": "VSU Castleton- Granger House",
+            "url": "https://www.vermonthumanities.org/venue/vsu-castleton-granger-house/",
+            "address": "30 Seminary Lane",
+            "city": "Castleton",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05735",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 658,
+              "name": "Fall Festival 2026",
+              "slug": "fall-festival-2026"
+            }
+          ]
+        },
+        {
+          "id": 47444,
+          "global_id": "www.vermonthumanities.org?id=47444",
+          "url": "https://www.vermonthumanities.org/event/vsu-castleton-granger-palooza-7/",
+          "title": "Granger Palooza! Granger House Tours and Backyard Tailgate",
+          "description": "<p>Come join VTSU students and faculty from the Castleton Hidden History Project for lively tours of the house, question-and-answer sessions about ongoing research, and a discussion of its future as a museum. Light refreshments and tailgate-themed snacks will be served.</p>\n<p>Parking at the house is limited; however, extensive parking is available in the Leavenworth Hall, Jeffords Science Center, and Campus Center parking lots, all within a short distance of the house. More information on parking and accessibility is available on the <a href=\"https://maps.vermontstate.edu/?id=2192#!ct/91070,99288,85140,106310,106311,85141,99290?s/\">VTSU – Castleton map.</a></p>\n<p>No restroom facilities are currently available at the house; however, accessible restrooms are available at several adjacent locations including the Campus Center and nearby Moriarty House. All site staff will be able to provide directions to those locations.</p>\n<h4>About the Fall Festival 2026</h4>\n<p>Each year, our Fall Festival celebrates National Arts and Humanities Month in October and reminds Vermonters of the impact and breadth of the humanities. This year’s <strong><em>Fall Festival 2026: Our Woven History</em></strong> recognizes the stories contained in our <a href=\"https://www.vermonthumanities.org/programs/book-a-program/vermont-reads/vermont-reads-2026/\">Vermont Reads 2026 book, <em>Charity &amp; Sylvia</em> by Tillie Walden</a>, while also commemorating the 250th anniversary of our nation’s founding.</p>\n<hr />\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-26677 alignleft\" src=\"https://vermonthumanities.org/wp-content/uploads/2021/08/info-pCropSmall.jpg\" alt=\"Question mark symbol\" width=\"95\" height=\"95\" />Please contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> for information on disability services. To request a specific accommodation, contact us at least three weeks prior to the event. Vermont Humanities strives to provide accommodations whenever possible. All event locations are ADA accessible.</p>",
+          "all_day": false,
+          "start_date": "2026-10-17 10:00:00",
+          "end_date": "2026-10-17 12:00:00",
+          "utc_start_date": "2026-10-17 14:00:00",
+          "utc_end_date": "2026-10-17 16:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 47424,
+            "venue": "VSU Castleton- Granger House",
+            "url": "https://www.vermonthumanities.org/venue/vsu-castleton-granger-house/",
+            "address": "30 Seminary Lane",
+            "city": "Castleton",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05735",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 658,
+              "name": "Fall Festival 2026",
+              "slug": "fall-festival-2026"
+            }
+          ]
+        },
+        {
+          "id": 47882,
+          "global_id": "www.vermonthumanities.org?id=47882",
+          "url": "https://www.vermonthumanities.org/event/creating-community-through-stories-and-art-all-ages-art-workshop-2026-2/",
+          "title": "Creating Community through Stories and Art-All Ages Art Workshop",
+          "description": "<div class=\"entry-field\">\n<div class=\"entry-field-value\">\n<div class=\"entry-field\">\n<div class=\"entry-field-value\">\n<p><img loading=\"lazy\" decoding=\"async\" class=\" wp-image-47883 alignleft\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/10/creating_community_through_stories_and_art_belpre-300x232.png\" alt=\"\" width=\"417\" height=\"308\" />ALL AGES! Join friends and neighbors for our series of monthly programs learning about diverse artists.</p>\n<p>The October workshop will focus on learning about the art and life of Pura Belpré. Borrow a book about the storyteller, community advocate, and librarian, and share her story with friends. Then attend the art workshop, taught by artist Casey Junker-Bailey, and take home the free book &#8220;Planting Stories: The Life of Librarian and Storyteller Pura Belpré&#8221; by Anika Aldamuy Denise.</p>\n<p><em>This program is supported in part by the Vermont Humanities, the state affiliate of the National Endowment for the humanities.</em></p>\n<div class=\"entry-field\"></div>\n</div>\n</div>\n</div>\n</div>",
+          "all_day": false,
+          "start_date": "2026-10-17 10:30:00",
+          "end_date": "2026-10-17 10:30:00",
+          "utc_start_date": "2026-10-17 14:30:00",
+          "utc_end_date": "2026-10-17 14:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 46017,
+            "venue": "South Londonderry Free Library",
+            "url": "https://www.vermonthumanities.org/venue/south-londonderry-free-library/",
+            "address": "15 Old School Street",
+            "city": "South Londonderry",
+            "zip": "05155",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 112,
+              "name": "Grants",
+              "slug": "grants"
+            }
+          ]
+        },
+        {
+          "id": 47865,
+          "global_id": "www.vermonthumanities.org?id=47865",
+          "url": "https://www.vermonthumanities.org/event/ethan-allen-homestead-museum-flaxtravaganza-2026/",
+          "title": "Ethan Allen Homestead Museum: Flaxtravaganza!",
+          "description": "<div class=\"entry-field\">\n<div class=\"entry-field-value\">\n<div class=\"entry-field\">\n<div class=\"entry-field-value\">\n<p><img loading=\"lazy\" decoding=\"async\" class=\" wp-image-47866 alignright\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/10/flaxtravaganza_oct_2026_eahm_vertical-225x300.png\" alt=\"\" width=\"366\" height=\"456\" />Come learn what life was like during the time that Charity and Sylvia lived in Vermont!</p>\n<p>Learn from historical reenactors how linen was made from home-grown flax, just like the linen Charity &amp; Sylvia would have worn and worked with.</p>\n<p>This year the Brownell Library will be partnering with the Ethan Allen Homestead Museum to showcase more information about the Vermont Read&#8217;s graphic novel on Charity and Sylvia. Plus, hot apple cider and other fall snacks will be available!</p>\n<p><em>This event is made possible with funding from Vermont Humanities, Vermont 250th Commission, M&amp;T Bank, Northfield Savings Bank, &amp; NorthCountry Federal Credit Union.</em></p>\n<div class=\"entry-field\"></div>\n</div>\n</div>\n</div>\n</div>",
+          "all_day": false,
+          "start_date": "2026-10-17 11:00:00",
+          "end_date": "2026-10-17 11:00:00",
+          "utc_start_date": "2026-10-17 15:00:00",
+          "utc_end_date": "2026-10-17 15:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 46089,
+            "venue": "Ethan Allen Homestead Museum",
+            "url": "https://www.vermonthumanities.org/venue/ethan-allen-homestead-museum/",
+            "address": "1 Ethan Allen Homestead",
+            "city": "Burlington",
+            "zip": "05408",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 108,
+              "name": "Vermont Reads",
+              "slug": "vermont-reads"
+            }
+          ]
+        },
+        {
+          "id": 47446,
+          "global_id": "www.vermonthumanities.org?id=47446",
+          "url": "https://www.vermonthumanities.org/event/vsu-castleton-granger-palooza-8/",
+          "title": "Granger Palooza! Granger House Alumni Celebration",
+          "description": "<p>Come help us celebrate the many VTSU students, past and present, who have contributed to the Castleton Hidden History Project and research at Granger House. Learn about their remarkable work as well as their current adventures while exploring our vision for the home’s future. Light refreshments and more will be served.</p>\n<p>Parking at the house is limited; however, extensive parking is available in the Leavenworth Hall, Jeffords Science Center, and Campus Center parking lots, all within a short distance of the house. More information on parking and accessibility is available on the <a href=\"https://maps.vermontstate.edu/?id=2192#!ct/91070,99288,85140,106310,106311,85141,99290?s/\">VTSU – Castleton map.</a></p>\n<p>No restroom facilities are currently available at the house; however, accessible restrooms are available at several adjacent locations including the Campus Center and nearby Moriarty House. All site staff will be able to provide directions to those locations.</p>\n<h4>About the Fall Festival 2026</h4>\n<p>Each year, our Fall Festival celebrates National Arts and Humanities Month in October and reminds Vermonters of the impact and breadth of the humanities. This year’s <strong><em>Fall Festival 2026: Our Woven History</em></strong> recognizes the stories contained in our <a href=\"https://www.vermonthumanities.org/programs/book-a-program/vermont-reads/vermont-reads-2026/\">Vermont Reads 2026 book, <em>Charity &amp; Sylvia</em> by Tillie Walden</a>, while also commemorating the 250th anniversary of our nation’s founding.</p>\n<hr />\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-26677 alignleft\" src=\"https://vermonthumanities.org/wp-content/uploads/2021/08/info-pCropSmall.jpg\" alt=\"Question mark symbol\" width=\"95\" height=\"95\" />Please contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> for information on disability services. To request a specific accommodation, contact us at least three weeks prior to the event. Vermont Humanities strives to provide accommodations whenever possible. All event locations are ADA accessible.</p>",
+          "all_day": false,
+          "start_date": "2026-10-17 18:00:00",
+          "end_date": "2026-10-17 20:00:00",
+          "utc_start_date": "2026-10-17 22:00:00",
+          "utc_end_date": "2026-10-18 00:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 47424,
+            "venue": "VSU Castleton- Granger House",
+            "url": "https://www.vermonthumanities.org/venue/vsu-castleton-granger-house/",
+            "address": "30 Seminary Lane",
+            "city": "Castleton",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05735",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 658,
+              "name": "Fall Festival 2026",
+              "slug": "fall-festival-2026"
+            }
+          ]
+        },
+        {
+          "id": 45048,
+          "global_id": "www.vermonthumanities.org?id=45048",
+          "url": "https://www.vermonthumanities.org/event/underwater-archaeology-of-the-american-revolution-worcester-historical-society-2026/",
+          "title": "The Underwater Archaeology of the American Revolution on Lake Champlain",
+          "description": "<p>In the years running up to the current 250<sup>th</sup> commemorations of 1776, the Lake Champlain Maritime Museum has focused its research activities on the American Revolution. This presentation will share information on a number of previous, recent, and current research efforts focused on the Revolutionary War in general, and the Battle of Valcour Bay (October 1776) and its aftermath in particular. Archaeological excavations at Valcour Bay, Arnold’s Bay, and recent documentation and research efforts on the gunboat <i>Spitfire</i> will be discussed.  The combination of historical research and archaeological evidence leads to a deeper and more comprehensive understanding of the pivotal events that took place on Lake Champlain in 1776.</p>\n<p>&nbsp;</p>\n<h4>About the Speaker</h4>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-43820 alignleft\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2025/08/Chris-Sabick-Headshot-300x183.jpg\" alt=\"Chris Sabick headshot of a white man with short hair and a beard. He stands in front of a wooden bookshelft that has a model sail ship. he is wearing a blue fleece vest and maroon shirt.\" width=\"300\" height=\"183\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2025/08/Chris-Sabick-Headshot-300x183.jpg 300w, https://www.vermonthumanities.org/wp-content/uploads/2025/08/Chris-Sabick-Headshot-1024x623.jpg 1024w, https://www.vermonthumanities.org/wp-content/uploads/2025/08/Chris-Sabick-Headshot-768x468.jpg 768w, https://www.vermonthumanities.org/wp-content/uploads/2025/08/Chris-Sabick-Headshot-1536x935.jpg 1536w, https://www.vermonthumanities.org/wp-content/uploads/2025/08/Chris-Sabick-Headshot-scaled.jpg 1200w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></p>\n<p>Chris Sabick joined the Lake Champlain Maritime Museum in 1998 as an intern, and returned for a full-time position in 1999. Since that time, he has also acted as an Archaeological Diver, Conservation Lab Director, and the Director of Research and Archaeology.</p>\n<p>In November of 2023 Chris became the Executive Director of the organization. Chris earned a B.A. in History and Anthropology from Ball State University, and a M.A. from the Nautical Archaeology Program at Texas A&amp;M University. Chris has more than 25 years of experience leading the archaeological examination of underwater sites related to the military and commercial history of the northeastern United States and Canada.</p>\n<p>&nbsp;</p>",
+          "all_day": false,
+          "start_date": "2026-10-17 19:00:00",
+          "end_date": "2026-10-17 20:30:00",
+          "utc_start_date": "2026-10-17 23:00:00",
+          "utc_end_date": "2026-10-18 00:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 22323,
+            "venue": "Worcester Town Hall",
+            "url": "https://www.vermonthumanities.org/venue/worcester-town-hall/",
+            "address": "12 Worcester Village Rd",
+            "city": "Worcester",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05682",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 647,
+              "name": "250th",
+              "slug": "250th"
+            },
+            {
+              "id": 103,
+              "name": "Speakers Bureau",
+              "slug": "speakers-bureau"
+            }
+          ]
+        },
+        {
+          "id": 47449,
+          "global_id": "www.vermonthumanities.org?id=47449",
+          "url": "https://www.vermonthumanities.org/event/vsu-castleton-granger-palooza-9/",
+          "title": "Granger Palooza! Granger House Fieltdtrip Reunion",
+          "description": "<p>More than 600 K-12 students and teachers have visited Granger House on field trips over the last five years. Come join us for an afternoon of learning and fun as those students and teachers return to Granger House with their families for house tours, educational exhibits, fieldwork demonstrations, and lively discussion. Light refreshments and backyard games will be available. Some events are weather permitting. Advance registration encouraged, though not required.</p>\n<p><a class=\"button\" href=\"https://forms.gle/zJhT51qjXt5SrAzZ8\">Register Here</a></p>\n<p>Parking at the house is limited; however, extensive parking is available in the Leavenworth Hall, Jeffords Science Center, and Campus Center parking lots, all within a short distance of the house. More information on parking and accessibility is available on the <a href=\"https://maps.vermontstate.edu/?id=2192#!ct/91070,99288,85140,106310,106311,85141,99290?s/\">VTSU – Castleton map.</a></p>\n<p>No restroom facilities are currently available at the house; however, accessible restrooms are available at several adjacent locations including the Campus Center and nearby Moriarty House. All site staff will be able to provide directions to those locations.</p>\n<h4>About the Fall Festival 2026</h4>\n<p>Each year, our Fall Festival celebrates National Arts and Humanities Month in October and reminds Vermonters of the impact and breadth of the humanities. This year’s <strong><em>Fall Festival 2026: Our Woven History</em></strong> recognizes the stories contained in our <a href=\"https://www.vermonthumanities.org/programs/book-a-program/vermont-reads/vermont-reads-2026/\">Vermont Reads 2026 book, <em>Charity &amp; Sylvia</em> by Tillie Walden</a>, while also commemorating the 250th anniversary of our nation’s founding.</p>\n<hr />\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-26677 alignleft\" src=\"https://vermonthumanities.org/wp-content/uploads/2021/08/info-pCropSmall.jpg\" alt=\"Question mark symbol\" width=\"95\" height=\"95\" />Please contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> for information on disability services. To request a specific accommodation, contact us at least three weeks prior to the event. Vermont Humanities strives to provide accommodations whenever possible. All event locations are ADA accessible.</p>",
+          "all_day": false,
+          "start_date": "2026-10-18 13:00:00",
+          "end_date": "2026-10-18 16:00:00",
+          "utc_start_date": "2026-10-18 17:00:00",
+          "utc_end_date": "2026-10-18 20:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 47424,
+            "venue": "VSU Castleton- Granger House",
+            "url": "https://www.vermonthumanities.org/venue/vsu-castleton-granger-house/",
+            "address": "30 Seminary Lane",
+            "city": "Castleton",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05735",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 658,
+              "name": "Fall Festival 2026",
+              "slug": "fall-festival-2026"
+            }
+          ]
+        },
+        {
+          "id": 47726,
+          "global_id": "www.vermonthumanities.org?id=47726",
+          "url": "https://www.vermonthumanities.org/event/vermont-reads-charity-sylvia-book-discussion-gilbert-hart-library/",
+          "title": "Vermont Reads Facilitated Discussion: Gilbert Hart Library",
+          "description": "<p>Join us for a book discussion of this year’s Vermont Reads selection, <em>Charity &amp; Sylvia</em>. This discussion will be facilitated by Joanna Tebbs Young. All are welcome!</p>\n<h3>About the Book</h3>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-46164 alignleft\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-229x300.jpg\" alt=\"Charity and Sylvia book cover with a cartoon drawing of two 19th century women facing each other, and a yellow background\" width=\"229\" height=\"300\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-229x300.jpg 229w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-781x1024.jpg 781w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-768x1007.jpg 768w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-1171x1536.jpg 1171w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-1562x2048.jpg 1562w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-scaled.jpg 915w\" sizes=\"auto, (max-width: 229px) 100vw, 229px\" />Weybridge, Vermont in February 1807 is small, cold, lonely, and beautiful. As an unwed woman with few prospects, Sylvia Drake resides with and cares for her sister’s rambunctious family. But today the house is abuzz awaiting a guest—Charity Bryant. So opens <em>Charity and Sylvia</em> by <a href=\"https://www.vermonthumanities.org/programs/book-a-program/vermont-reads/vermont-reads-2026/about-the-author/\">Tillie Walden</a>, the award-winning, Vermont-based cartoonist and author of <em>Spinning</em> and <em>On a Sunbeam</em>.</p>\n<p>Created by Walden from archival materials at the <a href=\"https://www.henrysheldonmuseum.org/\">Henry Sheldon Museum of Vermont History in Middlebury</a>, and other primary and secondary sources, <em>Charity and Sylvia</em> is a groundbreaking biography that is also the story of 19th century America. For 44 years Charity Bryant and Sylvia Drake lived together as life partners in small town Vermont. And in Walden’s graphic novel, America grows alongside these women. We see the arrival of railroads, the terms of 14 Presidents, riots, rebellion, and plagues.</p>\n<p>&nbsp;</p>\n<h3>About the Author</h3>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"wp-image-45737 alignright\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/02/tillieBioPhotowCels-240x300.jpg\" alt=\"Cartoonist Tillie Walden with uninked pages from her Charity and Sylvia book\" width=\"251\" height=\"296\" /></p>\n<p><a href=\"https://www.tilliewalden.com/books\">Tillie Walden</a> is the award-winning, Vermont-based cartoonist and author of <i>Spinning</i> and <i>On a Sunbeam</i> and <i>Charity and Sylvia</i>. Tillie served as Vermont’s Fifth Cartoonist Laureate from April 2023 to April 2026. She won the 2018 Eisner Award for Best Reality-Based Work at 22 years old, for her graphic memoir Spinning, making her one of the youngest Eisner Award winners ever. She received the <i>Los Angeles Times Book Prize</i> in 2018 for <i>On a Sunbeam</i>.</p>\n<p>Her work includes a graphic novel trilogy featuring <i>The Walking Dead</i> character Clementine and two middle grade graphic novels created with musicians Tegan and Sara. <i>Clementine: Book Three</i> by Tillie Walden is currently nominated for a 2026 Will Eisner Comic Industry Award in the category of Best Publication for Teens. She is a graduate of<a href=\"https://www.cartoonstudies.org/\"> The Center for Cartoon Studies</a> (CCS) class of 2016 in White River Junction and became a professor at CCS in 2021.</p>",
+          "all_day": false,
+          "start_date": "2026-10-18 14:00:00",
+          "end_date": "2026-10-18 14:00:00",
+          "utc_start_date": "2026-10-18 18:00:00",
+          "utc_end_date": "2026-10-18 18:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 8650,
+            "venue": "Gilbert Hart Library",
+            "url": "https://www.vermonthumanities.org/venue/gilbert-hart-library/",
+            "address": "14 South Main Street",
+            "city": "Wallingford",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05773",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 108,
+              "name": "Vermont Reads",
+              "slug": "vermont-reads"
+            }
+          ]
+        },
+        {
+          "id": 47268,
+          "global_id": "www.vermonthumanities.org?id=47268",
+          "url": "https://www.vermonthumanities.org/event/the-lonely-days-are-gone-ferrisburgh-ff26/",
+          "title": "The Lonely Days Are Gone: Community Square Dance Tour",
+          "description": "<p><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-47274 alignright\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/08/Holding-Hands-square-dance-credit-Abby-Raeder-300x200.jpg\" alt=\"Close up photo of two people holding hands as they circle in a square dance.\" width=\"300\" height=\"200\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2026/08/Holding-Hands-square-dance-credit-Abby-Raeder-300x200.jpg 300w, https://www.vermonthumanities.org/wp-content/uploads/2026/08/Holding-Hands-square-dance-credit-Abby-Raeder-1024x683.jpg 1024w, https://www.vermonthumanities.org/wp-content/uploads/2026/08/Holding-Hands-square-dance-credit-Abby-Raeder-768x512.jpg 768w, https://www.vermonthumanities.org/wp-content/uploads/2026/08/Holding-Hands-square-dance-credit-Abby-Raeder-scaled.jpg 1200w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" />This fall, <a href=\"https://www.chandler-arts.org/\">The Lonely Days Are Gone: Community Square Dance Tour</a> brings free concerts and square dances to historic town halls across Vermont!</p>\n<p>Inspired by the state&#8217;s long tradition of contra and square dancing, the tour welcomes neighbors of all ages to connect through live music, participatory dancing, and shared meals. The tour is headlined by Dorset fiddler, singer, and educator Ida Mae Specker, alongside Shrewsbury caller Sarah Gibson and The Ida Mae Specker Band. Guest Caller Will Mentor will be joining this special event.</p>\n<p><strong>No prior dance experience or partner is required</strong>. In addition to dances, tour stops include special events such as concerts for children and old-time music jams. All events are free and open to the public, and families are encouraged to attend. Old time community jams to follow the events too!</p>\n<p><strong>Schedule:<br />\n</strong>4PM: Concert<br />\n4:30-6:30PM: Square &amp; Contra Dance</p>\n<p>The tour is part of the nationwide commemoration of America&#8217;s 250th anniversary, highlighting the important role that music, dance, and town halls have played in civic life throughout New England.</p>\n<p><em>Banner image by Erika McCormick, photo of hands by Abby Raeder. </em></p>\n<h4>About the Artists</h4>\n<p><img loading=\"lazy\" decoding=\"async\" class=\" wp-image-47260 alignright\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/08/FPOIdaMaeMicrophone-300x201.jpg\" alt=\"Old Mae, a woman with curly brown hair, sings into an antique style microphone while playing the fiddle.\" width=\"231\" height=\"147\" /><strong>Ida Mae Specker</strong> is an old-time fiddler, vocalist, songwriter, educator and radio host from southern Vermont. Blending original compositions with contemporary and traditional material, she brings heartfelt new life and relevance to the living chain of American folk music.</p>\n<p>Alongside her father, legendary Vermont fiddler John Specker, Ida Mae performs a singular take on old-time music—anchored in tradition yet audacious in originality. The late Vermont Public radio host Robert Resnik has called the Specker family “Vermont Folk Heroes.” In 2025, Specker began a collaboration with cellist Yo-Yo Ma and others to explore our connections to community and nature in New England.<br />\nMore info at: <a href=\"https://idamaespecker.com/home\">www.idamaespecker.com</a></p>\n<p><strong>Sarah Gibson</strong> is a musician, dance caller, and journalist from Shrewsbury. She grew up performing world folk music with the Vermont-based Village Harmony and Northern Harmony. Sarah has studied old time music, banjo, and dance traditions in Kentucky and North Carolina, and she is currently a Vermont Traditional Arts Apprentice with the Vermont Folklife Center. She specializes in calling family-friendly gender-free<br />\ndances.</p>\n<h4>About the Fall Festival 2026</h4>\n<p>Each year, our Fall Festival celebrates National Arts and Humanities Month in October and reminds Vermonters of the impact and breadth of the humanities. This year’s <strong><em>Fall Festival 2026: Our Woven History</em></strong> recognizes the stories contained in our <a href=\"https://www.vermonthumanities.org/programs/book-a-program/vermont-reads/vermont-reads-2026/\">Vermont Reads 2026 book, <em>Charity &amp; Sylvia</em> by Tillie Walden</a>, while also commemorating the 250th anniversary of our nation’s founding.</p>\n<hr />\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-26677 alignleft\" src=\"https://vermonthumanities.org/wp-content/uploads/2021/08/info-pCropSmall.jpg\" alt=\"Question mark symbol\" width=\"95\" height=\"95\" />Please contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> for information on disability services. To request a specific accommodation, contact us at least three weeks prior to the event. Vermont Humanities strives to provide accommodations whenever possible. All event locations are ADA accessible.</p>",
+          "all_day": false,
+          "start_date": "2026-10-18 16:00:00",
+          "end_date": "2026-10-18 18:30:00",
+          "utc_start_date": "2026-10-18 20:00:00",
+          "utc_end_date": "2026-10-18 22:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 47269,
+            "venue": "Ferrisburgh Union Meeting Hall",
+            "url": "https://www.vermonthumanities.org/venue/ferrisburgh-union-meeting-hall/",
+            "address": "3279 US-7",
+            "city": "Ferrisburgh",
+            "zip": "05456",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 658,
+              "name": "Fall Festival 2026",
+              "slug": "fall-festival-2026"
+            }
+          ]
+        },
+        {
+          "id": 47491,
+          "global_id": "www.vermonthumanities.org?id=47491",
+          "url": "https://www.vermonthumanities.org/event/vermont-reads-charity-sylvia-kellogg-hubbard-library-2026/",
+          "title": "Vermont Reads Facilitated Discussion: Kellogg-Hubbard Library",
+          "description": "<p>Join us for a book discussion of this year’s Vermont Reads selection, <em>Charity &amp; Sylvia</em>. This discussion will be facilitated by Ben Hewitt.</p>\n<p>Together, we&#8217;ll explore the book&#8217;s themes of Vermont&#8217;s early history, friendship, family, faith, resilience, and the evolving understanding of LGBTQ+ identity. Whether you&#8217;re a longtime fan of graphic novels or reading one for the first time, all are welcome to join the conversation.</p>\n<h3>About the Book</h3>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-46164 alignleft\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-229x300.jpg\" alt=\"Charity and Sylvia book cover with a cartoon drawing of two 19th century women facing each other, and a yellow background\" width=\"229\" height=\"300\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-229x300.jpg 229w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-781x1024.jpg 781w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-768x1007.jpg 768w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-1171x1536.jpg 1171w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-1562x2048.jpg 1562w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-scaled.jpg 915w\" sizes=\"auto, (max-width: 229px) 100vw, 229px\" />Weybridge, Vermont in February 1807 is small, cold, lonely, and beautiful. As an unwed woman with few prospects, Sylvia Drake resides with and cares for her sister’s rambunctious family. But today the house is abuzz awaiting a guest—Charity Bryant. So opens <em>Charity and Sylvia</em> by <a href=\"https://www.vermonthumanities.org/programs/book-a-program/vermont-reads/vermont-reads-2026/about-the-author/\">Tillie Walden</a>, the award-winning, Vermont-based cartoonist and author of <em>Spinning</em> and <em>On a Sunbeam</em>.</p>\n<p>Created by Walden from archival materials at the <a href=\"https://www.henrysheldonmuseum.org/\">Henry Sheldon Museum of Vermont History in Middlebury</a>, and other primary and secondary sources, <em>Charity and Sylvia</em> is a groundbreaking biography that is also the story of 19th century America. For 44 years Charity Bryant and Sylvia Drake lived together as life partners in small town Vermont. And in Walden’s graphic novel, America grows alongside these women. We see the arrival of railroads, the terms of 14 Presidents, riots, rebellion, and plagues.</p>\n<p>&nbsp;</p>\n<h3>About the Author</h3>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"wp-image-45737 alignright\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/02/tillieBioPhotowCels-240x300.jpg\" alt=\"Cartoonist Tillie Walden with uninked pages from her Charity and Sylvia book\" width=\"251\" height=\"296\" /></p>\n<p><a href=\"https://www.tilliewalden.com/books\">Tillie Walden</a> is the award-winning, Vermont-based cartoonist and author of <i>Spinning</i> and <i>On a Sunbeam</i> and <i>Charity and Sylvia</i>. Tillie served as Vermont’s Fifth Cartoonist Laureate from April 2023 to April 2026. She won the 2018 Eisner Award for Best Reality-Based Work at 22 years old, for her graphic memoir Spinning, making her one of the youngest Eisner Award winners ever. She received the <i>Los Angeles Times Book Prize</i> in 2018 for <i>On a Sunbeam</i>.</p>\n<p>Her work includes a graphic novel trilogy featuring <i>The Walking Dead</i> character Clementine and two middle grade graphic novels created with musicians Tegan and Sara. <i>Clementine: Book Three</i> by Tillie Walden is currently nominated for a 2026 Will Eisner Comic Industry Award in the category of Best Publication for Teens. She is a graduate of<a href=\"https://www.cartoonstudies.org/\"> The Center for Cartoon Studies</a> (CCS) class of 2016 in White River Junction and became a professor at CCS in 2021.</p>",
+          "all_day": false,
+          "start_date": "2026-10-19 17:00:00",
+          "end_date": "2026-10-19 17:00:00",
+          "utc_start_date": "2026-10-19 21:00:00",
+          "utc_end_date": "2026-10-19 21:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 5977,
+            "venue": "Kellogg-Hubbard Library",
+            "url": "https://www.vermonthumanities.org/venue/kellogg-hubbard-library/",
+            "address": "135 Main St",
+            "city": "Montpelier",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05602",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 108,
+              "name": "Vermont Reads",
+              "slug": "vermont-reads"
+            }
+          ]
+        },
+        {
+          "id": 46826,
+          "global_id": "www.vermonthumanities.org?id=46826",
+          "url": "https://www.vermonthumanities.org/event/vermont-reads-2026-community-college-of-vermont-winooski/",
+          "title": "Vermont Reads 2026 Author Presentation",
+          "description": "<p><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-46829 alignright\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/07/CCV_Logo_HQ_01-300x50.png\" alt=\"Logo for the Community College of Vermont.\" width=\"300\" height=\"50\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2026/07/CCV_Logo_HQ_01-300x50.png 300w, https://www.vermonthumanities.org/wp-content/uploads/2026/07/CCV_Logo_HQ_01-1024x170.png 1024w, https://www.vermonthumanities.org/wp-content/uploads/2026/07/CCV_Logo_HQ_01-768x127.png 768w, https://www.vermonthumanities.org/wp-content/uploads/2026/07/CCV_Logo_HQ_01-1536x255.png 1536w, https://www.vermonthumanities.org/wp-content/uploads/2026/07/CCV_Logo_HQ_01-2048x340.png 2048w, https://www.vermonthumanities.org/wp-content/uploads/2026/07/CCV_Logo_HQ_01-scaled.png 1200w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" />Weybridge, Vermont in February 1807 is small, cold, lonely, and beautiful. As an unwed woman with few prospects, Sylvia Drake resides with and cares for her sister’s rambunctious family. But today the house is abuzz awaiting a guest—Charity Bryant. So opens <em>Charity and Sylvia</em> by <a href=\"https://www.vermonthumanities.org/programs/book-a-program/vermont-reads/vermont-reads-2026/about-the-author/\">Tillie Walden</a>, the award-winning, Vermont-based cartoonist and author of <em>Spinning</em> and <em>On a Sunbeam</em>.</p>\n<p>Created by Walden from archival materials at the <a href=\"https://www.henrysheldonmuseum.org/\">Henry Sheldon Museum of Vermont History in Middlebury</a>, and other primary and secondary sources, <em>Charity and Sylvia</em> is a groundbreaking biography that is also the story of 19th century America. Join us for this special presentation from Tillie Walden about the creation of this book.</p>\n<h4><a class=\"button\" href=\"https://www.eventbrite.com/e/1993355452819?aff=oddtdtcreator\">REGISTER FOR THIS FREE EVENT</a></h4>\n<h3>About the Author</h3>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"wp-image-45737 alignright\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/02/tillieBioPhotowCels-240x300.jpg\" alt=\"Cartoonist Tillie Walden with uninked pages from her Charity and Sylvia book\" width=\"177\" height=\"221\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2026/02/tillieBioPhotowCels-240x300.jpg 240w, https://www.vermonthumanities.org/wp-content/uploads/2026/02/tillieBioPhotowCels.jpg 769w\" sizes=\"auto, (max-width: 177px) 100vw, 177px\" /></p>\n<p><a href=\"https://www.tilliewalden.com/books\">Tillie Walden</a> is the award-winning, Vermont-based cartoonist and author of <i>Spinning</i> and <i>On a Sunbeam</i> and <i>Charity and Sylvia</i>. Tillie served as Vermont’s Fifth Cartoonist Laureate from April 2023 to April 2026. She won the 2018 Eisner Award for Best Reality-Based Work at 22 years old, for her graphic memoir Spinning, making her one of the youngest Eisner Award winners ever. She received the <i>Los Angeles Times Book Prize</i> in 2018 for <i>On a Sunbeam</i>.</p>\n<p>Her work includes a graphic novel trilogy featuring <i>The Walking Dead</i> character Clementine and two middle grade graphic novels created with musicians Tegan and Sara. <i>Clementine: Book Three</i> by Tillie Walden is currently nominated for a 2026 Will Eisner Comic Industry Award in the category of Best Publication for Teens. She is a graduate of<a href=\"https://www.cartoonstudies.org/\"> The Center for Cartoon Studies</a> (CCS) class of 2016 in White River Junction and became a professor at CCS in 2021.</p>\n<p>This project was made possible in part by the Institute of Museum and Library Services. <img loading=\"lazy\" decoding=\"async\" class=\" wp-image-46906 alignright\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/07/imls_logo_2c-300x136.jpg\" alt=\"\" width=\"184\" height=\"79\" /></p>",
+          "all_day": false,
+          "start_date": "2026-10-19 18:00:00",
+          "end_date": "2026-10-19 19:30:00",
+          "utc_start_date": "2026-10-19 22:00:00",
+          "utc_end_date": "2026-10-19 23:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 46827,
+            "venue": "Community College of Vermont &#8211; Winooski",
+            "url": "https://www.vermonthumanities.org/venue/community-college-of-vermont-winooski/",
+            "address": "1 Abenaki Way",
+            "city": "Winooski",
+            "zip": "05404",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 108,
+              "name": "Vermont Reads",
+              "slug": "vermont-reads"
+            }
+          ]
+        },
+        {
+          "id": 47863,
+          "global_id": "www.vermonthumanities.org?id=47863",
+          "url": "https://www.vermonthumanities.org/event/vermont-reads-charity-sylvia-enosburgh-public-library-2026/",
+          "title": "Vermont Reads Facilitated Discussion: Enosburgh Public Library",
+          "description": "<p>Join us for a book discussion of this year’s Vermont Reads selection, <em>Charity &amp; Sylvia</em>. This discussion will be facilitated by Rachael Cohen.</p>\n<p>Together, we&#8217;ll explore the book&#8217;s themes of Vermont&#8217;s early history, friendship, family, faith, resilience, and the evolving understanding of LGBTQ+ identity. Whether you&#8217;re a longtime fan of graphic novels or reading one for the first time, all are welcome to join the conversation.</p>\n<h3>About the Book</h3>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-46164 alignleft\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-229x300.jpg\" alt=\"Charity and Sylvia book cover with a cartoon drawing of two 19th century women facing each other, and a yellow background\" width=\"229\" height=\"300\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-229x300.jpg 229w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-781x1024.jpg 781w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-768x1007.jpg 768w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-1171x1536.jpg 1171w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-1562x2048.jpg 1562w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-scaled.jpg 915w\" sizes=\"auto, (max-width: 229px) 100vw, 229px\" />Weybridge, Vermont in February 1807 is small, cold, lonely, and beautiful. As an unwed woman with few prospects, Sylvia Drake resides with and cares for her sister’s rambunctious family. But today the house is abuzz awaiting a guest—Charity Bryant. So opens <em>Charity and Sylvia</em> by <a href=\"https://www.vermonthumanities.org/programs/book-a-program/vermont-reads/vermont-reads-2026/about-the-author/\">Tillie Walden</a>, the award-winning, Vermont-based cartoonist and author of <em>Spinning</em> and <em>On a Sunbeam</em>.</p>\n<p>Created by Walden from archival materials at the <a href=\"https://www.henrysheldonmuseum.org/\">Henry Sheldon Museum of Vermont History in Middlebury</a>, and other primary and secondary sources, <em>Charity and Sylvia</em> is a groundbreaking biography that is also the story of 19th century America. For 44 years Charity Bryant and Sylvia Drake lived together as life partners in small town Vermont. And in Walden’s graphic novel, America grows alongside these women. We see the arrival of railroads, the terms of 14 Presidents, riots, rebellion, and plagues.</p>\n<p>&nbsp;</p>\n<h3>About the Author</h3>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"wp-image-45737 alignright\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/02/tillieBioPhotowCels-240x300.jpg\" alt=\"Cartoonist Tillie Walden with uninked pages from her Charity and Sylvia book\" width=\"251\" height=\"296\" /></p>\n<p><a href=\"https://www.tilliewalden.com/books\">Tillie Walden</a> is the award-winning, Vermont-based cartoonist and author of <i>Spinning</i> and <i>On a Sunbeam</i> and <i>Charity and Sylvia</i>. Tillie served as Vermont’s Fifth Cartoonist Laureate from April 2023 to April 2026. She won the 2018 Eisner Award for Best Reality-Based Work at 22 years old, for her graphic memoir Spinning, making her one of the youngest Eisner Award winners ever. She received the <i>Los Angeles Times Book Prize</i> in 2018 for <i>On a Sunbeam</i>.</p>\n<p>Her work includes a graphic novel trilogy featuring <i>The Walking Dead</i> character Clementine and two middle grade graphic novels created with musicians Tegan and Sara. <i>Clementine: Book Three</i> by Tillie Walden is currently nominated for a 2026 Will Eisner Comic Industry Award in the category of Best Publication for Teens. She is a graduate of<a href=\"https://www.cartoonstudies.org/\"> The Center for Cartoon Studies</a> (CCS) class of 2016 in White River Junction and became a professor at CCS in 2021.</p>",
+          "all_day": false,
+          "start_date": "2026-10-20 16:30:00",
+          "end_date": "2026-10-20 16:30:00",
+          "utc_start_date": "2026-10-20 20:30:00",
+          "utc_end_date": "2026-10-20 20:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 13395,
+            "venue": "Enosburgh Public Library",
+            "url": "https://www.vermonthumanities.org/venue/enosburgh-public-library/",
+            "address": "241 Main St",
+            "city": "Enosburg Falls",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05450",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 108,
+              "name": "Vermont Reads",
+              "slug": "vermont-reads"
+            }
+          ]
+        },
+        {
+          "id": 47650,
+          "global_id": "www.vermonthumanities.org?id=47650",
+          "url": "https://www.vermonthumanities.org/event/vermont-reads-charity-sylvia-craftsbury-community-care-center/",
+          "title": "Vermont Reads Facilitated Discussion: Craftsbury Community Care Center",
+          "description": "<p>Join us for a book discussion of this year’s Vermont Reads selection, <em>Charity &amp; Sylvia</em>. This discussion will be facilitated by Ben Hewitt. All are welcome!</p>\n<h3>About the Book</h3>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-46164 alignleft\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-229x300.jpg\" alt=\"Charity and Sylvia book cover with a cartoon drawing of two 19th century women facing each other, and a yellow background\" width=\"229\" height=\"300\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-229x300.jpg 229w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-781x1024.jpg 781w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-768x1007.jpg 768w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-1171x1536.jpg 1171w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-1562x2048.jpg 1562w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-scaled.jpg 915w\" sizes=\"auto, (max-width: 229px) 100vw, 229px\" />Weybridge, Vermont in February 1807 is small, cold, lonely, and beautiful. As an unwed woman with few prospects, Sylvia Drake resides with and cares for her sister’s rambunctious family. But today the house is abuzz awaiting a guest—Charity Bryant. So opens <em>Charity and Sylvia</em> by <a href=\"https://www.vermonthumanities.org/programs/book-a-program/vermont-reads/vermont-reads-2026/about-the-author/\">Tillie Walden</a>, the award-winning, Vermont-based cartoonist and author of <em>Spinning</em> and <em>On a Sunbeam</em>.</p>\n<p>Created by Walden from archival materials at the <a href=\"https://www.henrysheldonmuseum.org/\">Henry Sheldon Museum of Vermont History in Middlebury</a>, and other primary and secondary sources, <em>Charity and Sylvia</em> is a groundbreaking biography that is also the story of 19th century America. For 44 years Charity Bryant and Sylvia Drake lived together as life partners in small town Vermont. And in Walden’s graphic novel, America grows alongside these women. We see the arrival of railroads, the terms of 14 Presidents, riots, rebellion, and plagues.</p>\n<p>&nbsp;</p>\n<h3>About the Author</h3>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"wp-image-45737 alignright\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/02/tillieBioPhotowCels-240x300.jpg\" alt=\"Cartoonist Tillie Walden with uninked pages from her Charity and Sylvia book\" width=\"251\" height=\"296\" /></p>\n<p><a href=\"https://www.tilliewalden.com/books\">Tillie Walden</a> is the award-winning, Vermont-based cartoonist and author of <i>Spinning</i> and <i>On a Sunbeam</i> and <i>Charity and Sylvia</i>. Tillie served as Vermont’s Fifth Cartoonist Laureate from April 2023 to April 2026. She won the 2018 Eisner Award for Best Reality-Based Work at 22 years old, for her graphic memoir Spinning, making her one of the youngest Eisner Award winners ever. She received the <i>Los Angeles Times Book Prize</i> in 2018 for <i>On a Sunbeam</i>.</p>\n<p>Her work includes a graphic novel trilogy featuring <i>The Walking Dead</i> character Clementine and two middle grade graphic novels created with musicians Tegan and Sara. <i>Clementine: Book Three</i> by Tillie Walden is currently nominated for a 2026 Will Eisner Comic Industry Award in the category of Best Publication for Teens. She is a graduate of<a href=\"https://www.cartoonstudies.org/\"> The Center for Cartoon Studies</a> (CCS) class of 2016 in White River Junction and became a professor at CCS in 2021.</p>",
+          "all_day": false,
+          "start_date": "2026-10-20 18:00:00",
+          "end_date": "2026-10-20 18:00:00",
+          "utc_start_date": "2026-10-20 22:00:00",
+          "utc_end_date": "2026-10-20 22:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 40465,
+            "venue": "Craftsbury Community Care Center",
+            "url": "https://www.vermonthumanities.org/venue/craftsbury-community-care-center/",
+            "address": "1784 East Craftsbury Rd.",
+            "city": "Craftsbury",
+            "zip": "05826",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 108,
+              "name": "Vermont Reads",
+              "slug": "vermont-reads"
+            }
+          ]
+        },
+        {
+          "id": 47368,
+          "global_id": "www.vermonthumanities.org?id=47368",
+          "url": "https://www.vermonthumanities.org/event/imagining-the-world-of-chairty-and-sylvia-ilsley-special-program/",
+          "title": "Pins and Pies, Linens and Lamps: Imagining the World of Charity &#038; Sylvia",
+          "description": "<p>The publication of Tillie Walden’s recent graphic novel Charity &amp; Sylvia–and its selection as the 2026 “Vermont Reads”–was a wonderful impetus for the Henry Sheldon Museum to rethink how we might feature the story of Charity Bryant and Sylvia Drake in the museum galleries. While we’ve long treasured the Charity and Sylvia archives– their letters, poems, diaries, and the like– their story hasn’t been visible in the museum itself. In curating Drawing on the Archive, we built a collaborative curatorial team where Tillie Walden’s contemporary illustrations could converse with 19th century objects and archival materials, and interpretation was shared among museum staff and community curators.</p>\n<p>Henry Sheldon Museum Executive Director Coco Moseley and Middlebury College Associate Professor Ellery Foutch share their stories behind the making of the new exhibition “Drawing on the Archive: Tillie Walden’s Charity &amp; Sylvia.”</p>\n<h4>About the presenters</h4>\n<p><span data-olk-copy-source=\"MessageBody\"><img loading=\"lazy\" decoding=\"async\" class=\" wp-image-46870 alignright\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/07/cmoseley-300x277.png\" alt=\"Headshot of Coco Moseley. A middleaged, white woman with brown hair smiles while standing in front of autumn leaves. She wears a grey sweater with yellow striped sleeves.\" width=\"165\" height=\"145\" />Coco Moseley </span>is the Executive Director of the <a href=\"https://www.henrysheldonmuseum.org/\">Henry Sheldon Museum</a> in Middlebury. Since beginning this role in 2023, she has worked alongside the staff, board and community to reimagine the Sheldon Museum as a place where stories, history and art can inspire visitors today.</p>\n<p>Ellery Foutch is an Associate Professor in the American Studies Program at Middlebury College, where she teaches classes on the art and material culture of the United States, as well as critical museum studies. Her new book, A Perfectionist Impulse: The Art of Stopping Time in the Nineteenth Century (University of Minnesota Press, July 2026) explores period fascinations with perfection and its preservation across art, natural history, popular culture, and museum exhibition practices.</p>",
+          "all_day": false,
+          "start_date": "2026-10-20 18:30:00",
+          "end_date": "2026-10-20 20:00:00",
+          "utc_start_date": "2026-10-20 22:30:00",
+          "utc_end_date": "2026-10-21 00:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 5973,
+            "venue": "Ilsley Public Library",
+            "url": "https://www.vermonthumanities.org/venue/ilsley-public-library/",
+            "address": "75 Main St",
+            "city": "Middlebury",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05753",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 647,
+              "name": "250th",
+              "slug": "250th"
+            },
+            {
+              "id": 108,
+              "name": "Vermont Reads",
+              "slug": "vermont-reads"
+            }
+          ]
+        },
+        {
+          "id": 47597,
+          "global_id": "www.vermonthumanities.org?id=47597",
+          "url": "https://www.vermonthumanities.org/event/samuel-worcester-and-the-cherokees-2026/",
+          "title": "Samuel Worcester and the Cherokees",
+          "description": "<p>Please join us for a series of events at the Peacham Congregational Church and Meeting House on October, 21 at 2:00PM.</p>\n<p>The program will include:<br />\n1. Susan Chandler, Formed by Peacham: Samuel Worcester&#8217;s Childhood.<br />\n2. Lindsay Robertson, Samuel Worcester, John Marshall, and the Supreme Court.<br />\n3. Cherokee Nation scholar Jack Baker, The Trail of Tears.<br />\n4. Cherokee Chief Chuck Hoskins, The Cherokee Today.</p>\n<p>For more information, visit the &#8220;events&#8221; page of http://peachamchurch.org.</p>",
+          "all_day": false,
+          "start_date": "2026-10-21 14:00:00",
+          "end_date": "2026-10-21 14:00:00",
+          "utc_start_date": "2026-10-21 18:00:00",
+          "utc_end_date": "2026-10-21 18:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 46757,
+            "venue": "Peacham Congregational Church and Meeting House",
+            "url": "https://www.vermonthumanities.org/venue/peacham-congregational-church-and-meeting-house/",
+            "address": "56 Church Street",
+            "city": "Peacham",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05862",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 112,
+              "name": "Grants",
+              "slug": "grants"
+            }
+          ]
+        },
+        {
+          "id": 46277,
+          "global_id": "www.vermonthumanities.org?id=46277",
+          "url": "https://www.vermonthumanities.org/event/strange-bedfellows-sb-university-of-vermont-2026/",
+          "title": "Strange Bedfellows: How Religious Liberties Have Aligned with Nondiscrimination Policies and Can Again",
+          "description": "<p>The First Amendment protects the free exercise of religion. The Fourteenth Amendment affords all persons equal protection under the law. What happens when those two rights collide, as happened in the in the <em>Masterpiece Cake </em>case? Must protections for religious liberties come at the expense of non-discrimination statutes?</p>\n<p>This presentation considers the unlikely coalition between advocates for the LGBTQ+ community and members of the Church of Latter Day Saints. In 2015, these political enemies became practical allies, creating a law that required no one to compromise their deepest values. Could it be that religious and sexual minorities may have more in common than activists on both sides allow us to think?</p>\n<p><em>Photo Credit: Greg Ness, Wikimedia Commons</em></p>\n<p><strong><br />\nAbout the Presenter </strong></p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"wp-image-25587 size-medium alignleft\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2021/03/MegMottFullWP-300x193.jpg\" alt=\"Political science professor Meg Mott with the Constitution\" width=\"300\" height=\"193\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2021/03/MegMottFullWP-300x193.jpg 300w, https://www.vermonthumanities.org/wp-content/uploads/2021/03/MegMottFullWP-480x308.jpg 480w, https://www.vermonthumanities.org/wp-content/uploads/2021/03/MegMottFullWP.jpg 600w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" />After twenty years of teaching political theory and constitutional law to Marlboro College undergraduates, Meg Mott has taken her love of argument to the general public. Her award-winning series Debating Our Rights on the first ten amendments brings civil discussions on contentious issues to public libraries and colleges.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+          "all_day": false,
+          "start_date": "2026-10-21 17:30:00",
+          "end_date": "2026-10-21 19:00:00",
+          "utc_start_date": "2026-10-21 21:30:00",
+          "utc_end_date": "2026-10-21 23:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 9975,
+            "venue": "Dudley H. Davis Center",
+            "url": "https://www.vermonthumanities.org/venue/uvm-davis-center/",
+            "address": "590 Main Street",
+            "city": "Burlington",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05401",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 647,
+              "name": "250th",
+              "slug": "250th"
+            },
+            {
+              "id": 103,
+              "name": "Speakers Bureau",
+              "slug": "speakers-bureau"
+            },
+            {
+              "id": 108,
+              "name": "Vermont Reads",
+              "slug": "vermont-reads"
+            }
+          ]
+        },
+        {
+          "id": 47129,
+          "global_id": "www.vermonthumanities.org?id=47129",
+          "url": "https://www.vermonthumanities.org/event/stories-from-the-vermont-queer-archives-brownell-library-2026-sb/",
+          "title": "Stories from the Vermont Queer Archives",
+          "description": "<p>Objects such as banners, T-shirts, and buttons in the Vermont Queer Archives at the Pride Center of Vermont reflect currents and changes in the lives of Vermont’s LGBTQ+ community.</p>\n<p>Meg Tamulonis, volunteer curator of the Archives, discusses how these objects mark various milestones, from Pride events to legal rulings, and considers why some parts of the queer community aren’t well-represented in the Archives. She’ll explain why there aren’t many artifacts from the era before the Stonewall Uprising in 1969, and some of the ways we can continue to gather and learn about Vermont’s many queer histories.</p>\n<h4 class=\"overlay\">About the Presenter</h4>\n<p><img loading=\"lazy\" decoding=\"async\" class=\" wp-image-37652 alignleft\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2023/04/MTpic-300x248.jpg\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2023/04/MTpic-300x248.jpg 300w, https://www.vermonthumanities.org/wp-content/uploads/2023/04/MTpic.jpg 640w\" alt=\"Image of Meg Tamulonis wearing a red sweater with her hands folded in front of her chest\" width=\"241\" height=\"189\" />Meg is the volunteer curator of the Vermont Queer Archives with the Pride Center of Vermont in Burlington.  Her day job is Manager of Collections and Exhibitions at the Fleming Museum of Art at the University of Vermont. She is a board member of the New England Museum Association and the Mill Museum in Winooski.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+          "all_day": false,
+          "start_date": "2026-10-21 18:00:00",
+          "end_date": "2026-10-21 19:30:00",
+          "utc_start_date": "2026-10-21 22:00:00",
+          "utc_end_date": "2026-10-21 23:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 5966,
+            "venue": "Brownell Library",
+            "url": "https://www.vermonthumanities.org/venue/brownell-library/",
+            "address": "6 Lincoln St",
+            "city": "Essex Junction",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05452",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 103,
+              "name": "Speakers Bureau",
+              "slug": "speakers-bureau"
+            },
+            {
+              "id": 108,
+              "name": "Vermont Reads",
+              "slug": "vermont-reads"
+            }
+          ]
+        },
+        {
+          "id": 47480,
+          "global_id": "www.vermonthumanities.org?id=47480",
+          "url": "https://www.vermonthumanities.org/event/vermont-reads-charity-sylvia-royalton-memorial-library-2026/",
+          "title": "Vermont Reads Facilitated Discussion: Royalton Memorial Library",
+          "description": "<p>Join us for a book discussion of this year’s Vermont Reads selection, <em>Charity &amp; Sylvia</em>. This discussion will be facilitated by Rachael Cohen.</p>\n<p>Together, we&#8217;ll explore the book&#8217;s themes of Vermont&#8217;s early history, friendship, family, faith, resilience, and the evolving understanding of LGBTQ+ identity. Whether you&#8217;re a longtime fan of graphic novels or reading one for the first time, all are welcome to join the conversation.</p>\n<h3>About the Book</h3>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-46164 alignleft\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-229x300.jpg\" alt=\"Charity and Sylvia book cover with a cartoon drawing of two 19th century women facing each other, and a yellow background\" width=\"229\" height=\"300\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-229x300.jpg 229w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-781x1024.jpg 781w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-768x1007.jpg 768w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-1171x1536.jpg 1171w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-1562x2048.jpg 1562w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-scaled.jpg 915w\" sizes=\"auto, (max-width: 229px) 100vw, 229px\" />Weybridge, Vermont in February 1807 is small, cold, lonely, and beautiful. As an unwed woman with few prospects, Sylvia Drake resides with and cares for her sister’s rambunctious family. But today the house is abuzz awaiting a guest—Charity Bryant. So opens <em>Charity and Sylvia</em> by <a href=\"https://www.vermonthumanities.org/programs/book-a-program/vermont-reads/vermont-reads-2026/about-the-author/\">Tillie Walden</a>, the award-winning, Vermont-based cartoonist and author of <em>Spinning</em> and <em>On a Sunbeam</em>.</p>\n<p>Created by Walden from archival materials at the <a href=\"https://www.henrysheldonmuseum.org/\">Henry Sheldon Museum of Vermont History in Middlebury</a>, and other primary and secondary sources, <em>Charity and Sylvia</em> is a groundbreaking biography that is also the story of 19th century America. For 44 years Charity Bryant and Sylvia Drake lived together as life partners in small town Vermont. And in Walden’s graphic novel, America grows alongside these women. We see the arrival of railroads, the terms of 14 Presidents, riots, rebellion, and plagues.</p>\n<p>&nbsp;</p>\n<h3>About the Author</h3>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"wp-image-45737 alignright\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/02/tillieBioPhotowCels-240x300.jpg\" alt=\"Cartoonist Tillie Walden with uninked pages from her Charity and Sylvia book\" width=\"251\" height=\"296\" /></p>\n<p><a href=\"https://www.tilliewalden.com/books\">Tillie Walden</a> is the award-winning, Vermont-based cartoonist and author of <i>Spinning</i> and <i>On a Sunbeam</i> and <i>Charity and Sylvia</i>. Tillie served as Vermont’s Fifth Cartoonist Laureate from April 2023 to April 2026. She won the 2018 Eisner Award for Best Reality-Based Work at 22 years old, for her graphic memoir Spinning, making her one of the youngest Eisner Award winners ever. She received the <i>Los Angeles Times Book Prize</i> in 2018 for <i>On a Sunbeam</i>.</p>\n<p>Her work includes a graphic novel trilogy featuring <i>The Walking Dead</i> character Clementine and two middle grade graphic novels created with musicians Tegan and Sara. <i>Clementine: Book Three</i> by Tillie Walden is currently nominated for a 2026 Will Eisner Comic Industry Award in the category of Best Publication for Teens. She is a graduate of<a href=\"https://www.cartoonstudies.org/\"> The Center for Cartoon Studies</a> (CCS) class of 2016 in White River Junction and became a professor at CCS in 2021.</p>",
+          "all_day": false,
+          "start_date": "2026-10-21 18:15:00",
+          "end_date": "2026-10-21 18:15:00",
+          "utc_start_date": "2026-10-21 22:15:00",
+          "utc_end_date": "2026-10-21 22:15:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 26942,
+            "venue": "Royalton Memorial Library",
+            "url": "https://www.vermonthumanities.org/venue/royalton-memorial-library/",
+            "address": "57 Safford Street",
+            "city": "South Royalton",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05068",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 108,
+              "name": "Vermont Reads",
+              "slug": "vermont-reads"
+            }
+          ]
+        },
+        {
+          "id": 47460,
+          "global_id": "www.vermonthumanities.org?id=47460",
+          "url": "https://www.vermonthumanities.org/event/aldrich-library-dewing-studio-ff26-2/",
+          "title": "Drop-in Sewing Studio for Teens",
+          "description": "<figure id=\"attachment_47457\" aria-describedby=\"caption-attachment-47457\" style=\"width: 225px\" class=\"wp-caption alignright\"><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-47457\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/09/IMG_20200620_165500-225x300.jpg\" alt=\"Textile artist Pam Wilson sits behind a loom creating a new fabric\" width=\"225\" height=\"300\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2026/09/IMG_20200620_165500-225x300.jpg 225w, https://www.vermonthumanities.org/wp-content/uploads/2026/09/IMG_20200620_165500-768x1024.jpg 768w, https://www.vermonthumanities.org/wp-content/uploads/2026/09/IMG_20200620_165500-1152x1536.jpg 1152w, https://www.vermonthumanities.org/wp-content/uploads/2026/09/IMG_20200620_165500-1536x2048.jpg 1536w, https://www.vermonthumanities.org/wp-content/uploads/2026/09/IMG_20200620_165500-scaled.jpg 900w\" sizes=\"auto, (max-width: 225px) 100vw, 225px\" /><figcaption id=\"caption-attachment-47457\" class=\"wp-caption-text\">Photo from Pamela Wilson</figcaption></figure>\n<p><span data-olk-copy-source=\"MessageBody\">Learn how to sew a patch on your clothing, mend and repair your backpacks, gear and winter garb and learn how to sew a straight stitch on a sewing machine. This drop-in workshops is for middle and high school youth who want to understand the basics of hand-stitching and clothing repair. All materials provided. </span></p>\n<h4>About the Speaker</h4>\n<p><span data-olk-copy-source=\"MessageBody\">Pamela Wilson is a visual artist and community organizer. With a practice based out of Studio Place Arts in Barre City’s historic downtown, she focuses on place-based making, materials studies and traditional handcraft techniques. In addition to making and exhibiting throughout New England, she organizes art-gatherings and third-space art experiences that invite participants to engage in collective handwork and intergenerational learning. Her current third-space projects include long-term residencies at the Aldrich Public Library, the White River Craft Center and Green Mountain Linen. Her work is available to view at </span><a id=\"OWA4a2c3f26-fd35-80ed-09e0-fe7aecc32b3b\" class=\"x_OWAAutoLink\" title=\"https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fwww.pamelalynnwilson.com%2f&amp;c=E,1,7gmYKp_TyE2UrpbTIWJIJt4DhpINGv8hNngiyXxRcdzbR7Bccx_YXkyDwmWfshHXZCAwFC3m2OEpB7l3nRzKvxp6SsDV2QN_HpTlNyM-n6bE0iI,&amp;typo=1\" href=\"https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fwww.pamelalynnwilson.com%2f&amp;c=E,1,7gmYKp_TyE2UrpbTIWJIJt4DhpINGv8hNngiyXxRcdzbR7Bccx_YXkyDwmWfshHXZCAwFC3m2OEpB7l3nRzKvxp6SsDV2QN_HpTlNyM-n6bE0iI,&amp;typo=1\" data-auth=\"NotApplicable\" data-linkindex=\"0\">www.pamelalynnwilson.com</a> and on Instagram at <span class=\"x_spanWithBackgroundColor\"><a id=\"OWA190c5b5e-b73a-5ed9-76ce-a42d3cc0a3e6\" class=\"x_OWAAutoLink\" title=\"https://www.instagram.com/pamelawilsonstudio/\" href=\"https://www.instagram.com/pamelawilsonstudio/\" data-auth=\"NotApplicable\" data-linkindex=\"1\">@pamelawilsonstudio</a></span>.</p>\n<h4>About the Fall Festival 2026</h4>\n<p>Each year, our Fall Festival celebrates National Arts and Humanities Month in October and reminds Vermonters of the impact and breadth of the humanities. This year’s <strong><em>Fall Festival 2026: Our Woven History</em></strong> recognizes the stories contained in our <a href=\"https://www.vermonthumanities.org/programs/book-a-program/vermont-reads/vermont-reads-2026/\">Vermont Reads 2026 book, <em>Charity &amp; Sylvia</em> by Tillie Walden</a>, while also commemorating the 250th anniversary of our nation’s founding.</p>\n<hr />\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-26677 alignleft\" src=\"https://vermonthumanities.org/wp-content/uploads/2021/08/info-pCropSmall.jpg\" alt=\"Question mark symbol\" width=\"95\" height=\"95\" />Please contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> for information on disability services. To request a specific accommodation, contact us at least three weeks prior to the event. Vermont Humanities strives to provide accommodations whenever possible. All event locations are ADA accessible.</p>",
+          "all_day": false,
+          "start_date": "2026-10-22 15:00:00",
+          "end_date": "2026-10-22 18:00:00",
+          "utc_start_date": "2026-10-22 19:00:00",
+          "utc_end_date": "2026-10-22 22:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 13863,
+            "venue": "Aldrich Public Library",
+            "url": "https://www.vermonthumanities.org/venue/aldrich-public-library/",
+            "address": "6 Washington St",
+            "city": "Barre",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05641",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 658,
+              "name": "Fall Festival 2026",
+              "slug": "fall-festival-2026"
+            }
+          ]
+        },
+        {
+          "id": 46789,
+          "global_id": "www.vermonthumanities.org?id=46789",
+          "url": "https://www.vermonthumanities.org/event/vermont-sampler-stories-charlotte-library-2026/",
+          "title": "Vermont Sampler Stories",
+          "description": "<p>This presentation is based on the research Michele Pagan has done into the Revolutionary War ancestors of the girls who made 19th century schoolgirl samplers. Needlework samplers are a visual record of the values that guided early female education in Vermont, including its focus on needlework as an essential skill for all girls and women. As artifacts of female education, they provide insight into family dynamics, local history, and community values.</p>\n<h4>About the presenter</h4>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-43804 alignleft\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2025/08/Michele-Pagan-Headshot-225x300.jpg\" alt=\"Headshot of Michele Pagan, an older white woman standing in front of some windows wearing a black floral blouse\" width=\"225\" height=\"300\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2025/08/Michele-Pagan-Headshot-225x300.jpg 225w, https://www.vermonthumanities.org/wp-content/uploads/2025/08/Michele-Pagan-Headshot-768x1024.jpg 768w, https://www.vermonthumanities.org/wp-content/uploads/2025/08/Michele-Pagan-Headshot-1152x1536.jpg 1152w, https://www.vermonthumanities.org/wp-content/uploads/2025/08/Michele-Pagan-Headshot-1536x2048.jpg 1536w, https://www.vermonthumanities.org/wp-content/uploads/2025/08/Michele-Pagan-Headshot-scaled.jpg 900w\" sizes=\"auto, (max-width: 225px) 100vw, 225px\" /></p>\n<p>Michele Pagán is a recently-returned native Vermonter, who spent her childhood in Bennington. She is a graduate of the University of Vermont and the University of Connecticut, where she studied clothing and textiles. She credits her early experience visiting the Bennington Museum with opening new doors to her, allowing her to envision a unique career trajectory. The Bennington Museum recently published her research entitled <em>Geography and Technological Change in Vermont: The Transition from Homespun Flax To Machine-Made Cotton Textiles</em>.</p>\n<p>Today she is a textile conservator in private practice who likes to say that she is “saving history one piece of fabric at a time.” She works out of her studio in East Dorset. Michele is currently the Special Projects Coordinator with the VT Sampler Initiative, and instigated the 2025 “From Bennington to Brownington: the Vermont Samplers Driving Tour,” in conjunction with the Vermont State 250th Commemoration of the start of the American Revolution.</p>",
+          "all_day": false,
+          "start_date": "2026-10-22 18:00:00",
+          "end_date": "2026-10-22 19:30:00",
+          "utc_start_date": "2026-10-22 22:00:00",
+          "utc_end_date": "2026-10-22 23:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 10644,
+            "venue": "Charlotte Library",
+            "url": "https://www.vermonthumanities.org/venue/charlotte-library/",
+            "address": "115 Ferry Road",
+            "city": "Charlotte",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05445",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 647,
+              "name": "250th",
+              "slug": "250th"
+            },
+            {
+              "id": 103,
+              "name": "Speakers Bureau",
+              "slug": "speakers-bureau"
+            },
+            {
+              "id": 108,
+              "name": "Vermont Reads",
+              "slug": "vermont-reads"
+            }
+          ]
+        },
+        {
+          "id": 47253,
+          "global_id": "www.vermonthumanities.org?id=47253",
+          "url": "https://www.vermonthumanities.org/event/calling-reclaiming-shared-humanity-fletcher-free-library-2026/",
+          "title": "CALLING: Reclaiming Shared Humanity in America’s 250th Year",
+          "description": "<p><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-45443 alignright\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/02/CALLING-Reclaiming-Shared-Humanity-in-Americas-250th-Year-e1780513581238-300x208.png\" alt=\"Part of a broadside printing of the poem Calling with a black and white image of a man speaking into a megaphone with swirls of sound and light as a dove flies by.\" width=\"300\" height=\"208\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2026/02/CALLING-Reclaiming-Shared-Humanity-in-Americas-250th-Year-e1780513581238-300x208.png 300w, https://www.vermonthumanities.org/wp-content/uploads/2026/02/CALLING-Reclaiming-Shared-Humanity-in-Americas-250th-Year-e1780513581238-768x534.png 768w, https://www.vermonthumanities.org/wp-content/uploads/2026/02/CALLING-Reclaiming-Shared-Humanity-in-Americas-250th-Year-e1780513581238.png 940w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></p>\n<p>CALLING is a participatory, interdisciplinary humanities offering that invites communities to reflect, create, and reimagine what it means to be American at the threshold of our nation’s 250th anniversary.</p>\n<p>Rooted in the belief that creativity is a liberating force and a civic practice, CALLING brings together spoken word, storytelling, and imaginative inquiry with Rajnii Eddins and block printing with A Revolutionary Press to engage participants in courageous conversation and hands-on art-making. Through image, word, and shared reflection, participants explore themes of belonging, dignity, accountability, and possibility—asking not only who we have been as a nation, but who we are being called to become.</p>\n<p>This offering centers voices that have too often been marginalized or unheard, with special attention to youth and currently or formerly incarcerated individuals, honoring lived experience as essential to the American story. Participants are invited to create visual prints and poetic responses that function as personal and collective declarations—acts of witness, remembrance, and hope.</p>\n<p>In a moment of national reflection, CALLING affirms that democracy is not only inherited but practiced; that imagination is not escapism but infrastructure; and that shared humanity must be continually reclaimed through listening, creativity, and care. The program leaves communities with tangible artworks, renewed connection, and a deeper commitment to human dignity—for all.</p>\n<h4>About the Speakers</h4>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-22667 alignright\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2020/01/RajniiEddins-300x193.jpg\" alt=\"Rajnii Eddins\" width=\"300\" height=\"193\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2020/01/RajniiEddins-300x193.jpg 300w, https://www.vermonthumanities.org/wp-content/uploads/2020/01/RajniiEddins-480x308.jpg 480w, https://www.vermonthumanities.org/wp-content/uploads/2020/01/RajniiEddins.jpg 600w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" />Hailing from Seattle Washington, Rajnii Eddins has been performing poetry and engaging diverse audiences for more than 20 years. He was the youngest member of the African American Writers Alliance at 11 years old, was chosen as the first youth poet to read original works to the Seattle City Council at 17, and represented Seattle in the National Poetry Slam. He is a published author of two books of poetry, <em>A Taste of RAGE</em> and <em>Their Names Are Mine</em>.</p>\n<p>Rajnii created and facilitated a curriculum utilizing Hip Hop/Spoken Word to support educators in engaging disaffected youth, and currently serves as Founder and Executive Director for the The Poetry Experience at the Fletcher Free Library in Burlington. He presents <em>Their Names Are Mine</em> to students, educators, administrators, other professionals and community members throughout New England. All of this for the purpose of confronting white supremacy while affirming common humanity and sincere community relationships based on integrity, reverence for heritage, equity, and mutual respect. Rajnii has lived in Vermont for ten years, and sincerely thanks Vermont for his darling daughter and forgives it the harsh winters.</p>\n<p>&nbsp;</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-43861 alignleft\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2025/08/John-Vincent-Headshot-204x300.jpg\" alt=\"Headshot of John Vincent, a white older man with long silver hair. He is smiling and wearing a plain black shirt.\" width=\"204\" height=\"300\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2025/08/John-Vincent-Headshot-204x300.jpg 204w, https://www.vermonthumanities.org/wp-content/uploads/2025/08/John-Vincent-Headshot.jpg 318w\" sizes=\"auto, (max-width: 204px) 100vw, 204px\" />John Vincent is a retired police officer, poet, letterpress printer, and director of A Revolutionary Press, a 501c3 nonprofit and  volunteer run collective of artists in service to the Common Good in New Haven, Vermont.</p>\n<p>John is also the co-curator of “Finding Hope Within: Healing and Transformation Through the Making of Art Within the Carceral System”, a travelling art exhibition in Vermont for 2023-2026. He presents on the historical and contemporary significance of hand setting type on the printing press in context with the past and future Revolutions in this country. Learn more on <a href=\"https://www.artonmainvt.com/john-vincent\">his website</a>.</p>\n<p>&nbsp;</p>",
+          "all_day": false,
+          "start_date": "2026-10-23 16:00:00",
+          "end_date": "2026-10-23 17:30:00",
+          "utc_start_date": "2026-10-23 20:00:00",
+          "utc_end_date": "2026-10-23 21:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 12066,
+            "venue": "Fletcher Free Library",
+            "url": "https://www.vermonthumanities.org/venue/fletcher-free-library/",
+            "address": "235 College St",
+            "city": "Burlington",
+            "zip": "05401",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 647,
+              "name": "250th",
+              "slug": "250th"
+            },
+            {
+              "id": 103,
+              "name": "Speakers Bureau",
+              "slug": "speakers-bureau"
+            }
+          ]
+        },
+        {
+          "id": 47462,
+          "global_id": "www.vermonthumanities.org?id=47462",
+          "url": "https://www.vermonthumanities.org/event/aldrich-library-fiber-exploration-ff26/",
+          "title": "Merino Wool, Cotton Flannel, Pink Silk: A Hands-on Exploration of the Fibers in Charity &#038; Sylvia",
+          "description": "<figure id=\"attachment_47457-2\" aria-describedby=\"caption-attachment-47457-2\" style=\"width: 225px\" class=\"wp-caption alignright\"><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-47457\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/09/IMG_20200620_165500-225x300.jpg\" alt=\"Textile artist Pam Wilson sits behind a loom creating a new fabric\" width=\"225\" height=\"300\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2026/09/IMG_20200620_165500-225x300.jpg 225w, https://www.vermonthumanities.org/wp-content/uploads/2026/09/IMG_20200620_165500-768x1024.jpg 768w, https://www.vermonthumanities.org/wp-content/uploads/2026/09/IMG_20200620_165500-1152x1536.jpg 1152w, https://www.vermonthumanities.org/wp-content/uploads/2026/09/IMG_20200620_165500-1536x2048.jpg 1536w, https://www.vermonthumanities.org/wp-content/uploads/2026/09/IMG_20200620_165500-scaled.jpg 900w\" sizes=\"auto, (max-width: 225px) 100vw, 225px\" /><figcaption id=\"caption-attachment-47457-2\" class=\"wp-caption-text\">Photo from Pamela Wilson</figcaption></figure>\n<p class=\"x_elementToProof\"><span data-olk-copy-source=\"MessageBody\">More sheep than people? Silkworms in Vermont? Join artist Pamela Wilson for an in-depth exploration of the Vermont fibers that feature in Charity and Sylvia’s work as rural tailors. We’ll explore the textile trends and innovations that feature in the book and Pamela will bring a variety of spinning and weaving tools to explore. Participants will have the opportunity to try their hand at the processes that rural makers used to make thread, yarn and yardage and we’ll make some of our own homespun cloth. All materials provided.</span></p>\n<h4>About the Speaker</h4>\n<p><span data-olk-copy-source=\"MessageBody\">Pamela Wilson is a visual artist and community organizer. With a practice based out of Studio Place Arts in Barre City’s historic downtown, she focuses on place-based making, materials studies and traditional handcraft techniques. In addition to making and exhibiting throughout New England, she organizes art-gatherings and third-space art experiences that invite participants to engage in collective handwork and intergenerational learning. Her current third-space projects include long-term residencies at the Aldrich Public Library, the White River Craft Center and Green Mountain Linen. Her work is available to view at </span><a id=\"OWA4a2c3f26-fd35-80ed-09e0-fe7aecc32b3b\" class=\"x_OWAAutoLink\" title=\"https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fwww.pamelalynnwilson.com%2f&amp;c=E,1,7gmYKp_TyE2UrpbTIWJIJt4DhpINGv8hNngiyXxRcdzbR7Bccx_YXkyDwmWfshHXZCAwFC3m2OEpB7l3nRzKvxp6SsDV2QN_HpTlNyM-n6bE0iI,&amp;typo=1\" href=\"https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fwww.pamelalynnwilson.com%2f&amp;c=E,1,7gmYKp_TyE2UrpbTIWJIJt4DhpINGv8hNngiyXxRcdzbR7Bccx_YXkyDwmWfshHXZCAwFC3m2OEpB7l3nRzKvxp6SsDV2QN_HpTlNyM-n6bE0iI,&amp;typo=1\" data-auth=\"NotApplicable\" data-linkindex=\"0\">www.pamelalynnwilson.com</a> and on Instagram at <span class=\"x_spanWithBackgroundColor\"><a id=\"OWA190c5b5e-b73a-5ed9-76ce-a42d3cc0a3e6\" class=\"x_OWAAutoLink\" title=\"https://www.instagram.com/pamelawilsonstudio/\" href=\"https://www.instagram.com/pamelawilsonstudio/\" data-auth=\"NotApplicable\" data-linkindex=\"1\">@pamelawilsonstudio</a></span>.</p>\n<h4>About the Fall Festival 2026</h4>\n<p>Each year, our Fall Festival celebrates National Arts and Humanities Month in October and reminds Vermonters of the impact and breadth of the humanities. This year’s <strong><em>Fall Festival 2026: Our Woven History</em></strong> recognizes the stories contained in our <a href=\"https://www.vermonthumanities.org/programs/book-a-program/vermont-reads/vermont-reads-2026/\">Vermont Reads 2026 book, <em>Charity &amp; Sylvia</em> by Tillie Walden</a>, while also commemorating the 250th anniversary of our nation’s founding.</p>\n<hr />\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-26677 alignleft\" src=\"https://vermonthumanities.org/wp-content/uploads/2021/08/info-pCropSmall.jpg\" alt=\"Question mark symbol\" width=\"95\" height=\"95\" />Please contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> for information on disability services. To request a specific accommodation, contact us at least three weeks prior to the event. Vermont Humanities strives to provide accommodations whenever possible. All event locations are ADA accessible.</p>",
+          "all_day": false,
+          "start_date": "2026-10-23 18:30:00",
+          "end_date": "2026-10-23 20:00:00",
+          "utc_start_date": "2026-10-23 22:30:00",
+          "utc_end_date": "2026-10-24 00:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 13863,
+            "venue": "Aldrich Public Library",
+            "url": "https://www.vermonthumanities.org/venue/aldrich-public-library/",
+            "address": "6 Washington St",
+            "city": "Barre",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05641",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 658,
+              "name": "Fall Festival 2026",
+              "slug": "fall-festival-2026"
+            },
+            {
+              "id": 108,
+              "name": "Vermont Reads",
+              "slug": "vermont-reads"
+            }
+          ]
+        },
+        {
+          "id": 47510,
+          "global_id": "www.vermonthumanities.org?id=47510",
+          "url": "https://www.vermonthumanities.org/event/aldrich-library-meet-a-sewing-machine-ff26/",
+          "title": "Meet a Sewing Machine &#038; Costume Stitching Clinic!",
+          "description": "<figure id=\"attachment_47507\" aria-describedby=\"caption-attachment-47507\" style=\"width: 300px\" class=\"wp-caption alignright\"><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-47507\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/09/Eliza-Fall-FEstival-Workshop-300x225.jpg\" alt=\"Eliza West takes a selfi while smiling at her sewing machine workspace covered with fabric and thread. A young woman with glasses and short hair wearing a light-green tank top.\" width=\"300\" height=\"225\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2026/09/Eliza-Fall-FEstival-Workshop-300x225.jpg 300w, https://www.vermonthumanities.org/wp-content/uploads/2026/09/Eliza-Fall-FEstival-Workshop-1024x768.jpg 1024w, https://www.vermonthumanities.org/wp-content/uploads/2026/09/Eliza-Fall-FEstival-Workshop-768x576.jpg 768w, https://www.vermonthumanities.org/wp-content/uploads/2026/09/Eliza-Fall-FEstival-Workshop-1536x1152.jpg 1536w, https://www.vermonthumanities.org/wp-content/uploads/2026/09/Eliza-Fall-FEstival-Workshop-scaled.jpg 1200w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /><figcaption id=\"caption-attachment-47507\" class=\"wp-caption-text\">Photo of Eliza West courtesy of the artist.</figcaption></figure>\n<p>Join sewing instructor Eliza West to learn how to use a sewing machine! Feel free to bring your own machine, or just watch as Eliza explains the fundamentals of machine sewing. Stick around afterwards for a Halloween costume clinic with Eliza and Pam Wilson. Brainstorm ideas, get advice, or work on a sewing project!</p>\n<h4>About the Speaker</h4>\n<p><a href=\"https://www.elizawestvt.com/\">Eliza West</a> is an artist and sewing instructor living in Montpelier Vermont. After working as a historical costumer for several years at Fort Ticonderoga, Eliza earned her MA from the Winterthur Program in American Material Culture, with a focus on textile history. Today she works as a printmaker, teaches sewing classes, and organizes queer community arts events in Central VT.</p>\n<h4>About the Fall Festival 2026</h4>\n<p>Each year, our Fall Festival celebrates National Arts and Humanities Month in October and reminds Vermonters of the impact and breadth of the humanities. This year’s <strong><em>Fall Festival 2026: Our Woven History</em></strong> recognizes the stories contained in our <a href=\"https://www.vermonthumanities.org/programs/book-a-program/vermont-reads/vermont-reads-2026/\">Vermont Reads 2026 book, <em>Charity &amp; Sylvia</em> by Tillie Walden</a>, while also commemorating the 250th anniversary of our nation’s founding.</p>\n<hr />\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-26677 alignleft\" src=\"https://vermonthumanities.org/wp-content/uploads/2021/08/info-pCropSmall.jpg\" alt=\"Question mark symbol\" width=\"95\" height=\"95\" />Please contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> for information on disability services. To request a specific accommodation, contact us at least three weeks prior to the event. Vermont Humanities strives to provide accommodations whenever possible. All event locations are ADA accessible.</p>",
+          "all_day": false,
+          "start_date": "2026-10-24 10:30:00",
+          "end_date": "2026-10-24 13:30:00",
+          "utc_start_date": "2026-10-24 14:30:00",
+          "utc_end_date": "2026-10-24 17:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 13863,
+            "venue": "Aldrich Public Library",
+            "url": "https://www.vermonthumanities.org/venue/aldrich-public-library/",
+            "address": "6 Washington St",
+            "city": "Barre",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05641",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 658,
+              "name": "Fall Festival 2026",
+              "slug": "fall-festival-2026"
+            },
+            {
+              "id": 108,
+              "name": "Vermont Reads",
+              "slug": "vermont-reads"
+            }
+          ]
+        },
+        {
+          "id": 47489,
+          "global_id": "www.vermonthumanities.org?id=47489",
+          "url": "https://www.vermonthumanities.org/event/vermont-reads-charity-sylvia-richmond-free-library-2026/",
+          "title": "Vermont Reads Facilitated Discussion: Richmond Free Library",
+          "description": "<p>Join us for a book discussion of this year’s Vermont Reads selection, <em>Charity &amp; Sylvia</em>. This discussion will be facilitated by Suzanne Brown.</p>\n<p>Together, we&#8217;ll explore the book&#8217;s themes of Vermont&#8217;s early history, friendship, family, faith, resilience, and the evolving understanding of LGBTQ+ identity. Whether you&#8217;re a longtime fan of graphic novels or reading one for the first time, all are welcome to join the conversation.</p>\n<h3>About the Book</h3>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-46164 alignleft\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-229x300.jpg\" alt=\"Charity and Sylvia book cover with a cartoon drawing of two 19th century women facing each other, and a yellow background\" width=\"229\" height=\"300\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-229x300.jpg 229w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-781x1024.jpg 781w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-768x1007.jpg 768w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-1171x1536.jpg 1171w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-1562x2048.jpg 1562w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-scaled.jpg 915w\" sizes=\"auto, (max-width: 229px) 100vw, 229px\" />Weybridge, Vermont in February 1807 is small, cold, lonely, and beautiful. As an unwed woman with few prospects, Sylvia Drake resides with and cares for her sister’s rambunctious family. But today the house is abuzz awaiting a guest—Charity Bryant. So opens <em>Charity and Sylvia</em> by <a href=\"https://www.vermonthumanities.org/programs/book-a-program/vermont-reads/vermont-reads-2026/about-the-author/\">Tillie Walden</a>, the award-winning, Vermont-based cartoonist and author of <em>Spinning</em> and <em>On a Sunbeam</em>.</p>\n<p>Created by Walden from archival materials at the <a href=\"https://www.henrysheldonmuseum.org/\">Henry Sheldon Museum of Vermont History in Middlebury</a>, and other primary and secondary sources, <em>Charity and Sylvia</em> is a groundbreaking biography that is also the story of 19th century America. For 44 years Charity Bryant and Sylvia Drake lived together as life partners in small town Vermont. And in Walden’s graphic novel, America grows alongside these women. We see the arrival of railroads, the terms of 14 Presidents, riots, rebellion, and plagues.</p>\n<p>&nbsp;</p>\n<h3>About the Author</h3>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"wp-image-45737 alignright\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/02/tillieBioPhotowCels-240x300.jpg\" alt=\"Cartoonist Tillie Walden with uninked pages from her Charity and Sylvia book\" width=\"251\" height=\"296\" /></p>\n<p><a href=\"https://www.tilliewalden.com/books\">Tillie Walden</a> is the award-winning, Vermont-based cartoonist and author of <i>Spinning</i> and <i>On a Sunbeam</i> and <i>Charity and Sylvia</i>. Tillie served as Vermont’s Fifth Cartoonist Laureate from April 2023 to April 2026. She won the 2018 Eisner Award for Best Reality-Based Work at 22 years old, for her graphic memoir Spinning, making her one of the youngest Eisner Award winners ever. She received the <i>Los Angeles Times Book Prize</i> in 2018 for <i>On a Sunbeam</i>.</p>\n<p>Her work includes a graphic novel trilogy featuring <i>The Walking Dead</i> character Clementine and two middle grade graphic novels created with musicians Tegan and Sara. <i>Clementine: Book Three</i> by Tillie Walden is currently nominated for a 2026 Will Eisner Comic Industry Award in the category of Best Publication for Teens. She is a graduate of<a href=\"https://www.cartoonstudies.org/\"> The Center for Cartoon Studies</a> (CCS) class of 2016 in White River Junction and became a professor at CCS in 2021.</p>",
+          "all_day": false,
+          "start_date": "2026-10-24 12:30:00",
+          "end_date": "2026-10-24 12:30:00",
+          "utc_start_date": "2026-10-24 16:30:00",
+          "utc_end_date": "2026-10-24 16:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 6707,
+            "venue": "Richmond Free Library",
+            "url": "https://www.vermonthumanities.org/venue/richmond-free-library/",
+            "address": "201 Bridge St",
+            "city": "Richmond",
+            "zip": "05477",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 108,
+              "name": "Vermont Reads",
+              "slug": "vermont-reads"
+            }
+          ]
+        },
+        {
+          "id": 47000,
+          "global_id": "www.vermonthumanities.org?id=47000",
+          "url": "https://www.vermonthumanities.org/event/henry-sheldon-museum-illustrating-vermont-history/",
+          "title": "Illustrating Vermont History",
+          "description": "<p>This event will feature with a conversation between comic artists, graphic novelists, and faculty at the Center for Cartoon Studies in White River Junction, Dan Nott, Daryl Seitchik, and Tillie Walden. Their conversation will be moderated by Middlebury Professor of History Rebecca Bennette. This panel will explore how three Vermont artists and creators draw inspiration from one another as they craft unique and compelling stories. Through their conversation, audience members will gain insight into the creative process and discover how art and storytelling can deepen our engagement with the histories, communities, and stories that surround us.</p>\n<h4>About the Fall Festival 2026</h4>\n<p>Each year, our Fall Festival celebrates National Arts and Humanities Month in October and reminds Vermonters of the impact and breadth of the humanities. This year’s <strong><em>Fall Festival 2026: Our Woven History</em></strong> recognizes the stories contained in our <a href=\"https://www.vermonthumanities.org/programs/book-a-program/vermont-reads/vermont-reads-2026/\">Vermont Reads 2026 book, <em>Charity &amp; Sylvia</em> by Tillie Walden</a>, while also commemorating the 250th anniversary of our nation’s founding.</p>\n<hr />\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-26677 alignleft\" src=\"https://vermonthumanities.org/wp-content/uploads/2021/08/info-pCropSmall.jpg\" alt=\"Question mark symbol\" width=\"95\" height=\"95\" />Please contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> for information on disability services. To request a specific accommodation, contact us at least three weeks prior to the event. Vermont Humanities strives to provide accommodations whenever possible. All event locations are ADA accessible.</p>",
+          "all_day": false,
+          "start_date": "2026-10-24 13:00:00",
+          "end_date": "2026-10-24 15:00:00",
+          "utc_start_date": "2026-10-24 17:00:00",
+          "utc_end_date": "2026-10-24 19:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 5973,
+            "venue": "Ilsley Public Library",
+            "url": "https://www.vermonthumanities.org/venue/ilsley-public-library/",
+            "address": "75 Main St",
+            "city": "Middlebury",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05753",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 658,
+              "name": "Fall Festival 2026",
+              "slug": "fall-festival-2026"
+            },
+            {
+              "id": 108,
+              "name": "Vermont Reads",
+              "slug": "vermont-reads"
+            }
+          ]
+        },
+        {
+          "id": 47271,
+          "global_id": "www.vermonthumanities.org?id=47271",
+          "url": "https://www.vermonthumanities.org/event/the-lonely-days-are-gone-chester-ff26/",
+          "title": "The Lonely Days Are Gone: Community Square Dance Tour",
+          "description": "<p><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-47274 alignright\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/08/Holding-Hands-square-dance-credit-Abby-Raeder-300x200.jpg\" alt=\"Close up photo of two people holding hands as they circle in a square dance.\" width=\"300\" height=\"200\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2026/08/Holding-Hands-square-dance-credit-Abby-Raeder-300x200.jpg 300w, https://www.vermonthumanities.org/wp-content/uploads/2026/08/Holding-Hands-square-dance-credit-Abby-Raeder-1024x683.jpg 1024w, https://www.vermonthumanities.org/wp-content/uploads/2026/08/Holding-Hands-square-dance-credit-Abby-Raeder-768x512.jpg 768w, https://www.vermonthumanities.org/wp-content/uploads/2026/08/Holding-Hands-square-dance-credit-Abby-Raeder-scaled.jpg 1200w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" />This fall, <a href=\"https://www.chandler-arts.org/\">The Lonely Days Are Gone: Community Square Dance Tour</a> brings free concerts and square dances to historic town halls across Vermont!</p>\n<p>Inspired by the state&#8217;s long tradition of contra and square dancing, the tour welcomes neighbors of all ages to connect through live music, participatory dancing, and shared meals. The tour is headlined by Dorset fiddler, singer, and educator Ida Mae Specker, alongside Shrewsbury caller Sarah Gibson and The Ida Mae Specker Band. Guest Caller Sally Newton will be joining this special event.</p>\n<p><strong>No prior dance experience or partner is required</strong>. In addition to dances, tour stops include special events such as concerts for children and old-time music jams. All events are free and open to the public, and families are encouraged to attend. Old time community jams to follow the events too!</p>\n<p><strong>Schedule:<br />\n</strong>5-7PM: Concert &amp; Square Dance</p>\n<p>The tour is part of the nationwide commemoration of America&#8217;s 250th anniversary, highlighting the important role that music, dance, and town halls have played in civic life throughout New England.</p>\n<p><em>Banner image by Erika McCormick, photo of hands by Abby Raeder.</em></p>\n<h4>About the Artists</h4>\n<p><img loading=\"lazy\" decoding=\"async\" class=\" wp-image-47260 alignright\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/08/FPOIdaMaeMicrophone-300x201.jpg\" alt=\"Old Mae, a woman with curly brown hair, sings into an antique style microphone while playing the fiddle.\" width=\"231\" height=\"147\" /><strong>Ida Mae Specker</strong> is an old-time fiddler, vocalist, songwriter, educator and radio host from southern Vermont. Blending original compositions with contemporary and traditional material, she brings heartfelt new life and relevance to the living chain of American folk music.</p>\n<p>Alongside her father, legendary Vermont fiddler John Specker, Ida Mae performs a singular take on old-time music—anchored in tradition yet audacious in originality. The late Vermont Public radio host Robert Resnik has called the Specker family “Vermont Folk Heroes.” In 2025, Specker began a collaboration with cellist Yo-Yo Ma and others to explore our connections to community and nature in New England.<br />\nMore info at: <a href=\"https://idamaespecker.com/home\">www.idamaespecker.com</a></p>\n<p><strong>Sarah Gibson</strong> is a musician, dance caller, and journalist from Shrewsbury. She grew up performing world folk music with the Vermont-based Village Harmony and Northern Harmony. Sarah has studied old time music, banjo, and dance traditions in Kentucky and North Carolina, and she is currently a Vermont Traditional Arts Apprentice with the Vermont Folklife Center. She specializes in calling family-friendly gender-free<br />\ndances.</p>\n<h4>About the Fall Festival 2026</h4>\n<p>Each year, our Fall Festival celebrates National Arts and Humanities Month in October and reminds Vermonters of the impact and breadth of the humanities. This year’s <strong><em>Fall Festival 2026: Our Woven History</em></strong> recognizes the stories contained in our <a href=\"https://www.vermonthumanities.org/programs/book-a-program/vermont-reads/vermont-reads-2026/\">Vermont Reads 2026 book, <em>Charity &amp; Sylvia</em> by Tillie Walden</a>, while also commemorating the 250th anniversary of our nation’s founding.</p>\n<hr />\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-26677 alignleft\" src=\"https://vermonthumanities.org/wp-content/uploads/2021/08/info-pCropSmall.jpg\" alt=\"Question mark symbol\" width=\"95\" height=\"95\" />Please contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> for information on disability services. To request a specific accommodation, contact us at least three weeks prior to the event. Vermont Humanities strives to provide accommodations whenever possible. All event locations are ADA accessible.</p>",
+          "all_day": false,
+          "start_date": "2026-10-24 17:00:00",
+          "end_date": "2026-10-24 19:00:00",
+          "utc_start_date": "2026-10-24 21:00:00",
+          "utc_end_date": "2026-10-24 23:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 45291,
+            "venue": "Chester Town Hall",
+            "url": "https://www.vermonthumanities.org/venue/chester-town-hall/",
+            "address": "556 Elm St",
+            "city": "Chester",
+            "zip": "05143",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 658,
+              "name": "Fall Festival 2026",
+              "slug": "fall-festival-2026"
+            }
+          ]
+        },
+        {
+          "id": 46053,
+          "global_id": "www.vermonthumanities.org?id=46053",
+          "url": "https://www.vermonthumanities.org/event/ira-allen-and-the-green-mountain-frontier-brookfield-historical-society-2026/",
+          "title": "Ira Allen and the Green Mountain Frontier",
+          "description": "<p>Land speculator, revolutionary, pamphleteer, politician, and empire-builder, Ira Allen was a key figure on the late eighteenth-century Green Mountain frontier.  Based on his 2024 book <em>Ira Allen: A Biography</em>, J. Kevin Graffagnino’s lively talk evaluates Allen’s checkered career and makes the case for including him in our picture of Vermont’s formative decades.</p>\n<p>This program is hosted by <span data-olk-copy-source=\"MessageBody\">the Woodstock History Center and the Norman Williams Public Library.</span></p>\n<p><em>Photo Credit: Arminnius, Wikimedia Commons</em></p>\n<h4>About the presenter</h4>\n<p>&nbsp;</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-43900 alignleft\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2025/08/Kevin-Graffagnino-3-300x300.jpg\" alt=\"head shot of Kevin Graffagnino, he stands in front of a stone column wearing a blue collared shirt and jacket\" width=\"300\" height=\"300\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2025/08/Kevin-Graffagnino-3-300x300.jpg 300w, https://www.vermonthumanities.org/wp-content/uploads/2025/08/Kevin-Graffagnino-3-1024x1024.jpg 1024w, https://www.vermonthumanities.org/wp-content/uploads/2025/08/Kevin-Graffagnino-3-150x150.jpg 150w, https://www.vermonthumanities.org/wp-content/uploads/2025/08/Kevin-Graffagnino-3-768x768.jpg 768w, https://www.vermonthumanities.org/wp-content/uploads/2025/08/Kevin-Graffagnino-3-1536x1536.jpg 1536w, https://www.vermonthumanities.org/wp-content/uploads/2025/08/Kevin-Graffagnino-3-scaled.jpg 1200w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" />J. Kevin Graffagnino is author/editor of 17 books on Vermont history, including <i>The Shaping of Vermont</i>, <i>Vermont in the Victorian Age</i>, and <i>Vermont Heritage: Essays on Green Mountain History, 1779-1920</i>.  His most recent books are <i>Ira Allen: A Biography </i>and <i>Vermontiana: An Annotated Checklist, 1764-1899</i>, both of which came out in 2024.  Dr. Graffagnino was curator of Vermont history at the University of Vermont library’s Special Collections 1978-95 and executive director of the Vermont Historical Society 2003-08.  Since 1980 he has spoken in more than half the towns in Vermont.</p>\n<p>&nbsp;</p>",
+          "all_day": false,
+          "start_date": "2026-10-25 16:00:00",
+          "end_date": "2026-10-25 17:30:00",
+          "utc_start_date": "2026-10-25 20:00:00",
+          "utc_end_date": "2026-10-25 21:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 46054,
+            "venue": "First Congregational Church of Brookfield",
+            "url": "https://www.vermonthumanities.org/venue/first-congregational-church-of-brookfield/",
+            "address": "48 N Ridge Road",
+            "city": "Brookfield",
+            "zip": "05036",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 647,
+              "name": "250th",
+              "slug": "250th"
+            },
+            {
+              "id": 103,
+              "name": "Speakers Bureau",
+              "slug": "speakers-bureau"
+            }
+          ]
+        },
+        {
+          "id": 46996,
+          "global_id": "www.vermonthumanities.org?id=46996",
+          "url": "https://www.vermonthumanities.org/event/mcl-threads-of-history-ff26-4/",
+          "title": "Threads of History: The Story of the Manchester Journal – 165+ Years of &#8220;Local Intelligence&#8221;",
+          "description": "<p dir=\"ltr\">“A country newspaper… should not seek to create and control public opinion, but to furnish the means by which public opinion may find utterance.”</p>\n<p dir=\"ltr\">With those ambitious words, publisher Charles A. Pierce launched The Manchester Journal in May 1861, just weeks after the outbreak of the Civil War. Over 165 years later, the paper remains a weekly snapshot of life in the Northshire and beyond. Join us for a fascinating journey through the history of this local institution, from its beginnings as a Union war-effort booster to its role as the town’s chronicler of everyday life.</p>\n<h4>About the Fall Festival 2026</h4>\n<p>Each year, our Fall Festival celebrates National Arts and Humanities Month in October and reminds Vermonters of the impact and breadth of the humanities. This year’s <strong><em>Fall Festival 2026: Our Woven History</em></strong> recognizes the stories contained in our <a href=\"https://www.vermonthumanities.org/programs/book-a-program/vermont-reads/vermont-reads-2026/\">Vermont Reads 2026 book, <em>Charity &amp; Sylvia</em> by Tillie Walden</a>, while also commemorating the 250th anniversary of our nation’s founding.</p>\n<hr />\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-26677 alignleft\" src=\"https://vermonthumanities.org/wp-content/uploads/2021/08/info-pCropSmall.jpg\" alt=\"Question mark symbol\" width=\"95\" height=\"95\" />Please contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> for information on disability services. To request a specific accommodation, contact us at least three weeks prior to the event. Vermont Humanities strives to provide accommodations whenever possible. All event locations are ADA accessible.</p>",
+          "all_day": false,
+          "start_date": "2026-10-29 17:30:00",
+          "end_date": "2026-10-29 19:00:00",
+          "utc_start_date": "2026-10-29 21:30:00",
+          "utc_end_date": "2026-10-29 23:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 8633,
+            "venue": "Manchester Community Library",
+            "url": "https://www.vermonthumanities.org/venue/manchester-community-library/",
+            "address": "138 Cemetery Ave",
+            "city": "Manchester Center",
+            "zip": "05255",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 658,
+              "name": "Fall Festival 2026",
+              "slug": "fall-festival-2026"
+            }
+          ]
+        },
+        {
+          "id": 46924,
+          "global_id": "www.vermonthumanities.org?id=46924",
+          "url": "https://www.vermonthumanities.org/event/exploring-the-research-and-creation-of-music-commissions-ff26-3/",
+          "title": "Summerland: Charity and Sylvia Listening Party",
+          "description": "<p>Love, music, art, business…how do they all fit together? How is music created around a unique story? What does a commission look like?</p>\n<p>Join us for a listening party as we dive into a world premiere from the Vermont Symphony Orchestra’s opening concert of the 2026-27 season. At the center of this concert is a new work for orchestra and vocalists composed by Brazilian-American composer Clarice Assad. The piece is based on the historic story of Weybridge couple Charity Bryant and Sylvia Drake, taking inspiration from their story and weaving their letters to one another into the music. We’ll listen to the recording from our September concert, dive into the score, discuss how real life events can inspire new art, and take an inside look into the commission and composition process.</p>\n<p><em>Banner image from Lukasz Kobus, Wikimedia Commons. </em></p>\n<p><a class=\"button\" href=\"https://www.eventbrite.com/e/exploring-the-research-and-creation-of-music-commissions-tickets-1994021829971?aff=oddtdtcreator\">Register for this free event</a></p>\n<h4>About the Speaker</h4>\n<p class=\"\"><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-43599 alignright\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2025/07/Screenshot-2025-07-29-151733-300x239.png\" alt=\"black and white headshot of Matt LaRocca with a lake in the background\" width=\"300\" height=\"239\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2025/07/Screenshot-2025-07-29-151733-300x239.png 300w, https://www.vermonthumanities.org/wp-content/uploads/2025/07/Screenshot-2025-07-29-151733-768x612.png 768w, https://www.vermonthumanities.org/wp-content/uploads/2025/07/Screenshot-2025-07-29-151733.png 931w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></p>\n<p><span data-olk-copy-source=\"MessageBody\">Matt LaRocca is a cross-genre composer, performer, and educator who likes making beautiful sounds &#8211; you&#8217;re just as likely to see him playing with a rock band as conducting an orchestra. He is the Artistic Advisor and Special Project Conductor for the Vermont Symphony Orchestra where he works with all things non-traditional, a professor of composition/theory at the University of Vermont, and the Music Director of the Champlain Philharmonic Orchestra. </span></p>\n<p><span data-olk-copy-source=\"MessageBody\">Matt performs on the electric viola (through an array of guitar pedals) with Michael Chorney&#8217;s psych-rock improvisation ensemble Freeway Clyde and is a frequent collaborator with rock, folk, and electronic musicians. He has written string and orchestral arrangements for and performed with artists such as Guster (his music can be heard on their OMAGAH! album), Grace Potter, Henry Jamison, Francesca Blanchard, and more. With a love of improvisation and crossing disciplines, Matt is a regular in the dance world and his collaborators include Jessie Owens and Paul Besaw.  </span></p>\n<p>LaRocca holds degrees in chemistry and music from Middlebury College and a doctorate in music composition from Boston University. He lives in Waterbury Center with his wife Heather and their children Jasper, Sawyer, and Macy. Learn more on his <a href=\"https://www.mattlarocca.com/\">website here.</a></p>\n<h4>About the Fall Festival 2026<img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-43600 alignright\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2025/07/WPL-transparent-logo-300x200.png\" alt=\"Waterbury public Library logo that has their organization written in green and gold text below an open book\" width=\"300\" height=\"200\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2025/07/WPL-transparent-logo-300x200.png 300w, https://www.vermonthumanities.org/wp-content/uploads/2025/07/WPL-transparent-logo.png 715w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></h4>\n<p>Each year, our Fall Festival celebrates National Arts and Humanities Month in October and reminds Vermonters of the impact and breadth of the humanities. This year’s <strong><em>Fall Festival 2026: Our Woven History</em></strong> recognizes the stories contained in our <a href=\"https://www.vermonthumanities.org/programs/book-a-program/vermont-reads/vermont-reads-2026/\">Vermont Reads 2026 book, <em>Charity &amp; Sylvia</em> by Tillie Walden</a>, while also commemorating the 250th anniversary of our nation’s founding.</p>\n<hr />\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-26677 alignleft\" src=\"https://vermonthumanities.org/wp-content/uploads/2021/08/info-pCropSmall.jpg\" alt=\"Question mark symbol\" width=\"95\" height=\"95\" />Please contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> for information on disability services. To request a specific accommodation, contact us at least three weeks prior to the event. Vermont Humanities strives to provide accommodations whenever possible. All event locations are ADA accessible.</p>",
+          "all_day": false,
+          "start_date": "2026-10-29 18:00:00",
+          "end_date": "2026-10-29 19:30:00",
+          "utc_start_date": "2026-10-29 22:00:00",
+          "utc_end_date": "2026-10-29 23:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 43891,
+            "venue": "The Phoenix",
+            "url": "https://www.vermonthumanities.org/venue/the-phoenix/",
+            "address": "5 Stowe Street",
+            "city": "Waterbury",
+            "zip": "05676",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 658,
+              "name": "Fall Festival 2026",
+              "slug": "fall-festival-2026"
+            }
+          ]
+        },
+        {
+          "id": 47827,
+          "global_id": "www.vermonthumanities.org?id=47827",
+          "url": "https://www.vermonthumanities.org/event/back-to-balance/",
+          "title": "Never Too Early: Back to Balance",
+          "description": "<p><span class=\"TextRun SCXW184868833 BCX0\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW184868833 BCX0\">This online class will explore strategies for effectively managing both children and caregivers during the holiday season, which is often marked by media overload, shopping distractions, and increased sugar consumption. Educators can create an environment of stability and comfort during this busy time. The course will focus on children&#8217;s literature and sensory-based interventions that provide opportunities for children and caregivers to pause, reflect, and relax. Caregivers will also consider how to balance their personal feelings about celebrations with the diverse needs of children and families.</span></span><span class=\"EOP Selected SCXW184868833 BCX0\" data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}\"> </span></p>\n<h5>Session dates and times (all on Zoom):</h5>\n<ul>\n<li><span data-contrast=\"auto\">Thursday, October 29 from 6-7 pm</span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}\"> </span></li>\n<li><span data-contrast=\"auto\">Thursday, November 5 from 6-7 pm</span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}\"> </span></li>\n<li><span data-contrast=\"auto\">Thursday, November 19 from 6-7 pm</span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}\"> </span></li>\n</ul>\n<p><a class=\"button\" href=\"https://vthumanities.wufoo.com/forms/rt10q8n0r1r9os/\">Please register online</a></p>\n<p><span class=\"TextRun SCXW226793732 BCX0\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW226793732 BCX0\">You will receive books for this class </span><span class=\"NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW226793732 BCX0\">AFTER</span><span class=\"NormalTextRun SCXW226793732 BCX0\"> the first session. You will receive six credit hours from Northern Lights upon completion of the online sessions and classwork.</span></span><span class=\"EOP Selected SCXW226793732 BCX0\" data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}\"> </span></p>",
+          "all_day": false,
+          "start_date": "2026-10-29 18:00:00",
+          "end_date": "2026-10-29 19:00:00",
+          "utc_start_date": "2026-10-29 22:00:00",
+          "utc_end_date": "2026-10-29 23:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 571,
+              "name": "Never Too Early",
+              "slug": "never-too-early"
+            }
+          ]
+        },
+        {
+          "id": 47188,
+          "global_id": "www.vermonthumanities.org?id=47188",
+          "url": "https://www.vermonthumanities.org/event/marlboro-music-bianca-stone-in-conversation-with-mark-wunderlich-2026/",
+          "title": "Marlboro Music: Bianca Stone in conversation with Mark Wunderlich",
+          "description": "<div class=\"entry-field\">\n<div class=\"entry-field-value\">\n<div class=\"entry-field\">\n<div class=\"entry-field-value\">\n<p><img loading=\"lazy\" decoding=\"async\" class=\"wp-image-47189  alignleft\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/08/image_bianca_s.jfif_-300x150.jpg\" alt=\"\" width=\"473\" height=\"227\" />Please join us for the second event in our new In Conversation series, bringing acclaimed writers to the Campus at Marlboro Music for readings and discussion. In this series Authors, poets, historians, and essayists will explore questions through the lens of literature, history, memory, place, ethics, creativity, and civic life. Rather than traditional book talks or readings, each gathering is built around conversation—an opportunity to listen deeply, ask questions, and consider multiple perspectives in the company of others.</p>\n<p>In Conversation is being offered with the performances of Marlboro Music’s Artist Residency program and is presented in partnership with Word House, led by Vermont Writer Robin Marie MacArthur.</p>\n<p>Find out more about this event, as well as the other events in this series, <a href=\"https://www.eventbrite.com/e/jill-lepore-in-conversation-with-dan-chiasson-tickets-1995158983227?aff=oddtdtcreator\">here.</a></p>\n</div>\n</div>\n</div>\n</div>",
+          "all_day": false,
+          "start_date": "2026-11-01 16:00:00",
+          "end_date": "2026-11-01 16:00:00",
+          "utc_start_date": "2026-11-01 21:00:00",
+          "utc_end_date": "2026-11-01 21:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 47182,
+            "venue": "The Campus at Marlboro Music &#8211; Whittemore Theater",
+            "url": "https://www.vermonthumanities.org/venue/the-campus-at-marlboro-music-whittemore-theater/",
+            "address": "2582 South Rd",
+            "city": "Marlboro",
+            "zip": "05344",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 112,
+              "name": "Grants",
+              "slug": "grants"
+            }
+          ]
+        },
+        {
+          "id": 47875,
+          "global_id": "www.vermonthumanities.org?id=47875",
+          "url": "https://www.vermonthumanities.org/event/westford-common-hall-viewing-of-jay-cravens-lost-nation-2026/",
+          "title": "Westford Common Hall: Viewing of Jay Craven&#8217;s &#8220;Lost Nation&#8221;",
+          "description": "<div class=\"entry-field\">\n<div class=\"entry-field-value\">\n<div class=\"entry-field\">\n<div class=\"entry-field-value\">\n<p><img loading=\"lazy\" decoding=\"async\" class=\"wp-image-47876 alignright\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/10/Picture1-232x300.jpg\" alt=\"\" width=\"351\" height=\"425\" />The Birth of Vermont: The promise of the American Revolution &#8211; &#8220;Lost Nation&#8221; is a powerful film focusing on Ethan Allen &#8211; one of the original &#8220;Green Mountain Boys&#8221; &#8211; and the fight with NH and NY Land Grants, and Lucy Terry Prince, America&#8217;s first known, and little known, African American Poet.</p>\n<p>Jay Craven will be there to set the stage for the film and answer audience questions.</p>\n<div class=\"entry-field\"></div>\n</div>\n</div>\n</div>\n</div>",
+          "all_day": false,
+          "start_date": "2026-11-01 16:00:00",
+          "end_date": "2026-11-01 16:00:00",
+          "utc_start_date": "2026-11-01 21:00:00",
+          "utc_end_date": "2026-11-01 21:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 47877,
+            "venue": "Westford Common Hall",
+            "url": "https://www.vermonthumanities.org/venue/westford-common-hall/",
+            "address": "21 Brookside Road",
+            "city": "Westford",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05494",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 112,
+              "name": "Grants",
+              "slug": "grants"
+            }
+          ]
+        },
+        {
+          "id": 47414,
+          "global_id": "www.vermonthumanities.org?id=47414",
+          "url": "https://www.vermonthumanities.org/event/vermont-1800-and-froze-to-death-brookfield-free-public-library-2026/",
+          "title": "Vermont, 1800 and Froze to Death: The Cold Year of 1816",
+          "description": "<p>1816 has long been known as the year without summer. Vermonters still call it “1800 and Froze to Death,” a year of frosts every month, dark skies, and mysterious lights that caused a widespread belief that a higher power was displeased.</p>\n<p>In this talk, historian Howard Coffin includes scores of anecdotes on the dark year of failed crops, scarce food, and religious revival. The horrible weather also came in the aftermath of the War of 1812, which produced shortages and an economic crisis. Vermonters coped with the cold year with neighbor helping neighbor. But some greedy merchants sought to exploit shortages by charging higher and higher prices.</p>\n<p>The cold year seems to have hit Vermont harder than any other state. But the effects of the disaster were very much worldwide. In Europe, visitors to the continent mistook bands of beggars along the roadways for invading armies. And out of it came literary accomplishments, including a grand poem by Lord Byron and a dark novel by Mary Shelley.</p>\n<p>&nbsp;</p>\n<h4>About the Speaker</h4>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-8774 alignleft\" src=\"https://vermonthumanities.org/wp-content/uploads/2016/06/400px_coffin062416.jpg\" sizes=\"auto, (max-width: 400px) 100vw, 400px\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2016/06/400px_coffin062416.jpg 400w, https://www.vermonthumanities.org/wp-content/uploads/2016/06/400px_coffin062416-300x188.jpg 300w\" alt=\"Image of Howard Coffin\" width=\"400\" height=\"250\" />A seventh-generation Vermonter, Howard Coffin is the author of four books on the Civil War: <em>Something Abides: Discovering the Civil War in Today’s Vermont</em>; <em>Full Duty: Vermonters in the Civil War</em>;<em> Nine Months to Gettysburg</em>; and <em>The Battered Stars</em>, as well as <em>Guns Over the Champlain Valley</em>, a book on military sites along the Champlain Corridor.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+          "all_day": false,
+          "start_date": "2026-11-01 16:30:00",
+          "end_date": "2026-11-01 18:00:00",
+          "utc_start_date": "2026-11-01 21:30:00",
+          "utc_end_date": "2026-11-01 23:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 47415,
+            "venue": "Brookfield Pond Village Church",
+            "url": "https://www.vermonthumanities.org/venue/brookfield-pond-village-church/",
+            "address": "49 N. Ridge Road",
+            "city": "Brookfield",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05036",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 103,
+              "name": "Speakers Bureau",
+              "slug": "speakers-bureau"
+            },
+            {
+              "id": 108,
+              "name": "Vermont Reads",
+              "slug": "vermont-reads"
+            }
+          ]
+        },
+        {
+          "id": 47353,
+          "global_id": "www.vermonthumanities.org?id=47353",
+          "url": "https://www.vermonthumanities.org/event/picturing-language-dorothy-alling-memorial-library-sb-26/",
+          "title": "Picturing Language: An Introduction to the Magic of Comics",
+          "description": "<p><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-45175 alignright\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2025/12/thumbnail_CCS_Presentation-300x148.png\" alt=\"A cartoon of a man giving a presentation to a large audience of different people and animals\" width=\"300\" height=\"148\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2025/12/thumbnail_CCS_Presentation-300x148.png 300w, https://www.vermonthumanities.org/wp-content/uploads/2025/12/thumbnail_CCS_Presentation-1024x505.png 1024w, https://www.vermonthumanities.org/wp-content/uploads/2025/12/thumbnail_CCS_Presentation-768x379.png 768w, https://www.vermonthumanities.org/wp-content/uploads/2025/12/thumbnail_CCS_Presentation-1536x758.png 1536w, https://www.vermonthumanities.org/wp-content/uploads/2025/12/thumbnail_CCS_Presentation-scaled.png 1200w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" />Comics are a powerful and often misunderstood storytelling language—one that is immersive, visually rich, and accessible across age groups and reading levels. From preschool classrooms to graduate seminars, comics have a unique ability to engage learners, including those who struggle with reading or communicate best through visual narratives.</p>\n<p>In this lively, hands-on presentation, participants will be introduced to the fundamentals of cartooning as both an art form and a communication tool. Drawing on the past, present, and future of the medium, the session expands how we think about comics—not just as entertainment, but as a flexible language capable of conveying complex ideas with clarity and emotional impact. No prior drawing experience required!</p>\n<p><strong>Led by a graduate student, alum, or staff member from The Center for Cartoon Studies</strong> in White River Junction, Vermont—an internationally recognized school where aspiring cartoonists come from around the world to study—this workshop invites audiences to look closely, draw simply, and discover how comics create meaning.</p>",
+          "all_day": false,
+          "start_date": "2026-11-04 18:30:00",
+          "end_date": "2026-11-04 20:00:00",
+          "utc_start_date": "2026-11-04 23:30:00",
+          "utc_end_date": "2026-11-05 01:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 10414,
+            "venue": "Dorothy Alling Memorial Library",
+            "url": "https://www.vermonthumanities.org/venue/dorothy-alling-memorial-library/",
+            "address": "21 Library Ln",
+            "city": "Williston",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05495",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 103,
+              "name": "Speakers Bureau",
+              "slug": "speakers-bureau"
+            },
+            {
+              "id": 108,
+              "name": "Vermont Reads",
+              "slug": "vermont-reads"
+            }
+          ]
+        },
+        {
+          "id": 47487,
+          "global_id": "www.vermonthumanities.org?id=47487",
+          "url": "https://www.vermonthumanities.org/event/vermont-reads-charity-sylvia-carpenter-carse-library-2026/",
+          "title": "Vermont Reads Facilitated Discussion: Carpenter-Carse Library",
+          "description": "<p>Join us for a book discussion of this year’s Vermont Reads selection, <em>Charity &amp; Sylvia</em>. This discussion will be facilitated by Peter Burns.</p>\n<p>Together, we&#8217;ll explore the book&#8217;s themes of Vermont&#8217;s early history, friendship, family, faith, resilience, and the evolving understanding of LGBTQ+ identity. Whether you&#8217;re a longtime fan of graphic novels or reading one for the first time, all are welcome to join the conversation.</p>\n<h3>About the Book</h3>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-46164 alignleft\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-229x300.jpg\" alt=\"Charity and Sylvia book cover with a cartoon drawing of two 19th century women facing each other, and a yellow background\" width=\"229\" height=\"300\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-229x300.jpg 229w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-781x1024.jpg 781w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-768x1007.jpg 768w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-1171x1536.jpg 1171w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-1562x2048.jpg 1562w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-scaled.jpg 915w\" sizes=\"auto, (max-width: 229px) 100vw, 229px\" />Weybridge, Vermont in February 1807 is small, cold, lonely, and beautiful. As an unwed woman with few prospects, Sylvia Drake resides with and cares for her sister’s rambunctious family. But today the house is abuzz awaiting a guest—Charity Bryant. So opens <em>Charity and Sylvia</em> by <a href=\"https://www.vermonthumanities.org/programs/book-a-program/vermont-reads/vermont-reads-2026/about-the-author/\">Tillie Walden</a>, the award-winning, Vermont-based cartoonist and author of <em>Spinning</em> and <em>On a Sunbeam</em>.</p>\n<p>Created by Walden from archival materials at the <a href=\"https://www.henrysheldonmuseum.org/\">Henry Sheldon Museum of Vermont History in Middlebury</a>, and other primary and secondary sources, <em>Charity and Sylvia</em> is a groundbreaking biography that is also the story of 19th century America. For 44 years Charity Bryant and Sylvia Drake lived together as life partners in small town Vermont. And in Walden’s graphic novel, America grows alongside these women. We see the arrival of railroads, the terms of 14 Presidents, riots, rebellion, and plagues.</p>\n<p>&nbsp;</p>\n<h3>About the Author</h3>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"wp-image-45737 alignright\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/02/tillieBioPhotowCels-240x300.jpg\" alt=\"Cartoonist Tillie Walden with uninked pages from her Charity and Sylvia book\" width=\"251\" height=\"296\" /></p>\n<p><a href=\"https://www.tilliewalden.com/books\">Tillie Walden</a> is the award-winning, Vermont-based cartoonist and author of <i>Spinning</i> and <i>On a Sunbeam</i> and <i>Charity and Sylvia</i>. Tillie served as Vermont’s Fifth Cartoonist Laureate from April 2023 to April 2026. She won the 2018 Eisner Award for Best Reality-Based Work at 22 years old, for her graphic memoir Spinning, making her one of the youngest Eisner Award winners ever. She received the <i>Los Angeles Times Book Prize</i> in 2018 for <i>On a Sunbeam</i>.</p>\n<p>Her work includes a graphic novel trilogy featuring <i>The Walking Dead</i> character Clementine and two middle grade graphic novels created with musicians Tegan and Sara. <i>Clementine: Book Three</i> by Tillie Walden is currently nominated for a 2026 Will Eisner Comic Industry Award in the category of Best Publication for Teens. She is a graduate of<a href=\"https://www.cartoonstudies.org/\"> The Center for Cartoon Studies</a> (CCS) class of 2016 in White River Junction and became a professor at CCS in 2021.</p>",
+          "all_day": false,
+          "start_date": "2026-11-10 19:00:00",
+          "end_date": "2026-11-10 19:00:00",
+          "utc_start_date": "2026-11-11 00:00:00",
+          "utc_end_date": "2026-11-11 00:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 14068,
+            "venue": "Carpenter-Carse Library",
+            "url": "https://www.vermonthumanities.org/venue/carpenter-carse-library/",
+            "address": "69 Ballards Corner Rd.",
+            "city": "Hinesburg",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05461",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 108,
+              "name": "Vermont Reads",
+              "slug": "vermont-reads"
+            }
+          ]
+        },
+        {
+          "id": 47852,
+          "global_id": "www.vermonthumanities.org?id=47852",
+          "url": "https://www.vermonthumanities.org/event/vermont-reads-charity-sylvia-charlotte-library-2026/",
+          "title": "Vermont Reads Facilitated Discussion: Charlotte Library",
+          "description": "<p>Join us for a book discussion of this year’s Vermont Reads selection, <em>Charity &amp; Sylvia</em>. This discussion will be facilitated by Yasmine Ziesler.</p>\n<p>Together, we&#8217;ll explore the book&#8217;s themes of Vermont&#8217;s early history, friendship, family, faith, resilience, and the evolving understanding of LGBTQ+ identity. Whether you&#8217;re a longtime fan of graphic novels or reading one for the first time, all are welcome to join the conversation.</p>\n<h3>About the Book</h3>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-46164 alignleft\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-229x300.jpg\" alt=\"Charity and Sylvia book cover with a cartoon drawing of two 19th century women facing each other, and a yellow background\" width=\"229\" height=\"300\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-229x300.jpg 229w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-781x1024.jpg 781w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-768x1007.jpg 768w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-1171x1536.jpg 1171w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-1562x2048.jpg 1562w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-scaled.jpg 915w\" sizes=\"auto, (max-width: 229px) 100vw, 229px\" />Weybridge, Vermont in February 1807 is small, cold, lonely, and beautiful. As an unwed woman with few prospects, Sylvia Drake resides with and cares for her sister’s rambunctious family. But today the house is abuzz awaiting a guest—Charity Bryant. So opens <em>Charity and Sylvia</em> by <a href=\"https://www.vermonthumanities.org/programs/book-a-program/vermont-reads/vermont-reads-2026/about-the-author/\">Tillie Walden</a>, the award-winning, Vermont-based cartoonist and author of <em>Spinning</em> and <em>On a Sunbeam</em>.</p>\n<p>Created by Walden from archival materials at the <a href=\"https://www.henrysheldonmuseum.org/\">Henry Sheldon Museum of Vermont History in Middlebury</a>, and other primary and secondary sources, <em>Charity and Sylvia</em> is a groundbreaking biography that is also the story of 19th century America. For 44 years Charity Bryant and Sylvia Drake lived together as life partners in small town Vermont. And in Walden’s graphic novel, America grows alongside these women. We see the arrival of railroads, the terms of 14 Presidents, riots, rebellion, and plagues.</p>\n<p>&nbsp;</p>\n<h3>About the Author</h3>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"wp-image-45737 alignright\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/02/tillieBioPhotowCels-240x300.jpg\" alt=\"Cartoonist Tillie Walden with uninked pages from her Charity and Sylvia book\" width=\"251\" height=\"296\" /></p>\n<p><a href=\"https://www.tilliewalden.com/books\">Tillie Walden</a> is the award-winning, Vermont-based cartoonist and author of <i>Spinning</i> and <i>On a Sunbeam</i> and <i>Charity and Sylvia</i>. Tillie served as Vermont’s Fifth Cartoonist Laureate from April 2023 to April 2026. She won the 2018 Eisner Award for Best Reality-Based Work at 22 years old, for her graphic memoir Spinning, making her one of the youngest Eisner Award winners ever. She received the <i>Los Angeles Times Book Prize</i> in 2018 for <i>On a Sunbeam</i>.</p>\n<p>Her work includes a graphic novel trilogy featuring <i>The Walking Dead</i> character Clementine and two middle grade graphic novels created with musicians Tegan and Sara. <i>Clementine: Book Three</i> by Tillie Walden is currently nominated for a 2026 Will Eisner Comic Industry Award in the category of Best Publication for Teens. She is a graduate of<a href=\"https://www.cartoonstudies.org/\"> The Center for Cartoon Studies</a> (CCS) class of 2016 in White River Junction and became a professor at CCS in 2021.</p>",
+          "all_day": false,
+          "start_date": "2026-11-11 17:30:00",
+          "end_date": "2026-11-11 17:30:00",
+          "utc_start_date": "2026-11-11 22:30:00",
+          "utc_end_date": "2026-11-11 22:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 10644,
+            "venue": "Charlotte Library",
+            "url": "https://www.vermonthumanities.org/venue/charlotte-library/",
+            "address": "115 Ferry Road",
+            "city": "Charlotte",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05445",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 108,
+              "name": "Vermont Reads",
+              "slug": "vermont-reads"
+            }
+          ]
+        },
+        {
+          "id": 46794,
+          "global_id": "www.vermonthumanities.org?id=46794",
+          "url": "https://www.vermonthumanities.org/event/nonfiction-comics-festival-2026/",
+          "title": "Nonfiction Comics Festival 2026",
+          "description": "<p><a href=\"https://www.vermonthumanities.org/wp-content/uploads/2026/07/NFCF-Poster-2026CropSocial.jpg\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-47822 size-medium\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/07/NFCF-Poster-2026CropSocial-240x300.jpg\" alt=\"2026 Poster by Christine Tyler Hill, \nCreator of The Cloud Report.\" width=\"240\" height=\"300\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2026/07/NFCF-Poster-2026CropSocial-240x300.jpg 240w, https://www.vermonthumanities.org/wp-content/uploads/2026/07/NFCF-Poster-2026CropSocial.jpg 702w\" sizes=\"auto, (max-width: 240px) 100vw, 240px\" /></a>The <a href=\"https://www.nonfictioncomicsfest.org/\">fifth annual Non-Fiction Comics Festival</a> will feature panel discussions, workshops, and exhibiting cartoonists creating non-fiction and autobiographical work, with special events and workshops held throughout the entire weekend!</p>\n<p><strong>2026’s Special Guests include:</strong></p>\n<p>Gemma Correll, Mike Dawson, Tillie Walden, Jonathan Todd, Hazel Newlevant, Sanika Phawde, Caitlin McGurk, Daryl Seitchik, Vivian Li, Katy Doughty, Stephanie Stalvey, and Camila Kerwin.</p>\n<p>From science to politics, history to health care, cartooning has exploded as a legitimate medium for exploring non-fiction topics and the textures of lived experience.</p>\n<p>With roots in the Vermont Folklife Center’s Non-Fiction Comics Mini-Fest (2017, 2018 &amp; 2019) and their partnership with the University of Vermont, the Pulp Culture Comic Arts Festival and Symposium (2017 &amp; 2018), NCFS celebrates the full scope of non-fiction cartooning with the Fletcher Free Library in Burlington, Vermont.</p>\n<p><cite>2026 Poster by <a href=\"https://christinetylerhill.com/\">Christine Tyler Hill</a>, Creator of The Cloud Report</cite></p>",
+          "all_day": false,
+          "start_date": "2026-11-14 11:00:00",
+          "end_date": "2026-11-14 18:00:00",
+          "utc_start_date": "2026-11-14 16:00:00",
+          "utc_end_date": "2026-11-14 23:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 12066,
+            "venue": "Fletcher Free Library",
+            "url": "https://www.vermonthumanities.org/venue/fletcher-free-library/",
+            "address": "235 College St",
+            "city": "Burlington",
+            "zip": "05401",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 658,
+              "name": "Fall Festival 2026",
+              "slug": "fall-festival-2026"
+            },
+            {
+              "id": 108,
+              "name": "Vermont Reads",
+              "slug": "vermont-reads"
+            }
+          ]
+        },
+        {
+          "id": 46998,
+          "global_id": "www.vermonthumanities.org?id=46998",
+          "url": "https://www.vermonthumanities.org/event/mcl-threads-of-history-ff26-5/",
+          "title": "Threads of History: The Printing Press",
+          "description": "<p>Participants will hear the reasons why a particular passage from a 1777 letter to the Inhabitants of Vermont was selected to be reprinted for this event. During the session, attendees are invited to read and discuss the entire letter and decide for themselves whether this chosen passage, to be letterpress printed on unique handmade paper, is recognizable, relevant, and relatable to us more than 250 years after it was first written.</p>\n<div class=\"ql-block\" data-block-id=\"block-nuSEJX_uas\">John Vincent of A Revolutionary Press will also discuss how typesetting and printing in the New Haven, Vermont print shop compare to the methods used during the Revolutionary period in America. Everyone present will have the opportunity to hand-ink the type set by hand, one letter at a time, and letterpress print their own broadside excerpt from this historical <em>and </em>controversial manifesto on the Threads of History unique handmade paper.</div>\n<div data-block-id=\"block-nuSEJX_uas\"></div>\n<div data-block-id=\"block-nuSEJX_uas\"></div>\n<div class=\"ql-block\" data-block-id=\"block-nuSEJX_uas\">John Vincent is a retired police officer, poet, letterpress printer, and director of A Revolutionary Press, a 501c3 nonprofit and volunteer-run collective of artists in service to the Common Good in New Haven, Vermont.</div>\n<h4>About the Fall Festival 2026</h4>\n<p>Each year, our Fall Festival celebrates National Arts and Humanities Month in October and reminds Vermonters of the impact and breadth of the humanities. This year’s <strong><em>Fall Festival 2026: Our Woven History</em></strong> recognizes the stories contained in our <a href=\"https://www.vermonthumanities.org/programs/book-a-program/vermont-reads/vermont-reads-2026/\">Vermont Reads 2026 book, <em>Charity &amp; Sylvia</em> by Tillie Walden</a>, while also commemorating the 250th anniversary of our nation’s founding.</p>\n<hr />\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-26677 alignleft\" src=\"https://vermonthumanities.org/wp-content/uploads/2021/08/info-pCropSmall.jpg\" alt=\"Question mark symbol\" width=\"95\" height=\"95\" />Please contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> for information on disability services. To request a specific accommodation, contact us at least three weeks prior to the event. Vermont Humanities strives to provide accommodations whenever possible. All event locations are ADA accessible.</p>",
+          "all_day": false,
+          "start_date": "2026-11-14 11:00:00",
+          "end_date": "2026-11-14 15:00:00",
+          "utc_start_date": "2026-11-14 16:00:00",
+          "utc_end_date": "2026-11-14 20:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 8633,
+            "venue": "Manchester Community Library",
+            "url": "https://www.vermonthumanities.org/venue/manchester-community-library/",
+            "address": "138 Cemetery Ave",
+            "city": "Manchester Center",
+            "zip": "05255",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 658,
+              "name": "Fall Festival 2026",
+              "slug": "fall-festival-2026"
+            }
+          ]
+        },
+        {
+          "id": 47517,
+          "global_id": "www.vermonthumanities.org?id=47517",
+          "url": "https://www.vermonthumanities.org/event/vermont-sampler-stories-wardsboro-public-library-2026/",
+          "title": "Vermont Sampler Stories",
+          "description": "<p>This presentation is based on the research Michele Pagan has done into the Revolutionary War ancestors of the girls who made 19th century schoolgirl samplers. Needlework samplers are a visual record of the values that guided early female education in Vermont, including its focus on needlework as an essential skill for all girls and women. As artifacts of female education, they provide insight into family dynamics, local history, and community values.</p>\n<h4>About the presenter</h4>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-43804 alignleft\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2025/08/Michele-Pagan-Headshot-225x300.jpg\" alt=\"Headshot of Michele Pagan, an older white woman standing in front of some windows wearing a black floral blouse\" width=\"225\" height=\"300\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2025/08/Michele-Pagan-Headshot-225x300.jpg 225w, https://www.vermonthumanities.org/wp-content/uploads/2025/08/Michele-Pagan-Headshot-768x1024.jpg 768w, https://www.vermonthumanities.org/wp-content/uploads/2025/08/Michele-Pagan-Headshot-1152x1536.jpg 1152w, https://www.vermonthumanities.org/wp-content/uploads/2025/08/Michele-Pagan-Headshot-1536x2048.jpg 1536w, https://www.vermonthumanities.org/wp-content/uploads/2025/08/Michele-Pagan-Headshot-scaled.jpg 900w\" sizes=\"auto, (max-width: 225px) 100vw, 225px\" /></p>\n<p>Michele Pagán is a recently-returned native Vermonter, who spent her childhood in Bennington. She is a graduate of the University of Vermont and the University of Connecticut, where she studied clothing and textiles. She credits her early experience visiting the Bennington Museum with opening new doors to her, allowing her to envision a unique career trajectory. The Bennington Museum recently published her research entitled <em>Geography and Technological Change in Vermont: The Transition from Homespun Flax To Machine-Made Cotton Textiles</em>.</p>\n<p>Today she is a textile conservator in private practice who likes to say that she is “saving history one piece of fabric at a time.” She works out of her studio in East Dorset. Michele is currently the Special Projects Coordinator with the VT Sampler Initiative, and instigated the 2025 “From Bennington to Brownington: the Vermont Samplers Driving Tour,” in conjunction with the Vermont State 250th Commemoration of the start of the American Revolution.</p>",
+          "all_day": false,
+          "start_date": "2026-11-14 13:00:00",
+          "end_date": "2026-11-14 14:30:00",
+          "utc_start_date": "2026-11-14 18:00:00",
+          "utc_end_date": "2026-11-14 19:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 13147,
+            "venue": "Wardsboro Public Library",
+            "url": "https://www.vermonthumanities.org/venue/wardsboro-free-public-library/",
+            "address": "170 Main St",
+            "city": "Wardsboro",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05355",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 647,
+              "name": "250th",
+              "slug": "250th"
+            },
+            {
+              "id": 103,
+              "name": "Speakers Bureau",
+              "slug": "speakers-bureau"
+            },
+            {
+              "id": 108,
+              "name": "Vermont Reads",
+              "slug": "vermont-reads"
+            }
+          ]
+        },
+        {
+          "id": 47521,
+          "global_id": "www.vermonthumanities.org?id=47521",
+          "url": "https://www.vermonthumanities.org/event/vermont-1800-and-froze-to-death-richmond-free-library-2026/",
+          "title": "Vermont, 1800 and Froze to Death: The Cold Year of 1816",
+          "description": "<p>1816 has long been known as the year without summer. Vermonters still call it “1800 and Froze to Death,” a year of frosts every month, dark skies, and mysterious lights that caused a widespread belief that a higher power was displeased.</p>\n<p>In this talk, historian Howard Coffin includes scores of anecdotes on the dark year of failed crops, scarce food, and religious revival. The horrible weather also came in the aftermath of the War of 1812, which produced shortages and an economic crisis. Vermonters coped with the cold year with neighbor helping neighbor. But some greedy merchants sought to exploit shortages by charging higher and higher prices.</p>\n<p>The cold year seems to have hit Vermont harder than any other state. But the effects of the disaster were very much worldwide. In Europe, visitors to the continent mistook bands of beggars along the roadways for invading armies. And out of it came literary accomplishments, including a grand poem by Lord Byron and a dark novel by Mary Shelley.</p>\n<p>&nbsp;</p>\n<h4>About the Speaker</h4>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-8774 alignleft\" src=\"https://vermonthumanities.org/wp-content/uploads/2016/06/400px_coffin062416.jpg\" sizes=\"auto, (max-width: 400px) 100vw, 400px\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2016/06/400px_coffin062416.jpg 400w, https://www.vermonthumanities.org/wp-content/uploads/2016/06/400px_coffin062416-300x188.jpg 300w\" alt=\"Image of Howard Coffin\" width=\"400\" height=\"250\" />A seventh-generation Vermonter, Howard Coffin is the author of four books on the Civil War: <em>Something Abides: Discovering the Civil War in Today’s Vermont</em>; <em>Full Duty: Vermonters in the Civil War</em>;<em> Nine Months to Gettysburg</em>; and <em>The Battered Stars</em>, as well as <em>Guns Over the Champlain Valley</em>, a book on military sites along the Champlain Corridor.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+          "all_day": false,
+          "start_date": "2026-11-17 10:30:00",
+          "end_date": "2026-11-17 12:00:00",
+          "utc_start_date": "2026-11-17 15:30:00",
+          "utc_end_date": "2026-11-17 17:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 6707,
+            "venue": "Richmond Free Library",
+            "url": "https://www.vermonthumanities.org/venue/richmond-free-library/",
+            "address": "201 Bridge St",
+            "city": "Richmond",
+            "zip": "05477",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 103,
+              "name": "Speakers Bureau",
+              "slug": "speakers-bureau"
+            },
+            {
+              "id": 108,
+              "name": "Vermont Reads",
+              "slug": "vermont-reads"
+            }
+          ]
+        },
+        {
+          "id": 46209,
+          "global_id": "www.vermonthumanities.org?id=46209",
+          "url": "https://www.vermonthumanities.org/event/public-art-monuments-and-what-we-choose-to-remember-vt-state-university-castleton-2026/",
+          "title": "Public Art, Monuments, and What We Choose to Remember",
+          "description": "<p><span data-olk-copy-source=\"MessageBody\">Join artist and educator Jen Berger for a presentation that places monuments within the broader field of public art, examining how objects in shared space shape memory, belonging, and power, and how monuments, often permanent and officially sanctioned, are mistaken for neutral history. Moving from participatory public artworks to the political histories and social impacts of monuments, including Confederate memorials and their removal after 2020, we </span>look towards Vermont to ask what our monuments say about public history and whose stories are centered or missing.</p>\n<p><i>The Vermont Monument Project </i>is a three-year, humanities-based initiative that combines research, analysis, and artistic practice to expand and complicate public memory through dialogue, care, and inclusion.</p>\n<p><em>Banner Image Credit: US Government, Wikimedia Commons</em></p>\n<h4>About the presenter</h4>\n<p>&nbsp;</p>\n<p dir=\"ltr\"><span data-olk-copy-source=\"MessageBody\"><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-45446 alignleft\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/02/Jen-Berger_headshot_1080x1080-300x300.jpg\" alt=\"Headshot of Jen Berger, a middle aged white woman wearing large black glasses and curly blonde hair. She smiles in front of a wood panel wall.\" width=\"300\" height=\"300\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2026/02/Jen-Berger_headshot_1080x1080-300x300.jpg 300w, https://www.vermonthumanities.org/wp-content/uploads/2026/02/Jen-Berger_headshot_1080x1080-1024x1024.jpg 1024w, https://www.vermonthumanities.org/wp-content/uploads/2026/02/Jen-Berger_headshot_1080x1080-150x150.jpg 150w, https://www.vermonthumanities.org/wp-content/uploads/2026/02/Jen-Berger_headshot_1080x1080-768x768.jpg 768w, https://www.vermonthumanities.org/wp-content/uploads/2026/02/Jen-Berger_headshot_1080x1080.jpg 1080w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" />Jen Berger (she/her)</span> is a socially engaged artist and educator based in Vermont. Her interdisciplinary practice—spanning printmaking, performance, installation, and mixed media—explores the intersections of art, care, and justice, with a focus on collective grief, participation, and belonging. Grounded in decades of social movement experience, her artwork connects research, making, and community engagement into public and shared spaces.</p>\n<p>In 2019, she founded At the Root, an LLC that supports site-specific projects, printmaking workshops, community collaborations, and public installations that foster dialogue on social and political issues. Since 2020, her practice has increasingly moved into larger public art contexts, examining how art can function as a tool for care within public space. Alongside her studio and community-based work, she is a full-time Lecturer in Art &amp; Art History at the University of Vermont.</p>\n<p>&nbsp;</p>",
+          "all_day": false,
+          "start_date": "2026-11-17 19:00:00",
+          "end_date": "2026-11-17 20:30:00",
+          "utc_start_date": "2026-11-18 00:00:00",
+          "utc_end_date": "2026-11-18 01:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 38928,
+            "venue": "Vermont State University Castleton, Jeffords Auditorium",
+            "url": "https://www.vermonthumanities.org/venue/castleton-university-jeffords-auditorium/",
+            "address": "233 South St",
+            "city": "Castleton",
+            "stateprovince": "Vermont",
+            "zip": "05735",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 647,
+              "name": "250th",
+              "slug": "250th"
+            },
+            {
+              "id": 103,
+              "name": "Speakers Bureau",
+              "slug": "speakers-bureau"
+            }
+          ]
+        },
+        {
+          "id": 47519,
+          "global_id": "www.vermonthumanities.org?id=47519",
+          "url": "https://www.vermonthumanities.org/event/vermont-1800-and-froze-to-death-wardsboro-public-library-2026/",
+          "title": "Vermont, 1800 and Froze to Death: The Cold Year of 1816",
+          "description": "<p>1816 has long been known as the year without summer. Vermonters still call it “1800 and Froze to Death,” a year of frosts every month, dark skies, and mysterious lights that caused a widespread belief that a higher power was displeased.</p>\n<p>In this talk, historian Howard Coffin includes scores of anecdotes on the dark year of failed crops, scarce food, and religious revival. The horrible weather also came in the aftermath of the War of 1812, which produced shortages and an economic crisis. Vermonters coped with the cold year with neighbor helping neighbor. But some greedy merchants sought to exploit shortages by charging higher and higher prices.</p>\n<p>The cold year seems to have hit Vermont harder than any other state. But the effects of the disaster were very much worldwide. In Europe, visitors to the continent mistook bands of beggars along the roadways for invading armies. And out of it came literary accomplishments, including a grand poem by Lord Byron and a dark novel by Mary Shelley.</p>\n<p>&nbsp;</p>\n<h4>About the Speaker</h4>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-8774 alignleft\" src=\"https://vermonthumanities.org/wp-content/uploads/2016/06/400px_coffin062416.jpg\" sizes=\"auto, (max-width: 400px) 100vw, 400px\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2016/06/400px_coffin062416.jpg 400w, https://www.vermonthumanities.org/wp-content/uploads/2016/06/400px_coffin062416-300x188.jpg 300w\" alt=\"Image of Howard Coffin\" width=\"400\" height=\"250\" />A seventh-generation Vermonter, Howard Coffin is the author of four books on the Civil War: <em>Something Abides: Discovering the Civil War in Today’s Vermont</em>; <em>Full Duty: Vermonters in the Civil War</em>;<em> Nine Months to Gettysburg</em>; and <em>The Battered Stars</em>, as well as <em>Guns Over the Champlain Valley</em>, a book on military sites along the Champlain Corridor.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+          "all_day": false,
+          "start_date": "2026-11-21 12:00:00",
+          "end_date": "2026-11-21 13:30:00",
+          "utc_start_date": "2026-11-21 17:00:00",
+          "utc_end_date": "2026-11-21 18:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 13147,
+            "venue": "Wardsboro Public Library",
+            "url": "https://www.vermonthumanities.org/venue/wardsboro-free-public-library/",
+            "address": "170 Main St",
+            "city": "Wardsboro",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05355",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 103,
+              "name": "Speakers Bureau",
+              "slug": "speakers-bureau"
+            },
+            {
+              "id": 108,
+              "name": "Vermont Reads",
+              "slug": "vermont-reads"
+            }
+          ]
+        },
+        {
+          "id": 47835,
+          "global_id": "www.vermonthumanities.org?id=47835",
+          "url": "https://www.vermonthumanities.org/event/vermont-reads-charity-sylvia-haston-library-2026/",
+          "title": "Vermont Reads Facilitated Discussion: Haston Library",
+          "description": "<p>Join us for a book discussion of this year’s Vermont Reads selection, <em>Charity &amp; Sylvia</em>. This discussion will be facilitated by Rachael Cohen.</p>\n<p>Together, we&#8217;ll explore the book&#8217;s themes of Vermont&#8217;s early history, friendship, family, faith, resilience, and the evolving understanding of LGBTQ+ identity. Whether you&#8217;re a longtime fan of graphic novels or reading one for the first time, all are welcome to join the conversation.</p>\n<h3>About the Book</h3>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-46164 alignleft\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-229x300.jpg\" alt=\"Charity and Sylvia book cover with a cartoon drawing of two 19th century women facing each other, and a yellow background\" width=\"229\" height=\"300\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-229x300.jpg 229w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-781x1024.jpg 781w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-768x1007.jpg 768w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-1171x1536.jpg 1171w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-1562x2048.jpg 1562w, https://www.vermonthumanities.org/wp-content/uploads/2026/04/charity-and-sylvia-cover-Crop-scaled.jpg 915w\" sizes=\"auto, (max-width: 229px) 100vw, 229px\" />Weybridge, Vermont in February 1807 is small, cold, lonely, and beautiful. As an unwed woman with few prospects, Sylvia Drake resides with and cares for her sister’s rambunctious family. But today the house is abuzz awaiting a guest—Charity Bryant. So opens <em>Charity and Sylvia</em> by <a href=\"https://www.vermonthumanities.org/programs/book-a-program/vermont-reads/vermont-reads-2026/about-the-author/\">Tillie Walden</a>, the award-winning, Vermont-based cartoonist and author of <em>Spinning</em> and <em>On a Sunbeam</em>.</p>\n<p>Created by Walden from archival materials at the <a href=\"https://www.henrysheldonmuseum.org/\">Henry Sheldon Museum of Vermont History in Middlebury</a>, and other primary and secondary sources, <em>Charity and Sylvia</em> is a groundbreaking biography that is also the story of 19th century America. For 44 years Charity Bryant and Sylvia Drake lived together as life partners in small town Vermont. And in Walden’s graphic novel, America grows alongside these women. We see the arrival of railroads, the terms of 14 Presidents, riots, rebellion, and plagues.</p>\n<p>&nbsp;</p>\n<h3>About the Author</h3>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"wp-image-45737 alignright\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/02/tillieBioPhotowCels-240x300.jpg\" alt=\"Cartoonist Tillie Walden with uninked pages from her Charity and Sylvia book\" width=\"251\" height=\"296\" /></p>\n<p><a href=\"https://www.tilliewalden.com/books\">Tillie Walden</a> is the award-winning, Vermont-based cartoonist and author of <i>Spinning</i> and <i>On a Sunbeam</i> and <i>Charity and Sylvia</i>. Tillie served as Vermont’s Fifth Cartoonist Laureate from April 2023 to April 2026. She won the 2018 Eisner Award for Best Reality-Based Work at 22 years old, for her graphic memoir Spinning, making her one of the youngest Eisner Award winners ever. She received the <i>Los Angeles Times Book Prize</i> in 2018 for <i>On a Sunbeam</i>.</p>\n<p>Her work includes a graphic novel trilogy featuring <i>The Walking Dead</i> character Clementine and two middle grade graphic novels created with musicians Tegan and Sara. <i>Clementine: Book Three</i> by Tillie Walden is currently nominated for a 2026 Will Eisner Comic Industry Award in the category of Best Publication for Teens. She is a graduate of<a href=\"https://www.cartoonstudies.org/\"> The Center for Cartoon Studies</a> (CCS) class of 2016 in White River Junction and became a professor at CCS in 2021.</p>",
+          "all_day": false,
+          "start_date": "2026-12-05 13:00:00",
+          "end_date": "2026-12-05 13:00:00",
+          "utc_start_date": "2026-12-05 18:00:00",
+          "utc_end_date": "2026-12-05 18:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 36616,
+            "venue": "Haston Library",
+            "url": "https://www.vermonthumanities.org/venue/haston-library/",
+            "address": "5167 Main Street",
+            "city": "Franklin",
+            "zip": "05457"
+          },
+          "categories": [
+            {
+              "id": 108,
+              "name": "Vermont Reads",
+              "slug": "vermont-reads"
+            }
+          ]
+        },
+        {
+          "id": 47666,
+          "global_id": "www.vermonthumanities.org?id=47666",
+          "url": "https://www.vermonthumanities.org/event/vermont-reads-2026-jeudevine-memorial-library/",
+          "title": "Vermont Reads 2026 Author Presentation",
+          "description": "<p>Weybridge, Vermont in February 1807 is small, cold, lonely, and beautiful. As an unwed woman with few prospects, Sylvia Drake resides with and cares for her sister’s rambunctious family. But today the house is abuzz awaiting a guest—Charity Bryant. So opens <em>Charity and Sylvia</em> by <a href=\"https://www.vermonthumanities.org/programs/book-a-program/vermont-reads/vermont-reads-2026/about-the-author/\">Tillie Walden</a>, the award-winning, Vermont-based cartoonist and author of <em>Spinning</em> and <em>On a Sunbeam</em>.</p>\n<p>Created by Walden from archival materials at the <a href=\"https://www.henrysheldonmuseum.org/\">Henry Sheldon Museum of Vermont History in Middlebury</a>, and other primary and secondary sources, <em>Charity and Sylvia</em> is a groundbreaking biography that is also the story of 19th century America. Join us for this special presentation from Tillie Walden about the creation of this book.</p>\n<h4><a class=\"button\" href=\"https://www.eventbrite.com/e/1999691218264?aff=oddtdtcreator\">REGISTER FOR THIS FREE EVENT</a></h4>\n<h3>About the Author</h3>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"wp-image-45737 alignright\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/02/tillieBioPhotowCels-240x300.jpg\" alt=\"Cartoonist Tillie Walden with uninked pages from her Charity and Sylvia book\" width=\"177\" height=\"221\" srcset=\"https://www.vermonthumanities.org/wp-content/uploads/2026/02/tillieBioPhotowCels-240x300.jpg 240w, https://www.vermonthumanities.org/wp-content/uploads/2026/02/tillieBioPhotowCels.jpg 769w\" sizes=\"auto, (max-width: 177px) 100vw, 177px\" /></p>\n<p><a href=\"https://www.tilliewalden.com/books\">Tillie Walden</a> is the award-winning, Vermont-based cartoonist and author of <i>Spinning</i> and <i>On a Sunbeam</i> and <i>Charity and Sylvia</i>. Tillie served as Vermont’s Fifth Cartoonist Laureate from April 2023 to April 2026. She won the 2018 Eisner Award for Best Reality-Based Work at 22 years old, for her graphic memoir Spinning, making her one of the youngest Eisner Award winners ever. She received the <i>Los Angeles Times Book Prize</i> in 2018 for <i>On a Sunbeam</i>.</p>\n<p>Her work includes a graphic novel trilogy featuring <i>The Walking Dead</i> character Clementine and two middle grade graphic novels created with musicians Tegan and Sara. <i>Clementine: Book Three</i> by Tillie Walden is currently nominated for a 2026 Will Eisner Comic Industry Award in the category of Best Publication for Teens. She is a graduate of<a href=\"https://www.cartoonstudies.org/\"> The Center for Cartoon Studies</a> (CCS) class of 2016 in White River Junction and became a professor at CCS in 2021.</p>\n<p>This project was made possible in part by the Institute of Museum and Library Services. <img loading=\"lazy\" decoding=\"async\" class=\" wp-image-46906 alignright\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/07/imls_logo_2c-300x136.jpg\" alt=\"\" width=\"184\" height=\"79\" /></p>",
+          "all_day": false,
+          "start_date": "2026-12-07 18:30:00",
+          "end_date": "2026-12-07 20:00:00",
+          "utc_start_date": "2026-12-07 23:30:00",
+          "utc_end_date": "2026-12-08 01:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 7235,
+            "venue": "Jeudevine Memorial Library",
+            "url": "https://www.vermonthumanities.org/venue/jeudevine-memorial-library/",
+            "address": "93 North Main Street",
+            "city": "Hardwick",
+            "state": "VT",
+            "stateprovince": "VT",
+            "zip": "05843",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 108,
+              "name": "Vermont Reads",
+              "slug": "vermont-reads"
+            }
+          ]
+        },
+        {
+          "id": 47193,
+          "global_id": "www.vermonthumanities.org?id=47193",
+          "url": "https://www.vermonthumanities.org/event/marlboro-music-bill-mckibben-in-conversation-with-tim-weed-2026/",
+          "title": "Marlboro Music: Bill McKibben in conversation with Tim Weed",
+          "description": "<div class=\"entry-field\">\n<div class=\"entry-field-value\">\n<div class=\"entry-field\">\n<div class=\"entry-field-value\">\n<p><img loading=\"lazy\" decoding=\"async\" class=\"wp-image-47194  alignleft\" src=\"https://www.vermonthumanities.org/wp-content/uploads/2026/08/image_bill_m.jfif_-300x150.jpg\" alt=\"\" width=\"426\" height=\"202\" />Please join us for the second event in our new In Conversation series, bringing acclaimed writers to the Campus at Marlboro Music for readings and discussion. In this series Authors, poets, historians, and essayists will explore questions through the lens of literature, history, memory, place, ethics, creativity, and civic life. Rather than traditional book talks or readings, each gathering is built around conversation—an opportunity to listen deeply, ask questions, and consider multiple perspectives in the company of others.</p>\n<p>In Conversation is being offered with the performances of Marlboro Music’s Artist Residency program and is presented in partnership with Word House, led by Vermont Writer Robin Marie MacArthur.</p>\n<p>Find out more about this event, as well as the other events in this series, <a href=\"https://www.eventbrite.com/e/jill-lepore-in-conversation-with-dan-chiasson-tickets-1995158983227?aff=oddtdtcreator\">here.</a></p>\n</div>\n</div>\n</div>\n</div>",
+          "all_day": false,
+          "start_date": "2026-12-13 16:00:00",
+          "end_date": "2026-12-13 16:00:00",
+          "utc_start_date": "2026-12-13 21:00:00",
+          "utc_end_date": "2026-12-13 21:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 47182,
+            "venue": "The Campus at Marlboro Music &#8211; Whittemore Theater",
+            "url": "https://www.vermonthumanities.org/venue/the-campus-at-marlboro-music-whittemore-theater/",
+            "address": "2582 South Rd",
+            "city": "Marlboro",
+            "zip": "05344",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 112,
+              "name": "Grants",
+              "slug": "grants"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

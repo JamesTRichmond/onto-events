@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto.events//Tokyo Community Feeds//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Minato City Azabu Library (港区立麻布図書館)
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:tokyo-minato-azabu-library-evt0@onto.events
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=Asia/Tokyo:20260920T103000
+DTEND;TZID=Asia/Tokyo:20260920T113000
+SUMMARY:Azabu Early Literacy & Music Circle
+DESCRIPTION:Gentle rhymes, lullabies, and sensory picture book reading for infants and parents.
+LOCATION:Minato City Azabu Library
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-minato-azabu-library-evt1@onto.events
+DTSTAMP:20261031T120000Z
+DTSTART;TZID=Asia/Tokyo:20261107T103000
+DTEND;TZID=Asia/Tokyo:20261107T113000
+SUMMARY:Azabu Early Literacy & Music Circle
+DESCRIPTION:Gentle rhymes, lullabies, and sensory picture book reading for infants and parents.
+LOCATION:Minato City Azabu Library
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-minato-azabu-library-evt2@onto.events
+DTSTAMP:20261031T120000Z
+DTSTART;TZID=Asia/Tokyo:20261114T140000
+DTEND;TZID=Asia/Tokyo:20261114T153000
+SUMMARY:Azabu Juban Historic Craft & Heritage Panel
+DESCRIPTION:Discussion with neighborhood elders on traditional craft guilds and festival customs in Azabu.
+LOCATION:Minato City Azabu Library
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

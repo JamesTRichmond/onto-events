@@ -1,0 +1,11 @@
+# Private SDK54 decoder compatibility package
+
+This is a private, reviewed adaptation of [decode-uri-component 0.5.0](https://github.com/SamVerschueren/decode-uri-component/blob/v0.5.0/index.js), retaining its adjacent MIT license. It is not an upstream release and must never be published to npm. The root npm override replaces the old transitive decoder for every consumer, including query-string 7.1.3; it does not add a native module or change SDK54.
+
+[GHSA-vcc3-ghjq-m6fr](https://github.com/advisories/GHSA-vcc3-ghjq-m6fr) affects versions through 0.4.2. The [maintainer's fix](https://github.com/SamVerschueren/decode-uri-component/commit/fa479da) replaces the recursive malformed-byte fallback with a forward UTF-8 scanner. Upstream 0.5.0 is ESM, whereas the installed query-string directly requires a callable CommonJS export. A blind override to the published 0.5.0 would change that interface.
+
+The fixed scanner and fallback behavior are retained here, with normalized formatting, a CommonJS export and the old decoder's literal `+` to space behavior. Percent-encoded `%2B` stays a literal plus; valid Unicode, one-level decoding and query-string's repeated/array parameters remain supported. The existing upstream fallback replacement pass is retained, so its work is bounded: invalid components over 8,192 characters stay literal after the old plus conversion. Large valid components still take the native decoder's fast path. This extra bound follows the advisory's input-limit workaround and does not truncate or silently discard parameters; no claim of a fully linear fallback parser is made.
+
+`scripts/__tests__/decoder-security.test.js` exercises the actual installed decoder and query-string, valid and malformed UTF-8, and large malicious inputs in subprocesses with a timeout so a regression cannot hang Jest. The private version `0.5.0-onto.1` distinguishes this adaptation from the public package; an audit result alone does not establish its correctness or grant release clearance.
+
+Remove this adaptation when a compatible, reviewed upstream parser supports the fixed decoder. Before changing it, compare upstream behavior, run the parser regression tests, export web and native bundles and verify native links on the exact iPhone candidate. This source repair remains subject to PR review and the release checkpoints.

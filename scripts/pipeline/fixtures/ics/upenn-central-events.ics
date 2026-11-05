@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Philadelphia Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:upenn-central-events-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Penn Public Humanities Forum & Campus Colloquium
+DESCRIPTION:Distinguished university guest lecture, faculty panel discussion, and open audience dialogue at College Hall.
+LOCATION:University of Pennsylvania College Hall
+URL:https://events.upenn.edu/
+END:VEVENT
+BEGIN:VEVENT
+UID:upenn-central-events-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Penn Public Humanities Forum & Campus Colloquium (Session 2)
+DESCRIPTION:Distinguished university guest lecture, faculty panel discussion, and open audience dialogue at College Hall. Follow-up community session.
+LOCATION:University of Pennsylvania College Hall
+URL:https://events.upenn.edu/
+END:VEVENT
+END:VCALENDAR

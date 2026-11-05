@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:oak-park-public-library-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Oak Park Family Storytime in Scoville Park
+DESCRIPTION:Outdoor summer story hour and rhythm games on the lawn adjoining the library.
+LOCATION:Oak Park Public Library (Main)
+URL:https://oppl.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:oak-park-public-library-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Prairie School Architecture & Hemingway Lecture
+DESCRIPTION:Community presentation exploring historic Oak Park landmarks and early 20th-century literature.
+LOCATION:Oak Park Public Library (Main)
+URL:https://oppl.org/
+END:VEVENT
+END:VCALENDAR

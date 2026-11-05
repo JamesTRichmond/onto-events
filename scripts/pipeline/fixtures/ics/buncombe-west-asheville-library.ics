@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+PRODID:-//Trumba Corporation//Trumba Calendar Services 0.11.26207//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Public Libraries|West Asheville Library
+X-WR-TIMEZONE:America/New_York
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CANCELLED - Baby Story Time
+LOCATION:West Asheville Library - 942 Haywood Rd. - Asheville
+DTSTART;TZID=America/New_York:20261008T153000
+DTEND;TZID=America/New_York:20261008T161500
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+URL:https://www.buncombecounty.org/governing/depts/library/branch-locations/west-asheville.aspx
+X-TRUMBA-CUSTOMFIELD;NAME="Location";ID=35583;TYPE=CustomAsset:West Asheville Library - 942 Haywood Rd. - Asheville
+X-TRUMBA-CUSTOMFIELD;NAME="Phone";ID=35516;TYPE=PhoneUS10NoExt:[phone removed]
+X-TRUMBA-CUSTOMFIELD;NAME="Email";ID=35519;TYPE=Email:<a href="mailto:redacted@example.invalid" target="_blank" rel="noopener">redacted@example.invalid</a>
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=35482;TYPE=CustomAsset:Story Time for Kids
+X-TRUMBA-CUSTOMFIELD;NAME="Age Group";ID=35581;TYPE=CustomAsset:Baby - (ages 4 mos.-18 mos.)
+X-TRUMBA-CUSTOMFIELD;NAME="Library";ID=35393;TYPE=CustomAsset:West Asheville
+DTSTAMP:20241020T053309Z
+DESCRIPTION:Location: West Asheville Library - 942 Haywood Rd. - Asheville<br>Phone: [phone removed]<br>Email: redacted@example.invalid<br>Event Type: Story Time for Kids<br>Age Group: Baby - (ages 4 mos.-18 mos.)<br>Library: West Asheville<br>Link: https://www.buncombecounty.org/governing/depts/library/branch-locations/west-asheville.aspx<br><br>Join us for a lively language enrichment story time designed for children ages 4 to 18 months.&#160\;&#160\;
+CATEGORIES:West Asheville Library
+UID:http://uid.trumba.com/event/178026425
+X-TRUMBA-LINK:https://www.buncombecounty.org/governing/depts/library/branch-locations/west-asheville.aspx?trumbaEmbed=view%3Devent%26eventid%3D178026425
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED - Family Story Time
+LOCATION:West Asheville Library - 942 Haywood Rd. - Asheville
+DTSTART;TZID=America/New_York:20261010T103000
+DTEND;TZID=America/New_York:20261010T111500
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+URL:https://www.buncombecounty.org/governing/depts/library/branch-locations/west-asheville.aspx
+X-TRUMBA-CUSTOMFIELD;NAME="Location";ID=35583;TYPE=CustomAsset:West Asheville Library - 942 Haywood Rd. - Asheville
+X-TRUMBA-CUSTOMFIELD;NAME="Phone";ID=35516;TYPE=PhoneUS10NoExt:[phone removed]
+X-TRUMBA-CUSTOMFIELD;NAME="Email";ID=35519;TYPE=Email:<a href="mailto:redacted@example.invalid" target="_blank" rel="noopener">redacted@example.invalid</a>
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=35482;TYPE=CustomAsset:Story Time for Kids
+X-TRUMBA-CUSTOMFIELD;NAME="Age Group";ID=35581;TYPE=CustomAsset:Family - (children of all ages)
+X-TRUMBA-CUSTOMFIELD;NAME="Library";ID=35393;TYPE=CustomAsset:West Asheville
+DTSTAMP:20241020T053432Z
+DESCRIPTION:Location: West Asheville Library - 942 Haywood Rd. - Asheville<br>Phone: [phone removed]<br>Email: redacted@example.invalid<br>Event Type: Story Time for Kids<br>Age Group: Family - (children of all ages)<br>Library: West Asheville<br>Link: https://www.buncombecounty.org/governing/depts/library/branch-locations/west-asheville.aspx<br><br>Join us for a story time designed for the whole family as we share books\, songs\, rhymes\, and activities.&#160\;
+CATEGORIES:West Asheville Library
+UID:http://uid.trumba.com/event/178027298
+X-TRUMBA-LINK:https://www.buncombecounty.org/governing/depts/library/branch-locations/west-asheville.aspx?trumbaEmbed=view%3Devent%26eventid%3D178027298
+END:VEVENT
+END:VCALENDAR

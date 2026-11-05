@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Expansion Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:naperville-nichols-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261025T160000Z
+DTEND:20261025T170000Z
+SUMMARY:Nichols Family Science & Robotics Workshop
+DESCRIPTION:Interactive STEM building stations, introductory coding challenges, and cooperative maker activities for families in Naperville.
+LOCATION:Naperville Public Library (Nichols Library)
+URL:https://www.naperville-lib.org
+END:VEVENT
+BEGIN:VEVENT
+UID:naperville-nichols-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261028T190000Z
+DTEND:20261028T203000Z
+SUMMARY:DuPage County History & Heritage Lecture
+DESCRIPTION:Local historian presentation on the founding and cultural development of Naperville and the DuPage River settlements.
+LOCATION:Naperville Public Library (Nichols Library)
+URL:https://www.naperville-lib.org
+END:VEVENT
+END:VCALENDAR

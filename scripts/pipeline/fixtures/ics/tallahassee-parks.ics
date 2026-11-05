@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//City of Tallahassee Parks & Recreation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:City of Tallahassee Parks & Recreation
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T020000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T020000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:talgov-parks-2026-001@talgov.com
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260926T180000
+DTEND;TZID=America/New_York:20260926T210000
+SUMMARY:Cascades Park Sunset Concert Series
+DESCRIPTION:Bring lawn chairs and a blanket for free live music at the Capital City Amphitheater. Food vendors available on site. Free admission.
+LOCATION:Capital City Amphitheater at Cascades Park\, 1001 S Gadsden St\, Tallahassee\, FL 32301
+URL:https://www.talgov.com/parks/sunset-concert-2026
+CATEGORIES:music,community
+END:VEVENT
+BEGIN:VEVENT
+UID:talgov-parks-2026-002@talgov.com
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20261017T090000
+DTEND;TZID=America/New_York:20261017T120000
+SUMMARY:Leon County Community Fun Run & Walk
+DESCRIPTION:A family-friendly 5K walk and run along the Cascades Park trails. Free community registration at the Smokey Hollow pavilion.
+LOCATION:Capital City Amphitheater at Cascades Park\, 1001 S Gadsden St\, Tallahassee\, FL 32301
+URL:https://www.talgov.com/parks/community-fun-run
+CATEGORIES:fitness,outdoors
+END:VEVENT
+BEGIN:VEVENT
+UID:talgov-parks-2026-003@talgov.com
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20261024T183000
+DTEND;TZID=America/New_York:20261024T213000
+SUMMARY:Halloween Movies on the Lawn
+DESCRIPTION:Outdoor screening of a family-friendly Halloween classic at Capital City Amphitheater. Costumes welcome!
+LOCATION:Capital City Amphitheater at Cascades Park\, 1001 S Gadsden St\, Tallahassee\, FL 32301
+URL:https://www.talgov.com/parks/movies-on-the-lawn
+CATEGORIES:community,family
+END:VEVENT
+END:VCALENDAR

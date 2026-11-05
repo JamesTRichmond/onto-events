@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Philadelphia Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:franklin-institute-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Hands-On Science Exploration & Fels Planetarium Show
+DESCRIPTION:Interactive physics demonstrations, giant heart exploration, and night-sky planetarium presentations.
+LOCATION:The Franklin Institute
+URL:https://www.fi.edu/
+END:VEVENT
+BEGIN:VEVENT
+UID:franklin-institute-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Hands-On Science Exploration & Fels Planetarium Show (Session 2)
+DESCRIPTION:Interactive physics demonstrations, giant heart exploration, and night-sky planetarium presentations. Follow-up community session.
+LOCATION:The Franklin Institute
+URL:https://www.fi.edu/
+END:VEVENT
+END:VCALENDAR

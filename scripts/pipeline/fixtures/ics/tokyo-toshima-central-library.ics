@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto.events//Tokyo Community Feeds//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Toshima Central Library (豊島区立中央図書館)
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:tokyo-toshima-central-library-evt0@onto.events
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=Asia/Tokyo:20260920T103000
+DTEND;TZID=Asia/Tokyo:20260920T113000
+SUMMARY:Ikebukuro Manga & Visual Culture Forum
+DESCRIPTION:Panel discussion on the Tokiwa-so manga artists and post-war visual storytelling in Toshima.
+LOCATION:Toshima Central Library
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-toshima-central-library-evt1@onto.events
+DTSTAMP:20261031T120000Z
+DTSTART;TZID=Asia/Tokyo:20261107T103000
+DTEND;TZID=Asia/Tokyo:20261107T113000
+SUMMARY:Ikebukuro Manga & Visual Culture Forum
+DESCRIPTION:Panel discussion on the Tokiwa-so manga artists and post-war visual storytelling in Toshima.
+LOCATION:Toshima Central Library
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-toshima-central-library-evt2@onto.events
+DTSTAMP:20261031T120000Z
+DTSTART;TZID=Asia/Tokyo:20261114T140000
+DTEND;TZID=Asia/Tokyo:20261114T153000
+SUMMARY:Toshima Weekend Family Coding Hour
+DESCRIPTION:Introductory block-based coding and visual programming for elementary students and parents.
+LOCATION:Toshima Central Library
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

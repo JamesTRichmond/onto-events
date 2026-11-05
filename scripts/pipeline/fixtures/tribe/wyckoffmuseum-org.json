@@ -1,0 +1,26 @@
+{
+  "pages": [
+    {
+      "total": 1,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 2264,
+          "global_id": "wyckoffmuseum.org?id=2264",
+          "title": "Farm House Family Day: Autumnal Wonders",
+          "description": "<div>Celebrate autumn with us with fall crafts and activities!</div>\n<div style=\"margin-top: 20px\">\n<div style=\"margin: 20px 10px;font-size: 15px;line-height: 22px;font-weight: 400;text-align: left\">\n<p>The leaves are changing colors, the days are getting shorter, and we’re putting the farm to sleep. Come celebrate autumn with us! Enjoy fall crafts, house tours, and outdoor activities. </p>\n<p>We will be joined by <strong></strong><strong>Open House New York</strong> and offering exclusive tours that explore the architectural history that made cooking, growing, and storing food possible in this 17th century Dutch Farmhouse. </p>\n<p>Prepare for your visit:</p>\n<ul>\n<li>Farmhouse Family Day is from <strong></strong><strong>11AM-3PM</strong>. This is an all ages event, ideal for kids ages 4-12.</li>\n<li>Tours of the Wyckoff House will be available starting at <strong></strong><strong>11:30 AM</strong>.</li>\n<li>Dress appropriately for the weather as Family Day takes place indoors and outdoors &#8211; make sure to wear closed toed shoes if you plan on participating in any farm activities.</li>\n</ul>\n</div>\n</div>",
+          "url": "https://wyckoffmuseum.org/event/farm-house-family-day-autumnal-wonders/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-17 15:00:00",
+          "utc_end_date": "2026-10-17 19:00:00",
+          "venue": {
+            "venue": "The Wyckoff House Museum",
+            "address": "5816 Clarendon Road",
+            "city": "Brooklyn"
+          }
+        }
+      ]
+    }
+  ]
+}

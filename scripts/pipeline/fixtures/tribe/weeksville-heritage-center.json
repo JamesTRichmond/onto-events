@@ -1,0 +1,34 @@
+{
+  "pages": [
+    {
+      "total": 2,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 11859,
+          "global_id": "weeksvillesociety.org?id=11859",
+          "title": "Jeffrey Zeigler’s – “We Were Fridays” at Weeksville",
+          "description": "@ On October 17, 2026, Weeksville Heritage Center and VisionIntoArt invite you to a day-long community experience in Brooklyn. The program weaves together performance, creative workshops, and community conversations that explore the key themes and inquiries of We Were Fridays —cultural memory, Gullah Geechee heritage, diaspora, and intergenerational storytelling. RESERVE YOUR SPOT We Were Fridays is an interdisciplinary music project led by cellist Jeffrey Zeigler – a deeply personal exploration of cultural memory and diaspora. It will follow a story that began in the Griot tradition of West Africa, travel to South Carolina by way of the Trans-Atlantic slave trade, then north by way of the Great Migration, and beyond. We Were Fridays explores the music of the Gullah people of the Low Country of South Carolina, a community which to this day has preserved more of their West African linguistic and cultural heritage than any other African American community in the United States. Gullah music has influenced spirituals, gospel, ragtime, rhythm and blues, soul, hip hop and jazz. We Were Fridays will extend this reach into the world of instrumental cello music. Told through cello, electronics, and dance, We Were Fridays will explore forbidden love, fractured lines, and complex legacies. As covered in The New York Times , We Were Fridays is one of the most significant works of cultural memory and diaspora to come to Brooklyn this fall. “My father was raised in Philadelphia with no knowledge of his biological family until 1992, when a woman named Burnice Perry contacted him. She became the grandmother I never knew, tracing our lineage back to George Washington Friday. Before she passed, I recorded hours of our conversations; those recordings are the heartbeat of this work…” – Jef",
+          "url": "https://weeksvillesociety.org/event/jeffrey-zeiglers-we-were-fridays-at-weeksville/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-17 19:00:00",
+          "utc_end_date": "2026-10-18 02:00:00",
+          "venue": []
+        },
+        {
+          "id": 11944,
+          "global_id": "weeksvillesociety.org?id=11944",
+          "title": "Weeksville Green Community Market",
+          "description": "@ The Weeksville Green Community Market returns for its final market of the season, featuring fresh produce, community vendors, wellness programming, and an afternoon rooted in care. LEARN MORE 12 PM – Doors Open + Marketplace Shop for fresh, affordable produce from GrowNYC alongside local businesses and community vendors, including Essence Smoothies, 18 August Avenue, Botanical Moment, The Black Mermaid Society, and Maya Lewis. Beginning at 2 PM there will be free drop in programs: Sanuces Tai Chi + Qi Gong Healing Arts with Grandmaster Lumumba Join Grandmaster Lumumba Hernandez for an introduction to Sanuces Tai Chi and Qi Gong, a wellness practice rooted in Sanuces-Ryu Jiu-Jitsu. Through gentle movement, breathwork, and balance, participants will explore the mind-body connection and foundational healing practices. Open to all ages and experience levels Rest & Restore Yoga with Sensate Wellness Join Six Travis for a Rest and Restore Yoga session designed for all ages, bodies, and skill levels. Revitalize yourself in the beautiful communal energy as you turn inward and cultivate inner peace through self-awareness. Yoga mats will be given on a first-come, first-served basis. The Next Chapter: Stories We Carry with 18 August Ave Join us for a free drop-in workshop led by 18 August Ave exploring the stories, memories, hopes, and traditions that connect us. Through painting, storytelling, and a create-your-own bookmark activity, families are invited to go beyond the bookshelf and discover the conversations and connections that books can inspire. Open to all ages. No registration required. Chess on the Lawn with KnightShiftChess Drop in throughout the day for a casual game or learn the basics with National Chess Master James Black of KnightShiftChess. All ages and experienc",
+          "url": "https://weeksvillesociety.org/event/weeksville-green-community-market/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-24 19:00:00",
+          "utc_end_date": "2026-10-25 00:00:00",
+          "venue": []
+        }
+      ]
+    }
+  ]
+}

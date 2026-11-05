@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:uchicago-public-events-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:UChicago Humanities Public Forum
+DESCRIPTION:Distinguished faculty lecture and open question seminar on urban sociology and economic philosophy.
+LOCATION:UChicago Reynolds Club & Mandel Hall
+URL:https://events.uchicago.edu/
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-public-events-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Mandel Hall Chamber Orchestra Recital
+DESCRIPTION:Classical string ensemble and wind quintet performing 19th-century chamber works.
+LOCATION:UChicago Reynolds Club & Mandel Hall
+URL:https://events.uchicago.edu/
+END:VEVENT
+END:VCALENDAR

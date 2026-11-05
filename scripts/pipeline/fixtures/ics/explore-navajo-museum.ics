@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Flagstaff Fixture//EN
+X-WR-TIMEZONE:America/Phoenix
+BEGIN:VEVENT
+UID:explore-navajo-museum-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T180000Z
+DTEND:20261024T193000Z
+SUMMARY:Diné Traditional Loom Weaving & Natural Dyeing Demonstration
+DESCRIPTION:Master weaver demonstration of Navajo wool spinning, vegetal dyeing, and storm pattern rug weaving.
+LOCATION:Explore Navajo Interactive Museum
+URL:https://explorenavajo.com/events/weaving-demo
+END:VEVENT
+BEGIN:VEVENT
+UID:explore-navajo-museum-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261030T220000Z
+DTEND:20261030T233000Z
+SUMMARY:Colorado Plateau Astronomy & Navajo Constellations Night
+DESCRIPTION:Evening cultural presentation linking Diné night sky constellations with high plateau stargazing.
+LOCATION:Explore Navajo Interactive Museum
+URL:https://explorenavajo.com/events/constellations-night
+END:VEVENT
+END:VCALENDAR

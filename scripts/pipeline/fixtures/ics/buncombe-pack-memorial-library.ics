@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+PRODID:-//Trumba Corporation//Trumba Calendar Services 0.11.26207//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Public Libraries|Pack Memorial Library
+X-WR-TIMEZONE:America/New_York
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Tween Dungeons &amp\; Dragons with Raj
+LOCATION:Pack Memorial Library - 67 Haywood St. - Asheville
+DTSTART;TZID=America/New_York:20261009T160000
+DTEND;TZID=America/New_York:20261009T180000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+URL:https://www.buncombecounty.org/governing/depts/library/branch-locations/pack-memorial.aspx
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Public Libraries
+X-TRUMBA-CUSTOMFIELD;NAME="Location";ID=35583;TYPE=CustomAsset:Pack Memorial Library - 67 Haywood St. - Asheville
+X-TRUMBA-CUSTOMFIELD;NAME="Phone";ID=35516;TYPE=PhoneUS10NoExt:[phone removed]
+X-TRUMBA-CUSTOMFIELD;NAME="Email";ID=35519;TYPE=Email:<a href="mailto:redacted@example.invalid" target="_blank" rel="noopener">redacted@example.invalid</a>
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=35482;TYPE=CustomAsset:Classes\,Other
+X-TRUMBA-CUSTOMFIELD;NAME="Age Group";ID=35581;TYPE=CustomAsset:School Age - (grades K-5)
+X-TRUMBA-CUSTOMFIELD;NAME="Library";ID=35393;TYPE=CustomAsset:Pack Memorial
+DTSTAMP:20240919T123109Z
+DESCRIPTION:Location: Pack Memorial Library - 67 Haywood St. - Asheville<br>Phone: [phone removed]<br>Email: redacted@example.invalid<br>Event Type: Classes\,Other<br>Age Group: School Age - (grades K-5)<br>Library: Pack Memorial<br>Link: https://www.buncombecounty.org/governing/depts/library/branch-locations/pack-memorial.aspx<br><br><p>Calling all adventurous tweens! Join us for Dungeons &amp\; Dragons at Pack Memorial Library!</p><p>All players aged 10-12 are eligible.</p><p>This program is free\, but you do need to register.</p><p>Email Raj at <a href="mailto:redacted@example.invalid" target="_blank" rel="noopener">redacted@example.invalid</a> to sign up.</p>
+CATEGORIES:Pack Memorial Library
+UID:http://uid.trumba.com/event/175525323
+X-TRUMBA-LINK:https://www.buncombecounty.org/governing/depts/library/branch-locations/pack-memorial.aspx?trumbaEmbed=view%3Devent%26eventid%3D175525323
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LEGO Builders Club
+LOCATION:Pack Memorial Library - 67 Haywood St. - Asheville
+DTSTART;TZID=America/New_York:20261013T153000
+DTEND;TZID=America/New_York:20261013T163000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+URL:https://www.buncombecounty.org/governing/depts/library/branch-locations/pack-memorial.aspx
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Public Libraries
+X-TRUMBA-CUSTOMFIELD;NAME="Location";ID=35583;TYPE=CustomAsset:Pack Memorial Library - 67 Haywood St. - Asheville
+X-TRUMBA-CUSTOMFIELD;NAME="Phone";ID=35516;TYPE=PhoneUS10NoExt:[phone removed]
+X-TRUMBA-CUSTOMFIELD;NAME="Email";ID=35519;TYPE=Email:<a href="mailto:redacted@example.invalid" target="_blank" rel="noopener">redacted@example.invalid</a>
+X-TRUMBA-CUSTOMFIELD;NAME="Event image";ID=40;TYPE=Image:<a href="https://www.trumba.com/i/DgCnB4nqfwZfjYggSmcTSUvu.jpg" target="_blank" rel="noopener" title="https://www.trumba.com/i/DgCnB4nqfwZfjYggSmcTSUvu.jpg">www.trumba.com&#8230\;</a>
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=35482;TYPE=CustomAsset:Family Fun\,STEM/STEAM\,Other
+X-TRUMBA-CUSTOMFIELD;NAME="Age Group";ID=35581;TYPE=CustomAsset:School Age - (grades K-5)
+X-TRUMBA-CUSTOMFIELD;NAME="Library";ID=35393;TYPE=CustomAsset:Pack Memorial
+DTSTAMP:20241020T053010Z
+DESCRIPTION:Location: Pack Memorial Library - 67 Haywood St. - Asheville<br>Phone: [phone removed]<br>Email: redacted@example.invalid<br>Event Type: Family Fun\,STEM/STEAM\,Other<br>Age Group: School Age - (grades K-5)<br>Library: Pack Memorial<br>Link: https://www.buncombecounty.org/governing/depts/library/branch-locations/pack-memorial.aspx<br><br>Come down the Pack Memorial Library and play with LEGOs!<br>Show off your building skills and make new friends with other LEGO maniacs.<br><br>Please leave your personal LEGOs at home\, because we&#39\;ve got plenty.
+CATEGORIES:Pack Memorial Library
+IMAGE;VALUE=URI:https://www.trumba.com/i/DgCnB4nqfwZfjYggSmcTSUvu.jpg
+UID:http://uid.trumba.com/event/178265062
+X-TRUMBA-LINK:https://www.buncombecounty.org/governing/depts/library/branch-locations/pack-memorial.aspx?trumbaEmbed=view%3Devent%26eventid%3D178265062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preschool Story Time
+LOCATION:Pack Memorial Library - 67 Haywood St. - Asheville
+DTSTART;TZID=America/New_York:20261014T153000
+DTEND;TZID=America/New_York:20261014T161500
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+URL:https://www.buncombecounty.org/governing/depts/library/branch-locations/pack-memorial.aspx
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Public Libraries
+X-TRUMBA-CUSTOMFIELD;NAME="Location";ID=35583;TYPE=CustomAsset:Pack Memorial Library - 67 Haywood St. - Asheville
+X-TRUMBA-CUSTOMFIELD;NAME="Phone";ID=35516;TYPE=PhoneUS10NoExt:[phone removed]
+X-TRUMBA-CUSTOMFIELD;NAME="Email";ID=35519;TYPE=Email:<a href="mailto:redacted@example.invalid" target="_blank" rel="noopener">redacted@example.invalid</a>
+X-TRUMBA-CUSTOMFIELD;NAME="Event image";ID=40;TYPE=Image:<a href="https://www.trumba.com/i/DgAMsuSQeuRvpja-1O3OsucQ.jpg" target="_blank" rel="noopener" title="https://www.trumba.com/i/DgAMsuSQeuRvpja-1O3OsucQ.jpg">www.trumba.com&#8230\;</a>
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=35482;TYPE=CustomAsset:Story Time for Kids
+X-TRUMBA-CUSTOMFIELD;NAME="Age Group";ID=35581;TYPE=CustomAsset:Preschool - (ages 3-5)
+X-TRUMBA-CUSTOMFIELD;NAME="Library";ID=35393;TYPE=CustomAsset:Pack Memorial
+DTSTAMP:20241027T052953Z
+DESCRIPTION:Location: Pack Memorial Library - 67 Haywood St. - Asheville<br>Phone: [phone removed]<br>Email: redacted@example.invalid<br>Event Type: Story Time for Kids<br>Age Group: Preschool - (ages 3-5)<br>Library: Pack Memorial<br>Link: https://www.buncombecounty.org/governing/depts/library/branch-locations/pack-memorial.aspx<br><br>Join us for a story time designed for children ages 3 to 5 years as we share books\, songs\, rhymes\, and activities.&#160\;
+CATEGORIES:Pack Memorial Library
+IMAGE;VALUE=URI:https://www.trumba.com/i/DgAMsuSQeuRvpja-1O3OsucQ.jpg
+UID:http://uid.trumba.com/event/178152288
+X-TRUMBA-LINK:https://www.buncombecounty.org/governing/depts/library/branch-locations/pack-memorial.aspx?trumbaEmbed=view%3Devent%26eventid%3D178152288
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teen Dungeons &amp\; Dragons with Raj
+LOCATION:Pack Memorial Library - 67 Haywood St. - Asheville
+DTSTART;TZID=America/New_York:20261016T150000
+DTEND;TZID=America/New_York:20261016T180000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+URL:https://www.buncombecounty.org/governing/depts/library/branch-locations/pack-memorial.aspx
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Public Libraries
+X-TRUMBA-CUSTOMFIELD;NAME="Location";ID=35583;TYPE=CustomAsset:Pack Memorial Library - 67 Haywood St. - Asheville
+X-TRUMBA-CUSTOMFIELD;NAME="Phone";ID=35516;TYPE=PhoneUS10NoExt:[phone removed]
+X-TRUMBA-CUSTOMFIELD;NAME="Email";ID=35519;TYPE=Email:<a href="mailto:redacted@example.invalid" target="_blank" rel="noopener">redacted@example.invalid</a>
+X-TRUMBA-CUSTOMFIELD;NAME="Event image";ID=40;TYPE=Image:<a href="https://www.trumba.com/i/DgCArJDT27XsUzkr%2A72zFWg8.jpg" target="_blank" rel="noopener" title="https://www.trumba.com/i/DgCArJDT27XsUzkr%2A72zFWg8.jpg">www.trumba.com&#8230\;</a>
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=35482;TYPE=CustomAsset:Other
+X-TRUMBA-CUSTOMFIELD;NAME="Age Group";ID=35581;TYPE=CustomAsset:Teen - (grades 6-12)
+X-TRUMBA-CUSTOMFIELD;NAME="Library";ID=35393;TYPE=CustomAsset:Pack Memorial
+DTSTAMP:20240919T123127Z
+DESCRIPTION:Location: Pack Memorial Library - 67 Haywood St. - Asheville<br>Phone: [phone removed]<br>Email: redacted@example.invalid<br>Event Type: Other<br>Age Group: Teen - (grades 6-12)<br>Library: Pack Memorial<br>Link: https://www.buncombecounty.org/governing/depts/library/branch-locations/pack-memorial.aspx<br><br>Calling all adventurous teens! Join us for Dungeons &amp\; Dragons at Pack Memorial Library!<br><br>All players aged 13-17 are eligible.<br><br>This program is free\, but you do need to register.<br><br>Email Raj at <a href="mailto:redacted@example.invalid" target="_blank" rel="noopener">redacted@example.invalid</a> to sign up.
+CATEGORIES:Pack Memorial Library
+IMAGE;VALUE=URI:https://www.trumba.com/i/DgCArJDT27XsUzkr%2A72zFWg8.jpg
+UID:http://uid.trumba.com/event/175524950
+X-TRUMBA-LINK:https://www.buncombecounty.org/governing/depts/library/branch-locations/pack-memorial.aspx?trumbaEmbed=view%3Devent%26eventid%3D175524950
+END:VEVENT
+END:VCALENDAR

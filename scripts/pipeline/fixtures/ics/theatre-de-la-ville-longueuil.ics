@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Montreal Events Sync//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+UID:theatre-de-la-ville-longueuil-20261024@onto.events
+SUMMARY:Rencontre chorégraphique de la Rive-Sud / Contemporary Dance Performance
+LOCATION:Théâtre de la Ville
+DESCRIPTION:Création chorégraphique contemporaine et échange d'artistes sur la scène de Longueuil.
+DTSTART:20261024T180000Z
+DTEND:20261024T200000Z
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:theatre-de-la-ville-longueuil-20261101@onto.events
+SUMMARY:Rencontre chorégraphique de la Rive-Sud / Contemporary Dance Performance
+LOCATION:Théâtre de la Ville
+DESCRIPTION:Création chorégraphique contemporaine et échange d'artistes sur la scène de Longueuil.
+DTSTART:20261107T000000Z
+DTEND:20261107T020000Z
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

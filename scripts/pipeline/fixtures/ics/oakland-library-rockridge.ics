@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//San Francisco Fixture//EN
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:oakland-library-rockridge-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T180000Z
+DTEND:20261024T193000Z
+SUMMARY:Rockridge Toddler Story & Rhyme Circle
+DESCRIPTION:Morning picture book read-alouds, songs, and fingerplays for active toddlers.
+LOCATION:Oakland Public Library Rockridge Branch
+URL:https://oaklandlibrary.org/locations/RCK/
+END:VEVENT
+BEGIN:VEVENT
+UID:oakland-library-rockridge-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:East Bay Writers Group & Critique Salon
+DESCRIPTION:Constructive writing critique and peer workshop for local prose writers and poets.
+LOCATION:Oakland Public Library Rockridge Branch
+URL:https://oaklandlibrary.org/locations/RCK/
+END:VEVENT
+END:VCALENDAR

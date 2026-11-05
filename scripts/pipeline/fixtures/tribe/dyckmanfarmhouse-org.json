@@ -1,0 +1,58 @@
+{
+  "pages": [
+    {
+      "total": 3,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 12769,
+          "global_id": "dyckmanfarmhouse.org?id=12769",
+          "title": "El festival de otoño de 2026",
+          "description": "<h3> <span style=\"font-weight: 400;\">¡Acompáñenos en un día lleno de entretenimiento, creatividad y un toque de historia el sábado 17 de octubre, de 10AM a 3PM!</span></h3>\n<p><span style=\"font-weight: 400;\">El Festival de Otoño regresa al Museo Dyckman Farmhouse con actividades familiares nuevas y divertidas, además de las favoritas del año pasado:</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><b>¡Crea animaciones stop motion e ilusiones ópticas alucinantes inspiradas en el otoño</b><span style=\"font-weight: 400;\">! ¡Sí, has leído bien! ¡Venga a crear sus propios taumatropos y vea cómo sus dibujos cobran vida!</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><b>¡Bebe sidra de manzana fresca de la prensa </b><span style=\"font-weight: 400;\">y elaborada frente a tus ojos!</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><b>¡Bailar a la MÚSICA EN VIVO </b><span style=\"font-weight: 400;\">de sus músicos favoritos del barrio!</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><b>¡Disfruta de una competencia amistosa! </b><span style=\"font-weight: 400;\">¡Pon a prueba tu mano firme con Jenga gigante y ve cuánto tiempo puede durar tu torre! Tendremos un montón de juegos de césped para cualquiera listo para un desafío&#8230;</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><b>¡Explora nuestra histórica cabaña de los soldados de Hesse y el famoso Museo de la Granja Dyckman de forma GRATUITA!</b><span style=\"font-weight: 400;\"> Ven a descubrir",
+          "url": "https://dyckmanfarmhouse.org/event/el-festival-de-otono/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-17 14:00:00",
+          "utc_end_date": "2026-10-17 19:00:00",
+          "venue": {
+            "venue": "Dyckman Farmhouse Museum",
+            "address": "4881 Broadway",
+            "city": "New York"
+          }
+        },
+        {
+          "id": 12773,
+          "global_id": "dyckmanfarmhouse.org?id=12773",
+          "title": "Fall Festival 2026",
+          "description": "<h3><span style=\"font-weight: 400;\">THE WAIT IS FINALLY OVER! </span></h3>\n<h3><span style=\"font-weight: 400;\">The Annual Fall Festival returns to Dyckman Farmhouse Museum with exciting new activities plus the all-time favorites you&#8217;ve been waiting all year for:</span></h3>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><b>Unleash your inner artist with fall-inspired stop motion animations and mind-bending optical illusions!</b><span style=\"font-weight: 400;\"> Yes, you read that right! Come create your very own thaumatropes and spin your drawings to life!</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><b>Sip on apple cider fresh from the press </b><span style=\"font-weight: 400;\">and crafted right before your eyes!</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Dance to </span><b>LIVE MUSIC</b><span style=\"font-weight: 400;\"> performed by your favorite local musicians!</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><b>Enjoy some neighborly competition!</b><span style=\"font-weight: 400;\"> Put your steady hand to the test with giant Jenga and see how long your tower can last! We&#8217;ll have plenty of lawn games out for anyone up for a challenge&#8230;</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><b>Explore our historic Hessian Hut and the iconic Dyckman Farmhouse Museum FREE OF CHARGE!</b><span style=\"font-weight: 400;\"> Come experience the magic of our latest contemporary exhibition by Jamaican",
+          "url": "https://dyckmanfarmhouse.org/event/fall-festival-2026/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-17 14:00:00",
+          "utc_end_date": "2026-10-17 19:00:00",
+          "venue": {
+            "venue": "Dyckman Farmhouse Museum",
+            "address": "4881 Broadway",
+            "city": "New York"
+          }
+        },
+        {
+          "id": 12854,
+          "global_id": "dyckmanfarmhouse.org?id=12854",
+          "title": "Opening Reception: Spot P!",
+          "description": "<div class=\"StructuredModuleRenderer-module-scss-module__Qv95HW__structuredContent StructuredModuleRenderer-module-scss-module__Qv95HW__text\" data-testid=\"text-content\">\n<div>\n<h3><strong>Come and celebrate the opening of Spot P! by Kasper Klop, Deron Gopie, and Morwenna Spagnol. Free and open to the public.</strong></h3>\n</div>\n</div>\n<div class=\"StructuredModuleRenderer-module-scss-module__Qv95HW__structuredContent StructuredModuleRenderer-module-scss-module__Qv95HW__text\" data-testid=\"text-content\">\n<p><span style=\"font-weight: 400;\">Peter Stuyvesant is often credited with laying the foundations for what became New York City. </span><span style=\"font-weight: 400;\">Today, this man of Dutch origin is celebrated all around town: statues, neighborhoods in his </span><span style=\"font-weight: 400;\">name, cigarette brand&#8230;</span><span style=\"font-weight: 400;\"><br />\n</span></p>\n<p><span style=\"font-weight: 400;\">Yet, if we take a closer look, he was a trader and owner of enslaved Africans in the United States. </span><span style=\"font-weight: 400;\">Bolstered by his fortune and his influence, he sold enslaved people at public auction, </span><span style=\"font-weight: 400;\">held and expressed deeply antisemitic views, violently oppressed the Lenape, and actively suppressed religious minorities.</span></p>\n<p><span style=\"font-weight: 400;\">Dutch artist Kasper Klop asked himself: what is my responsibility to reckon with this history as a Dutch person, and what would happen if",
+          "url": "https://dyckmanfarmhouse.org/event/opening-reception-spot-p/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-29 22:00:00",
+          "utc_end_date": "2026-10-30 00:00:00",
+          "venue": {
+            "venue": "Dyckman Farmhouse Museum",
+            "address": "4881 Broadway",
+            "city": "New York"
+          }
+        }
+      ]
+    }
+  ]
+}

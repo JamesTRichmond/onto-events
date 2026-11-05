@@ -1,0 +1,140 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Calendar - The Center for Leadership and Service
+X-WR-TIMEZONE:Eastern Time (US & Canada)
+BEGIN:VEVENT
+DTSTAMP:20261015T235335Z
+UID:tag:localist.com\,2008:EventInstance_54232186050635
+DTSTART:20261023T120000Z
+DTEND:20261024T040000Z
+DESCRIPTION:Florida State Alternative Breaks is a student-led service and leadership program that provides immersive community engagement experiences during academic breaks. Through meaningful service\, education\, and reflection\, students explore new communities\, build lasting relationships\, and develop the skills needed to create positive change in their communities. \n\nCamp Boggy Creek offers free\, medically safe experiences for children with serious illnesses to experience joy and happiness in a camp setting. Join one of our spring trips to the camp located near Orlando to serve at an upcoming family retreat weekend.
+GEO:30.441189;-84.29835
+LOCATION:Dunlap Success Center (DSC)\, 1100
+SUMMARY:FSAB - Camp Boggy Creek
+URL;VALUE=URI:https://calendar.fsu.edu/event/fsab-camp-boggy-creek
+CATEGORIES:Special Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235335Z
+UID:tag:localist.com\,2008:EventInstance_54232186052684
+DTSTART:20261024T120000Z
+DTEND:20261025T040000Z
+DESCRIPTION:Florida State Alternative Breaks is a student-led service and leadership program that provides immersive community engagement experiences during academic breaks. Through meaningful service\, education\, and reflection\, students explore new communities\, build lasting relationships\, and develop the skills needed to create positive change in their communities. \n\nCamp Boggy Creek offers free\, medically safe experiences for children with serious illnesses to experience joy and happiness in a camp setting. Join one of our spring trips to the camp located near Orlando to serve at an upcoming family retreat weekend.
+GEO:30.441189;-84.29835
+LOCATION:Dunlap Success Center (DSC)\, 1100
+SUMMARY:FSAB - Camp Boggy Creek
+URL;VALUE=URI:https://calendar.fsu.edu/event/fsab-camp-boggy-creek
+CATEGORIES:Special Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235335Z
+UID:tag:localist.com\,2008:EventInstance_54232186054733
+DTSTART:20261025T120000Z
+DTEND:20261025T220000Z
+DESCRIPTION:Florida State Alternative Breaks is a student-led service and leadership program that provides immersive community engagement experiences during academic breaks. Through meaningful service\, education\, and reflection\, students explore new communities\, build lasting relationships\, and develop the skills needed to create positive change in their communities. \n\nCamp Boggy Creek offers free\, medically safe experiences for children with serious illnesses to experience joy and happiness in a camp setting. Join one of our spring trips to the camp located near Orlando to serve at an upcoming family retreat weekend.
+GEO:30.441189;-84.29835
+LOCATION:Dunlap Success Center (DSC)\, 1100
+SUMMARY:FSAB - Camp Boggy Creek
+URL;VALUE=URI:https://calendar.fsu.edu/event/fsab-camp-boggy-creek
+CATEGORIES:Special Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235335Z
+UID:tag:localist.com\,2008:EventInstance_54240917140708
+DTSTART:20261027T210000Z
+DTEND:20261027T230000Z
+DESCRIPTION:Come to the Haunted Hall of Leadership if you dare! Teams of four students will progress through two sequential escape rooms that will require students to use teamwork to solve problems. Feel free to come in a costume\, and candy will be provided! The event will contain working exits at all times should students need to leave and will be supervised by staff.
+GEO:30.441189;-84.29835
+LOCATION:Dunlap Success Center (DSC)\, 2201
+SUMMARY:Haunted Hall of Leadership
+URL;VALUE=URI:https://calendar.fsu.edu/event/haunted-hall-of-leadership
+CATEGORIES:Special Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235335Z
+UID:tag:localist.com\,2008:EventInstance_54232223223397
+DTSTART;VALUE=DATE:20261030
+DESCRIPTION:Florida State Alternative Breaks is a student-led service and leadership program that provides immersive community engagement experiences during academic breaks. Through meaningful service\, education\, and reflection\, students explore new communities\, build lasting relationships\, and develop the skills needed to create positive change in their communities. \n\nCamp Boggy Creek offers free\, medically safe experiences for children with serious illnesses to experience joy and happiness in a camp setting. Join one of our spring trips to the camp located near Orlando to serve at an upcoming family retreat weekend.
+GEO:30.441189;-84.29835
+LOCATION:Dunlap Success Center (DSC)\, 1100
+SUMMARY:FSAB - Camp Boggy Creek
+URL;VALUE=URI:https://calendar.fsu.edu/event/copy-of-fsab-camp-boggy-creek
+CATEGORIES:Special Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235335Z
+UID:tag:localist.com\,2008:EventInstance_54232223224422
+DTSTART;VALUE=DATE:20261031
+DESCRIPTION:Florida State Alternative Breaks is a student-led service and leadership program that provides immersive community engagement experiences during academic breaks. Through meaningful service\, education\, and reflection\, students explore new communities\, build lasting relationships\, and develop the skills needed to create positive change in their communities. \n\nCamp Boggy Creek offers free\, medically safe experiences for children with serious illnesses to experience joy and happiness in a camp setting. Join one of our spring trips to the camp located near Orlando to serve at an upcoming family retreat weekend.
+GEO:30.441189;-84.29835
+LOCATION:Dunlap Success Center (DSC)\, 1100
+SUMMARY:FSAB - Camp Boggy Creek
+URL;VALUE=URI:https://calendar.fsu.edu/event/copy-of-fsab-camp-boggy-creek
+CATEGORIES:Special Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235335Z
+UID:tag:localist.com\,2008:EventInstance_54232223225447
+DTSTART;VALUE=DATE:20261101
+DESCRIPTION:Florida State Alternative Breaks is a student-led service and leadership program that provides immersive community engagement experiences during academic breaks. Through meaningful service\, education\, and reflection\, students explore new communities\, build lasting relationships\, and develop the skills needed to create positive change in their communities. \n\nCamp Boggy Creek offers free\, medically safe experiences for children with serious illnesses to experience joy and happiness in a camp setting. Join one of our spring trips to the camp located near Orlando to serve at an upcoming family retreat weekend.
+GEO:30.441189;-84.29835
+LOCATION:Dunlap Success Center (DSC)\, 1100
+SUMMARY:FSAB - Camp Boggy Creek
+URL;VALUE=URI:https://calendar.fsu.edu/event/copy-of-fsab-camp-boggy-creek
+CATEGORIES:Special Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235335Z
+UID:tag:localist.com\,2008:EventInstance_54232257621171
+DTSTART:20261103T180000Z
+DTEND:20261103T190000Z
+DESCRIPTION:The Purpose Project is designed to help students cultivate well-being and a strong sense of belonging through a community-centered approach. In today's world\, students face stressors that affect both individuals and their communities\, including natural disasters\, climate change\, political and social polarization\, and school violence. The Purpose Project equips students to use resources\, foster supportive relationships\, and thrive together in the face of these challenges.
+GEO:30.441189;-84.29835
+LOCATION:Dunlap Success Center (DSC)\, 2201
+SUMMARY:Overcome Test Anxiety
+URL;VALUE=URI:https://calendar.fsu.edu/event/overcome-test-anxiety
+CATEGORIES:Academic/Registrar
+CATEGORIES:Workshop
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235335Z
+UID:tag:localist.com\,2008:EventInstance_54232274369664
+DTSTART:20261104T190000Z
+DTEND:20261104T200000Z
+DESCRIPTION:The Purpose Project is designed to help students cultivate well-being and a strong sense of belonging through a community-centered approach. In today's world\, students face stressors that affect both individuals and their communities\, including natural disasters\, climate change\, political and social polarization\, and school violence. The Purpose Project equips students to use resources\, foster supportive relationships\, and thrive together in the face of these challenges.
+GEO:30.441189;-84.29835
+LOCATION:Dunlap Success Center (DSC)\, 1006
+SUMMARY:Where's My Motivation?
+URL;VALUE=URI:https://calendar.fsu.edu/event/wheres-my-motivation
+CATEGORIES:Academic/Registrar
+CATEGORIES:Workshop
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235335Z
+UID:tag:localist.com\,2008:EventInstance_54232335350818
+DTSTART:20261105T160000Z
+DTEND:20261105T170000Z
+DESCRIPTION:The Purpose Project is designed to help students cultivate well-being and a strong sense of belonging through a community-centered approach. In today's world\, students face stressors that affect both individuals and their communities\, including natural disasters\, climate change\, political and social polarization\, and school violence. The Purpose Project equips students to use resources\, foster supportive relationships\, and thrive together in the face of these challenges.
+GEO:30.441189;-84.29835
+LOCATION:Dunlap Success Center (DSC)\, 1006
+SUMMARY:Regulating Through Resourcing
+URL;VALUE=URI:https://calendar.fsu.edu/event/copy-of-wheres-my-motivation
+CATEGORIES:Academic/Registrar
+CATEGORIES:Workshop
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235335Z
+UID:tag:localist.com\,2008:EventInstance_54232339672054
+DTSTART:20261201T170000Z
+DTEND:20261201T180000Z
+DESCRIPTION:The Purpose Project is designed to help students cultivate well-being and a strong sense of belonging through a community-centered approach. In today's world\, students face stressors that affect both individuals and their communities\, including natural disasters\, climate change\, political and social polarization\, and school violence. The Purpose Project equips students to use resources\, foster supportive relationships\, and thrive together in the face of these challenges.
+GEO:30.441189;-84.29835
+LOCATION:Dunlap Success Center (DSC)\, 2201
+SUMMARY:Ending the Semester Strong
+URL;VALUE=URI:https://calendar.fsu.edu/event/copy-of-regulating-through-resourcing
+CATEGORIES:Academic/Registrar
+CATEGORIES:Workshop
+END:VEVENT
+END:VCALENDAR

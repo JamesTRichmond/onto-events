@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//San Francisco Fixture//EN
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:berkeley-library-central-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T180000Z
+DTEND:20261024T193000Z
+SUMMARY:East Bay Authors & Poetry Reading Circle
+DESCRIPTION:Readings by Northern California poets followed by an open community open mic and writer discussion in the 3rd floor reading room.
+LOCATION:Berkeley Public Library Central
+URL:https://www.berkeleypubliclibrary.org/locations/central-library
+END:VEVENT
+BEGIN:VEVENT
+UID:berkeley-library-central-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Berkeley Civic Environmental Forum
+DESCRIPTION:Panel discussion on urban re-wilding, native plants, and community solar initiatives.
+LOCATION:Berkeley Public Library Central
+URL:https://www.berkeleypubliclibrary.org/locations/central-library
+END:VEVENT
+END:VCALENDAR

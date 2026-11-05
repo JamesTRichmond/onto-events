@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Pensacola Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:srcls-navarre-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Navarre Library Family Reading & Craft Morning
+DESCRIPTION:Early literacy songs, stories, and seasonal crafts for Navarre families.
+LOCATION:Navarre Library (SRCLS)
+URL:https://www.santarosa.fl.gov/164/Navarre-Library
+END:VEVENT
+BEGIN:VEVENT
+UID:srcls-navarre-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Santa Rosa Sound Coastal Ecology Lecture
+DESCRIPTION:Public educational talk on marine habitats and native coastal flora in Navarre.
+LOCATION:Navarre Library (SRCLS)
+URL:https://www.santarosa.fl.gov/164/Navarre-Library
+END:VEVENT
+END:VCALENDAR

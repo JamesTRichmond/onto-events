@@ -1,0 +1,26 @@
+{
+  "pages": [
+    {
+      "total": 1,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 156726,
+          "global_id": "www.hunter.cuny.edu?id=156726",
+          "title": "Arts and Humanities Open House",
+          "description": "<p>Join us for the Arts &amp; Humanities Open House at Hunter College!</p>\n<p>Whether you are passionate about literature, languages, history, philosophy, visual arts, or the performing arts, Hunter offers a rich and rigorous academic environment to help you explore your interests and build your future. Meet faculty, connect with current students, and discover the programs, resources, and opportunities that make Hunter a premier destination for arts and humanities students in the heart of New York City.</p>\n<p>And don't forget - you will get a chance to learn about the honors and scholarship opportunities too!</p>",
+          "url": "https://www.hunter.cuny.edu/event/arts-and-humanities-open-house/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-17 15:00:00",
+          "utc_end_date": "2026-10-17 18:00:00",
+          "venue": {
+            "venue": "West Lobby",
+            "address": "Park Avenue 695",
+            "city": "New York"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Calendar - University Libraries
+X-WR-TIMEZONE:Eastern Time (US & Canada)
+BEGIN:VEVENT
+DTSTAMP:20261015T235332Z
+UID:tag:localist.com\,2008:EventInstance_53560758409517
+DTSTART:20261015T180000Z
+DTEND:20261015T191500Z
+DESCRIPTION:EndNote is a powerful citation management tool that allows you to manage bibliographies and references when writing essays\, articles\, books\, and reports. EndNote can be used alongside word processing software such as Microsoft Word and Google Docs\, allowing you to cite your sources while you are writing. The software allows you to automatically format citations into any of over 2000 citation styles. This workshop will explore how to navigate the EndNote interface\, import references and create libraries\, and use the Cite-While-You-Write tool to cite your references directly in a document.\n\n \n\nPlease contact this QEP's instructor\, Dr. Nick Ruhs\, if you have questions about workshop content.  \n\n \n\nYou MUST use your FSU email account to access this workshop through Zoom. Please ensure that your Zoom app is up to date before the workshop.  Check-in ends 10 minutes after the scheduled start time and late arrivals will not be admitted. \n\n \n\nThe Graduate Skills Workshop series is a collection of workshops developed in collaboration with the Graduate School and the Quality Enhancement Plan (QEP) to support graduate research and success. \n\n \n\nPlease note: The target audience for this workshop is graduate and doctoral students\, but participants at all levels are welcome to join.  To qualify for the Research and Creative Activity Travel Grant\, only fully matriculated and admitted FSU students will be considered.\n\n \n\nFor questions regarding Research and Creative Activity Travel Grants\, please contact the Graduate Student Resource Center.
+LOCATION:
+SUMMARY:Introduction to Citation Management Using EndNote
+URL;VALUE=URI:https://calendar.fsu.edu/event/Fall26-EndNote-Oct15
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235332Z
+UID:tag:localist.com\,2008:EventInstance_53601870131419
+DTSTART:20261015T190000Z
+DTEND:20261015T203000Z
+DESCRIPTION:Administrative data research uses information that organizations collect during their everyday operations\, such as school enrollment records\, healthcare claims\, employment records\, and government program data. These datasets help researchers answer important social\, economic\, and policy questions by studying large populations and long-term trends that are often difficult to examine through surveys alone. In this presentation\, you will learn what administrative data is\, where to find it\, common mistakes researchers make when using it\, and practical tips for successfully working with these powerful but complex datasets.\n\nFor online attendance: \n\nYou MUST use your FSU email account to access this workshop through Zoom. Please ensure that your Zoom app is up to date before the workshop.
+LOCATION:
+SUMMARY:Data at Your Desk Series: Charging Up Your Research with Administrative Data
+URL;VALUE=URI:https://calendar.fsu.edu/event/F26-DAYD-AdminData-Oct15
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235332Z
+UID:tag:localist.com\,2008:EventInstance_54179905892609
+DTSTART:20261015T190000Z
+DTEND:20261015T200000Z
+DESCRIPTION:Computer-aided analysis offers a new way of looking at texts. This session will introduce the basics of text analysis with Python. Participants will gain hands-on experience analyzing texts with different Python libraries and parsing the resulting analysis. No prior technical experience required. \n\n \n\nPlease bring your laptop to the session. If you don’t have one\, you can check one out at the Scholar Support Desk.\n\n \n\nPlease contact this QEP's instructor\, Aaron Rodriguez\, if you have questions about workshop content. \n\n \n\nPlease arrive at the workshop at least 5 minutes before the start time.  Please have your FSU Card ready for check-in.  Check-in ends 10 minutes after the scheduled start time and late arrivals will not be admitted. \n\n \n\nThe Graduate Skills Workshop series is a collection of workshops developed in collaboration with the Graduate School and the Quality Enhancement Plan (QEP) to support graduate research and success. \n  \n\nPlease note: The target audience for this workshop is graduate and doctoral students\, but participants at all levels are welcome to join.  To qualify for the Research and Creative Activity Travel Grant\, only fully matriculated and admitted FSU students will be considered.\n\n \n\nFor questions regarding Research and Creative Activity Travel Grants\, please contact the Graduate Student Resource Center.
+GEO:30.44302;-84.295059
+LOCATION:Robert Manning Strozier Library\, Instruction Room 5A
+SUMMARY:Text Analysis with Python
+URL;VALUE=URI:https://calendar.fsu.edu/event/Fall26-Python-Oct13
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235332Z
+UID:tag:localist.com\,2008:EventInstance_53515293302646
+DTSTART:20261019T180000Z
+DTEND:20261019T190000Z
+DESCRIPTION:Do you need help with the structure of an academic paper? Are you confused about what a literature review is? Then this workshop is for you! This will cover the basics of academic papers and what each section does.\n\n*Please note that these workshops are restricted to FSU-affiliated participants. If you are not affiliated with FSU\, your registration may be declined.\n\nClick the Zoom link to register: https://fsu.zoom.us/meeting/register/BPKZZRE4ReWKANPLZi0-Mg\n\nWorkshop is 1 PM - 2 PM  Central Time\;  2 PM- 3 PM Eastern.
+LOCATION:
+SUMMARY:Academic Writing: Structure Basics and Tips
+URL;VALUE=URI:https://calendar.fsu.edu/event/copy-of-academic-writing-structure-basics-and-tips-6309
+CATEGORIES:Panama City Campus - Library & Learning
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235332Z
+UID:tag:localist.com\,2008:EventInstance_53674031959636
+DTSTART:20261019T210000Z
+DTEND:20261019T223000Z
+DESCRIPTION:Join FSU Libraries and the Jim Moran College of Entrepreneurship for the inaugural Innovation Book Club! We’re diving into Kara Swisher's Burn Book: A Tech Love Story\, an explosive insider look at Silicon Valley's tech giants. Meet us at the InNolevation Center to discuss the read and enjoy free pizza and drinks.\n\nLink to access the e-book\n\nDates and Times: \n\n9/21 (Chapters 1-6) \n\n10/19 (Chapters 7-11)\n\n11/16 (Chapters 12-16) \n\nAll from 5:00-6:30pm! \n\nLocation: InNolevation Center (Shaw 226)
+LOCATION:InNolevation Center\, Shaw 226
+SUMMARY:Innovation Book Club (multiple dates)
+URL;VALUE=URI:https://calendar.fsu.edu/event/innovation-book-club-Fall2026
+CATEGORIES:General
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235332Z
+UID:tag:localist.com\,2008:EventInstance_53560131929269
+DTSTART:20261020T143000Z
+DTEND:20261020T160000Z
+DESCRIPTION:Do you still do citations by hand? Invest an hour and a half of your academic career to learn how to utilize a free citation management program and save yourself countless hours in the future. In this workshop\, we will demonstrate how to use Zotero to collect\, save\, and organize citations and create citations and bibliographies with just a few clicks. Zotero is compatible with Microsoft Word and Google Docs\, allowing you to link your sources directly to your writing. With just a few additional clicks\, you can easily modify the style of your bibliography. The workshop is tailored to accommodate beginners and those with some Zotero experience. Participants interested in attending Systematic Review workshops are encouraged to take this workshop first.\n\n \n\nPlease bring your laptop to the session. If you don’t have one\, you can check one out at the Scholar Support Desk.\n\n \n\nPlease contact this QEP's instructor\, Jonathan DaSo\, if you have questions about workshop content.  \n\n \n\nPlease arrive at the workshop at least 5 minutes before the start time. Please have your FSU Card ready for check-in. Check-in ends 10 minutes after the scheduled start time and late arrivals will not be admitted. \n\n \n\nThe Graduate Skills Workshop series is a collection of workshops developed in collaboration with the Graduate School and the Quality Enhancement Plan (QEP) to support graduate research and success. \n  \n\nPlease note: The target audience for this workshop is graduate and doctoral students\, but participants at all levels are welcome to join.  To qualify for the Research and Creative Activity Travel Grant\, only fully matriculated and admitted FSU students will be considered.\n\n \n\nFor questions regarding Research and Creative Activity Travel Grants\, please contact the Graduate Student Resource Center.
+GEO:30.44502;-84.299845
+LOCATION:Dirac Science Library (DSL)\, 208 (Computer Lab/Instruction Room)
+SUMMARY:Introduction to Citation Management Using Zotero
+URL;VALUE=URI:https://calendar.fsu.edu/event/Fall26-Zotero-Oct20
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235332Z
+UID:tag:localist.com\,2008:EventInstance_53744170480584
+DTSTART:20261020T150000Z
+DTEND:20261020T160000Z
+DESCRIPTION:This workshop considers the genre differences between the dissertation and a final\, publishable scholarly monograph. We consider how to rework your finished dissertation with an eye towards transforming your research into a more refined and confident argument. This workshop also explores the book proposal as is the essential first step towards publishing in the humanities. We aim to demystify what university press editors are actually looking for in a book proposal\, including audience\, market fit\, and chapter structure\, and help participants understand what to expect from the university press book publishing process. \n\n \n\nFor in-person attendance:\n\nPlease have your FSU Card ready for check-in.
+LOCATION:
+SUMMARY:Peer Review\, Editorial Decisions & Responding to Reviewers  
+URL;VALUE=URI:https://calendar.fsu.edu/event/F-26-UAP-Reviewers-Oct20
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235332Z
+UID:tag:localist.com\,2008:EventInstance_53728773808351
+DTSTART:20261020T180000Z
+DTEND:20261020T190000Z
+DESCRIPTION:This workshop introduces FSU’s institutional repository and explains how graduate students can showcase scholarly works such as articles\, datasets\, dissertations\, conference posters\, and other research. Topics include copyright permissions\, embargo options\, version control\, and long-term visibility of scholarly work.
+LOCATION:
+SUMMARY:Uploading to the FSU Repository: Sharing and Preserving Your Research  
+URL;VALUE=URI:https://calendar.fsu.edu/event/F26-UAP-Repository-Sep17-Oct20
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235332Z
+UID:tag:localist.com\,2008:EventInstance_53673827621280
+DTSTART:20261020T190000Z
+DTEND:20261020T200000Z
+DESCRIPTION:Please join us for our Ask A Librarian hours in partnership with the Jim Moran College of Entrepreneurship. Bring your questions about entrepreneurship classes or your small business! Your librarian can help with questions like:\n\nHow can I get access to the New York Times and Wall Street Journal for free through the library?\n\nWhere can I find the historical stock price for Starbucks over the last 10 years?\n\nI'm new to business research. What is the main database I should start with for an intro entrepreneurship class?\n\nI'm writing a report on Target\, where can I find reliable company information and financials?\n\nTime: 3-4 pm on the first and third Tuesday of every month (9/1\, 9/15\, 10/6\, 10/20\, 11/3\, 11/17\, 12/1).\n\nLocation: InNolevation Center (Shaw 226)
+GEO:30.443814;-84.293584
+LOCATION:Roderick K. Shaw Building (RSB)\, InNOLEvation® Center\, RSB 226
+SUMMARY:Ask a Librarian (multiple dates)
+URL;VALUE=URI:https://calendar.fsu.edu/event/ask-a-librarian-Fall2026
+CATEGORIES:General
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235332Z
+UID:tag:localist.com\,2008:EventInstance_53578473727937
+DTSTART:20261020T190000Z
+DTEND:20261020T203000Z
+DESCRIPTION:Our Introduction to Parallel R workshop is a free\, interactive session that provides a practical introduction to parallel computing in the R language\, with a focus on accelerating data processing and statistical analysis.\nThis workshop is designed for researchers in STEM and the Humanities who already have experience programming in R and are seeking to optimize their workflows for large datasets.\n\nTopics Covered\nBy the end of this workshop\, attendees will be able to connect to the High-Performance Compute cluster and use R’s built-in parallel computing package to improve the performance of their research tasks. Attendees will also gain a foundational understanding of parallel computing concepts that can be applied across programming languages.\n\nSpecific topics include:\n\nOverview of Parallel Computing\n\nHow to Identify Tasks Suitable for Parallelization· Connecting to RCC Systems\n\nIntroduction to the 'parallel' Package in R\n\nParallelizing Data Processing for Large Datasets\n\nRunning Parallel Regressions for Large Datasets\n\nFor online attendance: \n\nYou MUST use your FSU email account to access this workshop through Zoom. Please ensure that your Zoom app is up to date before the workshop.  \n\nFor in-person attendance:\n\nPlease have your FSU Card ready for check-in.
+GEO:30.44502;-84.299845
+LOCATION:Dirac Science Library (DSL)\, Computer Lab\, 208
+SUMMARY:Data at Your Desk Series: Parallel R
+URL;VALUE=URI:https://calendar.fsu.edu/event/F26-DAYD-ParallelR-Oct20
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235332Z
+UID:tag:localist.com\,2008:EventInstance_53560398048841
+DTSTART:20261021T180000Z
+DTEND:20261021T190000Z
+DESCRIPTION:Formerly known as the Literature in Natural Sciences\, this updated session is designed for graduate students in biology\, geology\, atmospheric sciences\, oceanography\, environmental sciences\, and other earth‑science–related programs.\n\nConducting a comprehensive literature review is essential for identifying research problems and questions that advance your thesis or dissertation. This session will cover strategies and best practices for searching scholarly resources\, organizing information\, identifying relevant studies to support your research\, and other helpful search tips and tricks.\n\nWe’ll discuss how to select the right databases for your topic\, how to write and track your searches\, and how to use tools and features within each database. The session will focus on effectively searching Web of Science and Scopus\, with additional databases included as time and attendee interest allow.\n\nWe’ll work through foundational strategies for searching scientific literature to develop strong research questions and move your work forward. Bring your research topics and questions!\n\n \n\nPlease contact this QEP's instructors\, Kelly Grove or Kassidy Hof-Mahoney\, if you have questions about workshop content.  \n\n \n\nYou MUST use your FSU email account to access this workshop through Zoom. Please ensure that your Zoom app is up to date before the workshop.  Check-in ends 10 minutes after the scheduled start time and late arrivals will not be admitted. \n\n \n\nThe Graduate Skills Workshop series is a collection of workshops developed in collaboration with the Graduate School and the Quality Enhancement Plan (QEP) to support graduate research and success. \n  \n\nPlease note: The target audience for this workshop is graduate and doctoral students\, but participants at all levels are welcome to join.  To qualify for the Research and Creative Activity Travel Grant\, only fully matriculated and admitted FSU students will be considered.\n\n \n\nFor questions regarding Research and Creative Activity Travel Grants\, please contact the Graduate Student Resource Center.
+GEO:30.44502;-84.299845
+LOCATION:Dirac Science Library (DSL)\, 208
+SUMMARY:Web of Science and Scopus for Graduate Students
+URL;VALUE=URI:https://calendar.fsu.edu/event/Fall26-WebofScience-Scopus-Oct21
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235332Z
+UID:tag:localist.com\,2008:EventInstance_53560823649381
+DTSTART:20261021T183000Z
+DTEND:20261021T194500Z
+DESCRIPTION:An introduction to the R statistical programming language using the IDE RStudio.  This workshop is a basic introduction to performing data analysis and visualization using R Studio.  It is open to beginners\, including those who have never used R.  \n\nTopics will include RStudio workflow suggestions\, interactive sessions versus scripts\, data manipulation\, and visualization examples.\n\n \n\nPlease contact this QEP's instructor\, Nathanael Gay\, if you have questions about workshop content.  \n\n \n\nYou MUST use your FSU email account to access this workshop through Zoom. Please ensure that your Zoom app is up to date before the workshop.  Check-in ends 10 minutes after the scheduled start time and late arrivals will not be admitted. \n\n \n\nThe Graduate Skills Workshop series is a collection of workshops developed in collaboration with the Graduate School and the Quality Enhancement Plan (QEP) to support graduate research and success. \n  \n\nPlease note: The target audience for this workshop is graduate and doctoral students\, but participants at all levels are welcome to join.  To qualify for the Research and Creative Activity Travel Grant\, only fully matriculated and admitted FSU students will be considered.\n\n \n\nFor questions regarding Research and Creative Activity Travel Grants\, please contact the Graduate Student Resource Center.
+LOCATION:
+SUMMARY:Introduction to R Studio
+URL;VALUE=URI:https://calendar.fsu.edu/event/Fall26-IntrotoR-Oct21
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235332Z
+UID:tag:localist.com\,2008:EventInstance_53560508555295
+DTSTART:20261022T180000Z
+DTEND:20261022T191500Z
+DESCRIPTION:MATLAB is a multi-purpose numerical computing environment and programming language widely used for solving problems in various engineering\, scientific\, and mathematical fields. MATLAB can handle matrices and arrays as fundamental data types\, making it well-suited for scientific and engineering computations. MATLAB also comes with hundreds of built-in functions and commands that can be used for data analysis and visualization. This workshop will explore various concepts integral to using MATLAB\, including working within the desktop environment\, creating and manipulating vectors and matrices\, importing external data\, generating scripts\, and creating 2D plots.\n\n \n\nPlease contact this QEP's instructor\, Dr. Nick Ruhs\, if you have questions about workshop content.  \n\n \n\nYou MUST use your FSU email account to access this workshop through Zoom. Please ensure that your Zoom app is up to date before the workshop.  Check-in ends 10 minutes after the scheduled start time and late arrivals will not be admitted. \n\n \n\nThe Graduate Skills Workshop series is a collection of workshops developed in collaboration with the Graduate School and the Quality Enhancement Plan (QEP) to support graduate research and success. \n  \n\nPlease note: The target audience for this workshop is graduate and doctoral students\, but participants at all levels are welcome to join.  To qualify for the Research and Creative Activity Travel Grant\, only fully matriculated and admitted FSU students will be considered.\n\n \n\nFor questions regarding Research and Creative Activity Travel Grants\, please contact the Graduate Student Resource Center.
+LOCATION:
+SUMMARY:Data Analysis with MATLAB
+URL;VALUE=URI:https://calendar.fsu.edu/event/Fall26-MATLAB-Oct22
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235332Z
+UID:tag:localist.com\,2008:EventInstance_54250597881074
+DTSTART:20261022T200000Z
+DTEND:20261022T220000Z
+DESCRIPTION:Special Collections and Archives presents... the Cabinet of Curiosities\, a Spooky Open House!\n\nTarot cards\, palm readings\, death mask\, and more at Strozier Library!
+GEO:30.44302;-84.295059
+LOCATION:Robert Manning Strozier Library\, 110
+SUMMARY:Cabinet of Curiosities: A Spooky Open House 
+URL;VALUE=URI:https://calendar.fsu.edu/event/cabinet-of-curiosities-a-spooky-open-house
+CATEGORIES:General
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235332Z
+UID:tag:localist.com\,2008:EventInstance_54169971479885
+DTSTART:20261023T140000Z
+DTEND:20261023T160000Z
+DESCRIPTION:National Chemistry Week is joining forces with Open Access Week to feature open-access resources in chemistry!\n\nGet ready to go full mole! We're throwing a high-energy bash in honor of the quirkiest number in chemistry—Avogadro’s number (6.022 × 10²³)—and you're invited to join the reaction!\n\nExplosive fun for all! Whether you're a chemistry whiz or just here for the vibes\, this celebration is bound to be elemental.\n\nGames! Treats! Prizes! No registration needed—show up and dive in!\n\nFind us behind the turnstiles at Dirac Science Library. Let’s make this Mole Day unforgettable!
+GEO:30.44502;-84.299845
+LOCATION:Dirac Science Library (DSL)\, main floor\, behind turnstiles
+SUMMARY:Mole Day Madness
+URL;VALUE=URI:https://calendar.fsu.edu/event/mole-day-madness-Fall2026
+CATEGORIES:Tabling
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235332Z
+UID:tag:localist.com\,2008:EventInstance_53514945618128
+DTSTART:20261023T180000Z
+DTEND:20261023T190000Z
+DESCRIPTION:Learn the ins and outs of using the 7th APA edition citation style. In this online workshop\, we will cover how to set up papers\, reference pages\, and in-text citations.\n\n*Please note that these workshops are restricted to FSU-affiliated participants. If you are not affiliated with FSU\, your registration may be declined.\n\nClick the Zoom link to register: https://fsu.zoom.us/meeting/register/5w731MhiQ8md95SDzAQlZw\n\nWorkshop is 1 PM - 2 PM Central Time\; 2 PM - 3 PM Eastern.
+LOCATION:
+SUMMARY:Beginner's Guide to APA
+URL;VALUE=URI:https://calendar.fsu.edu/event/copy-of-beginners-guide-to-apa-6400
+CATEGORIES:Panama City Campus - Library & Learning
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235332Z
+UID:tag:localist.com\,2008:EventInstance_53745276677360
+DTSTART:20261026T160000Z
+DTEND:20261026T170000Z
+DESCRIPTION:Learn the ins and outs of using the 9th MLA edition citation style. In this online workshop\, we will cover how to set up papers\, reference pages\, and in-text citations.\n\n*Please note that these workshops are restricted to FSU-affiliated participants. If you are not affiliated with FSU\, your registration may be declined\n\nClick the zoom link to register: https://fsu.zoom.us/meeting/register/qd5ZHBGvRauNAeVPjz68uA\n\n \n\nWorkshop is 11 AM - 12 PM Central Time\; 12 PM – 1 PM Eastern.
+LOCATION:
+SUMMARY:Introduction to MLA Citation
+URL;VALUE=URI:https://calendar.fsu.edu/event/copy-of-introduction-to-mla-citation-7731
+CATEGORIES:Panama City Campus - Library & Learning
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235332Z
+UID:tag:localist.com\,2008:EventInstance_53744200875914
+DTSTART:20261026T150000Z
+DTEND:20261026T160000Z
+DESCRIPTION:This workshop considers the genre differences between the dissertation and a final\, publishable scholarly monograph. We consider how to rework your finished dissertation with an eye towards transforming your research into a more refined and confident argument. This workshop also explores the book proposal as is the essential first step towards publishing in the humanities. We aim to demystify what university press editors are actually looking for in a book proposal\, including audience\, market fit\, and chapter structure\, and help participants understand what to expect from the university press book publishing process.\n\n \n\nFor in-person attendance:\n\nPlease have your FSU Card ready for check-in.
+GEO:30.44302;-84.295059
+LOCATION:Robert Manning Strozier Library\, 107A
+SUMMARY:Canceled: Publishing After the Dissertation: Writing the Book Proposal 
+URL;VALUE=URI:https://calendar.fsu.edu/event/F26-UAP-Book-Proposal-Oct26
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235333Z
+UID:tag:localist.com\,2008:EventInstance_53560287984819
+DTSTART:20261026T170000Z
+DTEND:20261026T180000Z
+DESCRIPTION:Computer-aided analysis offers a new way of looking at texts. This session will introduce the basics of text analysis with Python. Participants will gain hands-on experience analyzing texts with different Python libraries and parsing the resulting analysis. No prior technical experience required. \n\n \n\nPlease bring your laptop to the session. If you don’t have one\, you can check one out at the Scholar Support Desk.\n\n \n\nPlease contact this QEP's instructor\, Aaron Rodriguez\, if you have questions about workshop content. \n\n \n\nPlease arrive at the workshop at least 5 minutes before the start time.  Please have your FSU Card ready for check-in.  Check-in ends 10 minutes after the scheduled start time and late arrivals will not be admitted. \n\n \n\nThe Graduate Skills Workshop series is a collection of workshops developed in collaboration with the Graduate School and the Quality Enhancement Plan (QEP) to support graduate research and success. \n  \n\nPlease note: The target audience for this workshop is graduate and doctoral students\, but participants at all levels are welcome to join.  To qualify for the Research and Creative Activity Travel Grant\, only fully matriculated and admitted FSU students will be considered.\n\n \n\nFor questions regarding Research and Creative Activity Travel Grants\, please contact the Graduate Student Resource Center.
+GEO:30.44302;-84.295059
+LOCATION:Robert Manning Strozier Library\, Instruction Room 5A
+SUMMARY:Text Analysis with Python
+URL;VALUE=URI:https://calendar.fsu.edu/event/Fall26-Python-Oct26
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235333Z
+UID:tag:localist.com\,2008:EventInstance_53728776393267
+DTSTART:20261026T190000Z
+DTEND:20261026T200000Z
+DESCRIPTION:Don’t be intimidated by Excel's capabilities. This workshop covers basic spreadsheet creation to advanced tips\, tricks\, and time-saving techniques for building effective worksheets and workbooks. Designed for those new to Excel and experienced users alike\, with content tailored to meet participants' specific needs and skill levels.\n\n*Please note that these workshops are restricted to FSU-affiliated participants. If you are not affiliated with FSU\, your registration may be declined.\n\nClick the zoom link to register:   https://fsu.zoom.us/meeting/register/lXVDAsJHT0OD0zrobfnOgg\n\nWorkshop is 2 PM - 3 PM Central Time\; 3 PM - 4 PM Eastern.
+LOCATION:
+SUMMARY:Excel Tips & Tricks
+URL;VALUE=URI:https://calendar.fsu.edu/event/copy-of-excel-tips-tricks-659
+CATEGORIES:Panama City Campus - Library & Learning
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235333Z
+UID:tag:localist.com\,2008:EventInstance_53745400726933
+DTSTART:20261026T210000Z
+DTEND:20261026T220000Z
+DESCRIPTION:Learn to create and deliver presentations that capture attention\, communicate ideas clearly\, and leave a lasting impact. This workshop covers presentation design\, storytelling techniques\, audience engagement\, and strategies for speaking with confidence. Whether presenting in the classroom\, a meeting\, or at a conference\, gain practical skills to make every presentation more effective and memorable.\n\n*Please note that these workshops are restricted to FSU-affiliated participants. If you are not affiliated with FSU\, your registration may be declined\n\nClick the zoom link to register:   https://fsu.zoom.us/meeting/register/lNO8-mMSRMOjS4CDGo4MCQ\n\nWorkshop is 4 PM - 5 PM Central Time\; 5 PM – 6 PM Eastern.
+LOCATION:
+SUMMARY:Powerful Presentations
+URL;VALUE=URI:https://calendar.fsu.edu/event/copy-of-powerful-presentations-3434
+CATEGORIES:Panama City Campus - Library & Learning
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235333Z
+UID:tag:localist.com\,2008:EventInstance_54187631778032
+DTSTART:20261026T223000Z
+DTEND:20261026T233000Z
+DESCRIPTION:Come and learn savvy strategies to search literature from academic databases and other scholarly resources and how to organize and manage the references systematically. \n\nRegistration
+LOCATION:
+SUMMARY:HSF Workshops - Jump Start Your Literature Review Assignment: Tips for Smashing Success
+URL;VALUE=URI:https://calendar.fsu.edu/event/hsf-workshops-jump-start-your-literature-review-assignment-tips-for-smashing-success
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235333Z
+UID:tag:localist.com\,2008:EventInstance_54044685891281
+DTSTART:20261027T153000Z
+DTEND:20261027T180000Z
+DESCRIPTION:Join FSU Libraries and the School of Information for "From UFOs to UAPs: Science\, Sensationalism\, and Things That Go Blip in the Night." This interdisciplinary panel conversation brings together faculty members from across Florida State University to analyze the UAP phenomenon through multiple academic lenses. Panelists will discuss the validity of recorded sightings\, the long and fraught history of the field\, and break down how journalistic framing and digital platforms influence public perception. \n\nWhether you are a curious skeptic or a seasoned researcher\, join us for an engaging discussion on what lies behind the headlines\, the hype\, and the things that go blip in the night. Light lunch will be provided for attendees at 11:30am\, with the official panel starting at 12pm. \n\nNote: Registration for this event is required because lunch is provided. \n\nYou can also check out more information about the event and related UAP resources on our online guide! \n\n \n\nPanelists: \n\nGretchen Stahman (FSU School of Information) \n\nRonald Doel (FSU Department of History) \n\nJeremiah Murphy (FSU Department of Physics) \n\nAnnie Zhang (FSU School of Communication) \n\nTim Spuck (Associated Universities\, Inc.)
+GEO:30.44302;-84.295059
+LOCATION:Robert Manning Strozier Library\, Basement Level\, Bradley Reading Room
+SUMMARY:From UFOs to UAPs: Science\, Sensationalism\, and Things That Go Blip in the Night
+URL;VALUE=URI:https://calendar.fsu.edu/event/UAPpanel-Fall2026
+CATEGORIES:Academic/Registrar
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235333Z
+UID:tag:localist.com\,2008:EventInstance_54109679926404
+DTSTART:20261027T173000Z
+DTEND:20261027T193000Z
+DESCRIPTION:Thinking of entering the Data Viz Contest? Get a competitive edge with Data Hours! Drop in for guidance and contest support to help take your visualization to the next level. No registration required\, with multiple dates available through the end of the Fall 2026 semester. Don’t miss out!\n\nAll Data Viz Office Hours will be held in the Dirac Science Library Instruction Room (Room 208).\n\nThursday\, October 1 (9:30-11:30 am)Monday\, October 12 (9:30-11:30 am)Tuesday\, October 27 (1:30-3:30 pm)Tuesday\, November 10 (1:30-3:30 pm)Wednesday\, December 2 (1:30-3:30 pm)
+GEO:30.44502;-84.299845
+LOCATION:Dirac Science Library (DSL)\, 208
+SUMMARY:Data Visualization Contest -- Office Hours & Contest Help
+URL;VALUE=URI:https://calendar.fsu.edu/event/F26-data-visualization-office-hours-contest-help
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+CATEGORIES:Academic/Registrar
+CATEGORIES:Workshop
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235333Z
+UID:tag:localist.com\,2008:EventInstance_54187660864131
+DTSTART:20261027T223000Z
+DTEND:20261027T233000Z
+DESCRIPTION:With the vast amount of statistics and infographics now available at the touch of a finger or click of a mouse\, it is often difficult to determine which ones offer an accurate representation of a topic. This interactive workshop will provide an overview of data literacy and reproducibility concepts\, aimed at giving attendees the knowledge needed to determine the purpose for which statistical and pictorial data is being used and whether conclusions using the data are sound.\n\nRegistration
+LOCATION:
+SUMMARY:HSF Workshops - Correlation Does Not Equal Causality: An Introduction to Data Literacy
+URL;VALUE=URI:https://calendar.fsu.edu/event/hsf-workshops-correlation-does-not-equal-causality-an-introduction-to-data-literacy
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+END:VEVENT
+END:VCALENDAR

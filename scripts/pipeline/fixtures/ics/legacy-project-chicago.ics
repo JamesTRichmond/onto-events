@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Expansion Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:legacy-walk-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261025T180000Z
+DTEND:20261025T193000Z
+SUMMARY:The Legacy Walk: Northalsted Guided Walking Tour
+DESCRIPTION:Historian-guided walking tour along North Halsted Street highlighting bronze memorial pylons commemorating global LGBTQ+ pioneers.
+LOCATION:The Legacy Walk (Northalsted Cultural Spine)
+URL:https://legacyprojectchicago.org/walking-tours
+END:VEVENT
+BEGIN:VEVENT
+UID:legacy-walk-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261029T180000Z
+DTEND:20261029T193000Z
+SUMMARY:Legacy Walk Educational Symposium & Youth Dialogue
+DESCRIPTION:Community outdoor educational program connecting local students and visitors with Chicago civil rights milestones.
+LOCATION:The Legacy Walk (Northalsted Cultural Spine)
+URL:https://legacyprojectchicago.org/education
+END:VEVENT
+END:VCALENDAR

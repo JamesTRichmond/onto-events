@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Boston Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:bpl-west-end-branch-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:West End Youth STEM & LEGO Lab
+DESCRIPTION:Hands-on architectural brick challenges and beginner coding activities for neighborhood youth and families.
+LOCATION:BPL West End Branch
+URL:https://www.bpl.org/locations/west-end/
+END:VEVENT
+BEGIN:VEVENT
+UID:bpl-west-end-branch-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:West End Community Speaker Series
+DESCRIPTION:Evening talk by local scholars and historians discussing Boston urban geography and public architecture.
+LOCATION:BPL West End Branch
+URL:https://www.bpl.org/locations/west-end/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Pensacola Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:pensacola-little-theatre-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Treehouse Youth Theatre Family Matinee
+DESCRIPTION:Family-friendly stage production performed by Pensacola Little Theatre youth company.
+LOCATION:Pensacola Little Theatre at The Clark Family Cultural Center
+URL:https://www.pensacolalittletheatre.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:pensacola-little-theatre-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Courtroom Theatre Evening Drama Performance
+DESCRIPTION:Mainstage community theatre performance inside the historic Clark Family Cultural Center.
+LOCATION:Pensacola Little Theatre at The Clark Family Cultural Center
+URL:https://www.pensacolalittletheatre.com/
+END:VEVENT
+END:VCALENDAR

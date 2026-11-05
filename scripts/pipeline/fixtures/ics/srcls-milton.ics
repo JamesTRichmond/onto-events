@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Pensacola Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:srcls-milton-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Milton Library Youth Builders & Story Hour
+DESCRIPTION:Read-aloud stories followed by hands-on building blocks play in Milton.
+LOCATION:Milton Library (SRCLS)
+URL:https://www.santarosa.fl.gov/163/Milton-Library
+END:VEVENT
+BEGIN:VEVENT
+UID:srcls-milton-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Santa Rosa Master Gardener Clinic at Milton Library
+DESCRIPTION:UF/IFAS Extension master gardeners present seasonal Panhandle planting tips.
+LOCATION:Milton Library (SRCLS)
+URL:https://www.santarosa.fl.gov/163/Milton-Library
+END:VEVENT
+END:VCALENDAR

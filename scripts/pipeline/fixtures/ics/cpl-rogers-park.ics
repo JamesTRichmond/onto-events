@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:cpl-rogers-park-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Rogers Park Community Science & Nature Club
+DESCRIPTION:Hands-on biology experiments and nature journaling exploring Lake Michigan coastal wildlife.
+LOCATION:CPL Rogers Park Branch Library
+URL:https://www.chipublib.org/locations/60/
+END:VEVENT
+BEGIN:VEVENT
+UID:cpl-rogers-park-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Rogers Park Readers Book Discussion
+DESCRIPTION:Monthly community literature discussion exploring international fiction in translation.
+LOCATION:CPL Rogers Park Branch Library
+URL:https://www.chipublib.org/locations/60/
+END:VEVENT
+END:VCALENDAR

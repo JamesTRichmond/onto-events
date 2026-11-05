@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Jane G. Sauls Fort Braden Branch Library//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jane G. Sauls Fort Braden Branch Library
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T020000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T020000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:lcpl-fb-001@leoncountyfl.gov
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260916T150000
+DTEND;TZID=America/New_York:20260916T163000
+SUMMARY:Lego Club @ Fort Braden Branch
+DESCRIPTION:Build\, create\, and play at Lego Club! Kids and families can enjoy hands-on brick building challenges.
+LOCATION:Jane G. Sauls Fort Braden Branch Library
+URL:https://leoncountyfl.libcal.com/event/16905203
+CATEGORIES:learning,family
+END:VEVENT
+BEGIN:VEVENT
+UID:lcpl-fb-002@leoncountyfl.gov
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260917T180000
+DTEND;TZID=America/New_York:20260917T200000
+SUMMARY:Community Music Jam @ Fort Braden
+DESCRIPTION:Acoustic open jam for local musicians of all skill levels. Bring your guitar\, banjo\, fiddle\, or harmonica and join the circle.
+LOCATION:Jane G. Sauls Fort Braden Branch Library
+URL:https://leoncountyfl.libcal.com/calendar/events/MusicJam
+CATEGORIES:music,community
+END:VEVENT
+BEGIN:VEVENT
+UID:lcpl-fb-003@leoncountyfl.gov
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260919T130000
+DTEND;TZID=America/New_York:20260919T150000
+SUMMARY:Crochet for Beginners
+DESCRIPTION:Learn the basics of crochet in this hands-on workshop. Yarn and starter hooks provided for all participants.
+LOCATION:Jane G. Sauls Fort Braden Branch Library
+URL:https://leoncountyfl.libcal.com/event/17090937
+CATEGORIES:arts,community
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Pensacola Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:wfpl-genealogy-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:West Florida Archival & Family History Workshop
+DESCRIPTION:Research seminar on tracing colonial Spanish, British, and early American census records in West Florida.
+LOCATION:WFPL Genealogy Branch Library
+URL:https://mywfpl.com/locations/genealogy
+END:VEVENT
+BEGIN:VEVENT
+UID:wfpl-genealogy-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Genealogy Society Open Research Clinic
+DESCRIPTION:Volunteer genealogists assist visitors with microfilm archives and historical property maps.
+LOCATION:WFPL Genealogy Branch Library
+URL:https://mywfpl.com/locations/genealogy
+END:VEVENT
+END:VCALENDAR

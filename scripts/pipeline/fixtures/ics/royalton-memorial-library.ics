@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Royalton Memorial Library Events
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+DTSTART:20261101T203000Z
+DTEND:20261101T220000Z
+DTSTAMP:20261020T180000Z
+UID:rml-event-robotics-20261101@royaltonmemoriallibrary.org
+SUMMARY:Youth LEGO Robotics & Coding Workshop
+DESCRIPTION:Hands-on STEM club using LEGO Spike kits to design\, build\, and program motorized machines. Open to upper elementary and middle school youth.
+LOCATION:Royalton Memorial Library
+STATUS:CONFIRMED
+URL:https://sites.google.com/view/royalton-memorial-library/
+CATEGORIES:Children's Programs
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261102T230000Z
+DTEND:20261103T003000Z
+DTSTAMP:20261020T180000Z
+UID:rml-event-bookclub-20261102@royaltonmemoriallibrary.org
+SUMMARY:White River Valley Community Book Discussion
+DESCRIPTION:Monthly evening literary gathering discussing modern Vermont fiction and environmental conservation essays in the historic reading room.
+LOCATION:Royalton Memorial Library
+STATUS:CONFIRMED
+URL:https://sites.google.com/view/royalton-memorial-library/
+CATEGORIES:Adult Programs
+END:VEVENT
+END:VCALENDAR

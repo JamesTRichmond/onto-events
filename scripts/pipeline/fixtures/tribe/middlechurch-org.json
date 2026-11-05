@@ -1,0 +1,46 @@
+{
+  "pages": [
+    {
+      "total": 3,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 10004034,
+          "global_id": "www.middlechurch.org?id=10004034",
+          "title": "Butterfly Outreach Ministry",
+          "description": "<h3 class=\"xmsonormal\"><b>For the sandwich making:</b><br aria-hidden=\"true\" /><b>Sundays 9:30am-10:30am</b></p>\n<p>Join volunteers downstairs in our Social Hall every Sunday from 9:30am &#8211; 10:30am to make bagged lunches for neighbors and food insecure people in Tompkins Sq. Park. This is a joyful opportunity to get connected in one of Middle&#8217;s oldest ministries and support our larger community.</p>\n<p>To sign up to volunteer, please <span draggable=\"true\"><a href=\"https://docs.google.com/spreadsheets/d/1dGLrXvCBnIZiT3AZKMADxJXXN3VKWlDlOGQTYU3r038/edit?gid=1348357350#gid=1348357350\"",
+          "url": "https://www.middlechurch.org/event/butterfly-outreach-ministry-5/2026-10-18/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-18 13:30:00",
+          "utc_end_date": "2026-10-18 18:00:00",
+          "venue": []
+        },
+        {
+          "id": 10002855,
+          "global_id": "www.middlechurch.org?id=10002855",
+          "title": "Just Love Family Programming",
+          "description": "<p data-start=\"107\" data-end=\"445\"><strong data-start=\"107\" data-end=\"123\">Every Sunday</strong><br data-start=\"123\" data-end=\"126\" /><strong data-start=\"126\" data-end=\"185\">Just Love Littles | 10:00 AM–2:00 PM | 3rd Floor Children’s Room</strong><br data-start=\"185\" data-end=\"188\" />For children ages 6 months through 2nd grade.<br data-start=\"233\" data-end=\"236\" />Join us for community, play, and thematic lessons on justice and spirituality. This is a drop-off opportunity for caregivers, but you are welcome to stay as your child adjusts. Worship is streamed in the room.</p>\n<p data-start=\"447",
+          "url": "https://www.middlechurch.org/event/just-love-family-programming-2-2-3/2026-10-18/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-18 14:00:00",
+          "utc_end_date": "2026-10-18 18:00:00",
+          "venue": []
+        },
+        {
+          "id": 10005250,
+          "global_id": "www.middlechurch.org?id=10005250",
+          "title": "Bible in the Middle",
+          "description": "<p>Explore scripture through the lens of Love. Period. Clergy and lay teachers create a safe space for asking the questions in our hearts and seeking answers that deepen our understanding and connection to God.</p>\n<p>&nbsp;</p>\n<p><a href=\"https://us02web.zoom.us/meeting/register/tZMocu2oqTktGtNvNSpRwOfPCSGoTrtR8A4Z\">Register here</a></p>",
+          "url": "https://www.middlechurch.org/event/bible-in-the-middle-copy-3/2026-10-18/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-18 14:00:00",
+          "utc_end_date": "2026-10-18 15:00:00",
+          "venue": []
+        }
+      ]
+    }
+  ]
+}

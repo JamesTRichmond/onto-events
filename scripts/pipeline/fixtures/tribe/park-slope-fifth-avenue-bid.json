@@ -1,0 +1,23 @@
+{
+  "evaluationClock": "2026-10-16T15:00:00Z",
+  "pages": [
+    {
+      "total": 1,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 13473,
+          "global_id": "parkslopefifthavenuebid.com?id=13473",
+          "title": "5th Avenue Tree Lighting – Small Business Saturday, 2026",
+          "description": "Join us at the corner of 4th St and 5th Ave for our annual tree lighting Small Business Saturday – Last Saturday in November – Saturday November 28th 2026 4:30-5:30pm Fun for all!",
+          "url": "https://parkslopefifthavenuebid.com/event/5th-avenue-tree-lighting-small-business-saturday/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-11-28 21:30:00",
+          "utc_end_date": "2026-11-28 21:30:00",
+          "venue": []
+        }
+      ]
+    }
+  ]
+}

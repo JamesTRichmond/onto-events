@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:northwestern-campus-events-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Northwestern Public Science & Technology Colloquium
+DESCRIPTION:Public seminar exploring artificial intelligence, renewable materials, and Great Lakes ecological research.
+LOCATION:Northwestern Norris University Center
+URL:https://www.northwestern.edu/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:northwestern-campus-events-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Northwestern Pick-Staiger Student Recital
+DESCRIPTION:Concert by Bienen School of Music students performing classical brass and woodwind repertory.
+LOCATION:Northwestern Norris University Center
+URL:https://www.northwestern.edu/events/
+END:VEVENT
+END:VCALENDAR

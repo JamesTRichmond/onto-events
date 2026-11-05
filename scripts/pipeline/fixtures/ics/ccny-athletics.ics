@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//fixture//EN
+BEGIN:VEVENT
+UID:vcal_9699-ccnyathletics.com
+DTSTART:20261020T230000Z
+DTEND:20261021T010000Z
+SUMMARY:City College of New York  Women's Volleyball vs St. Joseph's University Brooklyn - Dig Pink Breast Cancer Awareness
+LOCATION:New York\, N.Y.\, Nat Holman Gymnasium
+URL:https://ccnyathletics.com/calendar.aspx?game_id=9699&amp;sport_id=14
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_9697-ccnyathletics.com
+DTSTART:20261027T230000Z
+DTEND:20261028T010000Z
+SUMMARY:City College of New York  Women's Volleyball vs John Jay College
+LOCATION:New York\, N.Y.\, Nat Holman Gymnasium
+URL:https://ccnyathletics.com/calendar.aspx?game_id=9697&amp;sport_id=14
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_9695-ccnyathletics.com
+DTSTART:20261104T000000Z
+DTEND:20261104T020000Z
+SUMMARY:City College of New York  Women's Volleyball vs Lehman College - Senior Night
+LOCATION:New York\, N.Y.\, Nat Holman Gymnasium
+URL:https://ccnyathletics.com/calendar.aspx?game_id=9695&amp;sport_id=14
+END:VEVENT
+END:VCALENDAR

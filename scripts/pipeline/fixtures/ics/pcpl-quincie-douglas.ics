@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Tucson Fixture//EN
+X-WR-TIMEZONE:America/Phoenix
+BEGIN:VEVENT
+UID:pcpl-quincie-douglas-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T170000Z
+DTEND:20261024T183000Z
+SUMMARY:Southside Youth STEAM & Discovery Corner
+DESCRIPTION:Interactive science, engineering, and art projects for neighborhood elementary students.
+LOCATION:Quincie Douglas Library
+URL:https://www.library.pima.gov/locations/quincie-douglas/
+END:VEVENT
+BEGIN:VEVENT
+UID:pcpl-quincie-douglas-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261028T010000Z
+DTEND:20261028T023000Z
+SUMMARY:Cuentos y Canciones: Bilingual Family Time
+DESCRIPTION:Bilingual Spanish-English story reading and family music at Quincie Douglas Library.
+LOCATION:Quincie Douglas Library
+URL:https://www.library.pima.gov/locations/quincie-douglas/
+END:VEVENT
+END:VCALENDAR

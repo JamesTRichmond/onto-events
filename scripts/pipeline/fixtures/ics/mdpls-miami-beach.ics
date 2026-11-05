@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Miami-Dade Public Library System//NONSGML Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MDPLS Miami Beach Regional Library Events
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:mdpls-mb-20261016-storytime@mdpls.org
+DTSTAMP:20261015T000000Z
+DTSTART:20261016T140000Z
+DTEND:20261016T150000Z
+SUMMARY:Saturday Morning Storytime and Rhyme
+DESCRIPTION:Interactive stories and sensory play for toddlers and preschoolers.
+LOCATION:Miami Beach Regional Library
+URL:https://www.mdpls.org/events/mb-storytime
+CATEGORIES:Children & Family
+END:VEVENT
+BEGIN:VEVENT
+UID:mdpls-mb-20261018-ocean-lab@mdpls.org
+DTSTAMP:20261015T000000Z
+DTSTART:20261018T180000Z
+DTEND:20261018T193000Z
+SUMMARY:Youth Ocean Explorers: Marine Science Lab
+DESCRIPTION:Hands-on coastal marine biology and beach ecosystem science lab.
+LOCATION:Miami Beach Regional Library
+URL:https://www.mdpls.org/events/mb-ocean-lab
+CATEGORIES:Learning & Tech
+END:VEVENT
+BEGIN:VEVENT
+UID:mdpls-mb-20261021-bookclub@mdpls.org
+DTSTAMP:20261015T000000Z
+DTSTART:20261021T220000Z
+DTEND:20261021T233000Z
+SUMMARY:Sunset Book Club: Contemporary Authors
+DESCRIPTION:Monthly community reading discussion of modern fiction.
+LOCATION:Miami Beach Regional Library
+URL:https://www.mdpls.org/events/mb-bookclub
+CATEGORIES:Arts & Culture
+END:VEVENT
+END:VCALENDAR

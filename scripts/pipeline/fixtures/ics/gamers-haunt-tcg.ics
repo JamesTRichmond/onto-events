@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Other TCG Events
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260715T180000
+DTEND;TZID=America/New_York:20260715T220000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+DTSTAMP:20261008T194236Z
+UID:5cii2nqk8jlg275njdif6m8osb@google.com
+CREATED:20260706T213641Z
+DESCRIPTION:Come join us at Gamers' Haunt for Nexus Nights every Wednesday at 6pm!<br><p>Riftbound takes the familiar setup of many other popular card games and turns it on its head. You don’t fight to damage your opponent\, but to control territory. It’s a faithful translation of the lane-based MOBA (multiplayer online battle arena) League of Legends. Take command of your Champion and utilize the unique Rune resource system to strategize and defeat your opponent.</p><p>The format is 1v1 Constructed\, and we encourage both new players and experts to come try their hand and have fun. Every part [trimmed]
+LAST-MODIFIED:20260716T210746Z
+LOCATION:Gamers' Haunt\, 167 Patton Ave\, Asheville\, NC 28801\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Riftbound Nexus Nights
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260812T160000
+DTEND;TZID=America/New_York:20260812T210000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+DTSTAMP:20261008T194236Z
+UID:3f7g818jqv5k19uh6ppl0aud6p_R20260812T200000@google.com
+CREATED:20260706T214009Z
+DESCRIPTION:Play Star Wars Unlimited at Gamers' Haunt! Whether you’re a fan of Star Wars\, card games\, or just good games in general\, Star Wars Unlimited is an exciting time. Fight both on the ground and in space in this game of “unlimited possibilities” and full of fan-favorite characters and locales.<p>Establish your base\, choose your leader\, and fight for the fate of the galaxy! May the Force be with you.</p>
+LAST-MODIFIED:20260811T174217Z
+LOCATION:Gamers' Haunt\, 167 Patton Ave\, Asheville\, NC 28801\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Star Wars Unlimited
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261004T140000
+DTEND;TZID=America/New_York:20261004T180000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+EXDATE;TZID=America/New_York:20261213T140000
+EXDATE;TZID=America/New_York:20261108T140000
+DTSTAMP:20261008T194236Z
+UID:0t4m8fetvcd6sn5621jmo8g729_R20261004T180000@google.com
+CREATED:20260706T213901Z
+DESCRIPTION:Join us for our weekly Sorcery: Contested Realm play every Sunday at 2pm! This old-school TCG is a love letter to the Magic of yesterday\, right down to the hand-painted fantasy elements and familiar artist names. In Sorcery\, you are an Avatar\, casting powerful elemental spells\, summoning minions\, finding ancient relics and shaping the Realm. Outmaneuver your opponent in your chosen element\, by land\, sea\, and air before ultimately putting them to Death's Door and claiming victory.<p>We play three rounds starting at 2pm\, but players are encouraged to come early to play casua [trimmed]
+LAST-MODIFIED:20260922T185358Z
+LOCATION:Gamers' Haunt\, 167 Patton Ave\, Asheville\, NC 28801\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sorcery: Contested Realm Weekly Play
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261213T163000Z
+DTEND:20261213T223000Z
+DTSTAMP:20261008T194236Z
+UID:1fhth8dq7d2e1hdrld655kgd5l@google.com
+CREATED:20260920T161211Z
+DESCRIPTION:<section><br><p>Join us for Gamers' Haunt's first ever Cornerstone event\, celebrating our Sorcery: Contrsted Realm community! In addition to the promo cards\, we will have additional prizes to be announced closer to the event date.</p></section><section></section>Entry will be $20. <a href="https://sorcerytcg.com/events/cmu9ao1gt000m0bgms7i2xmdh">Register on the Sorcery TCG event page here</a> to reserve your spot\; payment will be collected in-store on the day of the event.
+LAST-MODIFIED:20260920T161212Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sorcery: CORNERSTONE Event
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

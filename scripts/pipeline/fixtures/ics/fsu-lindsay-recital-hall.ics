@@ -1,0 +1,356 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Calendar - Lindsay Recital Hall (LRH)
+X-WR-TIMEZONE:Eastern Time (US & Canada)
+BEGIN:VEVENT
+DTSTAMP:20261016T001012Z
+UID:tag:localist.com\,2008:EventInstance_53874441562742
+DTSTART:20261018T233000Z
+DTEND:20261019T013000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3327817/occurrences/8265912
+GEO:30.442369;-84.29152
+LOCATION:Lindsay Recital Hall (LRH)
+SUMMARY:Junior Recital of Ashton Stewart\, saxophone
+URL;VALUE=URI:https://calendar.fsu.edu/event/junior-recital-of-ashton-stewart
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T001012Z
+UID:tag:localist.com\,2008:EventInstance_54042590146062
+DTSTART:20261022T233000Z
+DTEND:20261023T013000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3327821/occurrences/8265916
+GEO:30.442369;-84.29152
+LOCATION:Lindsay Recital Hall (LRH)
+SUMMARY:Junior Recital of Jennifer Eileen Fuentes\, saxophone
+URL;VALUE=URI:https://calendar.fsu.edu/event/junior-recital-of-jennifer-eileen-fuentes-saxophone-317
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T001012Z
+UID:tag:localist.com\,2008:EventInstance_53856745446506
+DTSTART:20261026T233000Z
+DTEND:20261027T010000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3324902/occurrences/8252943
+GEO:30.442369;-84.29152
+LOCATION:Lindsay Recital Hall (LRH)
+SUMMARY:Senior Recital of Dawson Levi Huynh\, clarinet
+URL;VALUE=URI:https://calendar.fsu.edu/event/of-dawson-levi-huynh-clarinet
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T001012Z
+UID:tag:localist.com\,2008:EventInstance_54113356359332
+DTSTART:20261027T233000Z
+DTEND:20261028T013000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3340566/occurrences/8326580
+GEO:30.442369;-84.29152
+LOCATION:Lindsay Recital Hall (LRH)
+SUMMARY:Special Recital of Jacob Zussy and Allen Wroten\, trombones
+URL;VALUE=URI:https://calendar.fsu.edu/event/special-recital-of-jacob-zussy-and-allen-wroten-trombones
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T001012Z
+UID:tag:localist.com\,2008:EventInstance_53856745409628
+DTSTART:20261030T233000Z
+DTEND:20261031T010000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3324756/occurrences/8252330
+GEO:30.442369;-84.29152
+LOCATION:Lindsay Recital Hall (LRH)
+SUMMARY:Certificate Recital of Olivia Rose Turke\, tenor saxophone
+URL;VALUE=URI:https://calendar.fsu.edu/event/certificate-recital-of-olivia-rose-turke-tenor-saxophone
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T001012Z
+UID:tag:localist.com\,2008:EventInstance_53927528146662
+DTSTART:20261101T210000Z
+DTEND:20261101T230000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3332012/occurrences/8294591
+GEO:30.442369;-84.29152
+LOCATION:Lindsay Recital Hall (LRH)
+SUMMARY:Special Recital of Caleb Wolf\, Steven Waterston\, Kaiden Klingler\, and Ash Stewart\, saxophones
+URL;VALUE=URI:https://calendar.fsu.edu/event/specital-recital-iqnproject
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T001012Z
+UID:tag:localist.com\,2008:EventInstance_53927526345275
+DTSTART:20261103T003000Z
+DTEND:20261103T023000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3331920/occurrences/8294151
+GEO:30.442369;-84.29152
+LOCATION:Lindsay Recital Hall (LRH)
+SUMMARY:Special Recital of Claire Park\, flute
+URL;VALUE=URI:https://calendar.fsu.edu/event/special-recital-of-claire-park-flute
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T001012Z
+UID:tag:localist.com\,2008:EventInstance_53856744314822
+DTSTART:20261104T003000Z
+DTEND:20261104T020000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3324775/occurrences/8252412
+GEO:30.442369;-84.29152
+LOCATION:Lindsay Recital Hall (LRH)
+SUMMARY:Senior Recital of Nicholas Edward Mackley\, clarinet
+URL;VALUE=URI:https://calendar.fsu.edu/event/senior-recital-of-nicholas-edward-mackley-clarinet-3034
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T001012Z
+UID:tag:localist.com\,2008:EventInstance_53865588976268
+DTSTART:20261105T003000Z
+DTEND:20261105T023000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3327055/occurrences/8261227
+GEO:30.442369;-84.29152
+LOCATION:Lindsay Recital Hall (LRH)
+SUMMARY:Senior Project Recital of Anna Todd and Lexi Smith\, flute
+URL;VALUE=URI:https://calendar.fsu.edu/event/senior-project-recital-of-anna-todd-and-lexi-smith-flute
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T001012Z
+UID:tag:localist.com\,2008:EventInstance_53936364632684
+DTSTART:20261106T003000Z
+DTEND:20261106T023000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3332763/occurrences/8299148
+GEO:30.442369;-84.29152
+LOCATION:Lindsay Recital Hall (LRH)
+SUMMARY:Special Recital of Elizabeth Helen Atwood\, bassoon
+URL;VALUE=URI:https://calendar.fsu.edu/event/special-recital-of-elizabeth-helen-atwood-bassoon
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T001012Z
+UID:tag:localist.com\,2008:EventInstance_53750564069593
+DTSTART:20261106T003000Z
+DTEND:20261106T020000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3315653/occurrences/8190905
+GEO:30.442369;-84.29152
+LOCATION:Lindsay Recital Hall (LRH)
+SUMMARY:Trombone Studio Recital - Students of Hana Beloglavec
+URL;VALUE=URI:https://calendar.fsu.edu/event/trombone-studio-recital-students-of-hana-beloglavec-5428
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T001012Z
+UID:tag:localist.com\,2008:EventInstance_53440863985998
+DTSTART:20261106T203000Z
+DTEND:20261106T220000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3285221/occurrences/7990249
+GEO:30.442369;-84.29152
+LOCATION:Lindsay Recital Hall (LRH)
+SUMMARY:Housewright Virtuoso Series – Guest Artist Recital of Kristan Toczko\, harp
+URL;VALUE=URI:https://calendar.fsu.edu/event/guest-artist-recital-of-kristan-toczko-harp
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T001012Z
+UID:tag:localist.com\,2008:EventInstance_53865588106807
+DTSTART:20261107T003000Z
+DTEND:20261107T023000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3327071/occurrences/8261369
+GEO:30.442369;-84.29152
+LOCATION:Lindsay Recital Hall (LRH)
+SUMMARY:Senior Recital of Rachael Elizabeth Malawey\, clarinet
+URL;VALUE=URI:https://calendar.fsu.edu/event/senior-recital-of-rachael-elizabeth-malawey-clarinet
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T001012Z
+UID:tag:localist.com\,2008:EventInstance_53874441281112
+DTSTART:20261108T003000Z
+DTEND:20261108T013000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3328030/occurrences/8268133
+GEO:30.442369;-84.29152
+LOCATION:Lindsay Recital Hall (LRH)
+SUMMARY:Music Theatre Recital of Adia Sofia Cotto Quinones\, mezzo-soprano
+URL;VALUE=URI:https://calendar.fsu.edu/event/music-theatre-recital-of-adia-sofia-cotto-quinones-mezzo-soprano
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T001012Z
+UID:tag:localist.com\,2008:EventInstance_53688595977443
+DTSTART:20261110T210000Z
+DTEND:20261110T220000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3302565/occurrences/8097827
+GEO:30.442369;-84.29152
+LOCATION:Lindsay Recital Hall (LRH)
+SUMMARY:Community Music Colloquium Series: Dr. Patrice Floyd - Javacya Arts Conservatory
+URL;VALUE=URI:https://calendar.fsu.edu/event/community-music-colloquium-series-dr-patrice-floyd-javacya-arts-conservatory
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T001012Z
+UID:tag:localist.com\,2008:EventInstance_53856744258488
+DTSTART:20261111T003000Z
+DTEND:20261111T020000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3324692/occurrences/8252129
+GEO:30.442369;-84.29152
+LOCATION:Lindsay Recital Hall (LRH)
+SUMMARY:Senior Project Recital of Abigail Grace Varnadoe\, clarinet
+URL;VALUE=URI:https://calendar.fsu.edu/event/senior-project-recital-of-abigail-grace-varnadoe-clarinet
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T001012Z
+UID:tag:localist.com\,2008:EventInstance_54104504577001
+DTSTART:20261113T003000Z
+DTEND:20261113T023000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3327778/occurrences/8265826
+GEO:30.442369;-84.29152
+LOCATION:Lindsay Recital Hall (LRH)
+SUMMARY:Senior Project Recital of Sofi Victoria Velez-Santiago and Addison Peltier\, flute
+URL;VALUE=URI:https://calendar.fsu.edu/event/senior-project-recital-of-sofia-victoria-velez-santiago-flute
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T001012Z
+UID:tag:localist.com\,2008:EventInstance_53927526687330
+DTSTART:20261114T003000Z
+DTEND:20261114T023000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3332094/occurrences/8294834
+GEO:30.442369;-84.29152
+LOCATION:Lindsay Recital Hall (LRH)
+SUMMARY:Special Recital of March Jeongmin Seok and Sergio Ramirez\, composition
+URL;VALUE=URI:https://calendar.fsu.edu/event/special-recital-of-march-jeongmin-seok-and-sergio-ramirez-composition
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T001012Z
+UID:tag:localist.com\,2008:EventInstance_53856745429091
+DTSTART:20261115T003000Z
+DTEND:20261115T020000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3324779/occurrences/8252429
+GEO:30.442369;-84.29152
+LOCATION:Lindsay Recital Hall (LRH)
+SUMMARY:Certificate Recital of Rose Raina Ossi\, violin
+URL;VALUE=URI:https://calendar.fsu.edu/event/certificate-recital-of-rose-raina-ossi-violin
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T001012Z
+UID:tag:localist.com\,2008:EventInstance_53865588991635
+DTSTART:20261115T190000Z
+DTEND:20261115T200000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3327098/occurrences/8261583
+GEO:30.442369;-84.29152
+LOCATION:Lindsay Recital Hall (LRH)
+SUMMARY:Senior Project Recital of Samuel Mercier\, trombone
+URL;VALUE=URI:https://calendar.fsu.edu/event/senior-project-recital-of-samuel-mercier-trombone
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T001012Z
+UID:tag:localist.com\,2008:EventInstance_53927526327860
+DTSTART:20261115T210000Z
+DTEND:20261115T230000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3331854/occurrences/8293914
+GEO:30.442369;-84.29152
+LOCATION:Lindsay Recital Hall (LRH)
+SUMMARY:Special Recital of Zachary Mathews\, saxophone
+URL;VALUE=URI:https://calendar.fsu.edu/event/special-recital-of-zachary-mathews-saxophone-2176
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T001012Z
+UID:tag:localist.com\,2008:EventInstance_53883291119164
+DTSTART:20261116T003000Z
+DTEND:20261116T023000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3328886/occurrences/8273895
+GEO:30.442369;-84.29152
+LOCATION:Lindsay Recital Hall (LRH)
+SUMMARY:Senior Project Recital of Ferris Daniel Kritzer\, baritone
+URL;VALUE=URI:https://calendar.fsu.edu/event/senior-project-recital-of-ferris-daniel-kritzer-baritone
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T001012Z
+UID:tag:localist.com\,2008:EventInstance_53803638719261
+DTSTART:20261117T003000Z
+DTEND:20261117T020000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3320486/occurrences/8223941
+GEO:30.442369;-84.29152
+LOCATION:Lindsay Recital Hall (LRH)
+SUMMARY:Doctoral Chamber Recital of Logan Tyler Florence\, guitar
+URL;VALUE=URI:https://calendar.fsu.edu/event/doctoral-chamber-recital-of-logan-tyler-florence-guitar
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T001012Z
+UID:tag:localist.com\,2008:EventInstance_53936363988540
+DTSTART:20261118T003000Z
+DTEND:20261118T023000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3328991/occurrences/8274790
+GEO:30.442369;-84.29152
+LOCATION:Lindsay Recital Hall (LRH)
+SUMMARY:Doctoral Solo Recital of Andrew Russell Swift\, oboe
+URL;VALUE=URI:https://calendar.fsu.edu/event/doctoral-solo-recital-of-andrew-russell-swift-oboe-9382
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T001012Z
+UID:tag:localist.com\,2008:EventInstance_53794798284748
+DTSTART:20261119T003000Z
+DTEND:20261119T013000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3319672/occurrences/8218048
+GEO:30.442369;-84.29152
+LOCATION:Lindsay Recital Hall (LRH)
+SUMMARY:Doctoral Lecture Recital of Pheeraroj Phupaibul\, guitar
+URL;VALUE=URI:https://calendar.fsu.edu/event/doctoral-lecture-recital-of-pheeraroj-phupaibul-guitar
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+END:VCALENDAR

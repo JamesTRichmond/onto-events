@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Tucson Fixture//EN
+X-WR-TIMEZONE:America/Phoenix
+BEGIN:VEVENT
+UID:pcpl-nanini-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T170000Z
+DTEND:20261024T183000Z
+SUMMARY:Casas Adobes Family Storytime & Crafts
+DESCRIPTION:Interactive storytelling, fingerplays, and seasonal art crafts for young readers and caregivers.
+LOCATION:Nanini Library
+URL:https://www.library.pima.gov/locations/nanini/
+END:VEVENT
+BEGIN:VEVENT
+UID:pcpl-nanini-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261028T010000Z
+DTEND:20261028T023000Z
+SUMMARY:Nanini Writers Workshop & Critique Circle
+DESCRIPTION:Monthly creative writing group sharing fiction, poetry, and Southwestern memoirs.
+LOCATION:Nanini Library
+URL:https://www.library.pima.gov/locations/nanini/
+END:VEVENT
+END:VCALENDAR

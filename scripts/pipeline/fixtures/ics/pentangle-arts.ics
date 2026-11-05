@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pentangle Arts//Events Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pentangle Arts Woodstock
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+DTSTART:20261101T233000Z
+DTEND:20261102T013000Z
+DTSTAMP:20261020T180000Z
+UID:pentangle-film-doc-20261101@pentangle.org
+SUMMARY:Town Hall Theatre Cinema: Vermont Documentary Showcase
+DESCRIPTION:Screening of award-winning regional documentary features celebrating Vermont working landscapes and agricultural heritage\, followed by director Q&A.
+LOCATION:Woodstock Town Hall Theatre (Pentangle Arts)
+STATUS:CONFIRMED
+URL:https://pentangle.org/events/
+CATEGORIES:Film
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261102T233000Z
+DTEND:20261103T013000Z
+DTSTAMP:20261020T180000Z
+UID:pentangle-jam-bluegrass-20261102@pentangle.org
+SUMMARY:Pentangle Arts Open Acoustic Bluegrass Jam
+DESCRIPTION:Community acoustic jam session welcoming regional musicians and listeners. Traditional fiddle\, mandolin\, banjo\, and guitar players welcome.
+LOCATION:Woodstock Town Hall Theatre (Pentangle Arts)
+STATUS:CONFIRMED
+URL:https://pentangle.org/events/
+CATEGORIES:Music
+END:VEVENT
+END:VCALENDAR

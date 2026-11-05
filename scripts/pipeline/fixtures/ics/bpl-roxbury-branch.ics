@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Boston Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:bpl-roxbury-branch-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Nubian Square Youth Creative Coding
+DESCRIPTION:Beginner game programming and digital art creation for middle schoolers in the Roxbury branch tech lab.
+LOCATION:BPL Roxbury Branch
+URL:https://www.bpl.org/locations/roxbury/
+END:VEVENT
+BEGIN:VEVENT
+UID:bpl-roxbury-branch-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Roxbury Community History & Poetry Showcase
+DESCRIPTION:Spoken word performance and historical discussion highlighting Boston Black community organizing and artistic expression.
+LOCATION:BPL Roxbury Branch
+URL:https://www.bpl.org/locations/roxbury/
+END:VEVENT
+END:VCALENDAR

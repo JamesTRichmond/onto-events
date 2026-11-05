@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Boston Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:bpl-jamaica-plain-branch-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Jamaica Plain Saturday Family Sing-Along
+DESCRIPTION:Acoustic guitar sing-along, puppet stories, and picture book readings for young children and parents.
+LOCATION:BPL Jamaica Plain Branch
+URL:https://www.bpl.org/locations/jamaica-plain/
+END:VEVENT
+BEGIN:VEVENT
+UID:bpl-jamaica-plain-branch-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:JP Art Gallery Opening & Reception
+DESCRIPTION:Celebration of rotating visual art exhibits by local Jamaica Plain painters and printmakers in the branch community room.
+LOCATION:BPL Jamaica Plain Branch
+URL:https://www.bpl.org/locations/jamaica-plain/
+END:VEVENT
+END:VCALENDAR

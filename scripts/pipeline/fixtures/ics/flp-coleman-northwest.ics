@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Philadelphia Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:flp-coleman-northwest-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Germantown Community Forum & Family Reading Hour
+DESCRIPTION:Children book circle, local African American history presentations, and community discussions on Chelten Avenue.
+LOCATION:FLP Joseph E. Coleman Northwest Regional Library
+URL:https://libwww.freelibrary.org/locations/joseph-e-coleman-northwest-regional-library
+END:VEVENT
+BEGIN:VEVENT
+UID:flp-coleman-northwest-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Germantown Community Forum & Family Reading Hour (Session 2)
+DESCRIPTION:Children book circle, local African American history presentations, and community discussions on Chelten Avenue. Follow-up community session.
+LOCATION:FLP Joseph E. Coleman Northwest Regional Library
+URL:https://libwww.freelibrary.org/locations/joseph-e-coleman-northwest-regional-library
+END:VEVENT
+END:VCALENDAR

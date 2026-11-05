@@ -1,0 +1,6 @@
+{
+  "status": "REPORTED",
+  "reportedVerifiedOn": "2026-10-15",
+  "url": "https://data.cityofnewyork.us/resource/w3wp-dpdi.json",
+  "note": "Evidence placeholder, not a captured API response or event fixture. The issue reports verification with Manhattan/Queens events. Direct re-verification failed DNS resolution on 2026-10-16. No event fields, IDs, prices, dates or venue coordinates are asserted."
+}

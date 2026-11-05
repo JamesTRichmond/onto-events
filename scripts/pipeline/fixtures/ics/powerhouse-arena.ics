@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto fixture//EN
+BEGIN:VEVENT
+UID:powerhouse-0-2026-10-19T23:00:00.000Z
+DTSTART:20261019T230000Z
+DTEND:20261020T010000Z
+SUMMARY:Book Launch: Succubus by Kate Fox in conversation with Maria Vale
+LOCATION:POWERHOUSE Arena\, 28 Adams Street (Corner of Adams & Water Street across from the Archway)\, Brooklyn \, NY\, 11201\, United States
+DESCRIPTION:Her touch kills\, his saves the dying. Are they fated\, or forbidden?
+END:VEVENT
+BEGIN:VEVENT
+UID:powerhouse-1-2026-10-20T23:00:00.000Z
+DTSTART:20261020T230000Z
+DTEND:20261021T010000Z
+SUMMARY:Book Launch: Notice and Do by Sam Kelly in conversation with Richelle Fredson
+LOCATION:POWERHOUSE Arena\, 28 Adams Street (Corner of Adams & Water Street across from the Archway)\, Brooklyn \, NY\, 11201\, United States
+DESCRIPTION:Lighten your mental load and end mom burnout for good with a new kind of parenting book that teaches your kids to notice what needs to be done at home—and do it—without waiting to be asked.
+END:VEVENT
+BEGIN:VEVENT
+UID:powerhouse-2-2026-10-22T23:00:00.000Z
+DTSTART:20261022T230000Z
+DTEND:20261023T010000Z
+SUMMARY:Book Launch: Butter Road by Jaclyn Gilbert in conversation with Adrian Shirk
+LOCATION:POWERHOUSE Arena\, 28 Adams Street (Corner of Adams & Water Street across from the Archway)\, Brooklyn \, NY\, 11201\, United States
+DESCRIPTION:A searing novel about a community irrevocably transformed by gun violence.
+END:VEVENT
+BEGIN:VEVENT
+UID:powerhouse-3-2026-10-23T23:00:00.000Z
+DTSTART:20261023T230000Z
+DTEND:20261024T010000Z
+SUMMARY:Book Launch: Arguments by Benjamin Gucciardi in conversation with Pádraig Ó Tuama
+LOCATION:POWERHOUSE Arena\, 28 Adams Street (Corner of Adams & Water Street across from the Archway)\, Brooklyn \, NY\, 11201\, United States
+DESCRIPTION:Winner of the 2025 Lexi Rudnitsky Editor's Choice Award\, Arguments is an innovative collection that explores inner conflict\, ethical action and the eroding ties between self\, family\, community and the land.
+END:VEVENT
+END:VCALENDAR

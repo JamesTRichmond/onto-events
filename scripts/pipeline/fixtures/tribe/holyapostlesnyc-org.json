@@ -1,0 +1,58 @@
+{
+  "pages": [
+    {
+      "total": 3,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 10007449,
+          "global_id": "holyapostlesnyc.org?id=10007449",
+          "title": "Soup Kitchen Meal Service",
+          "description": "<p>Our Soup Kitchen Meal Service provides a hot meal every weekday from 10:30 am to 12:30 pm. Each meal is designed with health in mind and is made up of the recommended balance of fruit, vegetables, grains, protein and dairy.</p>",
+          "url": "https://holyapostlesnyc.org/event/soup-kitchen-meal-service/2026-10-16/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-16 14:30:00",
+          "utc_end_date": "2026-10-16 16:30:00",
+          "venue": {
+            "venue": "The Church of the Holy Apostles",
+            "address": "296 9th Ave",
+            "city": "New York"
+          }
+        },
+        {
+          "id": 10009809,
+          "global_id": "holyapostlesnyc.org?id=10009809",
+          "title": "Fall Adult Education: Episcopalians 101",
+          "description": "<p><span style=\"color: #000000;\">What makes the Episcopal Church unique? What creates the rhythm of our worship? How do we make decisions? For an opportunity to discuss these questions and more, please join us for a five week Christian Education series on <strong>“Episcopalians 101.”</strong> We will convene on the <strong>second floor of the Mission House at 10 am on October 4, 11, 18, 25, and November 1</strong>. All are welcome to join the conversation!</span></p>\n<p style=\"text-align: center;\"><span style=\"color: #000000;\">October 4: Who We Are? (History), led by Mother Susan</span><br />\n<span style=\"color: #000000;\">October 11: What Do We Believe? (Catechism), led by Mother Anna</span><br />\n<span style=\"color: #000000;\">October 18: How Do We Worship? (BCP), led by Mother Susan</span><br />\n<span style=\"color: #000000;\">October 25: How Do We Make Decisions? (Polity), led by Mother Susan</span><br />\n<span style=\"color: #000000;\">November 1: How Do We Share the Good News? (Q &amp; A), led by Mother Anna</span><br />\n<span style=\"color: #000000;\">No Class Scheduled November 8 – November 29</span></p>\n<p><img decoding=\"async\" class=\"alignnone size-medium wp-image-252323 aligncenter\" src=\"https://holyapostlesnyc.org/wp-content/uploads/2026/09/Fall-Adult-Ed-20261-212x300.png\" alt=\"\" width=\"212\" height=\"300\" /></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+          "url": "https://holyapostlesnyc.org/event/fall-adult-education-episcopalians-101/2026-10-18/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-18 14:00:00",
+          "utc_end_date": "2026-10-18 14:45:00",
+          "venue": {
+            "venue": "The Church of the Holy Apostles",
+            "address": "296 9th Ave",
+            "city": "New York"
+          }
+        },
+        {
+          "id": 252328,
+          "global_id": "holyapostlesnyc.org?id=252328",
+          "title": "The Twenty-First Sunday after Pentecost &#8212; Holy Eucharist (with Music)",
+          "description": "<p><span style=\"color: #000000;\">We will gather in person for the <strong>celebration of the Holy Eucharist at 11 am</strong>. The live-stream of the service at this link: <span style=\"text-decoration: underline; color: #0000ff;\"><strong><a style=\"color: #0000ff; text-decoration: underline;\" href=\"https://3852-Church-of-the-Holy-Apostles.livecontrol.tv/b39e8f71\">https://3852-Church-of-the-Holy-Apostles.livecontrol.tv/b39e8f71</a></strong></span> &#8212; if you have tech troubles, contact <em>LiveControl</em> by clicking the <em>&#8220;Support Chat&#8221;</em> button at the bottom of the web player and you will be able to connect with a <em>LiveControl</em> support technician via text. Hospitality &amp; Fellowship and Sunday Supper Follow.</span></p>\n<p style=\"text-align: center;\"><span style=\"color: #000000;\">All are welcome as we gather in person together in our beloved church.</span><br />\n<em><span style=\"color: #000000;\">Holy Eucharist (with Music)</span></em><br />\n<span style=\"color: #000000;\">Lesson: Isaiah 45:1-7</span><br />\n<span style=\"color: #000000;\">Psalm: 96:1-9, (10-13)</span><br />\n<span style=\"color: #000000;\">Epistle: 1 Thessalonians 1:1-10</span><br />\n<span style=\"color: #000000;\">Gospel: Matthew 22:15-22</span><br />\n<em><span style=\"color: #000000;\">Hospitality &amp; Fellowship  &#8212; Then Sunday Supper Follows</span></em></p>\n<div id=\"attachment_252284\" style=\"width: 262px\" class=\"wp-caption aligncenter\"><img decoding=\"async\" aria-describedby=\"captio",
+          "url": "https://holyapostlesnyc.org/event/the-twenty-first-sunday-after-pentecost-holy-eucharist-with-music-5/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-18 15:00:00",
+          "utc_end_date": "2026-10-18 16:45:00",
+          "venue": {
+            "venue": "The Church of the Holy Apostles",
+            "address": "296 9th Ave",
+            "city": "New York"
+          }
+        }
+      ]
+    }
+  ]
+}

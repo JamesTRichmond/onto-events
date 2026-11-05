@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Philadelphia Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:flp-blackwell-west-philly-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:West Philly Community Storytime & Teen Tech Lab
+DESCRIPTION:Preschool reading circles, teen digital media workshops, and neighborhood cultural forums on 52nd Street.
+LOCATION:FLP Lucien E. Blackwell West Philadelphia Regional Library
+URL:https://libwww.freelibrary.org/locations/lucien-e-blackwell-west-philadelphia-regional-library
+END:VEVENT
+BEGIN:VEVENT
+UID:flp-blackwell-west-philly-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:West Philly Community Storytime & Teen Tech Lab (Session 2)
+DESCRIPTION:Preschool reading circles, teen digital media workshops, and neighborhood cultural forums on 52nd Street. Follow-up community session.
+LOCATION:FLP Lucien E. Blackwell West Philadelphia Regional Library
+URL:https://libwww.freelibrary.org/locations/lucien-e-blackwell-west-philadelphia-regional-library
+END:VEVENT
+END:VCALENDAR

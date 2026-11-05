@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//San Francisco Fixture//EN
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:sfpl-potrero-branch-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T180000Z
+DTEND:20261024T193000Z
+SUMMARY:Potrero Hill Family Art & Collage Studio
+DESCRIPTION:Hands-on mixed media collage and watercolor painting for children and caregivers.
+LOCATION:SFPL Potrero Branch Library
+URL:https://sfpl.org/locations/potrero
+END:VEVENT
+BEGIN:VEVENT
+UID:sfpl-potrero-branch-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Potrero Hill Local History & Architecture Forum
+DESCRIPTION:Historical presentation examining the industrial history and residential architecture of Potrero Hill.
+LOCATION:SFPL Potrero Branch Library
+URL:https://sfpl.org/locations/potrero
+END:VEVENT
+END:VCALENDAR

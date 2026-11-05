@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//fixture//EN
+BEGIN:VEVENT
+UID:vcal_12934-athletics.baruch.cuny.edu
+DTSTART:20261020T230000Z
+DTEND:20261021T010000Z
+SUMMARY:Women's Volleyball vs John Jay College
+LOCATION:ARC Arena
+URL:https://athletics.baruch.cuny.edu/calendar.aspx?game_id=12934&amp;sport_id=17
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12937-athletics.baruch.cuny.edu
+DTSTART:20261027T230000Z
+DTEND:20261028T010000Z
+SUMMARY:Women's Volleyball vs Medgar Evers College
+LOCATION:ARC Arena
+URL:https://athletics.baruch.cuny.edu/calendar.aspx?game_id=12937&amp;sport_id=17
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13013-athletics.baruch.cuny.edu
+DTSTART:20261111T230000Z
+DTEND:20261112T010000Z
+SUMMARY:Women's Basketball vs United States Merchant Marine Academy
+LOCATION:ARC Arena
+URL:https://athletics.baruch.cuny.edu/calendar.aspx?game_id=13013&amp;sport_id=11
+END:VEVENT
+END:VCALENDAR

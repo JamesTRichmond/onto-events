@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Pensacola Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:wfpl-westside-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Westside After-School Craft & Reading Lab
+DESCRIPTION:Hands-on art projects and guided reading enrichment for elementary and middle school students.
+LOCATION:WFPL Westside Branch Library
+URL:https://mywfpl.com/locations/westside
+END:VEVENT
+BEGIN:VEVENT
+UID:wfpl-westside-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:West Gregory Digital Literacy Workshop
+DESCRIPTION:Open community computer skills and resume building clinic at Westside Branch Library.
+LOCATION:WFPL Westside Branch Library
+URL:https://mywfpl.com/locations/westside
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Philadelphia Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:barnes-foundation-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Impressionist Gallery Walk & Visual Harmony Talk
+DESCRIPTION:Ensemble art collection tour highlighting Renoir, Cezanne, Matisse, and African sculpture in Parkway galleries.
+LOCATION:Barnes Foundation
+URL:https://www.barnesfoundation.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:barnes-foundation-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Impressionist Gallery Walk & Visual Harmony Talk (Session 2)
+DESCRIPTION:Ensemble art collection tour highlighting Renoir, Cezanne, Matisse, and African sculpture in Parkway galleries. Follow-up community session.
+LOCATION:Barnes Foundation
+URL:https://www.barnesfoundation.org/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Miami-Dade Public Library System//NONSGML Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MDPLS Main Library Events
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:mdpls-main-20261016-storytime@mdpls.org
+DTSTAMP:20261015T000000Z
+DTSTART:20261016T140000Z
+DTEND:20261016T150000Z
+SUMMARY:Family Storytime and Creative Play
+DESCRIPTION:Join us for interactive stories\, rhymes\, and playful learning activities designed for young children and their families. All ages welcome.
+LOCATION:Miami-Dade Public Library Main Library
+URL:https://www.mdpls.org/events/family-storytime-main
+CATEGORIES:Children & Family
+END:VEVENT
+BEGIN:VEVENT
+UID:mdpls-main-20261017-digital-makers@mdpls.org
+DTSTAMP:20261015T000000Z
+DTSTART:20261017T180000Z
+DTEND:20261017T193000Z
+SUMMARY:Digital Media Lab: Community Makers Workshop
+DESCRIPTION:Explore 3D design and digital creative tools in the YOUmedia community lab at the Main Library. Open to youth and curious makers.
+LOCATION:Miami-Dade Public Library Main Library
+URL:https://www.mdpls.org/events/digital-makers-workshop
+CATEGORIES:Learning & Tech
+END:VEVENT
+BEGIN:VEVENT
+UID:mdpls-main-20261020-art-exhibition-talk@mdpls.org
+DTSTAMP:20261015T000000Z
+DTSTART:20261020T220000Z
+DTEND:20261020T233000Z
+SUMMARY:Florida Art & Architecture: Civic Gallery Talk
+DESCRIPTION:Join local curators and artists for a discussion on South Florida modernist architecture and public art in Miami.
+LOCATION:Miami-Dade Public Library Main Library
+URL:https://www.mdpls.org/events/florida-art-architecture-talk
+CATEGORIES:Arts & Culture
+END:VEVENT
+END:VCALENDAR

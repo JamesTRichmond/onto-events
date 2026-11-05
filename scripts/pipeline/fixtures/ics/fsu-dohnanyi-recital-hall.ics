@@ -1,0 +1,351 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Calendar - Dohnányi Recital Hall (DRH)
+X-WR-TIMEZONE:Eastern Time (US & Canada)
+BEGIN:VEVENT
+DTSTAMP:20261015T234804Z
+UID:tag:localist.com\,2008:EventInstance_53874442438344
+DTSTART:20261015T233000Z
+DTEND:20261016T010000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3327753/occurrences/8265680
+GEO:30.442919;-84.291391
+LOCATION:Dohnányi Recital Hall (DRH)
+SUMMARY:Junior Recital of Bryden Reeves\, piano
+URL;VALUE=URI:https://calendar.fsu.edu/event/junior-recital-of-bryden-reeves-piano
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234804Z
+UID:tag:localist.com\,2008:EventInstance_53856744897558
+DTSTART:20261017T180000Z
+DTEND:20261017T193000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3324811/occurrences/8252624
+GEO:30.442919;-84.291391
+LOCATION:Dohnányi Recital Hall (DRH)
+SUMMARY:Senior Recital of Mr Landon Tenney Ellenberg\, trombone
+URL;VALUE=URI:https://calendar.fsu.edu/event/senior-recital-of-mr-landon-tenney-ellenberg-trombone
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234804Z
+UID:tag:localist.com\,2008:EventInstance_53874441935516
+DTSTART:20261019T233000Z
+DTEND:20261020T013000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3327997/occurrences/8267973
+GEO:30.442919;-84.291391
+LOCATION:Dohnányi Recital Hall (DRH)
+SUMMARY:Canceled: Doctoral Solo Recital of Jenna Lynn Eschner\, clarinet
+URL;VALUE=URI:https://calendar.fsu.edu/event/doctoral-solo-recital-of-jenna-lynn-eschner-clarinet-4571
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234804Z
+UID:tag:localist.com\,2008:EventInstance_52821557662413
+DTSTART:20261020T233000Z
+DTEND:20261021T003000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3264167/occurrences/7904602
+GEO:30.442919;-84.291391
+LOCATION:Dohnányi Recital Hall (DRH)
+SUMMARY:Jazz Combo Performance (2 of 5)
+URL;VALUE=URI:https://calendar.fsu.edu/event/jazz-combo-performance-2-of-5-6622
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234804Z
+UID:tag:localist.com\,2008:EventInstance_53370074915851
+DTSTART:20261021T233000Z
+DTEND:20261022T003000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3281384/occurrences/7976619
+GEO:30.442919;-84.291391
+LOCATION:Dohnányi Recital Hall (DRH)
+SUMMARY:Tuba/Euphonium Studio Recital
+URL;VALUE=URI:https://calendar.fsu.edu/event/tubaeuphonium-studio-recital
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234804Z
+UID:tag:localist.com\,2008:EventInstance_53370074935314
+DTSTART:20261022T233000Z
+DTEND:20261023T003000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3281386/occurrences/7976629
+GEO:30.442919;-84.291391
+LOCATION:Dohnányi Recital Hall (DRH)
+SUMMARY:Tuba/Euphonium Studio Recital (2/2)
+URL;VALUE=URI:https://calendar.fsu.edu/event/tubaeuphonium-studio-recital-22
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234804Z
+UID:tag:localist.com\,2008:EventInstance_53547042248690
+DTSTART:20261023T233000Z
+DTEND:20261024T003000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3295285/occurrences/8047864
+GEO:30.442919;-84.291391
+LOCATION:Dohnányi Recital Hall (DRH)
+SUMMARY:Guest Artist Recital of Alex Horton\, double bass
+URL;VALUE=URI:https://calendar.fsu.edu/event/guest-artist-recital-of-alex-horton-double-bass
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234804Z
+UID:tag:localist.com\,2008:EventInstance_53759411573491
+DTSTART:20261024T140000Z
+DTEND:20261024T150000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3316719/occurrences/8197906
+GEO:30.442919;-84.291391
+LOCATION:Dohnányi Recital Hall (DRH)
+SUMMARY:FSU Saxophone Day: Guest Artist Masterclass - Valentin Michaud\, saxophone
+URL;VALUE=URI:https://calendar.fsu.edu/event/guest-artist-masterclass-valentin-michaud-saxophone
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234804Z
+UID:tag:localist.com\,2008:EventInstance_53759411441373
+DTSTART:20261024T150000Z
+DTEND:20261024T160000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3316720/occurrences/8197907
+GEO:30.442919;-84.291391
+LOCATION:Dohnányi Recital Hall (DRH)
+SUMMARY:FSU Saxophone Day: Discussion on Creativity
+URL;VALUE=URI:https://calendar.fsu.edu/event/sax-day-discussion-on-creativity
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234804Z
+UID:tag:localist.com\,2008:EventInstance_53759411462883
+DTSTART:20261024T173000Z
+DTEND:20261024T183000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3316723/occurrences/8197910
+GEO:30.442919;-84.291391
+LOCATION:Dohnányi Recital Hall (DRH)
+SUMMARY:FSU Saxophone Day: Guest Artist Masterclass - Charles Pillow\, saxophone
+URL;VALUE=URI:https://calendar.fsu.edu/event/guest-artist-masterclass-charles-pillow-saxophone
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234804Z
+UID:tag:localist.com\,2008:EventInstance_53759411481321
+DTSTART:20261024T183000Z
+DTEND:20261024T193000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3316726/occurrences/8197921
+GEO:30.442919;-84.291391
+LOCATION:Dohnányi Recital Hall (DRH)
+SUMMARY:FSU Saxophone Day: FSU Supersax Ensemble featuring Charles Pillow\, saxophone
+URL;VALUE=URI:https://calendar.fsu.edu/event/fsu-supersax-ensemble-featuring-charles-pillow-saxophone
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234804Z
+UID:tag:localist.com\,2008:EventInstance_53874441242186
+DTSTART:20261024T233000Z
+DTEND:20261025T013000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3327795/occurrences/8265880
+GEO:30.442919;-84.291391
+LOCATION:Dohnányi Recital Hall (DRH)
+SUMMARY:Junior Recital of Waylon Bryce Hansel\, percussion
+URL;VALUE=URI:https://calendar.fsu.edu/event/junior-recital-of-waylon-bryce-hansel-percussion
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234804Z
+UID:tag:localist.com\,2008:EventInstance_52821557689044
+DTSTART:20261025T233000Z
+DTEND:20261026T003000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3264168/occurrences/7904603
+GEO:30.442919;-84.291391
+LOCATION:Dohnányi Recital Hall (DRH)
+SUMMARY:Jazz Combo Performance (3 of 5)
+URL;VALUE=URI:https://calendar.fsu.edu/event/jazz-combo-performance-3-of-5-7924
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234804Z
+UID:tag:localist.com\,2008:EventInstance_53025044243732
+DTSTART:20261028T233000Z
+DTEND:20261029T010000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3273146/occurrences/7937042
+GEO:30.442919;-84.291391
+LOCATION:Dohnányi Recital Hall (DRH)
+SUMMARY:Guest Artist Recital - Molly Barth\, flute
+URL;VALUE=URI:https://calendar.fsu.edu/event/guest-artist-recital-flute-studio-artist-tbd-7225
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234804Z
+UID:tag:localist.com\,2008:EventInstance_53697457678371
+DTSTART:20261029T200000Z
+DTEND:20261029T220000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3273147/occurrences/7937043
+GEO:30.442919;-84.291391
+LOCATION:Dohnányi Recital Hall (DRH)
+SUMMARY:Guest Artist Masterclass - Molly Barth\, flute
+URL;VALUE=URI:https://calendar.fsu.edu/event/guest-artist-masterclass-molly-barth-flute-5062
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234804Z
+UID:tag:localist.com\,2008:EventInstance_53856745463921
+DTSTART:20261029T233000Z
+DTEND:20261030T010000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3325088/occurrences/8253974
+GEO:30.442919;-84.291391
+LOCATION:Dohnányi Recital Hall (DRH)
+SUMMARY:Senior Project Recital of Noah Gray Bryant\, tuba
+URL;VALUE=URI:https://calendar.fsu.edu/event/senior-project-recital-of-noah-gray-bryant-tuba
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234804Z
+UID:tag:localist.com\,2008:EventInstance_53856745191483
+DTSTART:20261030T233000Z
+DTEND:20261031T010000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3324662/occurrences/8252055
+GEO:30.442919;-84.291391
+LOCATION:Dohnányi Recital Hall (DRH)
+SUMMARY:Senior Recital of Kris Stottlemire\, euphonium
+URL;VALUE=URI:https://calendar.fsu.edu/event/senior-recital-of-kris-stottlemire-euphonium
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234804Z
+UID:tag:localist.com\,2008:EventInstance_53989476011732
+DTSTART:20261102T003000Z
+DTEND:20261102T023000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3334772/occurrences/8307373
+GEO:30.442919;-84.291391
+LOCATION:Dohnányi Recital Hall (DRH)
+SUMMARY:Master's Solo Recital of Gracee Anastyn Myers\, oboe
+URL;VALUE=URI:https://calendar.fsu.edu/event/masters-solo-recital-of-gracee-anastyn-myers-oboe
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234804Z
+UID:tag:localist.com\,2008:EventInstance_53794797032199
+DTSTART:20261103T003000Z
+DTEND:20261103T020000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3319156/occurrences/8215495
+GEO:30.442919;-84.291391
+LOCATION:Dohnányi Recital Hall (DRH)
+SUMMARY:Doctoral Solo Recital of Charlotte MacDonald\, clarinet
+URL;VALUE=URI:https://calendar.fsu.edu/event/doctoral-solo-recital-of-charlotte-macdonald-clarinet
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234804Z
+UID:tag:localist.com\,2008:EventInstance_52281906209975
+DTSTART;VALUE=DATE:20261103
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3246173/occurrences/7836936
+GEO:30.442919;-84.291391
+LOCATION:Dohnányi Recital Hall (DRH)
+SUMMARY:Early Music & ModernMedieval Hold
+URL;VALUE=URI:https://calendar.fsu.edu/event/early-music-modernmedieval-hold
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234804Z
+UID:tag:localist.com\,2008:EventInstance_53688595562747
+DTSTART:20261103T220000Z
+DTEND:20261104T000000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3309328/occurrences/8147180
+GEO:30.442919;-84.291391
+LOCATION:Dohnányi Recital Hall (DRH)
+SUMMARY:Early Music Ensemble Concert
+URL;VALUE=URI:https://calendar.fsu.edu/event/early-music-ensemble-concert
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Ensemble
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234804Z
+UID:tag:localist.com\,2008:EventInstance_53759411691704
+DTSTART:20261105T003000Z
+DTEND:20261105T020000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3308533/occurrences/8140280
+GEO:30.442919;-84.291391
+LOCATION:Dohnányi Recital Hall (DRH)
+SUMMARY:Saxophone Studio Recital
+URL;VALUE=URI:https://calendar.fsu.edu/event/saxophone-studio-recital-9003
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234804Z
+UID:tag:localist.com\,2008:EventInstance_53502797110957
+DTSTART:20261106T003000Z
+DTEND:20261106T023000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3030101/occurrences/7128287
+GEO:30.442919;-84.291391
+LOCATION:Dohnányi Recital Hall (DRH)
+SUMMARY:Polymorphia
+URL;VALUE=URI:https://calendar.fsu.edu/event/polymorphia
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Ensemble
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234804Z
+UID:tag:localist.com\,2008:EventInstance_53954071286910
+DTSTART:20261106T220000Z
+DTEND:20261106T230000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3327222/occurrences/8262424
+GEO:30.442919;-84.291391
+LOCATION:Dohnányi Recital Hall (DRH)
+SUMMARY:Doctoral Lecture Recital of Anthony Rene Gonzalez\, tuba
+URL;VALUE=URI:https://calendar.fsu.edu/event/doctoral-lecture-recital-of-anthony-rene-gonzalez-tuba
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234804Z
+UID:tag:localist.com\,2008:EventInstance_53856744855560
+DTSTART:20261107T003000Z
+DTEND:20261107T020000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3324671/occurrences/8252068
+GEO:30.442919;-84.291391
+LOCATION:Dohnányi Recital Hall (DRH)
+SUMMARY:Senior Recital of Jonathan Paul Taylor\, viola
+URL;VALUE=URI:https://calendar.fsu.edu/event/senior-recital-of-jonathan-paul-taylor-viola
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+END:VCALENDAR

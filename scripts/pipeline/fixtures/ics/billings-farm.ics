@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Billings Farm and Museum//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Billings Farm and Museum Programs
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+DTSTART:20261101T201500Z
+DTEND:20261101T214500Z
+DTSTAMP:20261020T180000Z
+UID:billings-milking-20261101@billingsfarm.org
+SUMMARY:Daily Milking & Heritage Dairy Discovery
+DESCRIPTION:Meet the famous Jersey herd\, observe afternoon cow milking in the historic dairy barn\, and learn about sustainable Vermont dairy traditions from the education crew.
+LOCATION:Billings Farm & Museum
+STATUS:CONFIRMED
+URL:https://billingsfarm.org/events/
+CATEGORIES:Farm Programs
+END:VEVENT
+END:VCALENDAR

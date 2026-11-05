@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:cpl-little-italy-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Taylor Street Family STEAM Builders Afternoon
+DESCRIPTION:Hands-on science experiments, circuitry exploration, and interactive storytelling for youth on Taylor Street.
+LOCATION:CPL Little Italy Branch Library
+URL:https://www.chipublib.org/locations/81/
+END:VEVENT
+BEGIN:VEVENT
+UID:cpl-little-italy-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Little Italy Neighborhood Heritage & Book Club
+DESCRIPTION:Community reading and historical dialogue exploring Chicago West Side immigrant communities.
+LOCATION:CPL Little Italy Branch Library
+URL:https://www.chipublib.org/locations/81/
+END:VEVENT
+END:VCALENDAR

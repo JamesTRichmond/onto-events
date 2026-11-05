@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Los Angeles Fixture//EN
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:lapl-west-los-angeles-event-1@onto.events
+DTSTAMP:20261018T120000Z
+DTSTART:20261024T180000Z
+DTEND:20261024T193000Z
+SUMMARY:LAPL West Los Angeles Regional Branch Library Community Showcase
+DESCRIPTION:Westside regional library hosting community book clubs, digital learning labs, and youth tutoring.
+LOCATION:LAPL West Los Angeles Regional Branch Library
+URL:https://www.lapl.org/branches/west-los-angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:lapl-west-los-angeles-event-2@onto.events
+DTSTAMP:20261018T120000Z
+DTSTART:20261028T010000Z
+DTEND:20261028T023000Z
+SUMMARY:LAPL West Los Angeles Regional Branch Library Evening Arts & Discussion
+DESCRIPTION:Evening public program and cultural discussion at LAPL West Los Angeles Regional Branch Library.
+LOCATION:LAPL West Los Angeles Regional Branch Library
+URL:https://www.lapl.org/branches/west-los-angeles
+END:VEVENT
+END:VCALENDAR

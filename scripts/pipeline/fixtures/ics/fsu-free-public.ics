@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FSU Free to the Public Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FSU Free to the Public Events
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T020000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T020000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:fsu-free-001@calendar.fsu.edu
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260922T170000
+DTEND;TZID=America/New_York:20260922T183000
+SUMMARY:FSU Faculty Lecture: Climate Science in the Panhandle
+DESCRIPTION:Distinguished scholars examine coastal resilience and climate research across North Florida. Free and open to the public.
+LOCATION:Ruby Diamond Concert Hall (RDCH)
+URL:https://calendar.fsu.edu/event/climate-science-panhandle
+CATEGORIES:learning,community
+END:VEVENT
+BEGIN:VEVENT
+UID:fsu-free-002@calendar.fsu.edu
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20261006T140000
+DTEND;TZID=America/New_York:20261006T160000
+SUMMARY:FSU Innovation Hub Open Workshop: 3D Printing & Design
+DESCRIPTION:Learn rapid prototyping\, 3D modeling\, and digital fabrication in this free public community workshop.
+LOCATION:Askew Student Life Center
+URL:https://calendar.fsu.edu/event/innovation-workshop-3d-printing
+CATEGORIES:learning,community
+END:VEVENT
+BEGIN:VEVENT
+UID:fsu-free-003@calendar.fsu.edu
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20261020T190000
+DTEND;TZID=America/New_York:20261020T203000
+SUMMARY:FSU Campus Community Choral Sing-Along
+DESCRIPTION:Community choral gathering bringing together campus voices and local residents for an evening of shared song.
+LOCATION:Opperman Music Hall (OMH)
+URL:https://calendar.fsu.edu/event/community-choral-sing
+CATEGORIES:music,community
+END:VEVENT
+END:VCALENDAR

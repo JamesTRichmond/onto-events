@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:cpl-albany-park-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Albany Park Global Voices Family Storytime
+DESCRIPTION:Multilingual storybooks and cultural folk tales for children and families in the Northwest Side community room.
+LOCATION:CPL Albany Park Branch Library
+URL:https://www.chipublib.org/locations/2/
+END:VEVENT
+BEGIN:VEVENT
+UID:cpl-albany-park-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Albany Park Community ESL & Conversation Circle
+DESCRIPTION:Friendly, informal language exchange and community conversation for adult English learners.
+LOCATION:CPL Albany Park Branch Library
+URL:https://www.chipublib.org/locations/2/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,233 @@
+{
+  "capturedAt": "2026-10-08T04:58:55.880Z",
+  "evidence": "Real public capture, selected occurrences. Prose, contacts and producer metadata omitted; no dates rewritten. Fixture counts are not live supply.",
+  "pages": [
+    {
+      "total_pages": 1,
+      "total": 13,
+      "events": [
+        {
+          "id": 10022680,
+          "global_id": "kellogghubbard.org?id=10022680",
+          "title": "Storytime",
+          "url": "https://kellogghubbard.org/calendar/storytime-6/2026-10-08/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-10-08 10:30:00",
+          "end_date": "2026-10-08 11:00:00",
+          "utc_start_date": "2026-10-08 14:30:00",
+          "utc_end_date": "2026-10-08 15:00:00",
+          "timezone": "America/New_York",
+          "description": "",
+          "venue": {
+            "venue": "Kellogg-Hubbard Library"
+          }
+        },
+        {
+          "id": 10014199,
+          "global_id": "kellogghubbard.org?id=10014199",
+          "title": "Language Lounge: French",
+          "url": "https://kellogghubbard.org/calendar/language-lounge-french/2026-10-08/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-10-08 12:00:00",
+          "end_date": "2026-10-08 13:00:00",
+          "utc_start_date": "2026-10-08 16:00:00",
+          "utc_end_date": "2026-10-08 17:00:00",
+          "timezone": "America/New_York",
+          "description": "",
+          "venue": {
+            "venue": "Kellogg-Hubbard Library"
+          }
+        },
+        {
+          "id": 10017490,
+          "global_id": "kellogghubbard.org?id=10017490",
+          "title": "Basement Teen Center",
+          "url": "https://kellogghubbard.org/calendar/basement-teen-center-5-2/2026-10-08/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-10-08 14:00:00",
+          "end_date": "2026-10-08 20:00:00",
+          "utc_start_date": "2026-10-08 18:00:00",
+          "utc_end_date": "2026-10-09 00:00:00",
+          "timezone": "America/New_York",
+          "description": "",
+          "venue": {
+            "venue": "Kellogg-Hubbard Library"
+          }
+        },
+        {
+          "id": 10021021,
+          "global_id": "kellogghubbard.org?id=10021021",
+          "title": "After School Strategy Games",
+          "url": "https://kellogghubbard.org/calendar/after-school-strategy-games/2026-10-08/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-10-08 15:00:00",
+          "end_date": "2026-10-08 17:00:00",
+          "utc_start_date": "2026-10-08 19:00:00",
+          "utc_end_date": "2026-10-08 21:00:00",
+          "timezone": "America/New_York",
+          "description": "",
+          "venue": {
+            "venue": "Kellogg-Hubbard Library"
+          }
+        },
+        {
+          "id": 10008564,
+          "global_id": "kellogghubbard.org?id=10008564",
+          "title": "Language Lounge: English",
+          "url": "https://kellogghubbard.org/calendar/language-lounge-english/2026-10-09/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-10-09 12:00:00",
+          "end_date": "2026-10-09 13:00:00",
+          "utc_start_date": "2026-10-09 16:00:00",
+          "utc_end_date": "2026-10-09 17:00:00",
+          "timezone": "America/New_York",
+          "description": "",
+          "venue": {
+            "venue": "Kellogg-Hubbard Library"
+          }
+        },
+        {
+          "id": 17427,
+          "global_id": "kellogghubbard.org?id=17427",
+          "title": "Basement Teen Center",
+          "url": "https://kellogghubbard.org/calendar/basement-teen-center-2-5/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-10-09 14:00:00",
+          "end_date": "2026-10-09 18:00:00",
+          "utc_start_date": "2026-10-09 18:00:00",
+          "utc_end_date": "2026-10-09 22:00:00",
+          "timezone": "America/New_York",
+          "description": "",
+          "venue": {
+            "venue": "Kellogg-Hubbard Library"
+          }
+        },
+        {
+          "id": 10022061,
+          "global_id": "kellogghubbard.org?id=10022061",
+          "title": "After School A La Cart(e)",
+          "url": "https://kellogghubbard.org/calendar/after-school-fiber-arts-2/2026-10-09/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-10-09 15:00:00",
+          "end_date": "2026-10-09 17:00:00",
+          "utc_start_date": "2026-10-09 19:00:00",
+          "utc_end_date": "2026-10-09 21:00:00",
+          "timezone": "America/New_York",
+          "description": "",
+          "venue": {
+            "venue": "Kellogg-Hubbard Library"
+          }
+        },
+        {
+          "id": 10018150,
+          "global_id": "kellogghubbard.org?id=10018150",
+          "title": "Teddy the Therapy Dog",
+          "url": "https://kellogghubbard.org/calendar/teddy-the-therapy-dog-4/2026-10-09/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-10-09 15:30:00",
+          "end_date": "2026-10-09 16:30:00",
+          "utc_start_date": "2026-10-09 19:30:00",
+          "utc_end_date": "2026-10-09 20:30:00",
+          "timezone": "America/New_York",
+          "description": "",
+          "venue": {
+            "venue": "Kellogg-Hubbard Library"
+          }
+        },
+        {
+          "id": 10005848,
+          "global_id": "kellogghubbard.org?id=10005848",
+          "title": "Write Now!",
+          "url": "https://kellogghubbard.org/calendar/write-now-3-2/2026-10-10/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-10-10 10:00:00",
+          "end_date": "2026-10-10 12:00:00",
+          "utc_start_date": "2026-10-10 14:00:00",
+          "utc_end_date": "2026-10-10 16:00:00",
+          "timezone": "America/New_York",
+          "description": "",
+          "venue": {
+            "venue": "Kellogg-Hubbard Library"
+          }
+        },
+        {
+          "id": 10013905,
+          "global_id": "kellogghubbard.org?id=10013905",
+          "title": "Language Lounge: German",
+          "url": "https://kellogghubbard.org/calendar/language-lounge-german/2026-11-02/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-11-02 12:00:00",
+          "end_date": "2026-11-02 13:00:00",
+          "utc_start_date": "2026-11-02 17:00:00",
+          "utc_end_date": "2026-11-02 18:00:00",
+          "timezone": "America/New_York",
+          "description": "",
+          "venue": {
+            "venue": "Kellogg-Hubbard Library"
+          }
+        },
+        {
+          "id": 8496,
+          "global_id": "kellogghubbard.org?id=8496",
+          "title": "Library Closed",
+          "url": "https://kellogghubbard.org/calendar/library-closed-23/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "start_date": "2026-10-12 00:00:00",
+          "end_date": "2026-10-12 23:59:59",
+          "utc_start_date": "2026-10-12 04:00:00",
+          "utc_end_date": "2026-10-13 03:59:59",
+          "timezone": "America/New_York",
+          "description": "",
+          "venue": {
+            "venue": "Kellogg-Hubbard Library"
+          }
+        },
+        {
+          "id": 10014934,
+          "global_id": "kellogghubbard.org?id=10014934",
+          "title": "Library Open 12PM-8PM Today",
+          "url": "https://kellogghubbard.org/calendar/library-open-12pm-8pm-today-2-2/2026-11-04/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-11-04 12:00:00",
+          "end_date": "2026-11-04 12:00:00",
+          "utc_start_date": "2026-11-04 17:00:00",
+          "utc_end_date": "2026-11-04 17:00:00",
+          "timezone": "America/New_York",
+          "description": "",
+          "venue": {
+            "venue": "Kellogg-Hubbard Library"
+          }
+        },
+        {
+          "id": 10017983,
+          "global_id": "kellogghubbard.org?id=10017983",
+          "title": "Storytime at the Gary Residence",
+          "url": "https://kellogghubbard.org/calendar/storytime-at-the-gary-residence/2026-11-05/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-11-05 10:30:00",
+          "end_date": "2026-11-05 11:00:00",
+          "utc_start_date": "2026-11-05 15:30:00",
+          "utc_end_date": "2026-11-05 16:00:00",
+          "timezone": "America/New_York",
+          "description": "",
+          "venue": {
+            "venue": "Gary Residence"
+          }
+        }
+      ]
+    }
+  ]
+}

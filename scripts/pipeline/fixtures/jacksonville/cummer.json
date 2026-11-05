@@ -1,0 +1,174 @@
+{
+  "pages": [
+    {
+      "events": [
+        {
+          "id": 3881,
+          "global_id": "www.cummermuseum.org?id=3881",
+          "title": "Ghoulish Gallery &#038; Garden Night",
+          "url": "https://www.cummermuseum.org/event/ghoulish-gallery-garden-night-october-15-2026/",
+          "start_date": "2026-10-15 17:00:00",
+          "end_date": "2026-10-15 20:00:00",
+          "utc_start_date": "2026-10-15 21:00:00",
+          "utc_end_date": "2026-10-16 00:00:00",
+          "timezone": "America/New_York",
+          "all_day": false,
+          "hide_from_listings": false,
+          "categories": [
+            {
+              "name": "Children &amp; Families",
+              "slug": "children-families",
+              "term_group": 0,
+              "term_taxonomy_id": 43,
+              "taxonomy": "tribe_events_cat",
+              "description": "",
+              "parent": 0,
+              "count": 81,
+              "filter": "raw",
+              "id": 43,
+              "urls": {
+                "self": "https://www.cummermuseum.org/wp-json/tribe/events/v1/categories/43",
+                "collection": "https://www.cummermuseum.org/wp-json/tribe/events/v1/categories"
+              }
+            },
+            {
+              "name": "Events &amp; Festivals",
+              "slug": "events-festivals",
+              "term_group": 0,
+              "term_taxonomy_id": 40,
+              "taxonomy": "tribe_events_cat",
+              "description": "",
+              "parent": 0,
+              "count": 56,
+              "filter": "raw",
+              "id": 40,
+              "urls": {
+                "self": "https://www.cummermuseum.org/wp-json/tribe/events/v1/categories/40",
+                "collection": "https://www.cummermuseum.org/wp-json/tribe/events/v1/categories"
+              }
+            }
+          ],
+          "venue": [],
+          "description": ""
+        },
+        {
+          "id": 3832,
+          "global_id": "www.cummermuseum.org?id=3832",
+          "title": "Artful Storytime: Fall in the Gardens",
+          "url": "https://www.cummermuseum.org/event/artful-storytime-fall-in-the-gardens-october-21-2026/",
+          "start_date": "2026-10-21 11:15:00",
+          "end_date": "2026-10-21 12:15:00",
+          "utc_start_date": "2026-10-21 15:15:00",
+          "utc_end_date": "2026-10-21 16:15:00",
+          "timezone": "America/New_York",
+          "all_day": false,
+          "hide_from_listings": false,
+          "categories": [
+            {
+              "name": "Children &amp; Families",
+              "slug": "children-families",
+              "term_group": 0,
+              "term_taxonomy_id": 43,
+              "taxonomy": "tribe_events_cat",
+              "description": "",
+              "parent": 0,
+              "count": 81,
+              "filter": "raw",
+              "id": 43,
+              "urls": {
+                "self": "https://www.cummermuseum.org/wp-json/tribe/events/v1/categories/43",
+                "collection": "https://www.cummermuseum.org/wp-json/tribe/events/v1/categories"
+              }
+            },
+            {
+              "name": "Classes &amp; Workshops",
+              "slug": "classes-workshops",
+              "term_group": 0,
+              "term_taxonomy_id": 41,
+              "taxonomy": "tribe_events_cat",
+              "description": "",
+              "parent": 0,
+              "count": 99,
+              "filter": "raw",
+              "id": 41,
+              "urls": {
+                "self": "https://www.cummermuseum.org/wp-json/tribe/events/v1/categories/41",
+                "collection": "https://www.cummermuseum.org/wp-json/tribe/events/v1/categories"
+              }
+            }
+          ],
+          "venue": [],
+          "description": ""
+        },
+        {
+          "id": 3772,
+          "global_id": "www.cummermuseum.org?id=3772",
+          "title": "Yoga for All",
+          "url": "https://www.cummermuseum.org/event/yoga-for-all-november-1-2026/",
+          "start_date": "2026-11-01 11:00:00",
+          "end_date": "2026-11-01 12:00:00",
+          "utc_start_date": "2026-11-01 16:00:00",
+          "utc_end_date": "2026-11-01 17:00:00",
+          "timezone": "America/New_York",
+          "all_day": false,
+          "hide_from_listings": false,
+          "categories": [
+            {
+              "name": "Children &amp; Families",
+              "slug": "children-families",
+              "term_group": 0,
+              "term_taxonomy_id": 43,
+              "taxonomy": "tribe_events_cat",
+              "description": "",
+              "parent": 0,
+              "count": 81,
+              "filter": "raw",
+              "id": 43,
+              "urls": {
+                "self": "https://www.cummermuseum.org/wp-json/tribe/events/v1/categories/43",
+                "collection": "https://www.cummermuseum.org/wp-json/tribe/events/v1/categories"
+              }
+            },
+            {
+              "name": "Classes &amp; Workshops",
+              "slug": "classes-workshops",
+              "term_group": 0,
+              "term_taxonomy_id": 41,
+              "taxonomy": "tribe_events_cat",
+              "description": "",
+              "parent": 0,
+              "count": 99,
+              "filter": "raw",
+              "id": 41,
+              "urls": {
+                "self": "https://www.cummermuseum.org/wp-json/tribe/events/v1/categories/41",
+                "collection": "https://www.cummermuseum.org/wp-json/tribe/events/v1/categories"
+              }
+            },
+            {
+              "name": "Well-Being",
+              "slug": "well-being",
+              "term_group": 0,
+              "term_taxonomy_id": 47,
+              "taxonomy": "tribe_events_cat",
+              "description": "",
+              "parent": 0,
+              "count": 18,
+              "filter": "raw",
+              "id": 47,
+              "urls": {
+                "self": "https://www.cummermuseum.org/wp-json/tribe/events/v1/categories/47",
+                "collection": "https://www.cummermuseum.org/wp-json/tribe/events/v1/categories"
+              }
+            }
+          ],
+          "venue": [],
+          "description": ""
+        }
+      ],
+      "rest_url": "https://www.cummermuseum.org/wp-json/tribe/events/v1/events/?page=1&per_page=50&start_date=2026-10-15 00:00:00&end_date=2026-12-14 23:59:59&status=publish",
+      "total": 38,
+      "total_pages": 1
+    }
+  ]
+}

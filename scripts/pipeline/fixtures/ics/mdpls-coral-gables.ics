@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Miami-Dade Public Library System//NONSGML Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MDPLS Coral Gables Branch Library Events
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:mdpls-cg-20261016-bilingual@mdpls.org
+DTSTAMP:20261015T000000Z
+DTSTART:20261016T143000Z
+DTEND:20261016T153000Z
+SUMMARY:Bilingual Storytime: Cuentos y Canciones
+DESCRIPTION:Spanish and English bilingual children story hour with songs.
+LOCATION:Coral Gables Branch Library
+URL:https://www.mdpls.org/events/cg-bilingual
+CATEGORIES:Children & Family
+END:VEVENT
+BEGIN:VEVENT
+UID:mdpls-cg-20261019-architecture@mdpls.org
+DTSTAMP:20261015T000000Z
+DTSTART:20261019T180000Z
+DTEND:20261019T193000Z
+SUMMARY:Architectural History of the City Beautiful
+DESCRIPTION:Local historian presentation on George Merrick historic Coral Gables.
+LOCATION:Coral Gables Branch Library
+URL:https://www.mdpls.org/events/cg-architecture
+CATEGORIES:Arts & Culture
+END:VEVENT
+END:VCALENDAR

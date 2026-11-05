@@ -1,0 +1,651 @@
+{
+  "capture": {
+    "evaluationClock": "2026-10-16T17:34:57.536Z",
+    "checkedOn": "2026-10-16",
+    "notes": "All21real dated events and full consumedprose/cost metadata; author/media/contact metadata omitted. No dates, clocks, venue addresses or price fields invented."
+  },
+  "pages": [
+    {
+      "events": [
+        {
+          "id": 10001193,
+          "global_id": "www.pjcvt.org?id=10001193",
+          "title": "Mini Clean Up Crew at City Hall Park",
+          "description": "<p>Join us for the Mini Clean Up Crew in City Hall Park! Every Tuesday at 8am, we meet at the City Hall steps in City Hall Park and clean up our downtown park. This is a shorter clean up than the Thursday one, it only takes a half hour or less! Perfect if Thursdays are too long or otherwise don&#8217;t work for you. We look forward to seeing you on Tuesdays! </p>",
+          "url": "https://www.pjcvt.org/event/mini-clean-up-crew-at-city-hall-park/2026-10-20/",
+          "all_day": false,
+          "utc_start_date": "2026-10-20 12:00:00",
+          "utc_end_date": "2026-10-20 12:30:00",
+          "cost": "Free",
+          "cost_details": {
+            "currency_symbol": "$",
+            "currency_code": "USD",
+            "currency_position": "prefix",
+            "values": [
+              "0"
+            ]
+          },
+          "hide_from_listings": false,
+          "venue": {
+            "venue": "Burlington City Hall Park",
+            "address": "149 Church Street",
+            "city": "Burlington",
+            "province": "Vermont",
+            "zip": "05401",
+            "country": "United States"
+          },
+          "categories": []
+        },
+        {
+          "id": 10000576,
+          "global_id": "www.pjcvt.org?id=10000576",
+          "title": "BTV Clean Up Crew",
+          "description": "<p>Come help us clean up Burlington! We&#8217;ll clean up needles, trash, and ensure our community remains as beautiful and welcoming as we all know it to be. Meet at the top of Church St outside Kru Coffee every Thursday morning at 7:30am! Bring gloves if you can!</p>",
+          "url": "https://www.pjcvt.org/event/btv-clean-up-crew/2026-10-22/",
+          "all_day": false,
+          "utc_start_date": "2026-10-22 11:30:00",
+          "utc_end_date": "2026-10-22 14:00:00",
+          "cost": "Free",
+          "cost_details": {
+            "currency_symbol": "$",
+            "currency_code": "USD",
+            "currency_position": "prefix",
+            "values": [
+              "0"
+            ]
+          },
+          "hide_from_listings": false,
+          "venue": {
+            "venue": "Top of Church St",
+            "address": "2 Church St",
+            "city": "Burlington",
+            "state": "VT",
+            "zip": "05401",
+            "country": "United States"
+          },
+          "categories": []
+        },
+        {
+          "id": 10001040,
+          "global_id": "www.pjcvt.org?id=10001040",
+          "title": "Solarpunk Book Club &#038; Game Night",
+          "description": "<p>Come read a solarpunk book with us, and play a round of the game Solarpunk Futures! If we want to live in a socially conscious, ecological society, we have to build it together! Come help us imagine how we can do that together.</p>",
+          "url": "https://www.pjcvt.org/event/cooperative-storytelling-game-night-3-2/2026-10-22/",
+          "all_day": false,
+          "utc_start_date": "2026-10-22 21:30:00",
+          "utc_end_date": "2026-10-22 22:30:00",
+          "cost": "Free",
+          "cost_details": {
+            "currency_symbol": "$",
+            "currency_code": "USD",
+            "currency_position": "prefix",
+            "values": [
+              "0"
+            ]
+          },
+          "hide_from_listings": false,
+          "venue": {
+            "venue": "Peace &#038; Justice Center",
+            "address": "12-22 North St",
+            "city": "Burlington",
+            "state": "VT",
+            "province": "Vermont",
+            "zip": "05401",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 86,
+              "name": "PJC Events",
+              "slug": "pjc-events"
+            }
+          ]
+        },
+        {
+          "id": 10001194,
+          "global_id": "www.pjcvt.org?id=10001194",
+          "title": "Mini Clean Up Crew at City Hall Park",
+          "description": "<p>Join us for the Mini Clean Up Crew in City Hall Park! Every Tuesday at 8am, we meet at the City Hall steps in City Hall Park and clean up our downtown park. This is a shorter clean up than the Thursday one, it only takes a half hour or less! Perfect if Thursdays are too long or otherwise don&#8217;t work for you. We look forward to seeing you on Tuesdays! </p>",
+          "url": "https://www.pjcvt.org/event/mini-clean-up-crew-at-city-hall-park/2026-10-27/",
+          "all_day": false,
+          "utc_start_date": "2026-10-27 12:00:00",
+          "utc_end_date": "2026-10-27 12:30:00",
+          "cost": "Free",
+          "cost_details": {
+            "currency_symbol": "$",
+            "currency_code": "USD",
+            "currency_position": "prefix",
+            "values": [
+              "0"
+            ]
+          },
+          "hide_from_listings": false,
+          "venue": {
+            "venue": "Burlington City Hall Park",
+            "address": "149 Church Street",
+            "city": "Burlington",
+            "province": "Vermont",
+            "zip": "05401",
+            "country": "United States"
+          },
+          "categories": []
+        },
+        {
+          "id": 10000577,
+          "global_id": "www.pjcvt.org?id=10000577",
+          "title": "BTV Clean Up Crew",
+          "description": "<p>Come help us clean up Burlington! We&#8217;ll clean up needles, trash, and ensure our community remains as beautiful and welcoming as we all know it to be. Meet at the top of Church St outside Kru Coffee every Thursday morning at 7:30am! Bring gloves if you can!</p>",
+          "url": "https://www.pjcvt.org/event/btv-clean-up-crew/2026-10-29/",
+          "all_day": false,
+          "utc_start_date": "2026-10-29 11:30:00",
+          "utc_end_date": "2026-10-29 14:00:00",
+          "cost": "Free",
+          "cost_details": {
+            "currency_symbol": "$",
+            "currency_code": "USD",
+            "currency_position": "prefix",
+            "values": [
+              "0"
+            ]
+          },
+          "hide_from_listings": false,
+          "venue": {
+            "venue": "Top of Church St",
+            "address": "2 Church St",
+            "city": "Burlington",
+            "state": "VT",
+            "zip": "05401",
+            "country": "United States"
+          },
+          "categories": []
+        },
+        {
+          "id": 10001195,
+          "global_id": "www.pjcvt.org?id=10001195",
+          "title": "Mini Clean Up Crew at City Hall Park",
+          "description": "<p>Join us for the Mini Clean Up Crew in City Hall Park! Every Tuesday at 8am, we meet at the City Hall steps in City Hall Park and clean up our downtown park. This is a shorter clean up than the Thursday one, it only takes a half hour or less! Perfect if Thursdays are too long or otherwise don&#8217;t work for you. We look forward to seeing you on Tuesdays! </p>",
+          "url": "https://www.pjcvt.org/event/mini-clean-up-crew-at-city-hall-park/2026-11-03/",
+          "all_day": false,
+          "utc_start_date": "2026-11-03 13:00:00",
+          "utc_end_date": "2026-11-03 13:30:00",
+          "cost": "Free",
+          "cost_details": {
+            "currency_symbol": "$",
+            "currency_code": "USD",
+            "currency_position": "prefix",
+            "values": [
+              "0"
+            ]
+          },
+          "hide_from_listings": false,
+          "venue": {
+            "venue": "Burlington City Hall Park",
+            "address": "149 Church Street",
+            "city": "Burlington",
+            "province": "Vermont",
+            "zip": "05401",
+            "country": "United States"
+          },
+          "categories": []
+        },
+        {
+          "id": 10000578,
+          "global_id": "www.pjcvt.org?id=10000578",
+          "title": "BTV Clean Up Crew",
+          "description": "<p>Come help us clean up Burlington! We&#8217;ll clean up needles, trash, and ensure our community remains as beautiful and welcoming as we all know it to be. Meet at the top of Church St outside Kru Coffee every Thursday morning at 7:30am! Bring gloves if you can!</p>",
+          "url": "https://www.pjcvt.org/event/btv-clean-up-crew/2026-11-05/",
+          "all_day": false,
+          "utc_start_date": "2026-11-05 12:30:00",
+          "utc_end_date": "2026-11-05 15:00:00",
+          "cost": "Free",
+          "cost_details": {
+            "currency_symbol": "$",
+            "currency_code": "USD",
+            "currency_position": "prefix",
+            "values": [
+              "0"
+            ]
+          },
+          "hide_from_listings": false,
+          "venue": {
+            "venue": "Top of Church St",
+            "address": "2 Church St",
+            "city": "Burlington",
+            "state": "VT",
+            "zip": "05401",
+            "country": "United States"
+          },
+          "categories": []
+        },
+        {
+          "id": 10001041,
+          "global_id": "www.pjcvt.org?id=10001041",
+          "title": "Solarpunk Book Club &#038; Game Night",
+          "description": "<p>Come read a solarpunk book with us, and play a round of the game Solarpunk Futures! If we want to live in a socially conscious, ecological society, we have to build it together! Come help us imagine how we can do that together.</p>",
+          "url": "https://www.pjcvt.org/event/cooperative-storytelling-game-night-3-2/2026-11-05/",
+          "all_day": false,
+          "utc_start_date": "2026-11-05 22:30:00",
+          "utc_end_date": "2026-11-05 23:30:00",
+          "cost": "Free",
+          "cost_details": {
+            "currency_symbol": "$",
+            "currency_code": "USD",
+            "currency_position": "prefix",
+            "values": [
+              "0"
+            ]
+          },
+          "hide_from_listings": false,
+          "venue": {
+            "venue": "Peace &#038; Justice Center",
+            "address": "12-22 North St",
+            "city": "Burlington",
+            "state": "VT",
+            "province": "Vermont",
+            "zip": "05401",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 86,
+              "name": "PJC Events",
+              "slug": "pjc-events"
+            }
+          ]
+        },
+        {
+          "id": 10001196,
+          "global_id": "www.pjcvt.org?id=10001196",
+          "title": "Mini Clean Up Crew at City Hall Park",
+          "description": "<p>Join us for the Mini Clean Up Crew in City Hall Park! Every Tuesday at 8am, we meet at the City Hall steps in City Hall Park and clean up our downtown park. This is a shorter clean up than the Thursday one, it only takes a half hour or less! Perfect if Thursdays are too long or otherwise don&#8217;t work for you. We look forward to seeing you on Tuesdays! </p>",
+          "url": "https://www.pjcvt.org/event/mini-clean-up-crew-at-city-hall-park/2026-11-10/",
+          "all_day": false,
+          "utc_start_date": "2026-11-10 13:00:00",
+          "utc_end_date": "2026-11-10 13:30:00",
+          "cost": "Free",
+          "cost_details": {
+            "currency_symbol": "$",
+            "currency_code": "USD",
+            "currency_position": "prefix",
+            "values": [
+              "0"
+            ]
+          },
+          "hide_from_listings": false,
+          "venue": {
+            "venue": "Burlington City Hall Park",
+            "address": "149 Church Street",
+            "city": "Burlington",
+            "province": "Vermont",
+            "zip": "05401",
+            "country": "United States"
+          },
+          "categories": []
+        },
+        {
+          "id": 10000579,
+          "global_id": "www.pjcvt.org?id=10000579",
+          "title": "BTV Clean Up Crew",
+          "description": "<p>Come help us clean up Burlington! We&#8217;ll clean up needles, trash, and ensure our community remains as beautiful and welcoming as we all know it to be. Meet at the top of Church St outside Kru Coffee every Thursday morning at 7:30am! Bring gloves if you can!</p>",
+          "url": "https://www.pjcvt.org/event/btv-clean-up-crew/2026-11-12/",
+          "all_day": false,
+          "utc_start_date": "2026-11-12 12:30:00",
+          "utc_end_date": "2026-11-12 15:00:00",
+          "cost": "Free",
+          "cost_details": {
+            "currency_symbol": "$",
+            "currency_code": "USD",
+            "currency_position": "prefix",
+            "values": [
+              "0"
+            ]
+          },
+          "hide_from_listings": false,
+          "venue": {
+            "venue": "Top of Church St",
+            "address": "2 Church St",
+            "city": "Burlington",
+            "state": "VT",
+            "zip": "05401",
+            "country": "United States"
+          },
+          "categories": []
+        },
+        {
+          "id": 10001197,
+          "global_id": "www.pjcvt.org?id=10001197",
+          "title": "Mini Clean Up Crew at City Hall Park",
+          "description": "<p>Join us for the Mini Clean Up Crew in City Hall Park! Every Tuesday at 8am, we meet at the City Hall steps in City Hall Park and clean up our downtown park. This is a shorter clean up than the Thursday one, it only takes a half hour or less! Perfect if Thursdays are too long or otherwise don&#8217;t work for you. We look forward to seeing you on Tuesdays! </p>",
+          "url": "https://www.pjcvt.org/event/mini-clean-up-crew-at-city-hall-park/2026-11-17/",
+          "all_day": false,
+          "utc_start_date": "2026-11-17 13:00:00",
+          "utc_end_date": "2026-11-17 13:30:00",
+          "cost": "Free",
+          "cost_details": {
+            "currency_symbol": "$",
+            "currency_code": "USD",
+            "currency_position": "prefix",
+            "values": [
+              "0"
+            ]
+          },
+          "hide_from_listings": false,
+          "venue": {
+            "venue": "Burlington City Hall Park",
+            "address": "149 Church Street",
+            "city": "Burlington",
+            "province": "Vermont",
+            "zip": "05401",
+            "country": "United States"
+          },
+          "categories": []
+        },
+        {
+          "id": 10000580,
+          "global_id": "www.pjcvt.org?id=10000580",
+          "title": "BTV Clean Up Crew",
+          "description": "<p>Come help us clean up Burlington! We&#8217;ll clean up needles, trash, and ensure our community remains as beautiful and welcoming as we all know it to be. Meet at the top of Church St outside Kru Coffee every Thursday morning at 7:30am! Bring gloves if you can!</p>",
+          "url": "https://www.pjcvt.org/event/btv-clean-up-crew/2026-11-19/",
+          "all_day": false,
+          "utc_start_date": "2026-11-19 12:30:00",
+          "utc_end_date": "2026-11-19 15:00:00",
+          "cost": "Free",
+          "cost_details": {
+            "currency_symbol": "$",
+            "currency_code": "USD",
+            "currency_position": "prefix",
+            "values": [
+              "0"
+            ]
+          },
+          "hide_from_listings": false,
+          "venue": {
+            "venue": "Top of Church St",
+            "address": "2 Church St",
+            "city": "Burlington",
+            "state": "VT",
+            "zip": "05401",
+            "country": "United States"
+          },
+          "categories": []
+        },
+        {
+          "id": 10001042,
+          "global_id": "www.pjcvt.org?id=10001042",
+          "title": "Solarpunk Book Club &#038; Game Night",
+          "description": "<p>Come read a solarpunk book with us, and play a round of the game Solarpunk Futures! If we want to live in a socially conscious, ecological society, we have to build it together! Come help us imagine how we can do that together.</p>",
+          "url": "https://www.pjcvt.org/event/cooperative-storytelling-game-night-3-2/2026-11-19/",
+          "all_day": false,
+          "utc_start_date": "2026-11-19 22:30:00",
+          "utc_end_date": "2026-11-19 23:30:00",
+          "cost": "Free",
+          "cost_details": {
+            "currency_symbol": "$",
+            "currency_code": "USD",
+            "currency_position": "prefix",
+            "values": [
+              "0"
+            ]
+          },
+          "hide_from_listings": false,
+          "venue": {
+            "venue": "Peace &#038; Justice Center",
+            "address": "12-22 North St",
+            "city": "Burlington",
+            "state": "VT",
+            "province": "Vermont",
+            "zip": "05401",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 86,
+              "name": "PJC Events",
+              "slug": "pjc-events"
+            }
+          ]
+        },
+        {
+          "id": 10001198,
+          "global_id": "www.pjcvt.org?id=10001198",
+          "title": "Mini Clean Up Crew at City Hall Park",
+          "description": "<p>Join us for the Mini Clean Up Crew in City Hall Park! Every Tuesday at 8am, we meet at the City Hall steps in City Hall Park and clean up our downtown park. This is a shorter clean up than the Thursday one, it only takes a half hour or less! Perfect if Thursdays are too long or otherwise don&#8217;t work for you. We look forward to seeing you on Tuesdays! </p>",
+          "url": "https://www.pjcvt.org/event/mini-clean-up-crew-at-city-hall-park/2026-11-24/",
+          "all_day": false,
+          "utc_start_date": "2026-11-24 13:00:00",
+          "utc_end_date": "2026-11-24 13:30:00",
+          "cost": "Free",
+          "cost_details": {
+            "currency_symbol": "$",
+            "currency_code": "USD",
+            "currency_position": "prefix",
+            "values": [
+              "0"
+            ]
+          },
+          "hide_from_listings": false,
+          "venue": {
+            "venue": "Burlington City Hall Park",
+            "address": "149 Church Street",
+            "city": "Burlington",
+            "province": "Vermont",
+            "zip": "05401",
+            "country": "United States"
+          },
+          "categories": []
+        },
+        {
+          "id": 10000581,
+          "global_id": "www.pjcvt.org?id=10000581",
+          "title": "BTV Clean Up Crew",
+          "description": "<p>Come help us clean up Burlington! We&#8217;ll clean up needles, trash, and ensure our community remains as beautiful and welcoming as we all know it to be. Meet at the top of Church St outside Kru Coffee every Thursday morning at 7:30am! Bring gloves if you can!</p>",
+          "url": "https://www.pjcvt.org/event/btv-clean-up-crew/2026-11-26/",
+          "all_day": false,
+          "utc_start_date": "2026-11-26 12:30:00",
+          "utc_end_date": "2026-11-26 15:00:00",
+          "cost": "Free",
+          "cost_details": {
+            "currency_symbol": "$",
+            "currency_code": "USD",
+            "currency_position": "prefix",
+            "values": [
+              "0"
+            ]
+          },
+          "hide_from_listings": false,
+          "venue": {
+            "venue": "Top of Church St",
+            "address": "2 Church St",
+            "city": "Burlington",
+            "state": "VT",
+            "zip": "05401",
+            "country": "United States"
+          },
+          "categories": []
+        },
+        {
+          "id": 10001199,
+          "global_id": "www.pjcvt.org?id=10001199",
+          "title": "Mini Clean Up Crew at City Hall Park",
+          "description": "<p>Join us for the Mini Clean Up Crew in City Hall Park! Every Tuesday at 8am, we meet at the City Hall steps in City Hall Park and clean up our downtown park. This is a shorter clean up than the Thursday one, it only takes a half hour or less! Perfect if Thursdays are too long or otherwise don&#8217;t work for you. We look forward to seeing you on Tuesdays! </p>",
+          "url": "https://www.pjcvt.org/event/mini-clean-up-crew-at-city-hall-park/2026-12-01/",
+          "all_day": false,
+          "utc_start_date": "2026-12-01 13:00:00",
+          "utc_end_date": "2026-12-01 13:30:00",
+          "cost": "Free",
+          "cost_details": {
+            "currency_symbol": "$",
+            "currency_code": "USD",
+            "currency_position": "prefix",
+            "values": [
+              "0"
+            ]
+          },
+          "hide_from_listings": false,
+          "venue": {
+            "venue": "Burlington City Hall Park",
+            "address": "149 Church Street",
+            "city": "Burlington",
+            "province": "Vermont",
+            "zip": "05401",
+            "country": "United States"
+          },
+          "categories": []
+        },
+        {
+          "id": 10000582,
+          "global_id": "www.pjcvt.org?id=10000582",
+          "title": "BTV Clean Up Crew",
+          "description": "<p>Come help us clean up Burlington! We&#8217;ll clean up needles, trash, and ensure our community remains as beautiful and welcoming as we all know it to be. Meet at the top of Church St outside Kru Coffee every Thursday morning at 7:30am! Bring gloves if you can!</p>",
+          "url": "https://www.pjcvt.org/event/btv-clean-up-crew/2026-12-03/",
+          "all_day": false,
+          "utc_start_date": "2026-12-03 12:30:00",
+          "utc_end_date": "2026-12-03 15:00:00",
+          "cost": "Free",
+          "cost_details": {
+            "currency_symbol": "$",
+            "currency_code": "USD",
+            "currency_position": "prefix",
+            "values": [
+              "0"
+            ]
+          },
+          "hide_from_listings": false,
+          "venue": {
+            "venue": "Top of Church St",
+            "address": "2 Church St",
+            "city": "Burlington",
+            "state": "VT",
+            "zip": "05401",
+            "country": "United States"
+          },
+          "categories": []
+        },
+        {
+          "id": 10001043,
+          "global_id": "www.pjcvt.org?id=10001043",
+          "title": "Solarpunk Book Club &#038; Game Night",
+          "description": "<p>Come read a solarpunk book with us, and play a round of the game Solarpunk Futures! If we want to live in a socially conscious, ecological society, we have to build it together! Come help us imagine how we can do that together.</p>",
+          "url": "https://www.pjcvt.org/event/cooperative-storytelling-game-night-3-2/2026-12-03/",
+          "all_day": false,
+          "utc_start_date": "2026-12-03 22:30:00",
+          "utc_end_date": "2026-12-03 23:30:00",
+          "cost": "Free",
+          "cost_details": {
+            "currency_symbol": "$",
+            "currency_code": "USD",
+            "currency_position": "prefix",
+            "values": [
+              "0"
+            ]
+          },
+          "hide_from_listings": false,
+          "venue": {
+            "venue": "Peace &#038; Justice Center",
+            "address": "12-22 North St",
+            "city": "Burlington",
+            "state": "VT",
+            "province": "Vermont",
+            "zip": "05401",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 86,
+              "name": "PJC Events",
+              "slug": "pjc-events"
+            }
+          ]
+        },
+        {
+          "id": 10001200,
+          "global_id": "www.pjcvt.org?id=10001200",
+          "title": "Mini Clean Up Crew at City Hall Park",
+          "description": "<p>Join us for the Mini Clean Up Crew in City Hall Park! Every Tuesday at 8am, we meet at the City Hall steps in City Hall Park and clean up our downtown park. This is a shorter clean up than the Thursday one, it only takes a half hour or less! Perfect if Thursdays are too long or otherwise don&#8217;t work for you. We look forward to seeing you on Tuesdays! </p>",
+          "url": "https://www.pjcvt.org/event/mini-clean-up-crew-at-city-hall-park/2026-12-08/",
+          "all_day": false,
+          "utc_start_date": "2026-12-08 13:00:00",
+          "utc_end_date": "2026-12-08 13:30:00",
+          "cost": "Free",
+          "cost_details": {
+            "currency_symbol": "$",
+            "currency_code": "USD",
+            "currency_position": "prefix",
+            "values": [
+              "0"
+            ]
+          },
+          "hide_from_listings": false,
+          "venue": {
+            "venue": "Burlington City Hall Park",
+            "address": "149 Church Street",
+            "city": "Burlington",
+            "province": "Vermont",
+            "zip": "05401",
+            "country": "United States"
+          },
+          "categories": []
+        },
+        {
+          "id": 10000583,
+          "global_id": "www.pjcvt.org?id=10000583",
+          "title": "BTV Clean Up Crew",
+          "description": "<p>Come help us clean up Burlington! We&#8217;ll clean up needles, trash, and ensure our community remains as beautiful and welcoming as we all know it to be. Meet at the top of Church St outside Kru Coffee every Thursday morning at 7:30am! Bring gloves if you can!</p>",
+          "url": "https://www.pjcvt.org/event/btv-clean-up-crew/2026-12-10/",
+          "all_day": false,
+          "utc_start_date": "2026-12-10 12:30:00",
+          "utc_end_date": "2026-12-10 15:00:00",
+          "cost": "Free",
+          "cost_details": {
+            "currency_symbol": "$",
+            "currency_code": "USD",
+            "currency_position": "prefix",
+            "values": [
+              "0"
+            ]
+          },
+          "hide_from_listings": false,
+          "venue": {
+            "venue": "Top of Church St",
+            "address": "2 Church St",
+            "city": "Burlington",
+            "state": "VT",
+            "zip": "05401",
+            "country": "United States"
+          },
+          "categories": []
+        },
+        {
+          "id": 10001201,
+          "global_id": "www.pjcvt.org?id=10001201",
+          "title": "Mini Clean Up Crew at City Hall Park",
+          "description": "<p>Join us for the Mini Clean Up Crew in City Hall Park! Every Tuesday at 8am, we meet at the City Hall steps in City Hall Park and clean up our downtown park. This is a shorter clean up than the Thursday one, it only takes a half hour or less! Perfect if Thursdays are too long or otherwise don&#8217;t work for you. We look forward to seeing you on Tuesdays! </p>",
+          "url": "https://www.pjcvt.org/event/mini-clean-up-crew-at-city-hall-park/2026-12-15/",
+          "all_day": false,
+          "utc_start_date": "2026-12-15 13:00:00",
+          "utc_end_date": "2026-12-15 13:30:00",
+          "cost": "Free",
+          "cost_details": {
+            "currency_symbol": "$",
+            "currency_code": "USD",
+            "currency_position": "prefix",
+            "values": [
+              "0"
+            ]
+          },
+          "hide_from_listings": false,
+          "venue": {
+            "venue": "Burlington City Hall Park",
+            "address": "149 Church Street",
+            "city": "Burlington",
+            "province": "Vermont",
+            "zip": "05401",
+            "country": "United States"
+          },
+          "categories": []
+        }
+      ],
+      "total_pages": 1
+    }
+  ]
+}

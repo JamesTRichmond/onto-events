@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:cpl-south-shore-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:South Shore Family Story & Rhythm Studio
+DESCRIPTION:African American folklore, percussion rhythm games, and picture book reading for families and youth.
+LOCATION:CPL South Shore Branch Library
+URL:https://www.chipublib.org/locations/64/
+END:VEVENT
+BEGIN:VEVENT
+UID:cpl-south-shore-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:South Shore Cultural Jazz Listening Circle
+DESCRIPTION:Community presentation and vinyl listening session spotlighting Chicago South Side jazz legends.
+LOCATION:CPL South Shore Branch Library
+URL:https://www.chipublib.org/locations/64/
+END:VEVENT
+END:VCALENDAR

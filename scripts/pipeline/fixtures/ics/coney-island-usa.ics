@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto fixture//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Coney Island USA Events
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:ciusa-sideshow-seashore-20261107
+DTSTART:20261107T180000Z
+DTEND:20261107T210000Z
+SUMMARY:Sideshow by the Seashore Live Performance
+LOCATION:Coney Island USA, 1208 Surf Ave, Brooklyn, NY 11224
+DESCRIPTION:The last traditional ten-in-one circus sideshow in the United States, featuring continuous live classic variety arts, sword swallowing, fire eating, and historic illusion feats.
+URL:https://www.coneyisland.com/programs/sideshow-by-the-seashore
+END:VEVENT
+BEGIN:VEVENT
+UID:ciusa-museum-lecture-20261114
+DTSTART:20261114T200000Z
+DTEND:20261114T220000Z
+SUMMARY:Coney Island Museum: History of the Boardwalk & Cyclone
+LOCATION:Coney Island USA, 1208 Surf Ave, Brooklyn, NY 11224
+DESCRIPTION:Historical symposium exploring rare archival photos, mechanical ride design, and cultural impact of the 1927 Cyclone roller coaster and Riegelmann Boardwalk.
+URL:https://www.coneyisland.com/museum/cyclone-boardwalk-history
+END:VEVENT
+BEGIN:VEVENT
+UID:ciusa-mermaid-parade-retrospective-20261121
+DTSTART:20261121T190000Z
+DTEND:20261121T213000Z
+SUMMARY:Mermaid Parade Retrospective & Costume Archive
+LOCATION:Coney Island USA, 1208 Surf Ave, Brooklyn, NY 11224
+DESCRIPTION:Community film screening and archive exhibition honoring four decades of the nation's largest art parade and marine mythology celebrations.
+URL:https://www.coneyisland.com/programs/mermaid-archive-showcase
+END:VEVENT
+END:VCALENDAR

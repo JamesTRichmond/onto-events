@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Philadelphia Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:academy-of-natural-sciences-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Dinosaur Hall Exploration & Live Butterfly Garden
+DESCRIPTION:Fossil preparation viewing, life-sized dinosaur skeletons, and tropical butterfly walk on the Parkway.
+LOCATION:Academy of Natural Sciences
+URL:https://ansp.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:academy-of-natural-sciences-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Dinosaur Hall Exploration & Live Butterfly Garden (Session 2)
+DESCRIPTION:Fossil preparation viewing, life-sized dinosaur skeletons, and tropical butterfly walk on the Parkway. Follow-up community session.
+LOCATION:Academy of Natural Sciences
+URL:https://ansp.org/
+END:VEVENT
+END:VCALENDAR

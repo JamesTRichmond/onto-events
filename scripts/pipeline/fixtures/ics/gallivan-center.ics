@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gallivan Center - ECPv6.17.3.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gallivan Center
+X-ORIGINAL-URL:https://thegallivancenter.com
+X-WR-CALDESC:Events for Gallivan Center
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Denver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+DTSTART:20250309T090000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+DTSTART:20251102T080000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+DTSTART:20260308T090000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+DTSTART:20261101T080000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+DTSTART:20270314T090000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+DTSTART:20271107T080000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Denver:20260908T110000
+DTEND;TZID=America/Denver:20260908T133000
+DTSTAMP:20251001T155757Z
+CREATED:20240318T192709Z
+LAST-MODIFIED:20251001T155757Z
+UID:10001263-1788865200-1788874200@thegallivancenter.com
+SUMMARY:Food Truck Tuesdays & Thursdays!
+DESCRIPTION:FOOD TRUCKS at the Gallivan Center every Tuesday & Thursday fr
+ om 11AM-1:30PM all year long!\nFood Truck Lineup is posted on Instagram e
+ ach week. Follow us @saltlakecitygallivancenter  to stay up to date on o
+ ur events and happeni [trimmed]
+URL:https://thegallivancenter.com/event/food-truck-tuesdays-thursdays/2026
+ -09-08/
+LOCATION:The Gallivan Center\, 239 S Main St\, Salt Lake City\, UT\, 84111
+ \, United States
+ATTACH;FMTTYPE=image/png:https://thegallivancenter.com/wp-content/uploads/
+ 2021/08/Food-truck-league-logo-main-page-1024x813-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Denver:20260908T190000
+DTEND;TZID=America/Denver:20260908T211500
+DTSTAMP:20260812T190623Z
+CREATED:20260424T200615Z
+LAST-MODIFIED:20260812T190623Z
+UID:10003240-1788894000-1788902100@thegallivancenter.com
+SUMMARY:Dance Nights
+DESCRIPTION:Dance Nights\nThe Lineup:\nJUNE \nJune 2 – Voodoo Orchestra\
+ , Swing Dancing \nJune 9 – Riverton Big Band\, Swing Dancing \nJune 16 
+ – Drive Country Band\, Line Dancing \nJune 23 – Phoenix Jazz Band\, S
+ wing Dancing \nJune 30 – Sum [trimmed]
+URL:https://thegallivancenter.com/event/dance-nights-4/2026-09-08/
+LOCATION:The Gallivan Center\, 239 S Main St\, Salt Lake City\, UT\, 84111
+ \, United States
+ATTACH;FMTTYPE=image/png:https://thegallivancenter.com/wp-content/uploads/
+ 2026-Dance-Night-Website-Banner.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Denver:20260910T110000
+DTEND;TZID=America/Denver:20260910T133000
+DTSTAMP:20251001T155757Z
+CREATED:20240318T192709Z
+LAST-MODIFIED:20251001T155757Z
+UID:10001264-1789038000-1789047000@thegallivancenter.com
+SUMMARY:Food Truck Tuesdays & Thursdays!
+DESCRIPTION:FOOD TRUCKS at the Gallivan Center every Tuesday & Thursday fr
+ om 11AM-1:30PM all year long!\nFood Truck Lineup is posted on Instagram e
+ ach week. Follow us @saltlakecitygallivancenter  to stay up to date on o
+ ur events and happeni [trimmed]
+URL:https://thegallivancenter.com/event/food-truck-tuesdays-thursdays/2026
+ -09-10/
+LOCATION:The Gallivan Center\, 239 S Main St\, Salt Lake City\, UT\, 84111
+ \, United States
+ATTACH;FMTTYPE=image/png:https://thegallivancenter.com/wp-content/uploads/
+ 2021/08/Food-truck-league-logo-main-page-1024x813-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Denver:20260914T180000
+DTEND;TZID=America/Denver:20260914T203000
+DTSTAMP:20260831T193614Z
+CREATED:20260831T193517Z
+LAST-MODIFIED:20260831T193614Z
+UID:10003262-1789408800-1789417800@thegallivancenter.com
+SUMMARY:Mexican Independence Day Celebration
+DESCRIPTION:216° Aniversario de la Independencia de México\nEl Consulado
+  de México en Salt Lake City en colaboración con The Blocks invita a to
+ da la comunidad a conmemorar juntos el 216° Aniversario de la Independen
+ cia de México. \n📅Lunes  [trimmed]
+URL:https://thegallivancenter.com/event/mexican-independence-day-celebrati
+ on-2/
+LOCATION:The Gallivan Center\, 239 S Main St\, Salt Lake City\, UT\, 84111
+ \, United States
+ATTACH;FMTTYPE=image/jpeg:https://thegallivancenter.com/wp-content/uploads
+ /779308106_1041628912186278_789225622585546724_n.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Denver:20260915T110000
+DTEND;TZID=America/Denver:20260915T133000
+DTSTAMP:20251001T155757Z
+CREATED:20240318T192709Z
+LAST-MODIFIED:20251001T155757Z
+UID:10001265-1789470000-1789479000@thegallivancenter.com
+SUMMARY:Food Truck Tuesdays & Thursdays!
+DESCRIPTION:FOOD TRUCKS at the Gallivan Center every Tuesday & Thursday fr
+ om 11AM-1:30PM all year long!\nFood Truck Lineup is posted on Instagram e
+ ach week. Follow us @saltlakecitygallivancenter  to stay up to date on o
+ ur events and happeni [trimmed]
+URL:https://thegallivancenter.com/event/food-truck-tuesdays-thursdays/2026
+ -09-15/
+LOCATION:The Gallivan Center\, 239 S Main St\, Salt Lake City\, UT\, 84111
+ \, United States
+ATTACH;FMTTYPE=image/png:https://thegallivancenter.com/wp-content/uploads/
+ 2021/08/Food-truck-league-logo-main-page-1024x813-1.png
+END:VEVENT
+END:VCALENDAR

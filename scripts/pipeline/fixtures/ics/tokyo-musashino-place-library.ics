@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto.events//Tokyo Community Feeds//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Musashino Place (武蔵野プレイス)
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:tokyo-musashino-place-library-evt0@onto.events
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=Asia/Tokyo:20260920T103000
+DTEND;TZID=Asia/Tokyo:20260920T113000
+SUMMARY:Musashino Youth Digital Design Lab
+DESCRIPTION:Teen creative workshop exploring 3D modeling, illustration software, and digital podcast production.
+LOCATION:Musashino Place
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-musashino-place-library-evt1@onto.events
+DTSTAMP:20261031T120000Z
+DTSTART;TZID=Asia/Tokyo:20261107T103000
+DTEND;TZID=Asia/Tokyo:20261107T113000
+SUMMARY:Musashino Youth Digital Design Lab
+DESCRIPTION:Teen creative workshop exploring 3D modeling, illustration software, and digital podcast production.
+LOCATION:Musashino Place
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-musashino-place-library-evt2@onto.events
+DTSTAMP:20261031T120000Z
+DTSTART;TZID=Asia/Tokyo:20261114T140000
+DTEND;TZID=Asia/Tokyo:20261114T153000
+SUMMARY:Musashino Community Book Exchange & Dialogue
+DESCRIPTION:Monthly book sharing circle encouraging residents to discuss recommended non-fiction and literature.
+LOCATION:Musashino Place
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

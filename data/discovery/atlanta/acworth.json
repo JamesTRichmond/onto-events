@@ -1,0 +1,77 @@
+{
+  "municipality": "Acworth",
+  "county": "Cobb",
+  "state": "GA",
+  "serviceRegion": "atlanta",
+  "verifiedOn": null,
+  "streamsCount": 10,
+  "sampleSources": [
+    {
+      "id": "atl-stream-cobb-acworth-civic-171",
+      "publisher": null,
+      "vertical": "Civic & Public Libraries",
+      "county": "Cobb",
+      "municipality": "Acworth",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Acworth Cobb County Georgia Civic & Public Libraries public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    },
+    {
+      "id": "atl-stream-cobb-acworth-livep-172",
+      "publisher": null,
+      "vertical": "Live Performing Arts & Indie Music",
+      "county": "Cobb",
+      "municipality": "Acworth",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Acworth Cobb County Georgia Live Performing Arts & Indie Music public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    },
+    {
+      "id": "atl-stream-cobb-acworth-visual-173",
+      "publisher": null,
+      "vertical": "Visual Arts & Museums",
+      "county": "Cobb",
+      "municipality": "Acworth",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Acworth Cobb County Georgia Visual Arts & Museums public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    },
+    {
+      "id": "atl-stream-cobb-acworth-herita-174",
+      "publisher": null,
+      "vertical": "Heritage & Diverse Communities",
+      "county": "Cobb",
+      "municipality": "Acworth",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Acworth Cobb County Georgia Heritage & Diverse Communities public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    },
+    {
+      "id": "atl-stream-cobb-acworth-parks-175",
+      "publisher": null,
+      "vertical": "Parks & Outdoor Recreation",
+      "county": "Cobb",
+      "municipality": "Acworth",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Acworth Cobb County Georgia Parks & Outdoor Recreation public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    }
+  ],
+  "status": "unverified",
+  "verifiedStreamsCount": 0
+}

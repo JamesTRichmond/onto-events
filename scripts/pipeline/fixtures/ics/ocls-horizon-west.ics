@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Orlando Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:ocls-horizon-west-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T153000Z
+SUMMARY:OCLS Horizon West Branch Community Showcase
+DESCRIPTION:Newest OCLS branch serving rapidly growing Horizon West community.
+LOCATION:OCLS Horizon West Branch
+URL:https://www.ocls.info/locations-hours/horizon-west-branch
+END:VEVENT
+BEGIN:VEVENT
+UID:ocls-horizon-west-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T220000Z
+DTEND:20261027T233000Z
+SUMMARY:OCLS Horizon West Branch Evening Program
+DESCRIPTION:VERIFIED: Modern new facility in growing southwest corridor with collaborative tech spaces and family zones.
+LOCATION:OCLS Horizon West Branch
+URL:https://www.ocls.info/locations-hours/horizon-west-branch
+END:VEVENT
+END:VCALENDAR

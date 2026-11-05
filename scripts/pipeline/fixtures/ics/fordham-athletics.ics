@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//fixture//EN
+BEGIN:VEVENT
+UID:vcal_21075-fordhamsports.com
+DTSTART:20261016T220000Z
+DTEND:20261017T000000Z
+SUMMARY:Fordham University Women's Volleyball vs Saint Louis
+LOCATION:Bronx\, N.Y.\, Rose Hill Gym
+URL:https://fordhamsports.com/calendar.aspx?game_id=21075&amp;sport_id=25
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_21153-fordhamsports.com
+DTSTART:20261017T150000Z
+DTEND:20261017T163000Z
+SUMMARY:Fordham University Men's Water Polo vs Bucknell
+LOCATION:Bronx\, N.Y.\, Col. Francis B. Messmore Aquatic Center
+URL:https://fordhamsports.com/calendar.aspx?game_id=21153&amp;sport_id=13
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_21076-fordhamsports.com
+DTSTART:20261017T180000Z
+DTEND:20261017T200000Z
+SUMMARY:Fordham University Women's Volleyball vs Saint Louis
+LOCATION:Bronx\, N.Y.\, Rose Hill Gym
+URL:https://fordhamsports.com/calendar.aspx?game_id=21076&amp;sport_id=25
+END:VEVENT
+END:VCALENDAR

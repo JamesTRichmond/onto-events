@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Philadelphia Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:national-constitution-center-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Freedom Rising Live Theatrical Show & Signers Hall
+DESCRIPTION:360-degree multimedia performance on the American constitutional journey and life-sized bronze signers walk.
+LOCATION:National Constitution Center
+URL:https://constitutioncenter.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:national-constitution-center-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Freedom Rising Live Theatrical Show & Signers Hall (Session 2)
+DESCRIPTION:360-degree multimedia performance on the American constitutional journey and life-sized bronze signers walk. Follow-up community session.
+LOCATION:National Constitution Center
+URL:https://constitutioncenter.org/
+END:VEVENT
+END:VCALENDAR

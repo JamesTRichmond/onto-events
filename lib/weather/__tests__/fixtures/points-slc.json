@@ -1,0 +1,15 @@
+{
+ "properties": {
+  "forecastHourly": "https://api.weather.gov/gridpoints/SLC/100,177/forecast/hourly",
+  "observationStations": "https://api.weather.gov/gridpoints/SLC/100,177/stations",
+  "gridId": "SLC",
+  "gridX": 100,
+  "gridY": 177,
+  "relativeLocation": {
+   "properties": {
+    "city": "Salt Lake City",
+    "state": "UT"
+   }
+  }
+ }
+}

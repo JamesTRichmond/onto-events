@@ -1,0 +1,58 @@
+{
+  "pages": [
+    {
+      "total": 3,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 987510502,
+          "global_id": "thebillieholidaytheatre.org?id=987510502",
+          "title": "5th Annual BedStuy Film Festival",
+          "description": "<div>Three days of independent film, panels, and community storytelling at The Billie Holiday Theatre. October 16-18.</div>\n<div style=\"margin-top: 20px\">\n<div style=\"margin: 20px 10px;font-size: 15px;line-height: 22px;font-weight: 400;text-align: left;\">\n<p>Founded in 2017, the <a href=\"https://www.bedstuyfilmfestival.com/\" title=\"https://www.bedstuyfilmfestival.com/\" target=\"_blank\" data-msys-clicktrack=\"0\" rel=\"nofollow noopener noreferrer\">BedStuy Film Festival</a> was created to spotlight films from a wide range of cultural, racial, gender, and generational perspectives. The festival is dedicated to supporting local creatives while welcoming independent filmmakers from around the world.</p>\n<p>Join us October 16 to 18, 2026, for the 5th Annual festival: three days of independent film,",
+          "url": "https://thebillieholidaytheatre.org/event/5th-annual-bedstuy-film-festival/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-16 22:00:00",
+          "utc_end_date": "2026-10-18 19:00:00",
+          "venue": {
+            "venue": "The Billie Holiday Theatre",
+            "address": "1368 Fulton Street, Brooklyn, NY 11216",
+            "city": "Brooklyn"
+          }
+        },
+        {
+          "id": 987510475,
+          "global_id": "thebillieholidaytheatre.org?id=987510475",
+          "title": "Literary Salon Champions for the Arts In Conversation w/ Donna Walker-Kuhne",
+          "description": "<div>An inspiring conversation detailing how to become a champion for the arts moderated by Aaron L. McKinney.</div>\n<div style=\"margin-top: 20px\">\n<div style=\"margin: 20px 10px;font-size: 15px;line-height: 22px;font-weight: 400;text-align: left;\">\n<p><em><em>What does it mean to be a champion for the arts? Be prepared to hear from culture warrior Donna Walker Kuhne when she talks about her book &#8212; Champions for the Arts: Lessons and Successful Strategies for Engaging Diverse Audiences.</em></em></p>\n<p>Join author and community engagement legend  <a href=\"https://walkercommunicationsgroup.com/?utm_source=ig&amp;utm_medium=social&amp;utm_content=link_in_bio&amp;fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAaejMv8ie0UxhLOjvdfkBzIQQd9uSuh6eTS1aPf02uyn2Mmhp0Ba8H8N",
+          "url": "https://thebillieholidaytheatre.org/event/literary-salon-champions-for-the-arts-in-conversation-w-donna-walker-kuhne/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-26 23:00:00",
+          "utc_end_date": "2026-10-27 01:00:00",
+          "venue": {
+            "venue": "The Billie Holiday Theatre",
+            "address": "1368 Fulton Street, Brooklyn, NY 11216",
+            "city": "Brooklyn"
+          }
+        },
+        {
+          "id": 987510459,
+          "global_id": "thebillieholidaytheatre.org?id=987510459",
+          "title": "Skylight Open",
+          "description": "<div class=\"et_pb_section_1 et_pb_section et_section_regular et_flex_section\">\r\n\r\n<div class=\"et_pb_row_1 et_pb_row et_flex_row\">\r\n\r\n<div class=\"et_pb_column_1 et_pb_column et-last-child et_flex_column et_pb_css_mix_blend_mode_passthrough et_flex_column_24_24 et_flex_column_24_24_tablet et_flex_column_24_24_phone\">\r\n\r\n<div class=\"et_pb_text_1 et_pb_text et_pb_bg_layout_light et_pb_module et_flex_module\"><div class=\"et_pb_text_inner\"><div>An electric blend of adventurous spoken word, musical, and movement-based artists.</div>\n<div style=\"margin-top: 20px\">\n<div style=\"margin: 20px 10px;font-size: 15px;line-height: 22px;font-weight: 400;text-align: left;\">\n<p>Skylight Open continues into the Fall Season with opportunities for artists working across music, spoken word and dance to take the st",
+          "url": "https://thebillieholidaytheatre.org/event/skylight-open/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-30 22:30:00",
+          "utc_end_date": "2026-10-31 01:00:00",
+          "venue": {
+            "venue": "The Billie Holiday Theatre",
+            "address": "1368 Fulton Street, Brooklyn, NY 11216",
+            "city": "Brooklyn"
+          }
+        }
+      ]
+    }
+  ]
+}

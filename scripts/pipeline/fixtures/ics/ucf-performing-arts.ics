@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Orlando Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:ucf-performing-arts-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T153000Z
+SUMMARY:UCF School of Performing Arts Community Showcase
+DESCRIPTION:UCF Performing Arts Center and Black Box Theatre.
+LOCATION:UCF School of Performing Arts
+URL:https://performingarts.cah.ucf.edu/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:ucf-performing-arts-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T220000Z
+DTEND:20261027T233000Z
+SUMMARY:UCF School of Performing Arts Evening Program
+DESCRIPTION:VERIFIED: University orchestra wind ensemble choral concerts and theatrical productions.
+LOCATION:UCF School of Performing Arts
+URL:https://performingarts.cah.ucf.edu/events/
+END:VEVENT
+END:VCALENDAR

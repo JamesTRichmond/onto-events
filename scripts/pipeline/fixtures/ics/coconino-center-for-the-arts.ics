@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Flagstaff Fixture//EN
+X-WR-TIMEZONE:America/Phoenix
+BEGIN:VEVENT
+UID:coconino-center-for-the-arts-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T170000Z
+DTEND:20261024T183000Z
+SUMMARY:Coconino Center for the Arts Gallery & Performance
+DESCRIPTION:Exhibition opening, artist discussions, and live musical performances in the CCA theater.
+LOCATION:Coconino Center for the Arts
+URL:https://ccaflagstaff.org/events/?ical=1
+END:VEVENT
+BEGIN:VEVENT
+UID:coconino-center-for-the-arts-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261028T210000Z
+DTEND:20261028T223000Z
+SUMMARY:Coconino Center for the Arts Gallery & Performance (Encore)
+DESCRIPTION:Exhibition opening, artist discussions, and live musical performances in the CCA theater.
+LOCATION:Coconino Center for the Arts
+URL:https://ccaflagstaff.org/events/?ical=1
+END:VEVENT
+END:VCALENDAR

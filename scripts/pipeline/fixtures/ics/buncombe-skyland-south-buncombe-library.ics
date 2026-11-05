@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+PRODID:-//Trumba Corporation//Trumba Calendar Services 0.11.26207//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Public Libraries|Skyland / South Buncombe Library
+X-WR-TIMEZONE:America/New_York
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Hora del Cuento - bilingual Story Time
+LOCATION:Skyland/South Buncombe Library - 260 Overlook Rd. - Asheville
+DTSTART;TZID=America/New_York:20261009T103000
+DTEND;TZID=America/New_York:20261009T111500
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+URL:https://www.buncombecounty.org/governing/depts/library/branch-locations/skyland-south-buncombe.aspx
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Public Libraries
+X-TRUMBA-CUSTOMFIELD;NAME="Location";ID=35583;TYPE=CustomAsset:Skyland/South Buncombe Library - 260 Overlook Rd. - Asheville
+X-TRUMBA-CUSTOMFIELD;NAME="Phone";ID=35516;TYPE=PhoneUS10NoExt:[phone removed]
+X-TRUMBA-CUSTOMFIELD;NAME="Email";ID=35519;TYPE=Email:<a href="mailto:redacted@example.invalid" target="_blank" rel="noopener">redacted@example.invalid</a>
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=35482;TYPE=CustomAsset:Story Time for Kids
+X-TRUMBA-CUSTOMFIELD;NAME="Age Group";ID=35581;TYPE=CustomAsset:Family - (children of all ages)
+X-TRUMBA-CUSTOMFIELD;NAME="Library";ID=35393;TYPE=CustomAsset:Skyland / South Buncombe
+DTSTAMP:20241127T154741Z
+DESCRIPTION:Location: Skyland/South Buncombe Library - 260 Overlook Rd. - Asheville<br>Phone: [phone removed]<br>Email: redacted@example.invalid<br>Event Type: Story Time for Kids<br>Age Group: Family - (children of all ages)<br>Library: Skyland / South Buncombe<br>Link: https://www.buncombecounty.org/governing/depts/library/branch-locations/skyland-south-buncombe.aspx<br><br>Join us for a bilingual hora del cuento (story time)\, with books\, stories\, songs and rhymes in English and Spanish.<br><br>Fun for the whole family!
+CATEGORIES:Skyland / South Buncombe Library
+UID:http://uid.trumba.com/event/179061789
+X-TRUMBA-LINK:https://www.buncombecounty.org/governing/depts/library/branch-locations/skyland-south-buncombe.aspx?trumbaEmbed=view%3Devent%26eventid%3D179061789
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skyland Library Knitting &amp\; Crochet Club
+LOCATION:Skyland/South Buncombe Library - 260 Overlook Rd. - Asheville
+DTSTART;TZID=America/New_York:20261017T150000
+DTEND;TZID=America/New_York:20261017T163000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+URL:https://www.buncombecounty.org/governing/depts/library/branch-locations/skyland-south-buncombe.aspx
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Public Libraries
+X-TRUMBA-CUSTOMFIELD;NAME="Location";ID=35583;TYPE=CustomAsset:Skyland/South Buncombe Library - 260 Overlook Rd. - Asheville
+X-TRUMBA-CUSTOMFIELD;NAME="Phone";ID=35516;TYPE=PhoneUS10NoExt:[phone removed]
+X-TRUMBA-CUSTOMFIELD;NAME="Email";ID=35519;TYPE=Email:<a href="mailto:redacted@example.invalid" target="_blank" rel="noopener">redacted@example.invalid</a>
+X-TRUMBA-CUSTOMFIELD;NAME="Event image";ID=40;TYPE=Image:<a href="https://www.trumba.com/i/DgBZ2lrDMGljUDjk8fK5XyOc.jpg" target="_blank" rel="noopener" title="https://www.trumba.com/i/DgBZ2lrDMGljUDjk8fK5XyOc.jpg">www.trumba.com&#8230\;</a>
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=35482;TYPE=CustomAsset:Arts &amp\; Crafts
+X-TRUMBA-CUSTOMFIELD;NAME="Age Group";ID=35581;TYPE=CustomAsset:Adult
+X-TRUMBA-CUSTOMFIELD;NAME="Library";ID=35393;TYPE=CustomAsset:Skyland / South Buncombe
+DTSTAMP:20240113T134536Z
+DESCRIPTION:Location: Skyland/South Buncombe Library - 260 Overlook Rd. - Asheville<br>Phone: [phone removed]<br>Email: redacted@example.invalid<br>Event Type: Arts & Crafts<br>Age Group: Adult<br>Library: Skyland / South Buncombe<br>Link: https://www.buncombecounty.org/governing/depts/library/branch-locations/skyland-south-buncombe.aspx<br><br>Bring your needles or your hooks and join us for some friendly company as you work on your current project.&#160\; No registration necessary\; just come by the Skyland Library community room with a love of yarn!<br> <br> Please note this is not a class -- we welcome knitters and crocheters of all skill levels\, but there might not be anyone on hand to teach the basics if you&#39\;ve never tried before.&#160\; Feel free to come and chat or observe\, though!
+CATEGORIES:Skyland / South Buncombe Library
+IMAGE;VALUE=URI:https://www.trumba.com/i/DgBZ2lrDMGljUDjk8fK5XyOc.jpg
+UID:http://uid.trumba.com/event/158564357
+X-TRUMBA-LINK:https://www.buncombecounty.org/governing/depts/library/branch-locations/skyland-south-buncombe.aspx?trumbaEmbed=view%3Devent%26eventid%3D158564357
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED - Hora del Cuento - bilingual Story Time
+LOCATION:Skyland/South Buncombe Library - 260 Overlook Rd. - Asheville
+DTSTART;TZID=America/New_York:20261218T103000
+DTEND;TZID=America/New_York:20261218T111500
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+URL:https://www.buncombecounty.org/governing/depts/library/branch-locations/skyland-south-buncombe.aspx
+X-TRUMBA-CUSTOMFIELD;NAME="Location";ID=35583;TYPE=CustomAsset:Skyland/South Buncombe Library - 260 Overlook Rd. - Asheville
+X-TRUMBA-CUSTOMFIELD;NAME="Phone";ID=35516;TYPE=PhoneUS10NoExt:[phone removed]
+X-TRUMBA-CUSTOMFIELD;NAME="Email";ID=35519;TYPE=Email:<a href="mailto:redacted@example.invalid" target="_blank" rel="noopener">redacted@example.invalid</a>
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=35482;TYPE=CustomAsset:Story Time for Kids
+X-TRUMBA-CUSTOMFIELD;NAME="Age Group";ID=35581;TYPE=CustomAsset:Family - (children of all ages)
+X-TRUMBA-CUSTOMFIELD;NAME="Library";ID=35393;TYPE=CustomAsset:Skyland / South Buncombe
+DTSTAMP:20241222T043801Z
+DESCRIPTION:Location: Skyland/South Buncombe Library - 260 Overlook Rd. - Asheville<br>Phone: [phone removed]<br>Email: redacted@example.invalid<br>Event Type: Story Time for Kids<br>Age Group: Family - (children of all ages)<br>Library: Skyland / South Buncombe<br>Link: https://www.buncombecounty.org/governing/depts/library/branch-locations/skyland-south-buncombe.aspx<br><br>Join us for a bilingual hora del cuento (story time)\, with books\, stories\, songs and rhymes in English and Spanish.<br><br>Fun for the whole family!
+CATEGORIES:Skyland / South Buncombe Library
+UID:http://uid.trumba.com/event/179459057
+X-TRUMBA-LINK:https://www.buncombecounty.org/governing/depts/library/branch-locations/skyland-south-buncombe.aspx?trumbaEmbed=view%3Devent%26eventid%3D179459057
+END:VEVENT
+END:VCALENDAR

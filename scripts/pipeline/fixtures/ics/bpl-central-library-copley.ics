@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Boston Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:bpl-central-library-copley-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Copley Family Storytime & Maker Exploration
+DESCRIPTION:Interactive early literacy story hour, rhythm games, and hands-on maker discovery in the Children’s Library at Central Library in Copley Square.
+LOCATION:Boston Public Library (Central Library in Copley Square)
+URL:https://www.bpl.org/locations/central/
+END:VEVENT
+BEGIN:VEVENT
+UID:bpl-central-library-copley-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Author Talk & Architectural History Lecture
+DESCRIPTION:Distinguished author conversation and architectural history lecture in Rabb Hall exploring Boston literary heritage and civic design.
+LOCATION:Boston Public Library (Central Library in Copley Square)
+URL:https://www.bpl.org/locations/central/
+END:VEVENT
+END:VCALENDAR

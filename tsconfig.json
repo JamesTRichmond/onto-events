@@ -1,0 +1,29 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "@/*": [
+        "./*"
+      ]
+    }
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "docs/prototypes/**",
+    "supabase/functions/**",
+    "GitHub - onto/**",
+    "onto-deploy/**",
+    "onto-foundation/**",
+    "onto.events/**",
+    "onto - All Local Files/**",
+    ".scratch/**",
+    "City_Expansion_Loop_Plans/**"
+  ]
+}

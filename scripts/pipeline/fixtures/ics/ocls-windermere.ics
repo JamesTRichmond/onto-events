@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Orlando Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:ocls-windermere-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T153000Z
+SUMMARY:OCLS Windermere Branch Community Showcase
+DESCRIPTION:Historic downtown Windermere branch with town green access.
+LOCATION:OCLS Windermere Branch
+URL:https://www.ocls.info/locations-hours/windermere-branch
+END:VEVENT
+BEGIN:VEVENT
+UID:ocls-windermere-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T220000Z
+DTEND:20261027T233000Z
+SUMMARY:OCLS Windermere Branch Evening Program
+DESCRIPTION:VERIFIED: Town center library hosting outdoor reading on the porch master gardener talks and youth crafts.
+LOCATION:OCLS Windermere Branch
+URL:https://www.ocls.info/locations-hours/windermere-branch
+END:VEVENT
+END:VCALENDAR

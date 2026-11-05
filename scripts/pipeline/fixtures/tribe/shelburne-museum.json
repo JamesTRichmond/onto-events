@@ -1,0 +1,504 @@
+{
+  "capture": {
+    "startedAt": "2026-10-15T23:31:48.109Z",
+    "completedAt": "2026-10-15T23:31:49.668Z",
+    "evaluationClock": "2026-10-15T23:31:42.544Z",
+    "publicUrl": "https://shelburnemuseum.org/wp-json/tribe/events/v1/events",
+    "rawCaptureSha256": "53d577c0e4fd4185417cc7bd9fb5985b54a3747c24f593c7bbdbe46b806c49b4"
+  },
+  "sanitization": "Real public API responses. Original event dates,IDs,UTC/local clocks,full eligibility/age prose and pagination retained. Unconsumed author/organizer/media/tracking fields omitted; direct contact strings redacted. No dates or occurrences invented.",
+  "pages": [
+    {
+      "total": 18,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 132443,
+          "global_id": "shelburnemuseum.org?id=132443",
+          "url": "https://shelburnemuseum.org/event/haunted-happenings-5/",
+          "title": "Haunted Happenings",
+          "description": "<p>Join us for a family-friendly, fun, fall frolic with activities, games, and trick-or-treating throughout the grounds! Costumes encouraged!</p>\n<p>Haunted Happenings will also include: </p>\n<ul>\n<li>Artmaking Activities: Halloween and seasonal-themed art projects for all </li>\n<li>Face painting</li>\n<li>Lawn Games and Halloween-themed Outdoor fun</li>\n<li>Create your own Fairy Houses/Gnome Huts in Beach Woods</li>\n</ul>\n<p>Need a place to decompress? Head to our Sensory Friendly Space. </p>\n<p><span class=\"s12\">In the spirit of giving, visitors are also encouraged to support the community by bringing nonperishable items for a food drive</span> <span class=\"s12\">to benefit the <a href=\"https://www.shelburnefoodshelf.org/give\">Shelburne Food Shelf</a>.</span></p>\n<p>Admission is $5. Children under 3 are free. Questions? Contact <a title=\"mailto:[contact omitted]\" href=\"mailto:[contact omitted]\" target=\"_blank\" rel=\"noreferrer noopener\">[contact omitted]</a>.</p>\n<p>Shelburne Museum Members receive free admission and priority entrance to Haunted Happenings. Become a Member or renew your Membership today. Questions about your Membership status? Contact <a title=\"mailto:[contact omitted]\" href=\"mailto:[contact omitted]\" target=\"_blank\" rel=\"noreferrer noopener\"><u>[contact omitted]</u></a>.</p>\n<p>Note: After Haunted Happenings events end at 1:00 p.m., the Museum will remain open until 5:00 p.m., including all buildings and exhibitions. To mark the end of the 2026 public season, admission will remain $5 per person for the rest of the day.</p>\n<p><span data-teams=\"true\"> </span></p>",
+          "all_day": false,
+          "start_date": "2026-10-25 10:00:00",
+          "end_date": "2026-10-25 13:00:00",
+          "utc_start_date": "2026-10-25 14:00:00",
+          "utc_end_date": "2026-10-25 17:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 349,
+            "venue": "Museum Grounds",
+            "url": "https://shelburnemuseum.org/venue/museum-grounds/",
+            "address": "PCAE auditorium"
+          },
+          "categories": [
+            {
+              "id": 12,
+              "name": "Special Events",
+              "slug": "special-events"
+            }
+          ]
+        },
+        {
+          "id": 10001790,
+          "global_id": "shelburnemuseum.org?id=10001790",
+          "url": "https://shelburnemuseum.org/event/winter-lights-4/2026-11-27/",
+          "title": "Winter Lights",
+          "description": "<p><span class=\"s10\">Visitors are invited to bundle up and stroll the museum’s grounds, where iconic landmarks are transformed into a glittering wonderland. Featuring familiar and iconic favorites such as the 220-foot steamboat <em>Ticonderoga</em> and the charming model train village in the Diamond Barn. Each season brings new and refreshed installations. This season features the magical woodland creatures of artist Calvin Laituri in the twinkling pine grove of Beach Woods.</span></p>\n<p>&nbsp;</p>\n<p class=\"s11\"><span class=\"s9\">Tickets &amp; Pricing:</span></p>\n<ul>\n<li><span class=\"s9\">Online advance purchase</span><span class=\"s10\">: $20 adults / $10 children ages 3–17 / Free for children under 3. These are timed tickets, sold for specific time slots.</span></li>\n<li><span class=\"s9\">At the door</span><span class=\"s10\">: $25 adults / $12 children ages 3–17</span></li>\n<li><span class=\"s9\">Anytime VIP ticket</span><span class=\"s10\">: $35 (Valid for one Walk-through night; no reservation required)<br />\n</span></li>\n</ul>",
+          "all_day": false,
+          "start_date": "2026-11-27 16:30:00",
+          "end_date": "2026-11-27 20:00:00",
+          "utc_start_date": "2026-11-27 21:30:00",
+          "utc_end_date": "2026-11-28 01:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 349,
+            "venue": "Museum Grounds",
+            "url": "https://shelburnemuseum.org/venue/museum-grounds/",
+            "address": "PCAE auditorium"
+          },
+          "categories": [
+            {
+              "id": 46,
+              "name": "Winter Lights",
+              "slug": "winter-lights"
+            }
+          ]
+        },
+        {
+          "id": 10001791,
+          "global_id": "shelburnemuseum.org?id=10001791",
+          "url": "https://shelburnemuseum.org/event/winter-lights-4/2026-11-28/",
+          "title": "Winter Lights",
+          "description": "<p><span class=\"s10\">Visitors are invited to bundle up and stroll the museum’s grounds, where iconic landmarks are transformed into a glittering wonderland. Featuring familiar and iconic favorites such as the 220-foot steamboat <em>Ticonderoga</em> and the charming model train village in the Diamond Barn. Each season brings new and refreshed installations. This season features the magical woodland creatures of artist Calvin Laituri in the twinkling pine grove of Beach Woods.</span></p>\n<p>&nbsp;</p>\n<p class=\"s11\"><span class=\"s9\">Tickets &amp; Pricing:</span></p>\n<ul>\n<li><span class=\"s9\">Online advance purchase</span><span class=\"s10\">: $20 adults / $10 children ages 3–17 / Free for children under 3. These are timed tickets, sold for specific time slots.</span></li>\n<li><span class=\"s9\">At the door</span><span class=\"s10\">: $25 adults / $12 children ages 3–17</span></li>\n<li><span class=\"s9\">Anytime VIP ticket</span><span class=\"s10\">: $35 (Valid for one Walk-through night; no reservation required)<br />\n</span></li>\n</ul>",
+          "all_day": false,
+          "start_date": "2026-11-28 16:30:00",
+          "end_date": "2026-11-28 20:00:00",
+          "utc_start_date": "2026-11-28 21:30:00",
+          "utc_end_date": "2026-11-29 01:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 349,
+            "venue": "Museum Grounds",
+            "url": "https://shelburnemuseum.org/venue/museum-grounds/",
+            "address": "PCAE auditorium"
+          },
+          "categories": [
+            {
+              "id": 46,
+              "name": "Winter Lights",
+              "slug": "winter-lights"
+            }
+          ]
+        },
+        {
+          "id": 10001792,
+          "global_id": "shelburnemuseum.org?id=10001792",
+          "url": "https://shelburnemuseum.org/event/winter-lights-4/2026-11-29/",
+          "title": "Winter Lights",
+          "description": "<p><span class=\"s10\">Visitors are invited to bundle up and stroll the museum’s grounds, where iconic landmarks are transformed into a glittering wonderland. Featuring familiar and iconic favorites such as the 220-foot steamboat <em>Ticonderoga</em> and the charming model train village in the Diamond Barn. Each season brings new and refreshed installations. This season features the magical woodland creatures of artist Calvin Laituri in the twinkling pine grove of Beach Woods.</span></p>\n<p>&nbsp;</p>\n<p class=\"s11\"><span class=\"s9\">Tickets &amp; Pricing:</span></p>\n<ul>\n<li><span class=\"s9\">Online advance purchase</span><span class=\"s10\">: $20 adults / $10 children ages 3–17 / Free for children under 3. These are timed tickets, sold for specific time slots.</span></li>\n<li><span class=\"s9\">At the door</span><span class=\"s10\">: $25 adults / $12 children ages 3–17</span></li>\n<li><span class=\"s9\">Anytime VIP ticket</span><span class=\"s10\">: $35 (Valid for one Walk-through night; no reservation required)<br />\n</span></li>\n</ul>",
+          "all_day": false,
+          "start_date": "2026-11-29 16:30:00",
+          "end_date": "2026-11-29 20:00:00",
+          "utc_start_date": "2026-11-29 21:30:00",
+          "utc_end_date": "2026-11-30 01:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 349,
+            "venue": "Museum Grounds",
+            "url": "https://shelburnemuseum.org/venue/museum-grounds/",
+            "address": "PCAE auditorium"
+          },
+          "categories": [
+            {
+              "id": 46,
+              "name": "Winter Lights",
+              "slug": "winter-lights"
+            }
+          ]
+        },
+        {
+          "id": 133023,
+          "global_id": "shelburnemuseum.org?id=133023",
+          "url": "https://shelburnemuseum.org/event/sensory-friendly-winter-lights-2-4/",
+          "title": "Sensory Friendly Winter Lights",
+          "description": "<p>Join us for a gentle, less crowded, supported experience geared towards individuals with sensory needs. Each time slot will have a smaller number of tickets available, meaning you’ll have more space to explore and less dense crowds on the Museum grounds.</p>\n<p>Sensory-Friendly elements include:</p>\n<ul>\n<li>A social narrative</li>\n<li>Know-Before-You-Go materials</li>\n<li>Staffing by the Education Team who will greet you and provide assistance and guidance during the event</li>\n<li>Encouragement to bring headphones, fidgets, and any support materials that you may need</li>\n<li>Lights and sound are not adjusted, but are gentle and soft throughout the grounds</li>\n</ul>\n<p>Please reach out to us with any questions or to talk through any accessibility needs by emailing <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or calling [contact omitted].</p>\n<p>The next Sensory Friendly Winter Lights is happening on <a href=\"https://shelburnemuseum.org/event/sensory-friendly-winter-lights-2/2026-12-14/\">December 14</a>. </p>",
+          "all_day": false,
+          "start_date": "2026-11-30 16:30:00",
+          "end_date": "2026-11-30 20:00:00",
+          "utc_start_date": "2026-11-30 21:30:00",
+          "utc_end_date": "2026-12-01 01:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 349,
+            "venue": "Museum Grounds",
+            "url": "https://shelburnemuseum.org/venue/museum-grounds/",
+            "address": "PCAE auditorium"
+          },
+          "categories": [
+            {
+              "id": 46,
+              "name": "Winter Lights",
+              "slug": "winter-lights"
+            }
+          ]
+        },
+        {
+          "id": 10001778,
+          "global_id": "shelburnemuseum.org?id=10001778",
+          "url": "https://shelburnemuseum.org/event/winter-lights-drive-around-night/2026-12-01/",
+          "title": "Winter Lights: Drive-Around Night",
+          "description": "<h5 class=\"s10\"><span class=\"s5\">Visitors</span> <span class=\"s5\">follow a lead car</span><span class=\"s5\"> in their own vehicles</span><span class=\"s5\"> on a</span> <span class=\"s5\">single loop through the miraculous light displays</span><span class=\"s5\">.</span></h5>\n<p>&nbsp;</p>\n<div class=\"s10\"><span class=\"s5\"><strong>Entry times: 4:30-7:30 p.m. on the half-hour. </strong>Each </span><span class=\"s5\">D</span><span class=\"s5\">rive</span><span class=\"s5\">-around loop last</span><span class=\"s5\">s</span><span class=\"s5\"> approximately 15 minutes.</span></div>\n<div> </div>\n<div class=\"s10\"><strong><span class=\"s5\">For safety reasons, visitors must remain in their vehicles for the duration of the drive-around.</span></strong><span class=\"s5\"> The caravan will stop at key locations so that visitors can roll down their windows to enjoy the music and take pictures from the safety and comfort of their vehicles.</span></div>\n<div> </div>\n<div class=\"s10\"><span class=\"s5\">Upon arrival, please </span><span class=\"s5\">present your </span><span class=\"s5\">vehicle’s</span><span class=\"s5\"> ticket to a staff member stationed in </span><span class=\"s5\">the circle in </span><span class=\"s5\">front of </span><span class=\"s5\">the Museum Store/Admissions building</span><span class=\"s5\">.</span></div>\n<div> </div>\n<div> </div>\n<div> </div>",
+          "all_day": false,
+          "start_date": "2026-12-01 16:30:00",
+          "end_date": "2026-12-01 20:00:00",
+          "utc_start_date": "2026-12-01 21:30:00",
+          "utc_end_date": "2026-12-02 01:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 349,
+            "venue": "Museum Grounds",
+            "url": "https://shelburnemuseum.org/venue/museum-grounds/",
+            "address": "PCAE auditorium"
+          },
+          "categories": [
+            {
+              "id": 46,
+              "name": "Winter Lights",
+              "slug": "winter-lights"
+            }
+          ]
+        },
+        {
+          "id": 10001779,
+          "global_id": "shelburnemuseum.org?id=10001779",
+          "url": "https://shelburnemuseum.org/event/winter-lights-drive-around-night/2026-12-02/",
+          "title": "Winter Lights: Drive-Around Night",
+          "description": "<h5 class=\"s10\"><span class=\"s5\">Visitors</span> <span class=\"s5\">follow a lead car</span><span class=\"s5\"> in their own vehicles</span><span class=\"s5\"> on a</span> <span class=\"s5\">single loop through the miraculous light displays</span><span class=\"s5\">.</span></h5>\n<p>&nbsp;</p>\n<div class=\"s10\"><span class=\"s5\"><strong>Entry times: 4:30-7:30 p.m. on the half-hour. </strong>Each </span><span class=\"s5\">D</span><span class=\"s5\">rive</span><span class=\"s5\">-around loop last</span><span class=\"s5\">s</span><span class=\"s5\"> approximately 15 minutes.</span></div>\n<div> </div>\n<div class=\"s10\"><strong><span class=\"s5\">For safety reasons, visitors must remain in their vehicles for the duration of the drive-around.</span></strong><span class=\"s5\"> The caravan will stop at key locations so that visitors can roll down their windows to enjoy the music and take pictures from the safety and comfort of their vehicles.</span></div>\n<div> </div>\n<div class=\"s10\"><span class=\"s5\">Upon arrival, please </span><span class=\"s5\">present your </span><span class=\"s5\">vehicle’s</span><span class=\"s5\"> ticket to a staff member stationed in </span><span class=\"s5\">the circle in </span><span class=\"s5\">front of </span><span class=\"s5\">the Museum Store/Admissions building</span><span class=\"s5\">.</span></div>\n<div> </div>\n<div> </div>\n<div> </div>",
+          "all_day": false,
+          "start_date": "2026-12-02 16:30:00",
+          "end_date": "2026-12-02 20:00:00",
+          "utc_start_date": "2026-12-02 21:30:00",
+          "utc_end_date": "2026-12-03 01:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 349,
+            "venue": "Museum Grounds",
+            "url": "https://shelburnemuseum.org/venue/museum-grounds/",
+            "address": "PCAE auditorium"
+          },
+          "categories": [
+            {
+              "id": 46,
+              "name": "Winter Lights",
+              "slug": "winter-lights"
+            }
+          ]
+        },
+        {
+          "id": 10001793,
+          "global_id": "shelburnemuseum.org?id=10001793",
+          "url": "https://shelburnemuseum.org/event/winter-lights-4/2026-12-03/",
+          "title": "Winter Lights",
+          "description": "<p><span class=\"s10\">Visitors are invited to bundle up and stroll the museum’s grounds, where iconic landmarks are transformed into a glittering wonderland. Featuring familiar and iconic favorites such as the 220-foot steamboat <em>Ticonderoga</em> and the charming model train village in the Diamond Barn. Each season brings new and refreshed installations. This season features the magical woodland creatures of artist Calvin Laituri in the twinkling pine grove of Beach Woods.</span></p>\n<p>&nbsp;</p>\n<p class=\"s11\"><span class=\"s9\">Tickets &amp; Pricing:</span></p>\n<ul>\n<li><span class=\"s9\">Online advance purchase</span><span class=\"s10\">: $20 adults / $10 children ages 3–17 / Free for children under 3. These are timed tickets, sold for specific time slots.</span></li>\n<li><span class=\"s9\">At the door</span><span class=\"s10\">: $25 adults / $12 children ages 3–17</span></li>\n<li><span class=\"s9\">Anytime VIP ticket</span><span class=\"s10\">: $35 (Valid for one Walk-through night; no reservation required)<br />\n</span></li>\n</ul>",
+          "all_day": false,
+          "start_date": "2026-12-03 16:30:00",
+          "end_date": "2026-12-03 20:00:00",
+          "utc_start_date": "2026-12-03 21:30:00",
+          "utc_end_date": "2026-12-04 01:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 349,
+            "venue": "Museum Grounds",
+            "url": "https://shelburnemuseum.org/venue/museum-grounds/",
+            "address": "PCAE auditorium"
+          },
+          "categories": [
+            {
+              "id": 46,
+              "name": "Winter Lights",
+              "slug": "winter-lights"
+            }
+          ]
+        },
+        {
+          "id": 10001794,
+          "global_id": "shelburnemuseum.org?id=10001794",
+          "url": "https://shelburnemuseum.org/event/winter-lights-4/2026-12-04/",
+          "title": "Winter Lights",
+          "description": "<p><span class=\"s10\">Visitors are invited to bundle up and stroll the museum’s grounds, where iconic landmarks are transformed into a glittering wonderland. Featuring familiar and iconic favorites such as the 220-foot steamboat <em>Ticonderoga</em> and the charming model train village in the Diamond Barn. Each season brings new and refreshed installations. This season features the magical woodland creatures of artist Calvin Laituri in the twinkling pine grove of Beach Woods.</span></p>\n<p>&nbsp;</p>\n<p class=\"s11\"><span class=\"s9\">Tickets &amp; Pricing:</span></p>\n<ul>\n<li><span class=\"s9\">Online advance purchase</span><span class=\"s10\">: $20 adults / $10 children ages 3–17 / Free for children under 3. These are timed tickets, sold for specific time slots.</span></li>\n<li><span class=\"s9\">At the door</span><span class=\"s10\">: $25 adults / $12 children ages 3–17</span></li>\n<li><span class=\"s9\">Anytime VIP ticket</span><span class=\"s10\">: $35 (Valid for one Walk-through night; no reservation required)<br />\n</span></li>\n</ul>",
+          "all_day": false,
+          "start_date": "2026-12-04 16:30:00",
+          "end_date": "2026-12-04 20:00:00",
+          "utc_start_date": "2026-12-04 21:30:00",
+          "utc_end_date": "2026-12-05 01:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 349,
+            "venue": "Museum Grounds",
+            "url": "https://shelburnemuseum.org/venue/museum-grounds/",
+            "address": "PCAE auditorium"
+          },
+          "categories": [
+            {
+              "id": 46,
+              "name": "Winter Lights",
+              "slug": "winter-lights"
+            }
+          ]
+        },
+        {
+          "id": 10001795,
+          "global_id": "shelburnemuseum.org?id=10001795",
+          "url": "https://shelburnemuseum.org/event/winter-lights-4/2026-12-05/",
+          "title": "Winter Lights",
+          "description": "<p><span class=\"s10\">Visitors are invited to bundle up and stroll the museum’s grounds, where iconic landmarks are transformed into a glittering wonderland. Featuring familiar and iconic favorites such as the 220-foot steamboat <em>Ticonderoga</em> and the charming model train village in the Diamond Barn. Each season brings new and refreshed installations. This season features the magical woodland creatures of artist Calvin Laituri in the twinkling pine grove of Beach Woods.</span></p>\n<p>&nbsp;</p>\n<p class=\"s11\"><span class=\"s9\">Tickets &amp; Pricing:</span></p>\n<ul>\n<li><span class=\"s9\">Online advance purchase</span><span class=\"s10\">: $20 adults / $10 children ages 3–17 / Free for children under 3. These are timed tickets, sold for specific time slots.</span></li>\n<li><span class=\"s9\">At the door</span><span class=\"s10\">: $25 adults / $12 children ages 3–17</span></li>\n<li><span class=\"s9\">Anytime VIP ticket</span><span class=\"s10\">: $35 (Valid for one Walk-through night; no reservation required)<br />\n</span></li>\n</ul>",
+          "all_day": false,
+          "start_date": "2026-12-05 16:30:00",
+          "end_date": "2026-12-05 20:00:00",
+          "utc_start_date": "2026-12-05 21:30:00",
+          "utc_end_date": "2026-12-06 01:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 349,
+            "venue": "Museum Grounds",
+            "url": "https://shelburnemuseum.org/venue/museum-grounds/",
+            "address": "PCAE auditorium"
+          },
+          "categories": [
+            {
+              "id": 46,
+              "name": "Winter Lights",
+              "slug": "winter-lights"
+            }
+          ]
+        },
+        {
+          "id": 10001796,
+          "global_id": "shelburnemuseum.org?id=10001796",
+          "url": "https://shelburnemuseum.org/event/winter-lights-4/2026-12-06/",
+          "title": "Winter Lights",
+          "description": "<p><span class=\"s10\">Visitors are invited to bundle up and stroll the museum’s grounds, where iconic landmarks are transformed into a glittering wonderland. Featuring familiar and iconic favorites such as the 220-foot steamboat <em>Ticonderoga</em> and the charming model train village in the Diamond Barn. Each season brings new and refreshed installations. This season features the magical woodland creatures of artist Calvin Laituri in the twinkling pine grove of Beach Woods.</span></p>\n<p>&nbsp;</p>\n<p class=\"s11\"><span class=\"s9\">Tickets &amp; Pricing:</span></p>\n<ul>\n<li><span class=\"s9\">Online advance purchase</span><span class=\"s10\">: $20 adults / $10 children ages 3–17 / Free for children under 3. These are timed tickets, sold for specific time slots.</span></li>\n<li><span class=\"s9\">At the door</span><span class=\"s10\">: $25 adults / $12 children ages 3–17</span></li>\n<li><span class=\"s9\">Anytime VIP ticket</span><span class=\"s10\">: $35 (Valid for one Walk-through night; no reservation required)<br />\n</span></li>\n</ul>",
+          "all_day": false,
+          "start_date": "2026-12-06 16:30:00",
+          "end_date": "2026-12-06 20:00:00",
+          "utc_start_date": "2026-12-06 21:30:00",
+          "utc_end_date": "2026-12-07 01:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 349,
+            "venue": "Museum Grounds",
+            "url": "https://shelburnemuseum.org/venue/museum-grounds/",
+            "address": "PCAE auditorium"
+          },
+          "categories": [
+            {
+              "id": 46,
+              "name": "Winter Lights",
+              "slug": "winter-lights"
+            }
+          ]
+        },
+        {
+          "id": 10001780,
+          "global_id": "shelburnemuseum.org?id=10001780",
+          "url": "https://shelburnemuseum.org/event/winter-lights-drive-around-night/2026-12-08/",
+          "title": "Winter Lights: Drive-Around Night",
+          "description": "<h5 class=\"s10\"><span class=\"s5\">Visitors</span> <span class=\"s5\">follow a lead car</span><span class=\"s5\"> in their own vehicles</span><span class=\"s5\"> on a</span> <span class=\"s5\">single loop through the miraculous light displays</span><span class=\"s5\">.</span></h5>\n<p>&nbsp;</p>\n<div class=\"s10\"><span class=\"s5\"><strong>Entry times: 4:30-7:30 p.m. on the half-hour. </strong>Each </span><span class=\"s5\">D</span><span class=\"s5\">rive</span><span class=\"s5\">-around loop last</span><span class=\"s5\">s</span><span class=\"s5\"> approximately 15 minutes.</span></div>\n<div> </div>\n<div class=\"s10\"><strong><span class=\"s5\">For safety reasons, visitors must remain in their vehicles for the duration of the drive-around.</span></strong><span class=\"s5\"> The caravan will stop at key locations so that visitors can roll down their windows to enjoy the music and take pictures from the safety and comfort of their vehicles.</span></div>\n<div> </div>\n<div class=\"s10\"><span class=\"s5\">Upon arrival, please </span><span class=\"s5\">present your </span><span class=\"s5\">vehicle’s</span><span class=\"s5\"> ticket to a staff member stationed in </span><span class=\"s5\">the circle in </span><span class=\"s5\">front of </span><span class=\"s5\">the Museum Store/Admissions building</span><span class=\"s5\">.</span></div>\n<div> </div>\n<div> </div>\n<div> </div>",
+          "all_day": false,
+          "start_date": "2026-12-08 16:30:00",
+          "end_date": "2026-12-08 20:00:00",
+          "utc_start_date": "2026-12-08 21:30:00",
+          "utc_end_date": "2026-12-09 01:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 349,
+            "venue": "Museum Grounds",
+            "url": "https://shelburnemuseum.org/venue/museum-grounds/",
+            "address": "PCAE auditorium"
+          },
+          "categories": [
+            {
+              "id": 46,
+              "name": "Winter Lights",
+              "slug": "winter-lights"
+            }
+          ]
+        },
+        {
+          "id": 10001781,
+          "global_id": "shelburnemuseum.org?id=10001781",
+          "url": "https://shelburnemuseum.org/event/winter-lights-drive-around-night/2026-12-09/",
+          "title": "Winter Lights: Drive-Around Night",
+          "description": "<h5 class=\"s10\"><span class=\"s5\">Visitors</span> <span class=\"s5\">follow a lead car</span><span class=\"s5\"> in their own vehicles</span><span class=\"s5\"> on a</span> <span class=\"s5\">single loop through the miraculous light displays</span><span class=\"s5\">.</span></h5>\n<p>&nbsp;</p>\n<div class=\"s10\"><span class=\"s5\"><strong>Entry times: 4:30-7:30 p.m. on the half-hour. </strong>Each </span><span class=\"s5\">D</span><span class=\"s5\">rive</span><span class=\"s5\">-around loop last</span><span class=\"s5\">s</span><span class=\"s5\"> approximately 15 minutes.</span></div>\n<div> </div>\n<div class=\"s10\"><strong><span class=\"s5\">For safety reasons, visitors must remain in their vehicles for the duration of the drive-around.</span></strong><span class=\"s5\"> The caravan will stop at key locations so that visitors can roll down their windows to enjoy the music and take pictures from the safety and comfort of their vehicles.</span></div>\n<div> </div>\n<div class=\"s10\"><span class=\"s5\">Upon arrival, please </span><span class=\"s5\">present your </span><span class=\"s5\">vehicle’s</span><span class=\"s5\"> ticket to a staff member stationed in </span><span class=\"s5\">the circle in </span><span class=\"s5\">front of </span><span class=\"s5\">the Museum Store/Admissions building</span><span class=\"s5\">.</span></div>\n<div> </div>\n<div> </div>\n<div> </div>",
+          "all_day": false,
+          "start_date": "2026-12-09 16:30:00",
+          "end_date": "2026-12-09 20:00:00",
+          "utc_start_date": "2026-12-09 21:30:00",
+          "utc_end_date": "2026-12-10 01:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 349,
+            "venue": "Museum Grounds",
+            "url": "https://shelburnemuseum.org/venue/museum-grounds/",
+            "address": "PCAE auditorium"
+          },
+          "categories": [
+            {
+              "id": 46,
+              "name": "Winter Lights",
+              "slug": "winter-lights"
+            }
+          ]
+        },
+        {
+          "id": 10001797,
+          "global_id": "shelburnemuseum.org?id=10001797",
+          "url": "https://shelburnemuseum.org/event/winter-lights-4/2026-12-10/",
+          "title": "Winter Lights",
+          "description": "<p><span class=\"s10\">Visitors are invited to bundle up and stroll the museum’s grounds, where iconic landmarks are transformed into a glittering wonderland. Featuring familiar and iconic favorites such as the 220-foot steamboat <em>Ticonderoga</em> and the charming model train village in the Diamond Barn. Each season brings new and refreshed installations. This season features the magical woodland creatures of artist Calvin Laituri in the twinkling pine grove of Beach Woods.</span></p>\n<p>&nbsp;</p>\n<p class=\"s11\"><span class=\"s9\">Tickets &amp; Pricing:</span></p>\n<ul>\n<li><span class=\"s9\">Online advance purchase</span><span class=\"s10\">: $20 adults / $10 children ages 3–17 / Free for children under 3. These are timed tickets, sold for specific time slots.</span></li>\n<li><span class=\"s9\">At the door</span><span class=\"s10\">: $25 adults / $12 children ages 3–17</span></li>\n<li><span class=\"s9\">Anytime VIP ticket</span><span class=\"s10\">: $35 (Valid for one Walk-through night; no reservation required)<br />\n</span></li>\n</ul>",
+          "all_day": false,
+          "start_date": "2026-12-10 16:30:00",
+          "end_date": "2026-12-10 20:00:00",
+          "utc_start_date": "2026-12-10 21:30:00",
+          "utc_end_date": "2026-12-11 01:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 349,
+            "venue": "Museum Grounds",
+            "url": "https://shelburnemuseum.org/venue/museum-grounds/",
+            "address": "PCAE auditorium"
+          },
+          "categories": [
+            {
+              "id": 46,
+              "name": "Winter Lights",
+              "slug": "winter-lights"
+            }
+          ]
+        },
+        {
+          "id": 10001798,
+          "global_id": "shelburnemuseum.org?id=10001798",
+          "url": "https://shelburnemuseum.org/event/winter-lights-4/2026-12-11/",
+          "title": "Winter Lights",
+          "description": "<p><span class=\"s10\">Visitors are invited to bundle up and stroll the museum’s grounds, where iconic landmarks are transformed into a glittering wonderland. Featuring familiar and iconic favorites such as the 220-foot steamboat <em>Ticonderoga</em> and the charming model train village in the Diamond Barn. Each season brings new and refreshed installations. This season features the magical woodland creatures of artist Calvin Laituri in the twinkling pine grove of Beach Woods.</span></p>\n<p>&nbsp;</p>\n<p class=\"s11\"><span class=\"s9\">Tickets &amp; Pricing:</span></p>\n<ul>\n<li><span class=\"s9\">Online advance purchase</span><span class=\"s10\">: $20 adults / $10 children ages 3–17 / Free for children under 3. These are timed tickets, sold for specific time slots.</span></li>\n<li><span class=\"s9\">At the door</span><span class=\"s10\">: $25 adults / $12 children ages 3–17</span></li>\n<li><span class=\"s9\">Anytime VIP ticket</span><span class=\"s10\">: $35 (Valid for one Walk-through night; no reservation required)<br />\n</span></li>\n</ul>",
+          "all_day": false,
+          "start_date": "2026-12-11 16:30:00",
+          "end_date": "2026-12-11 20:00:00",
+          "utc_start_date": "2026-12-11 21:30:00",
+          "utc_end_date": "2026-12-12 01:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 349,
+            "venue": "Museum Grounds",
+            "url": "https://shelburnemuseum.org/venue/museum-grounds/",
+            "address": "PCAE auditorium"
+          },
+          "categories": [
+            {
+              "id": 46,
+              "name": "Winter Lights",
+              "slug": "winter-lights"
+            }
+          ]
+        },
+        {
+          "id": 10001799,
+          "global_id": "shelburnemuseum.org?id=10001799",
+          "url": "https://shelburnemuseum.org/event/winter-lights-4/2026-12-12/",
+          "title": "Winter Lights",
+          "description": "<p><span class=\"s10\">Visitors are invited to bundle up and stroll the museum’s grounds, where iconic landmarks are transformed into a glittering wonderland. Featuring familiar and iconic favorites such as the 220-foot steamboat <em>Ticonderoga</em> and the charming model train village in the Diamond Barn. Each season brings new and refreshed installations. This season features the magical woodland creatures of artist Calvin Laituri in the twinkling pine grove of Beach Woods.</span></p>\n<p>&nbsp;</p>\n<p class=\"s11\"><span class=\"s9\">Tickets &amp; Pricing:</span></p>\n<ul>\n<li><span class=\"s9\">Online advance purchase</span><span class=\"s10\">: $20 adults / $10 children ages 3–17 / Free for children under 3. These are timed tickets, sold for specific time slots.</span></li>\n<li><span class=\"s9\">At the door</span><span class=\"s10\">: $25 adults / $12 children ages 3–17</span></li>\n<li><span class=\"s9\">Anytime VIP ticket</span><span class=\"s10\">: $35 (Valid for one Walk-through night; no reservation required)<br />\n</span></li>\n</ul>",
+          "all_day": false,
+          "start_date": "2026-12-12 16:30:00",
+          "end_date": "2026-12-12 20:00:00",
+          "utc_start_date": "2026-12-12 21:30:00",
+          "utc_end_date": "2026-12-13 01:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 349,
+            "venue": "Museum Grounds",
+            "url": "https://shelburnemuseum.org/venue/museum-grounds/",
+            "address": "PCAE auditorium"
+          },
+          "categories": [
+            {
+              "id": 46,
+              "name": "Winter Lights",
+              "slug": "winter-lights"
+            }
+          ]
+        },
+        {
+          "id": 10001800,
+          "global_id": "shelburnemuseum.org?id=10001800",
+          "url": "https://shelburnemuseum.org/event/winter-lights-4/2026-12-13/",
+          "title": "Winter Lights",
+          "description": "<p><span class=\"s10\">Visitors are invited to bundle up and stroll the museum’s grounds, where iconic landmarks are transformed into a glittering wonderland. Featuring familiar and iconic favorites such as the 220-foot steamboat <em>Ticonderoga</em> and the charming model train village in the Diamond Barn. Each season brings new and refreshed installations. This season features the magical woodland creatures of artist Calvin Laituri in the twinkling pine grove of Beach Woods.</span></p>\n<p>&nbsp;</p>\n<p class=\"s11\"><span class=\"s9\">Tickets &amp; Pricing:</span></p>\n<ul>\n<li><span class=\"s9\">Online advance purchase</span><span class=\"s10\">: $20 adults / $10 children ages 3–17 / Free for children under 3. These are timed tickets, sold for specific time slots.</span></li>\n<li><span class=\"s9\">At the door</span><span class=\"s10\">: $25 adults / $12 children ages 3–17</span></li>\n<li><span class=\"s9\">Anytime VIP ticket</span><span class=\"s10\">: $35 (Valid for one Walk-through night; no reservation required)<br />\n</span></li>\n</ul>",
+          "all_day": false,
+          "start_date": "2026-12-13 16:30:00",
+          "end_date": "2026-12-13 20:00:00",
+          "utc_start_date": "2026-12-13 21:30:00",
+          "utc_end_date": "2026-12-14 01:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 349,
+            "venue": "Museum Grounds",
+            "url": "https://shelburnemuseum.org/venue/museum-grounds/",
+            "address": "PCAE auditorium"
+          },
+          "categories": [
+            {
+              "id": 46,
+              "name": "Winter Lights",
+              "slug": "winter-lights"
+            }
+          ]
+        },
+        {
+          "id": 132978,
+          "global_id": "shelburnemuseum.org?id=132978",
+          "url": "https://shelburnemuseum.org/event/sensory-friendly-winter-lights-2/",
+          "title": "Sensory Friendly Winter Lights",
+          "description": "<p>Join us for a gentle, less crowded, supported experience geared towards individuals with sensory needs. Each time slot will have a smaller number of tickets available, meaning you’ll have more space to explore and less dense crowds on the Museum grounds.</p>\n<p>Sensory-Friendly elements include:</p>\n<ul>\n<li>A social narrative</li>\n<li>Know-Before-You-Go materials</li>\n<li>Staffing by the Education Team who will greet you and provide assistance and guidance during the event</li>\n<li>Encouragement to bring headphones, fidgets, and any support materials that you may need</li>\n<li>Lights and sound are not adjusted, but are gentle and soft throughout the grounds</li>\n</ul>\n<p>Please reach out to us with any questions or to talk through any accessibility needs by emailing <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or calling [contact omitted].</p>",
+          "all_day": false,
+          "start_date": "2026-12-14 16:30:00",
+          "end_date": "2026-12-14 20:00:00",
+          "utc_start_date": "2026-12-14 21:30:00",
+          "utc_end_date": "2026-12-15 01:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 349,
+            "venue": "Museum Grounds",
+            "url": "https://shelburnemuseum.org/venue/museum-grounds/",
+            "address": "PCAE auditorium"
+          },
+          "categories": [
+            {
+              "id": 46,
+              "name": "Winter Lights",
+              "slug": "winter-lights"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

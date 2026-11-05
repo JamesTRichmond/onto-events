@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wp-events-plugin.com//7.4.6//EN
+TZID:America/New_York
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:12198@jackofthewood.com
+DTSTART;TZID=America/New_York:20261008T190000
+DTEND;TZID=America/New_York:20261008T213000
+DTSTAMP:20260718T224350Z
+URL:https://jackofthewood.com/events/bluegrass-jam-3-2026-10-08/
+SUMMARY:BLUEGRASS JAM
+DESCRIPTION:\nDon't miss your chance to check out some of the best pickers 
+ from all over WNC at our celebrated Bluegrass Jam curated by the multi-tal
+ ented Drew Matulich — every Thursday starting at 7:00 pm!\n\n\n\nIt's al
+ ways a show-stopping night of extraordinary musicianship —&nbsp\;and it'
+ s only at Jack of the Wood Pub!&nbsp\;\n\n\n\nOpen jam follows at 9:30 pm.
+ \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+ATTACH;FMTTYPE=image/jpeg:https://jackofthewood.com/wp-content/uploads/202
+ 4/10/JOTW_THU-BluegrassJam_2025_IG_1080x1350.jpg
+END:VEVENT
+BEGIN:VEVENT
+UID:12222@jackofthewood.com
+DTSTART;TZID=America/New_York:20261009T203000
+DTEND;TZID=America/New_York:20261009T233000
+DTSTAMP:20261006T213002Z
+URL:https://jackofthewood.com/events/john-keck-band-2/
+SUMMARY:John Keck Band
+DESCRIPTION:\nJohn Keck is originally from California\, but now lives in As
+ heville\, North Carolina. While living in California\, John had a record d
+ eal with Epic in the 90s with his band “Hand of Fate.” John has played
+  with people from the Red Hot Chili Peppers\, Pearl Jam and Smashing Pumpk
+ ins. His earlier stuff was Alternative Rock. John stopped playing music ov
+ er 25 years ago\, but started writing songs and playing again in 2018. Joh
+ n’s music is influenced by Tom Petty\, Led Zepplin\, The Rolling Stones\
+ , David Bowie\, Pink Floyd and The Beatles. His band\, John Keck Band is p
+ laying in the Asheville area.\n\n\n\nMusic 8:30-11:30pm $10 cover at the d
+ oor.\n\n\n\n\nhttps://www.youtube.com/watch?v=Y7Rx-_9-JFs\n\n\n\n\n\n
+ATTACH;FMTTYPE=image/jpeg:https://jackofthewood.com/wp-content/uploads/202
+ 6/08/10-09-26_JohnKeckBand_IG_1080x1440.jpg
+END:VEVENT
+BEGIN:VEVENT
+UID:12117@jackofthewood.com
+DTSTART;TZID=America/New_York:20261011T120000
+DTEND;TZID=America/New_York:20261011T150000
+DTSTAMP:20260803T151138Z
+URL:https://jackofthewood.com/events/bluegrass-brunch-5-2026-10-11/
+SUMMARY:BLUEGRASS BRUNCH
+DESCRIPTION:\nJack’s Bluegrass Brunch kicks off every Sunday at noon with
+  toe-tappin' tunes courtesy of The Bluegrass Brunch Boys — featuring som
+ e of Asheville's finest musicians\, including ANDREW WAKEFIELD\, JAMES SCH
+ LENDER\, ADAM BACHMAN\, &amp\; ZACHARY DYKE — going until 2pm!\n\n\n\nKi
+ ck your Sunday Funday off right with a Bloody Mary or mimosa while enjoyin
+ g the live music and indulging in our delicious menu of brunch dishes (ser
+ ved until 3pm) and pub favorites.\n\n\n\nOur classic pub fare menu resumes
+  at 3:00\, with our TRADITIONAL IRISH MUSIC SESSION beginning at 3:30 — 
+ and going until close!&nbsp\;Sláinte\, y’all!\n\n\n\n\n\n\n\n\n
+ATTACH;FMTTYPE=image/jpeg:https://jackofthewood.com/wp-content/uploads/202
+ 5/11/JOTW_SUN-BluegrassBrunchBoys_2025_IG_1080x1350.jpg
+END:VEVENT
+BEGIN:VEVENT
+UID:12081@jackofthewood.com
+DTSTART;TZID=America/New_York:20261011T153000
+DTEND;TZID=America/New_York:20261011T210000
+DTSTAMP:20260718T213026Z
+URL:https://jackofthewood.com/events/traditional-irish-music-session-2026-
+ 09-06-2026-09-13-2026-09-20-2026-09-27-2026-10-04-2026-10-11/
+SUMMARY:TRADITIONAL IRISH MUSIC SESSION
+DESCRIPTION:\nJack's long-running Traditional Irish Music Session is the pe
+ rfect way to enjoy the Celtic-influenced sounds of talented musicians from
+  all over WNC &amp\; further afield!\n\n\n\nStop in to enjoy the music —
+  going strong from 3:30pm until close — along with a pint or and Irish
+  coffee and the best public house fare in town! \n\n\n\nSláinte\, y'all!\
+ n\n\n\n\n
+ATTACH;FMTTYPE=image/jpeg:https://jackofthewood.com/wp-content/uploads/202
+ 5/11/JOTW_SUN-IrishMusicSession_2025_IG_1080x1350.jpg
+END:VEVENT
+BEGIN:VEVENT
+UID:12230@jackofthewood.com
+DTSTART;TZID=America/New_York:20261031T203000
+DTEND;TZID=America/New_York:20261031T233000
+DTSTAMP:20261007T165448Z
+URL:https://jackofthewood.com/events/ghost-ship-halloween-featuring-nelson
+ s-blood/
+SUMMARY:Ghost Ship Halloween Featuring Nelson's Blood
+DESCRIPTION:\nAhoy me mateys and happy Halloween from all of us here at Jac
+ k of the Wood! Come join us for our ghost ship themed Halloween party! Don
+  your patches and parrots\, your bracers and bangles\, and your boots and 
+ booty for this one of a kind celebration that you can only find right here
+  at Jack's! Ghoukish grogs &amp\; pirate punches a'plenty\, late-night foo
+ d\, and a costume contest — pirate garb encouraged!Entertainment will be
+  provided all night by Asheville's premier pirate band\, Nelson's Blood! T
+ hat's right folks\, we have a legit pirate band. Be there\, lest ye be squ
+ are.Music 8:30-11:30pm $10 cover at the door.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+ n\n\n
+ATTACH;FMTTYPE=image/jpeg:https://jackofthewood.com/wp-content/uploads/202
+ 6/09/10-31-26_NelsonsBlood-HALLOWEEN_IG_1080x1440.jpg
+END:VEVENT
+BEGIN:VEVENT
+UID:12211@jackofthewood.com
+DTSTART;TZID=America/New_York;VALUE=DATE:20261126
+DTEND;TZID=America/New_York;VALUE=DATE:20261127
+DTSTAMP:20260718T230652Z
+URL:https://jackofthewood.com/events/closed-for-thanksgiving-5/
+SUMMARY:CLOSED for THANKSGIVING
+DESCRIPTION:\n\n
+ATTACH;FMTTYPE=image/jpeg:https://jackofthewood.com/wp-content/uploads/202
+ 5/11/JOTW_THANKSGIVING_2025_CLOSED.jpg
+END:VEVENT
+END:VCALENDAR

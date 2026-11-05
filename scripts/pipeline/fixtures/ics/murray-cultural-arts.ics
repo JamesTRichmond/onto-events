@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+PRODID:iCalendar-Ruby
+VERSION:2.0
+X-WR-TIMEZONE:America/Denver
+BEGIN:VTIMEZONE
+TZID:America/Denver
+X-LIC-LOCATION:America/Denver
+BEGIN:STANDARD
+DTSTART:20241103T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:MST
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20250309T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:MDT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DESCRIPTION: https://www.murray.utah.gov/calendar.aspx?EID=3267
+DTEND;TZID=America/Denver:20261012T200000
+DTSTAMP;TZID=America/Denver:20260403T111853
+DTSTART;TZID=America/Denver:20261012T190000
+LAST-MODIFIED;TZID=America/Denver:20260403T111853
+LOCATION:<p>Murray Senior Recreation Center</p> - 10 E 6150 S  Murray UT 
+SEQUENCE:0
+SUMMARY:Family Night Concert
+UID:3267
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: https://www.murray.utah.gov/calendar.aspx?EID=3291
+DTEND;TZID=America/Denver:20260926T220000
+DTSTAMP;TZID=America/Denver:20260403T115021
+DTSTART;TZID=America/Denver:20260926T190000
+LAST-MODIFIED;TZID=America/Denver:20260403T115021
+LOCATION:<p>Murray Park Amphitheater</p> - 495 E 5300 South  Murray UT 
+SEQUENCE:0
+SUMMARY:End of the Line: Allman Brother Tribute
+UID:3291
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: https://www.murray.utah.gov/calendar.aspx?EID=3266
+DTEND;TZID=America/Denver:20260914T200000
+DTSTAMP;TZID=America/Denver:20260403T111744
+DTSTART;TZID=America/Denver:20260914T190000
+LAST-MODIFIED;TZID=America/Denver:20260403T111744
+LOCATION:<p>Murray Senior Recreation Center</p> - 10 E 6150 S  Murray UT 
+SEQUENCE:0
+SUMMARY:Family Night Concert
+UID:3266
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: https://www.murray.utah.gov/calendar.aspx?EID=3290
+DTEND;TZID=America/Denver:20260912T220000
+DTSTAMP;TZID=America/Denver:20260403T114822
+DTSTART;TZID=America/Denver:20260912T190000
+LAST-MODIFIED;TZID=America/Denver:20260403T114822
+LOCATION:<p>Murray Park Amphitheater</p> - 495 E 5300 South  Murray UT 
+SEQUENCE:0
+SUMMARY:Always Tina: The Tribute to Tina Turner
+UID:3290
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: https://www.murray.utah.gov/calendar.aspx?EID=3292
+DTEND;TZID=America/Denver:20260905T220000
+DTSTAMP;TZID=America/Denver:20260617T122824
+DTSTART;TZID=America/Denver:20260905T190000
+LAST-MODIFIED;TZID=America/Denver:20260617T122824
+LOCATION:<p>Murray Park Amphitheater</p> - 495 E 5300 South  Murray UT 
+SEQUENCE:0
+SUMMARY:Ronstadt Revival: Tribute to a Legend
+UID:3292
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
+END:VEVENT
+END:VCALENDAR

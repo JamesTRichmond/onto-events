@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//San Francisco Fixture//EN
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:san-mateo-library-sancarlos-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T180000Z
+DTEND:20261024T193000Z
+SUMMARY:Peninsula Youth STEAM Maker Workshop
+DESCRIPTION:Interactive science and fabrication workshop featuring 3D pens, circuit building, and coding.
+LOCATION:San Mateo County Libraries (San Carlos Branch)
+URL:https://smcl.org/locations/san-carlos/
+END:VEVENT
+BEGIN:VEVENT
+UID:san-mateo-library-sancarlos-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:San Carlos Family Storybook Morning
+DESCRIPTION:Lively group songs, movement games, and engaging storybooks for preschoolers.
+LOCATION:San Mateo County Libraries (San Carlos Branch)
+URL:https://smcl.org/locations/san-carlos/
+END:VEVENT
+END:VCALENDAR

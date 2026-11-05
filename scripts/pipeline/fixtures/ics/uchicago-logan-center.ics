@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:uchicago-logan-center-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Logan Center Jazz at the Center Showcase
+DESCRIPTION:Live evening jazz showcase featuring Chicago South Side improvisers and guest artists in the Performance Penthouse.
+LOCATION:Reva and David Logan Center for the Arts
+URL:https://arts.uchicago.edu/logan-center
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-logan-center-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Logan Center Gallery Opening Reception
+DESCRIPTION:Public opening reception for contemporary visual art installation with artist walkthrough.
+LOCATION:Reva and David Logan Center for the Arts
+URL:https://arts.uchicago.edu/logan-center
+END:VEVENT
+END:VCALENDAR

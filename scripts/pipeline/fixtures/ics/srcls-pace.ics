@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Pensacola Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:srcls-pace-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Pace Library Preschool Story & Song Circle
+DESCRIPTION:Interactive morning storytime and music play for preschoolers and caregivers in Pace.
+LOCATION:Pace Library (SRCLS)
+URL:https://www.santarosa.fl.gov/165/Pace-Library
+END:VEVENT
+BEGIN:VEVENT
+UID:srcls-pace-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Pace Teen & Tweens Creative Coding Lab
+DESCRIPTION:After-school game design and introductory programming session at Pace Library.
+LOCATION:Pace Library (SRCLS)
+URL:https://www.santarosa.fl.gov/165/Pace-Library
+END:VEVENT
+END:VCALENDAR

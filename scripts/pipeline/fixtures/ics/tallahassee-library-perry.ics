@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Dr. B.L. Perry, Jr. Branch Library//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dr. B.L. Perry, Jr. Branch Library
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T020000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T020000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:lcpl-perry-001@leoncountyfl.gov
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260915T160000
+DTEND;TZID=America/New_York:20260915T180000
+SUMMARY:Homework Hub @ Dr. B.L. Perry\, Jr. Branch
+DESCRIPTION:Students in kindergarten through 8th grade can receive in-person homework assistance and study support from library tutors.
+LOCATION:Dr. B.L. Perry\, Jr. Branch Library
+URL:https://leoncountyfl.libcal.com/event/17593002
+CATEGORIES:learning,community
+END:VEVENT
+BEGIN:VEVENT
+UID:lcpl-perry-002@leoncountyfl.gov
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260916T110000
+DTEND;TZID=America/New_York:20260916T123000
+SUMMARY:Coffee and Cards @ Dr. B.L. Perry\, Jr. Branch
+DESCRIPTION:Join us every Wednesday for card games\, board games\, fresh coffee\, and good conversation for adults and seniors.
+LOCATION:Dr. B.L. Perry\, Jr. Branch Library
+URL:https://leoncountyfl.libcal.com/event/16301219
+CATEGORIES:community
+END:VEVENT
+BEGIN:VEVENT
+UID:lcpl-perry-003@leoncountyfl.gov
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260919T110000
+DTEND;TZID=America/New_York:20260919T120000
+SUMMARY:Family Story Time @ Dr. B.L. Perry\, Jr. Branch
+DESCRIPTION:Enjoy stories\, songs and interactive rhymes that build early literacy skills for young children and families.
+LOCATION:Dr. B.L. Perry\, Jr. Branch Library
+URL:https://leoncountyfl.libcal.com/event/10862076
+CATEGORIES:learning,family
+END:VEVENT
+END:VCALENDAR

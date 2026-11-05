@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FSU Arts & Entertainment//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FSU Arts & Entertainment
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T020000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T020000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:fsu-arts-001@calendar.fsu.edu
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260926T193000
+DTEND;TZID=America/New_York:20260926T213000
+SUMMARY:Opening Nights: An Evening with Rhiannon Giddens
+DESCRIPTION:Opening Nights presents Grammy-winning artist and MacArthur Fellow Rhiannon Giddens in concert at Ruby Diamond.
+LOCATION:Ruby Diamond Concert Hall (RDCH)
+URL:https://calendar.fsu.edu/event/rhiannon-giddens-opening-nights
+CATEGORIES:music,arts
+END:VEVENT
+BEGIN:VEVENT
+UID:fsu-arts-002@calendar.fsu.edu
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20261003T180000
+DTEND;TZID=America/New_York:20261003T203000
+SUMMARY:FSU Department of Art: Faculty Triennial Exhibition Opening
+DESCRIPTION:Gala reception showcasing recent contemporary works in painting\, sculpture\, and new media by FSU visual arts faculty.
+LOCATION:Museum of Fine Arts
+URL:https://calendar.fsu.edu/event/faculty-triennial-opening
+CATEGORIES:arts
+END:VEVENT
+BEGIN:VEVENT
+UID:fsu-arts-003@calendar.fsu.edu
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20261017T200000
+DTEND;TZID=America/New_York:20261017T223000
+SUMMARY:FSU School of Theatre: Fall Mainstage Drama
+DESCRIPTION:FSU School of Theatre presents its critically acclaimed fall mainstage dramatic production.
+LOCATION:Ruby Diamond Concert Hall (RDCH)
+URL:https://calendar.fsu.edu/event/fall-mainstage-drama
+CATEGORIES:theatre,arts
+END:VEVENT
+BEGIN:VEVENT
+UID:fsu-arts-004@calendar.fsu.edu
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20261024T210000
+DTEND;TZID=America/New_York:20261024T233000
+SUMMARY:ASLC Midnight Movie: Classic 35mm Cinema
+DESCRIPTION:Special late-night screening of a restored 35mm classic print at the Askew Student Life Center theater.
+LOCATION:Askew Student Life Center\, Theater
+URL:https://calendar.fsu.edu/event/aslc-midnight-movie
+CATEGORIES:film,arts
+END:VEVENT
+END:VCALENDAR

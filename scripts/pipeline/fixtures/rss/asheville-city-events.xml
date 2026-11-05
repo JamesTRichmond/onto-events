@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Events — The City of Asheville (sanitized 3-item fixture)</title>
+  <link>https://www.ashevillenc.gov/events/</link>
+  <description>Three items from https://www.ashevillenc.gov/events/feed/ checked 2026-10-18. HTML bodies removed. The live feed had no location element; page venues are in the registry note, not invented here as ev:location.</description>
+  <item>
+    <title>Historic Resources Commission Executive Committee (Virtual)</title>
+    <link>https://www.ashevillenc.gov/event/historic-resources-commission-executive-committee-virtual-10/</link>
+    <pubDate>Tue, 20 Oct 2026 13:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://www.ashevillenc.gov/event/historic-resources-commission-executive-committee-virtual-10/</guid>
+    <description>Sanitized. Operator page checked 2026-10-18: October 20, 9:00 AM to 11:00 AM, online. Description HTML omitted.</description>
+  </item>
+  <item>
+    <title>Ribbon cutting for the Broadway Public Safety Station Public Art project</title>
+    <link>https://www.ashevillenc.gov/event/ribbon-cutting-for-the-broadway-public-safety-station-public-art-project/</link>
+    <pubDate>Tue, 20 Oct 2026 21:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://www.ashevillenc.gov/event/ribbon-cutting-for-the-broadway-public-safety-station-public-art-project/</guid>
+    <description>Sanitized. Operator page checked 2026-10-18: October 20, 5:00 PM to 6:00 PM, Reed Creek Greenway at the Cawtaba Street intersection. Description HTML omitted.</description>
+  </item>
+  <item>
+    <title>Burton St Community Association Monthly Meeting</title>
+    <link>https://www.ashevillenc.gov/event/burton-st-community-association-monthly-meeting-12/</link>
+    <pubDate>Tue, 20 Oct 2026 22:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://www.ashevillenc.gov/event/burton-st-community-association-monthly-meeting-12/</guid>
+    <description>Sanitized. Operator page checked 2026-10-18: October 20, 6:00 PM to 7:00 PM, Burton Street Community Center, 134 Burton St, Asheville, NC 28806. Description HTML omitted.</description>
+  </item>
+</channel>
+</rss>

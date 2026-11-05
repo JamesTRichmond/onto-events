@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Boston Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:cpl-cambridge-main-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Cambridge Children’s Room Story & STEM Morning
+DESCRIPTION:Interactive storytelling, sensory tactile discovery, and early science exploration for children and caregivers.
+LOCATION:Cambridge Public Library (Main Library)
+URL:https://www.cambridgema.gov/cpl
+END:VEVENT
+BEGIN:VEVENT
+UID:cpl-cambridge-main-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Cambridge Center for Adult Education & Library Lecture
+DESCRIPTION:Evening public forum exploring civic technology, artificial intelligence ethics, and public policy in the Rossi Auditorium.
+LOCATION:Cambridge Public Library (Main Library)
+URL:https://www.cambridgema.gov/cpl
+END:VEVENT
+END:VCALENDAR

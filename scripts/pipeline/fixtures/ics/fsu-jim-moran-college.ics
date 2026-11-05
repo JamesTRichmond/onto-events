@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Calendar - Jim Moran College of Entrepreneurship
+X-WR-TIMEZONE:Eastern Time (US & Canada)
+BEGIN:VEVENT
+DTSTAMP:20261015T235335Z
+UID:tag:localist.com\,2008:EventInstance_54224426906314
+DTSTART:20261015T180000Z
+DTEND:20261015T200000Z
+DESCRIPTION:🎬 Show Her the Money: Film Screening & Fireside Chat\n\n \n\n📅 Thursday\, October 15\, 2026\n🕑 Film Screening: 2:00 PM | Fireside Chat: 3:30 PM\n🚪 Doors Open: 1:45 PM\n📍 FSU ASLC Building | 942 Learning Way\, Tallahassee\, FL\n\n \n\nBig ideas deserve big opportunities—and women entrepreneurs deserve a seat at the table.\n\nJoin us for a special screening of Show Her the Money\, an award-winning documentary that pulls back the curtain on the world of venture capital and shines a spotlight on the women working to change the game.\n\nNamed by U.S. News & World Report as one of the top financial films of the decade\, Show Her the Money has been screened in more than 100 cities worldwide—and now it's coming to FSU!\n\nFollowing the screening\, stick around for an engaging fireside chat featuring Catherine Gray\, Executive Producer of Show Her the Money\, moderated by Lesley Robinson of Embolden Education.\n\n \n\n🎬 Watch an award-winning documentary exploring women\, entrepreneurship\, and venture capital\n💡 Discover the challenges and opportunities facing women seeking investment\n🎤 Hear directly from the film's executive producer during a special fireside chat\n🤝 Connect with a conversation about innovation\, investment\, and creating opportunities for women entrepreneurs\n\n \n\nWhether you're an aspiring entrepreneur\, interested in investing\, or simply passionate about breaking barriers\, this is a conversation you won't want to miss!\n\n \n\nCome for the film. Stay for the conversation. Leave inspired to change the game.
+GEO:30.440947;-84.299528
+LOCATION:Askew Student Life Center\, Theater
+SUMMARY:Show Her the Money Film Screening & Fireside Chat
+URL;VALUE=URI:https://calendar.fsu.edu/event/show-her-the-money-film-screening-fireside-chat
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Film Screening
+CATEGORIES:Academic/Registrar
+CATEGORIES:Panel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235335Z
+UID:tag:localist.com\,2008:EventInstance_53790746445553
+DTSTART:20261028T220000Z
+DTEND:20261029T000000Z
+DESCRIPTION:Jim Moran College’s Mentor Night takes place on the last Wednesday of each month from 6–8 PM at the Jim Moran Building (111 South Monroe St\, Downtown Tallahassee).\n\nThis event is open to all FSU students and all community members.\n\nThe goal of this event is to foster meaningful mentoring relationships between FSU student entrepreneurs\, community entrepreneurs\, and experienced business leaders. Each session includes networking and the opportunity for attendees to briefly share background information about their ventures and identify their top three business challenges to the group. Mentors then offer feedback\, guidance\, and actionable advice to help the entrepreneur grow and succeed.\n\nJoin us to connect\, collaborate\, and strengthen Tallahassee’s entrepreneurial ecosystem!\n\nQuestions? Contact Wil Joiner at [contact removed]
+GEO:30.441408;-84.280283
+LOCATION:Jim Moran Building (JMB)\, Event Space
+SUMMARY:October Mentor Night 🍕
+URL;VALUE=URI:https://calendar.fsu.edu/event/-october-mentor-night26
+CATEGORIES:Networking
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235335Z
+UID:tag:localist.com\,2008:EventInstance_53807446768898
+DTSTART:20261109T220000Z
+DTEND:20261109T233000Z
+DESCRIPTION:AI Tools for Entrepreneurs Workshop\n\nMonday\, November 9th | 5-6:30pm\nLocation: InNOLEvation® Center (Room 226\, Shaw Building\, 644 W. Call St.)\nFeaturing: Bill Lickson\n\nAI is an ever-changing landscape. Join us for a discussion and insight on what tools you have at your disposal through FSU and beyond.\n\n🎤 Free and protected AI databases within the University\n💥 How to use AI tools effectively to save yourself time\n🚀 External options - what’s worth your time and money\n\nNo AI experience required—students from any major are welcome--just bring your questions and entrepreneurial mindset!\n\nQuestions? Contact Holly Galotti at [contact removed].
+GEO:30.443814;-84.293584
+LOCATION:Roderick K. Shaw Building (RSB)\, InNOLEvation® Center for Student Engagement (RSB 226)
+SUMMARY:AI Tools for Entrepreneurs 🍕
+URL;VALUE=URI:https://calendar.fsu.edu/event/ai-tools-for-entrepreneurs
+CATEGORIES:Academic/Registrar
+CATEGORIES:Workshop
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235335Z
+UID:tag:localist.com\,2008:EventInstance_53807494618388
+DTSTART:20261119T220000Z
+DTEND:20261120T000000Z
+DESCRIPTION:🎓JMC Alumni Panel & Reception\n\nThursday\, Nov 19 | 5:00–7:00 PM | JMB Event Space\n\nThey Sat Where You Sit\, Now They're Killing It!\n\nEver wonder where a Jim Moran College degree can take you? Hear it straight from the source. Join a panel of JMC alumni as they share the real stories behind their careers—how they got there\, what they wish they knew\, and the advice they’d give their college selves.\n\n🎓 Real talk from recent grads\n💡 Career paths you didn’t know were possible\n💬 Honest advice\, lessons\, and inspiration\n🍪 Light drinks and apps will also be provided. \n\nCome curious. Leave motivated.\n\nQuestions? Contact Kirsten Harrison at [contact removed]\n\nIn honor of FSU's Homecoming Week\, we’re hosting "JMC Alumni Week\," where you can catch up with old friends\, make new connections\, and enjoy a relaxed evening with other alumni.\n\nAlumni Week Events\n\nNovember 17th\, 11:00am - 2:00pm Student Expo\n\nNovember 18th\, 6:00pm - 8:00pm Mentor Night
+GEO:30.441408;-84.280283
+LOCATION:Jim Moran Building (JMB)\, Event Space
+SUMMARY:JMC Alumni Panel & Reception 🍕
+URL;VALUE=URI:https://calendar.fsu.edu/event/copy-of-jmc-alumni-panel-reception
+CATEGORIES:Special Events
+CATEGORIES:Speakers & Lectures
+CATEGORIES:Networking
+CATEGORIES:Professional Development
+CATEGORIES:Career Development
+END:VEVENT
+END:VCALENDAR

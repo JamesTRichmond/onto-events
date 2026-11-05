@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//San Francisco Fixture//EN
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:sfpl-castro-branch-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T180000Z
+DTEND:20261024T193000Z
+SUMMARY:Eureka Valley Family Storytime & Craft
+DESCRIPTION:Active story hour with songs, rhymes, and creative felt crafting for toddlers and caregivers.
+LOCATION:SFPL Eureka Valley/Harvey Milk Memorial Branch
+URL:https://sfpl.org/locations/eureka-valley
+END:VEVENT
+BEGIN:VEVENT
+UID:sfpl-castro-branch-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Castro Neighborhood Book Discussion Circle
+DESCRIPTION:Monthly community reading group discussing contemporary fiction, memoirs, and California cultural history.
+LOCATION:SFPL Eureka Valley/Harvey Milk Memorial Branch
+URL:https://sfpl.org/locations/eureka-valley
+END:VEVENT
+END:VCALENDAR

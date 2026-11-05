@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//San Francisco Fixture//EN
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:marin-county-free-library-civic-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T180000Z
+DTEND:20261024T193000Z
+SUMMARY:Civic Center Family Storytime & Architecture Hunt
+DESCRIPTION:Interactive story reading followed by a guided youth scavenger hunt exploring Frank Lloyd Wright’s circular design elements.
+LOCATION:Marin County Free Library (Civic Center Branch)
+URL:https://marinlibrary.org/civic-center-library/
+END:VEVENT
+BEGIN:VEVENT
+UID:marin-county-free-library-civic-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Marin County Environmental History Lecture
+DESCRIPTION:Illustrated presentation examining the preservation of West Marin agricultural open spaces and Point Reyes national seashore.
+LOCATION:Marin County Free Library (Civic Center Branch)
+URL:https://marinlibrary.org/civic-center-library/
+END:VEVENT
+END:VCALENDAR

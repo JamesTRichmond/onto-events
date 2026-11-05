@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FSU Museum of Fine Arts//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FSU Museum of Fine Arts
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T020000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T020000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:fsu-mofa-001@calendar.fsu.edu
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260918T100000
+DTEND;TZID=America/New_York:20260918T160000
+SUMMARY:Floating Metal: UNDERcurrents In My Father’s Garden
+DESCRIPTION:A major solo exhibition exploring sculptural forms\, ecological memories\, and generational landscape narratives.
+LOCATION:Museum of Fine Arts
+URL:https://calendar.fsu.edu/event/floating-metal-undercurrents
+CATEGORIES:arts
+END:VEVENT
+BEGIN:VEVENT
+UID:fsu-mofa-002@calendar.fsu.edu
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260925T173000
+DTEND;TZID=America/New_York:20260925T193000
+SUMMARY:Friendly Arbitration: Honoré Daumier on Crime\, Justice\, and Punishment
+DESCRIPTION:Lithographic satire and nineteenth-century legal critique from the permanent museum collection.
+LOCATION:Museum of Fine Arts
+URL:https://calendar.fsu.edu/event/friendly-arbitration-daumier
+CATEGORIES:arts
+END:VEVENT
+BEGIN:VEVENT
+UID:fsu-mofa-003@calendar.fsu.edu
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20261016T180000
+DTEND;TZID=America/New_York:20261016T193000
+SUMMARY:Curator Gallery Talk: Contemporary Southern Visions
+DESCRIPTION:In-depth walking tour and public discussion led by MoFA curators examining contemporary Southeastern art practices.
+LOCATION:Museum of Fine Arts
+URL:https://calendar.fsu.edu/event/curator-gallery-talk
+CATEGORIES:arts,learning
+END:VEVENT
+END:VCALENDAR

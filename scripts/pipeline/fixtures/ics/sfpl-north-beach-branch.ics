@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//San Francisco Fixture//EN
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:sfpl-north-beach-branch-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T180000Z
+DTEND:20261024T193000Z
+SUMMARY:North Beach Toddler Tales & Song
+DESCRIPTION:Interactive storybook reading, motion songs, and movement games for toddlers and parents.
+LOCATION:SFPL North Beach Branch Library
+URL:https://sfpl.org/locations/north-beach
+END:VEVENT
+BEGIN:VEVENT
+UID:sfpl-north-beach-branch-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Beat Poetry & Literary Salon
+DESCRIPTION:Readings of mid-century North Beach Beat literature and contemporary Bay Area poetry.
+LOCATION:SFPL North Beach Branch Library
+URL:https://sfpl.org/locations/north-beach
+END:VEVENT
+END:VCALENDAR
