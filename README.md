@@ -1,5 +1,7 @@
 # onto
 
+[![CI](https://github.com/JamesTRichmond/onto-events/actions/workflows/ci.yml/badge.svg)](https://github.com/JamesTRichmond/onto-events/actions/workflows/ci.yml)
+
 **What's happening near you, right now.** Concerts, trail runs, library talks, gallery openings, pulled from venues' own calendars.
 
 **[Open onto → onto.events](https://onto.events)** · no account · no ads · installs from the browser like an app
@@ -29,7 +31,7 @@ TypeScript · React 19 · React Native 0.81 / Expo SDK 54 (web export) · Expo R
 - **A night-owl calendar.** The day rolls over at 04:00, so 2 AM Friday still reads as Friday night.
 - **Ingestion you can trust.** One schema for every source, duplicate detection, and test fixtures per calendar format (`scripts/pipeline/adapters/`, `scripts/pipeline/fixtures/`).
 - **Database rules tested like code.** 8 SQL migrations with row-level security, plus database tests in `supabase/tests/`.
-- **304 test files** across UI, data and pipeline.
+- **About 1,500 tests in 182 suites** across UI, data and pipeline, run in CI on every push.
 
 ## Run locally
 
