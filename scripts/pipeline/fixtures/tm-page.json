@@ -1,0 +1,155 @@
+{
+  "_embedded": {
+    "events": [
+      {
+        "id": "killers-1",
+        "name": "The Killers",
+        "url": "https://www.ticketmaster.com/the-killers-salt-lake-city/event/killers-1",
+        "info": "Imploding the Mirage tour stop.",
+        "classifications": [
+          { "segment": { "name": "Music" }, "genre": { "name": "Rock" }, "family": false }
+        ],
+        "dates": { "start": { "dateTime": "2026-09-05T02:00:00Z" } },
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Delta Center",
+              "timezone": "America/Denver",
+              "city": { "name": "Salt Lake City" },
+              "address": { "line1": "301 S Temple" },
+              "location": { "latitude": "40.7683", "longitude": "-111.9011" }
+            }
+          ]
+        }
+      },
+      {
+        "id": "jazz-game-1",
+        "name": "Utah Jazz vs. Los Angeles Lakers",
+        "url": "https://www.ticketmaster.com/utah-jazz/event/jazz-game-1",
+        "classifications": [
+          { "segment": { "name": "Sports" }, "genre": { "name": "Basketball" }, "family": false }
+        ],
+        "dates": { "start": { "dateTime": "2026-09-06T01:00:00Z" } },
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Delta Center",
+              "timezone": "America/Denver",
+              "city": { "name": "Salt Lake City" },
+              "address": { "line1": "301 S Temple" },
+              "location": { "latitude": "40.7683", "longitude": "-111.9011" }
+            }
+          ]
+        }
+      },
+      {
+        "id": "comedy-1",
+        "name": "Open Mic Comedy Showcase",
+        "classifications": [
+          { "segment": { "name": "Arts & Theatre" }, "genre": { "name": "Comedy" }, "family": false }
+        ],
+        "dates": { "start": { "dateTime": "2026-09-04T03:00:00Z" } },
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Wiseguys Comedy Club",
+              "timezone": "America/Denver",
+              "city": { "name": "Salt Lake City" },
+              "address": { "line1": "194 S 400 W" },
+              "location": { "latitude": "40.7664", "longitude": "-111.9037" }
+            }
+          ]
+        }
+      },
+      {
+        "id": "disney-ice-1",
+        "name": "Disney On Ice presents Magic in the Stars",
+        "classifications": [
+          { "segment": { "name": "Miscellaneous" }, "genre": { "name": "Ice Shows" }, "family": true }
+        ],
+        "dates": { "start": { "dateTime": "2026-09-12T18:00:00Z" } },
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Maverik Center",
+              "timezone": "America/Denver",
+              "city": { "name": "West Valley City" },
+              "location": { "latitude": "40.7010", "longitude": "-112.0253" }
+            }
+          ]
+        }
+      },
+      {
+        "id": "wendover-casino-1",
+        "name": "Legends in Concert — Casino Showroom",
+        "classifications": [
+          { "segment": { "name": "Music" }, "genre": { "name": "Pop" }, "family": false }
+        ],
+        "dates": { "start": { "dateTime": "2026-09-19T03:00:00Z" } },
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Peppermill Concert Hall",
+              "timezone": "America/Denver",
+              "city": { "name": "West Wendover" },
+              "location": { "latitude": "40.7391", "longitude": "-114.0733" }
+            }
+          ]
+        }
+      },
+      {
+        "id": "broken-coords-1",
+        "name": "Mystery Event",
+        "classifications": [{ "segment": { "name": "Music" } }],
+        "dates": { "start": { "dateTime": "2026-09-08T01:00:00Z" } },
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Nowhere Hall",
+              "timezone": "America/Denver",
+              "location": { "latitude": "", "longitude": "" }
+            }
+          ]
+        }
+      },
+      {
+        "id": "killers-2-relisting",
+        "name": "The Killers",
+        "classifications": [
+          { "segment": { "name": "Music" }, "genre": { "name": "Rock" }, "family": false }
+        ],
+        "dates": { "start": { "dateTime": "2026-09-05T02:00:00Z" } },
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Delta Center",
+              "timezone": "America/Denver",
+              "city": { "name": "Salt Lake City" },
+              "address": { "line1": "301 S Temple" },
+              "location": { "latitude": "40.7683", "longitude": "-111.9011" }
+            }
+          ]
+        }
+      },
+      {
+        "id": "vegas-out-of-region-1",
+        "name": "Residency Night",
+        "classifications": [
+          { "segment": { "name": "Music" }, "genre": { "name": "Pop" }, "family": false }
+        ],
+        "dates": { "start": { "dateTime": "2026-09-10T04:00:00Z" } },
+        "_embedded": {
+          "venues": [
+            {
+              "name": "The Sphere",
+              "timezone": "America/Los_Angeles",
+              "city": { "name": "Las Vegas" },
+              "location": { "latitude": "36.1210", "longitude": "-115.1697" }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "page": { "size": 200, "totalElements": 993, "totalPages": 5, "number": 0 }
+}

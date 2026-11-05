@@ -1,0 +1,38 @@
+{
+  "pages": [
+    {
+      "total": 2,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 7183,
+          "global_id": "cbbrooklyn.cityofnewyork.us/cb10?id=7183",
+          "title": "Monthly Board Meeting",
+          "description": "Agenda: Capital & Expense Budget Priorities for Fiscal Year 2028 Review of application submitted by LFG Distribution LLC, 445 Bay Ridge Avenue, for a cannabis microbusiness Discussion and Vote Update regarding CB10 Parks Capital Projects Informational Report Update regarding Narrows Botanical Gardens proposal Update on Coastal Storm Plan Preparedness Informational Report Update regarding local stray cats and progress of the CB10 brochure Informational Report Update on discussion regarding the need for Sewer infrastructure upgrades Presentation by The Healing Center Regarding Domestic Violence Awareness Month t Update on Diabetes Awareness presentation Update on Age Friendly Lunch and Learn Topics Update on presentation by 68th Precinct Crime Prevention Office",
+          "url": "https://cbbrooklyn.cityofnewyork.us/cb10/event/monthly-board-meeting-12/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-19 23:00:00",
+          "utc_end_date": "2026-10-20 01:30:00",
+          "venue": {
+            "venue": "In Person at Knights of Columbus, 1305 86th Street and Livestreamed to YouTube"
+          }
+        },
+        {
+          "id": 7185,
+          "global_id": "cbbrooklyn.cityofnewyork.us/cb10?id=7185",
+          "title": "Monthly Board Meeting",
+          "description": "Agenda:",
+          "url": "https://cbbrooklyn.cityofnewyork.us/cb10/event/monthly-board-meeting-13/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-11-17 00:00:00",
+          "utc_end_date": "2026-11-17 02:30:00",
+          "venue": {
+            "venue": "Bay Ridge Center, 15 Bay Ridge Avenue and livestreamed to YouTube"
+          }
+        }
+      ]
+    }
+  ]
+}

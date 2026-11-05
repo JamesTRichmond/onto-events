@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Miami-Dade Public Library System//NONSGML Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MDPLS Kendale Lakes Branch Library Events
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:mdpls-kl-20261017-gaming@mdpls.org
+DTSTAMP:20261015T000000Z
+DTSTART:20261017T180000Z
+DTEND:20261017T193000Z
+SUMMARY:Teen Game Zone: Board Game Tournament
+DESCRIPTION:Cooperative strategy board games and puzzle challenges.
+LOCATION:Kendale Lakes Branch Library
+URL:https://www.mdpls.org/events/kl-gaming
+CATEGORIES:Games & Community
+END:VEVENT
+BEGIN:VEVENT
+UID:mdpls-kl-20261021-photo@mdpls.org
+DTSTAMP:20261015T000000Z
+DTSTART:20261021T210000Z
+DTEND:20261021T223000Z
+SUMMARY:Digital Literacy: Smartphone Photography
+DESCRIPTION:Composition, lighting, and editing photos on mobile devices.
+LOCATION:Kendale Lakes Branch Library
+URL:https://www.mdpls.org/events/kl-photo
+CATEGORIES:Learning & Tech
+END:VEVENT
+END:VCALENDAR

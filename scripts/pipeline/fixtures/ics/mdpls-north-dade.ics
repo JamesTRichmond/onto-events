@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Miami-Dade Public Library System//NONSGML Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MDPLS North Dade Regional Library Events
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:mdpls-nd-20261017-robotics@mdpls.org
+DTSTAMP:20261015T000000Z
+DTSTART:20261017T150000Z
+DTEND:20261017T163000Z
+SUMMARY:STEM Lab: Youth Robotics Workshop
+DESCRIPTION:Build and code simple robots in the North Dade technology lab.
+LOCATION:North Dade Regional Library
+URL:https://www.mdpls.org/events/nd-robotics
+CATEGORIES:Learning & Tech
+END:VEVENT
+BEGIN:VEVENT
+UID:mdpls-nd-20261020-chess@mdpls.org
+DTSTAMP:20261015T000000Z
+DTSTART:20261020T210000Z
+DTEND:20261020T223000Z
+SUMMARY:Community Chess Club and Strategy League
+DESCRIPTION:Open chess play for all skill levels and ages.
+LOCATION:North Dade Regional Library
+URL:https://www.mdpls.org/events/nd-chess
+CATEGORIES:Games & Community
+END:VEVENT
+END:VCALENDAR

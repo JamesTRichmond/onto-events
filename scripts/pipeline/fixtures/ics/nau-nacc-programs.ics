@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Flagstaff Fixture//EN
+X-WR-TIMEZONE:America/Phoenix
+BEGIN:VEVENT
+UID:nau-nacc-programs-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T170000Z
+DTEND:20261024T183000Z
+SUMMARY:Indigenous Storytelling & Cultural Gathering
+DESCRIPTION:Community storytelling, native language preservation lectures, and artisan craft showcases.
+LOCATION:NAU Native American Cultural Center
+URL:https://events.nau.edu/nacc.ics
+END:VEVENT
+BEGIN:VEVENT
+UID:nau-nacc-programs-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261028T210000Z
+DTEND:20261028T223000Z
+SUMMARY:Indigenous Storytelling & Cultural Gathering (Encore)
+DESCRIPTION:Community storytelling, native language preservation lectures, and artisan craft showcases.
+LOCATION:NAU Native American Cultural Center
+URL:https://events.nau.edu/nacc.ics
+END:VEVENT
+END:VCALENDAR

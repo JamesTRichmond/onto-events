@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MTG Events
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260710T180000
+DTEND;TZID=America/New_York:20260710T220000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+EXDATE;TZID=America/New_York:20260807T180000
+EXDATE;TZID=America/New_York:20260925T180000
+EXDATE;TZID=America/New_York:20260821T180000
+EXDATE;TZID=America/New_York:20261106T180000
+EXDATE;TZID=America/New_York:20261023T180000
+DTSTAMP:20261008T194236Z
+UID:9lnn2dg3hgmqc0mbnud0hmoqt0_R20260710T220000@google.com
+CREATED:20250123T022003Z
+DESCRIPTION:Friday Night Magic is alive and well with our weekly Commander event! Bring your favorite deck (or five) and join our regulars for a casual Commander night. People bring all sorts of power level decks\, everything from precons up to cEDH—don't feel shy\, ask what people want to play and find a pod that matches your deck!\n\nEntry is pay-what-you-can (even if that's $0)\, and we recommend a $5 donation for those able to pay.
+LAST-MODIFIED:20260825T172314Z
+LOCATION:Gamers' Haunt\, 167 Patton Ave\, Asheville NC 28801
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:FNM: Commander
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260909T183000
+DTEND;TZID=America/New_York:20260909T220000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+DTSTAMP:20261008T194236Z
+UID:68utsge9hpntdh7p0euh17gsfo_R20260909T223000@google.com
+CREATED:20250123T211742Z
+DESCRIPTION:($5 entry) Every Wednesday at 6:30\, we play Pauper! Pauper is a longtime favorite MTG format for many where every card must have been printed at Common. That means decks tend to be very affordable\, but don’t be fooled—some of the most powerful spells in Magic can still be found in this format!
+LAST-MODIFIED:20260909T013213Z
+LOCATION:Gamers' Haunt\, 167 Patton Ave\, Asheville NC 28801
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pauper (MTG)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260913T110000
+DTEND;TZID=America/New_York:20260913T190000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+EXDATE;TZID=America/New_York:20260920T110000
+EXDATE;TZID=America/New_York:20260927T110000
+EXDATE;TZID=America/New_York:20261011T110000
+EXDATE;TZID=America/New_York:20261108T110000
+DTSTAMP:20261008T194236Z
+UID:c08fg042ns03p7ekbvi9kj9t06_R20260913T150000@google.com
+CREATED:20250123T212034Z
+DESCRIPTION:Bring your favorite deck (or five) and join our regulars for casual Commander all day! People bring all sorts of power level decks\, everything from Tier 1 super-casual theme decks and precons up to Tier 5 cEDH—don't feel shy\, ask what people want to play and find a pod that matches your deck! Make some new friends at our popular Sunday hangout.
+LAST-MODIFIED:20260909T013248Z
+LOCATION:Gamers' Haunt\, 167 Patton Ave\, Asheville NC 28801
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Commander (MTG)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261010T140000Z
+DTEND:20261011T010000Z
+DTSTAMP:20261008T194236Z
+UID:5oko6m2r694k8t1i7us36b4bk5@google.com
+CREATED:20260810T220013Z
+DESCRIPTION:<p>The best of the best in Western North Carolina will be coming out to compete for their ticket to Season 5 Round 2's Regional Championships (RCs).</p><p>The winner will receive an invite to this season’s RC and a foil Pinnacle Starcage promo card\; top 8 will get a nonfoil Pinnacle Starcage promo\; all attendees will receive a Sunpearl Kirin promo.</p><p><b>As a sealed event\, players get to keep the cards in their sealed pool\, and the top 8 players also get to keep the cards in their draft pool</b>. Additional prizes will be given out depending on attendance\; see below!</p><p> [trimmed]
+LAST-MODIFIED:20260810T221350Z
+LOCATION:Gamers' Haunt\, 211 Merrimon Ave Suite 241\, Asheville\, NC 28801\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Regional Championship Qualifier (RCQ) - Sealed (Reality Fracture)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261024T150000Z
+DTEND:20261024T220000Z
+DTSTAMP:20261008T194236Z
+UID:48nnqir8qocqhvoq6d9ulqa4uk@google.com
+CREATED:20260916T022630Z
+DESCRIPTION:cEDH players\, let’s take it up a notch! On October 24\, we’ll be hosting a cEDH tournament where the winner will walk away with a Revised Badlands! <br><br>Doors at 10am\, event will start at 11am. Decklist submission and registration on TopDeck required. Entry cost is $50.<br><br>You can register and see all the event details you’d need at TopDeck: <a href="https://topdeck.gg/event/cedh-win-a-dual-151"><u>https://topdeck.gg/event/cedh-win-a-dual-151</u></a>
+LAST-MODIFIED:20260916T022631Z
+LOCATION:Gamers' Haunt\, 167 Patton Ave\, Asheville\, NC 28801\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Win-a-Dual Land cEDH Tournament
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20261008T194236Z
+UID:0c8hl0a1abcm5fru58r5hs77a6@google.com
+CREATED:20260824T164231Z
+LAST-MODIFIED:20260824T164231Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Star Trek Prerelease
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261121T160000Z
+DTEND:20261122T000000Z
+DTSTAMP:20261008T194236Z
+UID:3981oid7qc47tbmt6h9ffk8lqm@google.com
+CREATED:20260810T215254Z
+DESCRIPTION:The best of the best in Western North Carolina will be coming out to compete for their ticket to Season 5 Round 2's Regional Championships (RCs)!<br><br>The winner will receive an invite to this season’s RC and a foil Pinnacle Starcage promo card\; top 8 will get a nonfoil Pinnacle Starcage promo\; all attendees will receive a Sunpearl Kirin promo. Additional prizes will be given out depending on attendance\; see below!<br><br><a href="https://www.gamershaunt.com/product/rcq-standard-nov-21/3BFPOPKGLXRW736KD7DXRFAH"><b>Register on our website here.</b></a><br><br>Doors will open at [trimmed]
+LAST-MODIFIED:20260810T221437Z
+LOCATION:Gamers' Haunt\, 211 Merrimon Ave Suite 241\, Asheville\, NC 28801\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MTG Regional Championship Qualifier (RCQ) - Standard
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

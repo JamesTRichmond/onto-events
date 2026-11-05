@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:uic-forum-events-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:UIC Urban Innovation & Community Symposium
+DESCRIPTION:Public panel discussion on equitable urban transit, clean energy initiatives, and Chicago neighborhood revitalization.
+LOCATION:UIC Forum
+URL:https://forum.uic.edu/
+END:VEVENT
+BEGIN:VEVENT
+UID:uic-forum-events-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:UIC Cultural Arts Fair & Campus Showcase
+DESCRIPTION:Campus celebration featuring multicultural student musical ensembles and public student art exhibits.
+LOCATION:UIC Forum
+URL:https://forum.uic.edu/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,387 @@
+{
+ "pages": [
+  {
+   "total": 13,
+   "total_pages": 1,
+   "events": [
+    {
+     "id": 10027936,
+     "global_id": "highlandbrewing.com?id=10027936",
+     "title": "Robert&#8217;s Totally Rad Trivia",
+     "description": "<p>Join us every Thursday for Robert’s Totally Rad Trivia – pop culture trivia that hits all the good stuff: music, TV, movies, video games, food, and everything in between. Trivia is free with a max number of six players per team. Grab your crew, grab a brew, and put that random knowledge to work. 🧠🍻</p>",
+     "url": "https://highlandbrewing.com/calendar/roberts-totally-rad-trivia/2026-10-08/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-10-08 19:00:00",
+     "end_date": "2026-10-08 21:00:00",
+     "utc_start_date": "2026-10-08 23:00:00",
+     "utc_end_date": "2026-10-09 01:00:00",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 2554,
+      "venue": "Taproom At Highland Brewing Co.",
+      "address": "12 Old Charlotte Highway, Suite 200",
+      "city": "Asheville",
+      "stateprovince": "NC",
+      "url": "https://highlandbrewing.com/venue/tap-room-at-highland-brewing-co/"
+     },
+     "categories": [
+      {
+       "slug": "public-events",
+       "name": "Public Events"
+      }
+     ]
+    },
+    {
+     "id": 10023823,
+     "global_id": "highlandbrewing.com?id=10023823",
+     "title": "VB Pick-up",
+     "description": "<p>$5 Pick-up | All-level Purchase wristbands and sign a waiver at the bar before getting on the court!</p>",
+     "url": "https://highlandbrewing.com/calendar/friday-pick-up-volleyball-2-2-2/2026-10-09/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-10-09 12:00:00",
+     "end_date": "2026-10-09 22:00:00",
+     "utc_start_date": "2026-10-09 16:00:00",
+     "utc_end_date": "2026-10-10 02:00:00",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 2556,
+      "venue": "Meadow at Highland Brewing Co.",
+      "address": "12 Old Charlotte Highway, Suite 200",
+      "city": "Asheville",
+      "stateprovince": "NC",
+      "url": "https://highlandbrewing.com/venue/the-meadow/"
+     },
+     "categories": [
+      {
+       "slug": "recreation",
+       "name": "Recreation"
+      }
+     ]
+    },
+    {
+     "id": 93015,
+     "global_id": "highlandbrewing.com?id=93015",
+     "title": "Displace",
+     "description": "<p>Bio Displace is a saxophone- driven funk fusion ensemble based in Tampa, Florida known for their energetic performances, improvisational prowess, and wildly diverse sonic palette. The Floridian four-piece effectively utilizes their extensive training in a variety of musical backgrounds to produce a truly eclectic blend of infectious pop melodies, complex jazz progressions, and danceable funk grooves. Weekend Live Music Highland Brewing’s weekend live music series showcases incredible local [trimmed]</p>",
+     "url": "https://highlandbrewing.com/calendar/displace/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-10-09 19:00:00",
+     "end_date": "2026-10-09 21:00:00",
+     "utc_start_date": "2026-10-09 23:00:00",
+     "utc_end_date": "2026-10-10 01:00:00",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 2556,
+      "venue": "Meadow at Highland Brewing Co.",
+      "address": "12 Old Charlotte Highway, Suite 200",
+      "city": "Asheville",
+      "stateprovince": "NC",
+      "url": "https://highlandbrewing.com/venue/the-meadow/"
+     },
+     "categories": [
+      {
+       "slug": "live-music",
+       "name": "Live Music"
+      }
+     ]
+    },
+    {
+     "id": 10030072,
+     "global_id": "highlandbrewing.com?id=10030072",
+     "title": "Love for Locals",
+     "description": "<p>Start your week off right! Join us every Monday for $5 Flagship Pints 🍻 Grab your friends, raise a glass, and enjoy a little local love!</p>",
+     "url": "https://highlandbrewing.com/calendar/love-for-locals/2026-10-12/",
+     "all_day": true,
+     "hide_from_listings": false,
+     "start_date": "2026-10-12 00:00:00",
+     "end_date": "2026-10-12 23:59:59",
+     "utc_start_date": "2026-10-12 04:00:00",
+     "utc_end_date": "2026-10-13 03:59:59",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 2554,
+      "venue": "Taproom At Highland Brewing Co.",
+      "address": "12 Old Charlotte Highway, Suite 200",
+      "city": "Asheville",
+      "stateprovince": "NC",
+      "url": "https://highlandbrewing.com/venue/tap-room-at-highland-brewing-co/"
+     },
+     "categories": [
+      {
+       "slug": "public-events",
+       "name": "Public Events"
+      }
+     ]
+    },
+    {
+     "id": 10026563,
+     "global_id": "highlandbrewing.com?id=10026563",
+     "title": "Asheville Crokinole Club",
+     "description": "<p>Crokinole Tuesdays at Highland Brewing Taproom Join us every Tuesday in the Taproom for an evening of flicks, strategy, and friendly competition! We’re hosting the Asheville Crokinole Club—a community of players who love this classic dexterity board game. Never played? No problem! Crokinole is easy to learn and endlessly fun. Players take turns flicking wooden discs across a circular board, aiming for the high-scoring center zones. The twist? If your opponent has discs on the board, you must [trimmed]</p>",
+     "url": "https://highlandbrewing.com/calendar/asheville-crokinole-club/2026-10-13/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-10-13 18:00:00",
+     "end_date": "2026-10-13 21:00:00",
+     "utc_start_date": "2026-10-13 22:00:00",
+     "utc_end_date": "2026-10-14 01:00:00",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 2554,
+      "venue": "Taproom At Highland Brewing Co.",
+      "address": "12 Old Charlotte Highway, Suite 200",
+      "city": "Asheville",
+      "stateprovince": "NC",
+      "url": "https://highlandbrewing.com/venue/tap-room-at-highland-brewing-co/"
+     },
+     "categories": [
+      {
+       "slug": "public-events",
+       "name": "Public Events"
+      },
+      {
+       "slug": "recreation",
+       "name": "Recreation"
+      }
+     ]
+    },
+    {
+     "id": 10016541,
+     "global_id": "highlandbrewing.com?id=10016541",
+     "title": "Cornhole League",
+     "description": "<p>Looking for a fun way to spend your Tuesday evenings? The Highland Brewing Cornhole League is all about good beer, great vibes, and making new friends! Whether you’re a seasoned pro or just tossing for fun, everyone’s welcome to join. Winter leagues are indoors, while May through October brings friendly competition out to the Meadow (weather permitting). Save your spot, grab a pint, and get ready for some laughs and laid-back fun with the Highland Brewing community! Check for registering [trimmed]</p>",
+     "url": "https://highlandbrewing.com/calendar/cornhole-league-2/2026-10-13/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-10-13 18:00:00",
+     "end_date": "2026-10-13 21:00:00",
+     "utc_start_date": "2026-10-13 22:00:00",
+     "utc_end_date": "2026-10-14 01:00:00",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 2554,
+      "venue": "Taproom At Highland Brewing Co.",
+      "address": "12 Old Charlotte Highway, Suite 200",
+      "city": "Asheville",
+      "stateprovince": "NC",
+      "url": "https://highlandbrewing.com/venue/tap-room-at-highland-brewing-co/"
+     },
+     "categories": [
+      {
+       "slug": "recreation",
+       "name": "Recreation"
+      }
+     ]
+    },
+    {
+     "id": 93837,
+     "global_id": "highlandbrewing.com?id=93837",
+     "title": "Cirque Du Disque Tournament",
+     "description": "<p>Step right up and experience the Cirque Du Disque disc golf tournament at Highland Brewing Company! A tournament unlike anything you’ve ever played! Expect the unexpected as skill, strategy, and a healthy dose of luck collide under the trees. With nonstop excitement, playful chaos and plenty of unforgettable moments, this is more than a tournament—it’s an experience. Join the circus, embrace the madness, and prepare for the wildest round of disc golf you’ve ever played! There will be plenty of [trimmed]</p>",
+     "url": "https://highlandbrewing.com/calendar/cirque-du-disque-tournament/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-10-18 08:00:00",
+     "end_date": "2026-10-18 14:00:00",
+     "utc_start_date": "2026-10-18 12:00:00",
+     "utc_end_date": "2026-10-18 18:00:00",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 69966,
+      "venue": "Disc Golf Course",
+      "address": "12 Old Charlotte Hwy, Suite 200",
+      "city": "Asheville",
+      "stateprovince": "NC",
+      "url": "https://highlandbrewing.com/venue/disc-golf-course/"
+     },
+     "categories": [
+      {
+       "slug": "public-events",
+       "name": "Public Events"
+      },
+      {
+       "slug": "recreation",
+       "name": "Recreation"
+      }
+     ]
+    },
+    {
+     "id": 93704,
+     "global_id": "highlandbrewing.com?id=93704",
+     "title": "LazrLuvr&#8217;s 4th Annual Halloween Party",
+     "description": "<p>Get ready to party like it’s the ’80s at LazrLuvr’s 4th Annual Halloween Party at Highland Brewing! LazrLuvr brings the biggest hits and iconic sounds of the ’80s to the stage for a high-energy night of live music, dancing, and Halloween fun. Grab your best costume, gather your friends, and get ready to celebrate Halloween with Asheville’s favorite ’80s tribute band. Tickets: $10 in advance | $12 at the door Get Tix Here</p>",
+     "url": "https://highlandbrewing.com/calendar/lazrluvrs-4th-annual-halloween-party/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-10-30 20:00:00",
+     "end_date": "2026-10-30 23:00:00",
+     "utc_start_date": "2026-10-31 00:00:00",
+     "utc_end_date": "2026-10-31 03:00:00",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 2554,
+      "venue": "Taproom At Highland Brewing Co.",
+      "address": "12 Old Charlotte Highway, Suite 200",
+      "city": "Asheville",
+      "stateprovince": "NC",
+      "url": "https://highlandbrewing.com/venue/tap-room-at-highland-brewing-co/"
+     },
+     "categories": [
+      {
+       "slug": "live-music",
+       "name": "Live Music"
+      },
+      {
+       "slug": "public-events",
+       "name": "Public Events"
+      }
+     ]
+    },
+    {
+     "id": 93547,
+     "global_id": "highlandbrewing.com?id=93547",
+     "title": "Little Monsters Costume Contest with Secret Agent 23 Skidoo",
+     "description": "<p>Little Monsters Costume Contest with Secret Agent 23 Skidoo Celebrate Halloween with a monster-sized afternoon of music, costumes, and family fun! Join us in the Meadow at Highland Brewing for a kids costume contest featuring prizes and a high-energy concert from Secret Agent 23 Skidoo. Kids (parents too), come dressed in your best Halloween costume and show it off for a chance to win prizes! Special guest MC teathyme will keep the little monsters entertained and the party moving throughout the [trimmed]</p>",
+     "url": "https://highlandbrewing.com/calendar/little-monsters-costume-contest-with-secret-agent-23-skidoo/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-10-31 14:00:00",
+     "end_date": "2026-10-31 17:00:00",
+     "utc_start_date": "2026-10-31 18:00:00",
+     "utc_end_date": "2026-10-31 21:00:00",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 2556,
+      "venue": "Meadow at Highland Brewing Co.",
+      "address": "12 Old Charlotte Highway, Suite 200",
+      "city": "Asheville",
+      "stateprovince": "NC",
+      "url": "https://highlandbrewing.com/venue/the-meadow/"
+     },
+     "categories": [
+      {
+       "slug": "live-music",
+       "name": "Live Music"
+      },
+      {
+       "slug": "public-events",
+       "name": "Public Events"
+      }
+     ]
+    },
+    {
+     "id": 93924,
+     "global_id": "highlandbrewing.com?id=93924",
+     "title": "Russ Wilson&#8217;s 14th Annual Swing&#8217; Birthday Bash",
+     "description": "<p>Russ Wilson &amp; His Famous Orchestra It’s Russ Wilson‘s 60th Birthday and he’s throwing his own party!!! Russ Wilson’s 14th Annual Swingin’ Birthday Bash On November 1st, Russ and His Famous Orchestra come back to Highland Bewing Company to celebrate his 60th birthday. You do not want to miss this, folks. This is an extra special show – Russ will be at the drums playing his All-Time favorite swing tunes. Joined by Wendy Jones on Vocals and his all-star orchestra, Russ will be at the drums playing [trimmed]</p>",
+     "url": "https://highlandbrewing.com/calendar/russ-wilsons-14th-annual-swing-birthday-bash/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-11-01 19:30:00",
+     "end_date": "2026-11-01 21:30:00",
+     "utc_start_date": "2026-11-02 00:30:00",
+     "utc_end_date": "2026-11-02 02:30:00",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 2557,
+      "venue": "Event Center at Highland Brewing Co.",
+      "address": "12 Old Charlotte Highway, Suite 200",
+      "city": "Asheville",
+      "stateprovince": "NC",
+      "url": "https://highlandbrewing.com/venue/event-center-at-highland-brewing-co/"
+     },
+     "categories": [
+      {
+       "slug": "live-music",
+       "name": "Live Music"
+      },
+      {
+       "slug": "public-events",
+       "name": "Public Events"
+      }
+     ]
+    },
+    {
+     "id": 10027414,
+     "global_id": "highlandbrewing.com?id=10027414",
+     "title": "VB HBC League",
+     "description": "<p>Tuesdays 4v4 Women’s Advanced/Intermediate Men’s Advanced/Intermediate Wednesdays 4v4 Co-ed Advanced Co-ed Intermediate/Recreational Thursdays 6v6 Co-ed Recreational</p>",
+     "url": "https://highlandbrewing.com/calendar/vb-hbc-league/2026-11-10/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-11-10 18:00:00",
+     "end_date": "2026-11-10 22:00:00",
+     "utc_start_date": "2026-11-10 23:00:00",
+     "utc_end_date": "2026-11-11 03:00:00",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 84929,
+      "venue": "Volleyball Courts",
+      "address": "12 Old Charlotte Hwy",
+      "city": "Asheville",
+      "stateprovince": "NC",
+      "url": "https://highlandbrewing.com/venue/volleyball-courts/"
+     },
+     "categories": [
+      {
+       "slug": "recreation",
+       "name": "Recreation"
+      }
+     ]
+    },
+    {
+     "id": 93728,
+     "global_id": "highlandbrewing.com?id=93728",
+     "title": "Cold Mountain 30th Anniversary Release Weekend",
+     "description": "<p>30 Years of Cold Mountain Winter Ale Learn More | Buy Tickets Thirty years ago, we brewed the first batch of Cold Mountain Winter Ale. At the time, Oscar had no idea it would become a meaningful tradition for so many. Since 1996, Cold Mountain has grown from a small seasonal release into the kickoff to the holiday season. The beer itself changes a little every year, shaped by each brewer who puts their mark on it, and our team’s creativity shines through experimental exclusives like Chocolate [trimmed]</p>",
+     "url": "https://highlandbrewing.com/calendar/cold-mountain-30th-anniversary-release-weekend/",
+     "all_day": true,
+     "hide_from_listings": false,
+     "start_date": "2026-11-13 00:00:00",
+     "end_date": "2026-11-15 23:59:59",
+     "utc_start_date": "2026-11-13 05:00:00",
+     "utc_end_date": "2026-11-16 04:59:59",
+     "timezone": "America/New_York",
+     "venue": [],
+     "categories": [
+      {
+       "slug": "public-events",
+       "name": "Public Events"
+      }
+     ]
+    },
+    {
+     "id": 10022700,
+     "global_id": "highlandbrewing.com?id=10022700",
+     "title": "VB ASSC League",
+     "description": "<p>Asheville Sport and Social Club league night at Highland Brewing. REGISTER AND LEARN MORE</p>",
+     "url": "https://highlandbrewing.com/calendar/vb-assc-league-3-2/2026-11-15/",
+     "all_day": false,
+     "hide_from_listings": false,
+     "start_date": "2026-11-15 17:00:00",
+     "end_date": "2026-11-15 21:00:00",
+     "utc_start_date": "2026-11-15 22:00:00",
+     "utc_end_date": "2026-11-16 02:00:00",
+     "timezone": "America/New_York",
+     "venue": {
+      "id": 2556,
+      "venue": "Meadow at Highland Brewing Co.",
+      "address": "12 Old Charlotte Highway, Suite 200",
+      "city": "Asheville",
+      "stateprovince": "NC",
+      "url": "https://highlandbrewing.com/venue/the-meadow/"
+     },
+     "categories": [
+      {
+       "slug": "recreation",
+       "name": "Recreation"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+  "pages": [
+    {
+      "total": 3,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 16117,
+          "global_id": "mvhm.org?id=16117",
+          "title": "Spies Among Us: From the American Revolution to 1830s New York",
+          "description": "<div>Join us for a look back at spies and spying in NYC from the American Revolution to the 1820s and 1830s.</div>\n<div style=\"margin-top: 20px\">\n<div style=\"margin: 20px 10px;font-size: 15px;line-height: 22px;font-weight: 400;text-align: left\">\n<p><em><strong></strong><strong>Discover Another New York.</strong></em></p>\n<p>Everyone loves secrets&#8230; This brand new program offers visitors a glimpse into the spying and spying techniques of ordinary citizens, from George Washington&#8217;s Culper Spies in the Revolutionary War to the War of 1812, and early 19th-century social reform movements like temperance and abolition, which set the stage for spies of the Civil War. Learn how these people defied convention for a cause; you may even leave wondering if you could have been (or could still be?) a spy.</p>\n<p>This will be followed by a tour of the Mount Vernon Hotel, where, from 1826 to 1833, guests might have gossiped about spies of their day—or been spies themselves—while pursuing leisure activities in the tranquil countryside of Manhattan, 5 miles north of their busy lives and homes south of 14th street.</p>\n<p>As we celebrate 250 years of American Independence and 200 years of the Mount Vernon Hotel, don&#8217;t miss this fascinating look at a hidden facet of New York City history!</p>\n<p><em><strong></strong><strong>Follow us on Instagram: mvhmuseum</strong></em></p>\n<p><em><strong></strong><strong>1826-2026: Celebrating 200 Years of the Mount Vernon Hotel</strong></em><",
+          "url": "https://mvhm.org/event/spies-among-us-from-the-american-revolution-to-1830s-new-york/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-20 17:00:00",
+          "utc_end_date": "2026-10-20 18:30:00",
+          "venue": {
+            "venue": "Mount Vernon Hotel Museum & Garden",
+            "address": "421 East 61st Street",
+            "city": "New York"
+          }
+        },
+        {
+          "id": 16213,
+          "global_id": "mvhm.org?id=16213",
+          "title": "The Empire City: Discover New York City&#8217;s Hidden History + Wine Tasting",
+          "description": "<div>Discover Another New York New York with this tour and historically-inspired wine tasting!</div>\n<div style=\"margin-top: 20px\">\n<div style=\"margin: 20px 10px;font-size: 15px;line-height: 22px;font-weight: 400;text-align: left\">\n<p><em><strong></strong><strong>Discover Another New York.</strong></em></p>\n<p>Help us celebrate New York history and the 200th anniversary of the opening of the Mount Vernon Hotel by immersing yourself in the past with this museum tour and historically-inspired wine tasting. Our new exhibition, The Empire City Begins, will be just one highlight of this tour about the rise of New York City thanks largely to the opening of the Erie Canal.</p>\n<p>Opened in October 1825, the Erie Canal brought technological and economic changes that made day hotels, like the Mount Vernon Hotel, flourish. On the gentle current of the canal, boats loaded with goods traveled at 4 miles per hour making the journey between the Midwest and the East faster than ever before. Learn about the canal and its impact on this tour, view our new exhibition, then step into the Tavern for the latest in our series of historically-inspired wine tastings.</p>\n<p>The tasting will be led by our WSET-certified docent and will feature a selection of four to five contemporary New York wines that are inspired by what would have been served at the Mount Vernon Hotel; light refreshments will be served (must be 21).</p>\n<p><em><strong></strong><strong>Follow us on Instagram: mvhmuseum</strong></e",
+          "url": "https://mvhm.org/event/the-empire-city-discover-new-york-citys-hidden-history-wine-tasting/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-21 20:00:00",
+          "utc_end_date": "2026-10-21 22:00:00",
+          "venue": {
+            "venue": "Mount Vernon Hotel Museum & Garden",
+            "address": "421 East 61st Street",
+            "city": "New York"
+          }
+        },
+        {
+          "id": 16220,
+          "global_id": "mvhm.org?id=16220",
+          "title": "The Empire City: Discover New York City&#8217;s Hidden History + Tea Tasting",
+          "description": "<div>Discover Another New York New York with this tour and historically-inspired tea tasting!</div>\n<div style=\"margin-top: 20px\">\n<div style=\"margin: 20px 10px;font-size: 15px;line-height: 22px;font-weight: 400;text-align: left\">\n<p><em><strong></strong><strong>Discover Another New York.</strong></em></p>\n<p>Help us celebrate New York history and the 200th anniversary of the opening of the Mount Vernon Hotel by immersing yourself in the past with this museum tour and historically-inspired tea tasting. Our new exhibition, The Empire City Begins, will be just one highlight of this tour about the rise of New York City thanks largely to the opening of the Erie Canal.</p>\n<p>Opened in October 1825, the Erie Canal brought technological and economic changes that made day hotels, like the Mount Vernon Hotel, flourish. On the gentle current of the canal, boats loaded with goods traveled at 4 miles per hour making the journey between the Midwest and the East faster than ever before. Learn about the canal and its impact, view our new exhibition, then step into the Tavern for the latest in our series of historically-inspired tea tastings.</p>\n<p>The tasting will feature a tea talk and selection of four to five teas inspired by what would have been served at the Mount Vernon Hotel; includes light refreshments.</p>\n<p><em><strong></strong><strong>Follow us on Instagram: mvhmuseum</strong></em></p>\n<p><em><strong></strong><strong>1826-2026: Celebrating 200 Years of the Mount Vernon Hotel</",
+          "url": "https://mvhm.org/event/the-empire-city-discover-new-york-citys-hidden-history-tea-tasting/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-23 20:00:00",
+          "utc_end_date": "2026-10-23 22:00:00",
+          "venue": {
+            "venue": "Mount Vernon Hotel Museum & Garden",
+            "address": "421 East 61st Street",
+            "city": "New York"
+          }
+        }
+      ]
+    }
+  ]
+}

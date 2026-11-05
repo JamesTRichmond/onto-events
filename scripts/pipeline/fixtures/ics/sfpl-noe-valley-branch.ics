@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//San Francisco Fixture//EN
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:sfpl-noe-valley-branch-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T180000Z
+DTEND:20261024T193000Z
+SUMMARY:Noe Valley Garden Storytime & Sing-Along
+DESCRIPTION:Outdoor courtyard reading circle with acoustic guitar sing-alongs and interactive stories.
+LOCATION:SFPL Noe Valley/Sally Brunn Branch
+URL:https://sfpl.org/locations/noe-valley
+END:VEVENT
+BEGIN:VEVENT
+UID:sfpl-noe-valley-branch-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Family Board Game & Chess Afternoon
+DESCRIPTION:Casual board games, chess instruction, and friendly matches for youth and parents.
+LOCATION:SFPL Noe Valley/Sally Brunn Branch
+URL:https://sfpl.org/locations/noe-valley
+END:VEVENT
+END:VCALENDAR

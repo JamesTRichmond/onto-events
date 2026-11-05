@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto.events//Tokyo Community Feeds//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Setagaya Central Library (世田谷区立中央図書館)
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:tokyo-setagaya-central-library-evt0@onto.events
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=Asia/Tokyo:20260920T103000
+DTEND;TZID=Asia/Tokyo:20260920T113000
+SUMMARY:Setagaya Planetarium & Stargazing Session
+DESCRIPTION:Guided astronomical presentation and seasonal constellation observation for families at the central library planetarium.
+LOCATION:Setagaya Central Library
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-setagaya-central-library-evt1@onto.events
+DTSTAMP:20261031T120000Z
+DTSTART;TZID=Asia/Tokyo:20261107T103000
+DTEND;TZID=Asia/Tokyo:20261107T113000
+SUMMARY:Setagaya Planetarium & Stargazing Session
+DESCRIPTION:Guided astronomical presentation and seasonal constellation observation for families at the central library planetarium.
+LOCATION:Setagaya Central Library
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-setagaya-central-library-evt2@onto.events
+DTSTAMP:20261031T120000Z
+DTSTART;TZID=Asia/Tokyo:20261114T140000
+DTEND;TZID=Asia/Tokyo:20261114T153000
+SUMMARY:Setagaya Local Folklore & Oral History Circle
+DESCRIPTION:Gathering exploring the historic farmsteads and agricultural traditions of the Tamagawa river basin.
+LOCATION:Setagaya Central Library
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

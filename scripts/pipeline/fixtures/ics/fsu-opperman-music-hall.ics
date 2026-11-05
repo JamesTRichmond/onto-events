@@ -1,0 +1,353 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Calendar - Opperman Music Hall (OMH)
+X-WR-TIMEZONE:Eastern Time (US & Canada)
+BEGIN:VEVENT
+DTSTAMP:20261015T234802Z
+UID:tag:localist.com\,2008:EventInstance_53493941541587
+DTSTART:20261015T233000Z
+DTEND:20261016T010000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3030170/occurrences/7128356
+GEO:30.442369;-84.29152
+LOCATION:Opperman Music Hall (OMH)
+SUMMARY:Jazz I Performance
+URL;VALUE=URI:https://calendar.fsu.edu/event/jazz-i-performance-975
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Ensemble
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234802Z
+UID:tag:localist.com\,2008:EventInstance_53485103804408
+DTSTART:20261016T233000Z
+DTEND:20261017T013000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3030172/occurrences/7128358
+GEO:30.442369;-84.29152
+LOCATION:Opperman Music Hall (OMH)
+SUMMARY:Gospel Choir Performance
+URL;VALUE=URI:https://calendar.fsu.edu/event/gospel-choir-performance-9954
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Ensemble
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234802Z
+UID:tag:localist.com\,2008:EventInstance_53688595868740
+DTSTART:20261017T233000Z
+DTEND:20261018T013000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3309379/occurrences/8147612
+GEO:30.442369;-84.29152
+LOCATION:Opperman Music Hall (OMH)
+SUMMARY:FSMTA faculty concert: "Legacies in Sound"
+URL;VALUE=URI:https://calendar.fsu.edu/event/legacies-in-sound-a-faculty-concert-presented-by-fsmta-and-the-fsu-college-of-music
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234802Z
+UID:tag:localist.com\,2008:EventInstance_53485103828991
+DTSTART:20261018T180000Z
+DTEND:20261018T193000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3030174/occurrences/7128360
+GEO:30.442369;-84.29152
+LOCATION:Opperman Music Hall (OMH)
+SUMMARY:Percussion Ensemble Performance
+URL;VALUE=URI:https://calendar.fsu.edu/event/percussion-ensemble-performance-2373
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Ensemble
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234802Z
+UID:tag:localist.com\,2008:EventInstance_53493942005781
+DTSTART:20261019T233000Z
+DTEND:20261020T010000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3288128/occurrences/8005773
+GEO:30.442369;-84.29152
+LOCATION:Opperman Music Hall (OMH)
+SUMMARY:Canceled: Faculty Recital of John W. Parks\, percussion
+URL;VALUE=URI:https://calendar.fsu.edu/event/faculty-recital-of-john-w-parks-percussion
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234802Z
+UID:tag:localist.com\,2008:EventInstance_54246056739773
+DTSTART:20261020T230000Z
+DTEND:20261021T010000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3240291/occurrences/7809171
+GEO:30.442369;-84.29152
+LOCATION:Opperman Music Hall (OMH)
+SUMMARY:Discovery Days: "Kaleidoscope: Innovation in the Arts and Humanities"
+URL;VALUE=URI:https://calendar.fsu.edu/event/discovery-days-kaleidoscope-innovation-in-the-arts-and-humanities
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234802Z
+UID:tag:localist.com\,2008:EventInstance_54064827763378
+DTSTART:20261020T230000Z
+DTEND:20261021T000000Z
+DESCRIPTION:Presentations about current FSU gallery exhibitions\; the history and philosophy of mathematics\, what machine learning can – and can’t – tell us about natural kinds\, and performances of interdisciplinary musical works.\n\n​Debra Fadool\, Karen Large\, Svetla Slaveva-Griffin\, Kaylee Spencer\, Noël Wan\, Zina Ward\, Anya Wilkening\, FSU Flute Ensemble
+GEO:30.442369;-84.29152
+LOCATION:Opperman Music Hall (OMH)
+SUMMARY:Kaleidoscope: Innovation in the Arts and Humanities
+URL;VALUE=URI:https://calendar.fsu.edu/event/kaleidoscope-innovation-in-the-arts-and-humanities-5118
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234802Z
+UID:tag:localist.com\,2008:EventInstance_53485103848454
+DTSTART:20261022T233000Z
+DTEND:20261023T013000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3030178/occurrences/7128364
+GEO:30.442369;-84.29152
+LOCATION:Opperman Music Hall (OMH)
+SUMMARY:Jazz II Performance
+URL;VALUE=URI:https://calendar.fsu.edu/event/jazz-ii-performance-8998
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Ensemble
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234802Z
+UID:tag:localist.com\,2008:EventInstance_54077989639779
+DTSTART:20261023T140000Z
+DTEND:20261023T160000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3339223/occurrences/8323791
+GEO:30.442369;-84.29152
+LOCATION:Opperman Music Hall (OMH)
+SUMMARY:Guest Artist Masterclass - Alex Horton\, double bass
+URL;VALUE=URI:https://calendar.fsu.edu/event/guest-artist-masterclass-alex-horton-saxophone
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234802Z
+UID:tag:localist.com\,2008:EventInstance_53759411753152
+DTSTART:20261024T213000Z
+DTEND:20261024T223000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3316729/occurrences/8197924
+GEO:30.442369;-84.29152
+LOCATION:Opperman Music Hall (OMH)
+SUMMARY:FSU Saxophone Day: Saxophone Ensemble Performance
+URL;VALUE=URI:https://calendar.fsu.edu/event/saxophone-day-ensemble-performance
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234802Z
+UID:tag:localist.com\,2008:EventInstance_53493941608157
+DTSTART:20261026T233000Z
+DTEND:20261027T013000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3030180/occurrences/7128366
+GEO:30.442369;-84.29152
+LOCATION:Opperman Music Hall (OMH)
+SUMMARY:Jazz III Performance
+URL;VALUE=URI:https://calendar.fsu.edu/event/jazz-iii-performance-4322
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Ensemble
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234802Z
+UID:tag:localist.com\,2008:EventInstance_53493941627620
+DTSTART:20261029T233000Z
+DTEND:20261030T013000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3030186/occurrences/7128372
+GEO:30.442369;-84.29152
+LOCATION:Opperman Music Hall (OMH)
+SUMMARY:Members of the University Symphony Orchestra featuring Celso Cano\, guitar
+URL;VALUE=URI:https://calendar.fsu.edu/event/university-symphony-orchestra-chamber-performance-4883
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Ensemble
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234802Z
+UID:tag:localist.com\,2008:EventInstance_53954071400580
+DTSTART:20261030T233000Z
+DTEND:20261031T013000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3332990/occurrences/8300022
+GEO:30.442369;-84.29152
+LOCATION:Opperman Music Hall (OMH)
+SUMMARY:Faculty Recital - "Electric Flutes!" Karen Large and Mary Matthews\, flute
+URL;VALUE=URI:https://calendar.fsu.edu/event/faculty-recital-electric-flutes-with-karen-large-and-mary-matthews-flute
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234802Z
+UID:tag:localist.com\,2008:EventInstance_54042588329485
+DTSTART:20261101T180000Z
+DTEND:20261101T200000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3335545/occurrences/8309786
+GEO:30.442369;-84.29152
+LOCATION:Opperman Music Hall (OMH)
+SUMMARY:Factulty Masterclass - Genevieve Clarkson\, tuba
+URL;VALUE=URI:https://calendar.fsu.edu/event/factulty-masterclass-genevieve-clarkson-tuba
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Ensemble
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234802Z
+UID:tag:localist.com\,2008:EventInstance_53768244264677
+DTSTART:20261102T003000Z
+DTEND:20261102T023000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3154333/occurrences/7586924
+GEO:30.442369;-84.29152
+LOCATION:Opperman Music Hall (OMH)
+SUMMARY:Tuba and Euphonium Ensemble Concert
+URL;VALUE=URI:https://calendar.fsu.edu/event/tuba-and-euphonium-ensemble-concert
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Ensemble
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234802Z
+UID:tag:localist.com\,2008:EventInstance_53493941648107
+DTSTART:20261104T003000Z
+DTEND:20261104T023000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3030192/occurrences/7128378
+GEO:30.442369;-84.29152
+LOCATION:Opperman Music Hall (OMH)
+SUMMARY:Levana Performance
+URL;VALUE=URI:https://calendar.fsu.edu/event/levana-performance-9239
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Ensemble
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234802Z
+UID:tag:localist.com\,2008:EventInstance_53493941404618
+DTSTART:20261104T003000Z
+DTEND:20261104T023000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3030192/occurrences/7128378
+GEO:30.442369;-84.29152
+LOCATION:Opperman Music Hall (OMH)
+SUMMARY:Levana Performance
+URL;VALUE=URI:https://calendar.fsu.edu/event/levana-performance-1820
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234802Z
+UID:tag:localist.com\,2008:EventInstance_53493941671666
+DTSTART:20261106T003000Z
+DTEND:20261106T023000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3030195/occurrences/7128381
+GEO:30.442369;-84.29152
+LOCATION:Opperman Music Hall (OMH)
+SUMMARY:University Philharmonia Orchestra Performance
+URL;VALUE=URI:https://calendar.fsu.edu/event/university-philharmonia-orchestra-performance-929
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Ensemble
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234802Z
+UID:tag:localist.com\,2008:EventInstance_53493941693177
+DTSTART:20261107T003000Z
+DTEND:20261107T023000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3030196/occurrences/7128382
+GEO:30.442369;-84.29152
+LOCATION:Opperman Music Hall (OMH)
+SUMMARY:Swing Machine Performance
+URL;VALUE=URI:https://calendar.fsu.edu/event/swing-machine-performance-3470
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Ensemble
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234802Z
+UID:tag:localist.com\,2008:EventInstance_53493941717760
+DTSTART:20261110T003000Z
+DTEND:20261110T020000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3030199/occurrences/7128385
+GEO:30.442369;-84.29152
+LOCATION:Opperman Music Hall (OMH)
+SUMMARY:Symphonic and Concert Band Performance
+URL;VALUE=URI:https://calendar.fsu.edu/event/symphonic-and-concert-band-performance-4037
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Ensemble
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234802Z
+UID:tag:localist.com\,2008:EventInstance_53493941374915
+DTSTART:20261111T003000Z
+DTEND:20261111T023000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3030167/occurrences/7128353
+GEO:30.442369;-84.29152
+LOCATION:Opperman Music Hall (OMH)
+SUMMARY:Vocal Jazz Performance
+URL;VALUE=URI:https://calendar.fsu.edu/event/vocal-jazz-performance-3545
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234802Z
+UID:tag:localist.com\,2008:EventInstance_53493941521100
+DTSTART:20261111T003000Z
+DTEND:20261111T023000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3030167/occurrences/7128353
+GEO:30.442369;-84.29152
+LOCATION:Opperman Music Hall (OMH)
+SUMMARY:Vocal Jazz Performance
+URL;VALUE=URI:https://calendar.fsu.edu/event/vocal-jazz-performance-6092
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Ensemble
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234802Z
+UID:tag:localist.com\,2008:EventInstance_53493941740295
+DTSTART:20261114T003000Z
+DTEND:20261114T020000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3030202/occurrences/7128388
+GEO:30.442369;-84.29152
+LOCATION:Opperman Music Hall (OMH)
+SUMMARY:Chamber Choir Performance
+URL;VALUE=URI:https://calendar.fsu.edu/event/chamber-choir-performance-8906
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Ensemble
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234802Z
+UID:tag:localist.com\,2008:EventInstance_53670911272019
+DTSTART:20261118T003000Z
+DTEND:20261118T023000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3307392/occurrences/8132184
+GEO:30.442369;-84.29152
+LOCATION:Opperman Music Hall (OMH)
+SUMMARY:World Music – Gamelan and Chinese Ensemble
+URL;VALUE=URI:https://calendar.fsu.edu/event/world-music-gamelan-and-chinese-ensemble
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Ensemble
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234802Z
+UID:tag:localist.com\,2008:EventInstance_53670910988337
+DTSTART:20261119T003000Z
+DTEND:20261119T023000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3307396/occurrences/8132204
+GEO:30.442369;-84.29152
+LOCATION:Opperman Music Hall (OMH)
+SUMMARY:World Music – Grupo Jaraguá and Modern Pop Ensemble
+URL;VALUE=URI:https://calendar.fsu.edu/event/world-music-grupo-jaragua-and-modern-pop-ensemble
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Ensemble
+END:VEVENT
+END:VCALENDAR

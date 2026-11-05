@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Lockhart Chamber of Commerce Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:lcc-downtown-market-20261025@onto.events
+DTSTAMP:20260905T120000Z
+DTSTART:20261025T150000Z
+DTEND:20261025T190000Z
+SUMMARY:First Saturday Historic Square Downtown Market
+DESCRIPTION:Community street market surrounding the Caldwell County Courthouse with regional vendors, handmade crafts, and Texas BBQ specialties.
+LOCATION:Lockhart Chamber of Commerce
+URL:https://www.lockhartchamber.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:lcc-civic-luncheon-20261102@onto.events
+DTSTAMP:20260905T120000Z
+DTSTART:20261102T173000Z
+DTEND:20261102T190000Z
+SUMMARY:Caldwell County Community & Heritage Luncheon
+DESCRIPTION:Monthly civic networking luncheon discussing regional economic development and cultural preservation.
+LOCATION:Lockhart Chamber of Commerce
+URL:https://www.lockhartchamber.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:lcc-heritage-arts-walk-20261114@onto.events
+DTSTAMP:20260905T120000Z
+DTSTART:20261114T180000Z
+DTEND:20261114T210000Z
+SUMMARY:Lockhart Evening Art Walk & Music Showcase
+DESCRIPTION:Evening stroll celebrating local artists, gallery exhibits, and live musical performances throughout historic Lockhart.
+LOCATION:Lockhart Chamber of Commerce
+URL:https://www.lockhartchamber.com/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tallahassee Symphony Orchestra//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tallahassee Symphony Orchestra
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T020000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T020000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:tso-001@tallahasseesymphony.org
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260925T193000
+DTEND;TZID=America/New_York:20260925T213000
+SUMMARY:Symphony Season Preview & Open Rehearsal
+DESCRIPTION:Join Maestro Yaniv Dinur and the Tallahassee Symphony Orchestra for a behind-the-scenes open rehearsal and preview of the 2026-2027 season.
+LOCATION:Ruby Diamond\, 222 S Copeland St\, Tallahassee\, FL\, 32304\, United States
+URL:https://www.tallahasseesymphony.org/event/season-preview-2026/
+CATEGORIES:music
+END:VEVENT
+BEGIN:VEVENT
+UID:tso-002@tallahasseesymphony.org
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20261016T193000
+DTEND;TZID=America/New_York:20261016T213000
+SUMMARY:Zukerman Plays Elgar
+DESCRIPTION:World-renowned violin virtuoso Pinchas Zukerman joins the TSO for Sir Edward Elgars Violin Concerto at Ruby Diamond Concert Hall.
+LOCATION:Ruby Diamond\, 222 S Copeland St\, Tallahassee\, FL\, 32304\, United States
+URL:https://www.tallahasseesymphony.org/event/zukerman-plays-elgar/
+CATEGORIES:music
+END:VEVENT
+BEGIN:VEVENT
+UID:tso-003@tallahasseesymphony.org
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20261030T180000
+DTEND;TZID=America/New_York:20261030T200000
+SUMMARY:FREE Halloween Symphony Spooktacular!
+DESCRIPTION:Free annual Halloween family concert at Cascades Park! Costumes encouraged as the orchestra performs spooky classical favorites.
+LOCATION:The Adderley Amphitheater at Cascades Park\, 1001 S Gadsden St\, Tallahassee\, FL\, 32301\, United States
+URL:https://www.tallahasseesymphony.org/event/free-halloween-symphony-spooktacular/
+CATEGORIES:music,family
+END:VEVENT
+END:VCALENDAR

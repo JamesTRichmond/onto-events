@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Tucson Fixture//EN
+X-WR-TIMEZONE:America/Phoenix
+BEGIN:VEVENT
+UID:pcpl-oro-valley-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T170000Z
+DTEND:20261024T183000Z
+SUMMARY:Oro Valley Youth Robotics & Coding Club
+DESCRIPTION:Hands-on programming and micro-robotics challenges for youth in Oro Valley.
+LOCATION:Oro Valley Public Library
+URL:https://www.library.pima.gov/locations/oro-valley/
+END:VEVENT
+BEGIN:VEVENT
+UID:pcpl-oro-valley-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261028T010000Z
+DTEND:20261028T023000Z
+SUMMARY:Catalina Vista Acoustic Music & Chamber Hour
+DESCRIPTION:Monthly free community concert series featuring classical strings and folk acoustic sets in the meeting room.
+LOCATION:Oro Valley Public Library
+URL:https://www.library.pima.gov/locations/oro-valley/
+END:VEVENT
+END:VCALENDAR

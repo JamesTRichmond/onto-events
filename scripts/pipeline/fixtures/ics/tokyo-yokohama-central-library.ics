@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto.events//Tokyo Community Feeds//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Yokohama Central Library (横浜市中央図書館)
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:tokyo-yokohama-central-library-evt0@onto.events
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=Asia/Tokyo:20260920T103000
+DTEND;TZID=Asia/Tokyo:20260920T113000
+SUMMARY:Yokohama Port Opening Maritime History Tour
+DESCRIPTION:Curated inspection of 1859 port opening treaties, maritime charts, and Meiji photograph albums.
+LOCATION:Yokohama Central Library
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-yokohama-central-library-evt1@onto.events
+DTSTAMP:20261031T120000Z
+DTSTART;TZID=Asia/Tokyo:20261107T103000
+DTEND;TZID=Asia/Tokyo:20261107T113000
+SUMMARY:Yokohama Port Opening Maritime History Tour
+DESCRIPTION:Curated inspection of 1859 port opening treaties, maritime charts, and Meiji photograph albums.
+LOCATION:Yokohama Central Library
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-yokohama-central-library-evt2@onto.events
+DTSTAMP:20261031T120000Z
+DTSTART;TZID=Asia/Tokyo:20261114T140000
+DTEND;TZID=Asia/Tokyo:20261114T153000
+SUMMARY:Nogeyama Family Weekend Storytime
+DESCRIPTION:Storytelling, sing-alongs, and hands-on crafts for young children in the youth library.
+LOCATION:Yokohama Central Library
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

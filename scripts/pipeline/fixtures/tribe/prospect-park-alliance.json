@@ -1,0 +1,58 @@
+{
+  "pages": [
+    {
+      "total": 4,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 10024818,
+          "global_id": "www.prospectpark.org?id=10024818",
+          "title": "Carousel Rides",
+          "description": "Children’s Corner, $3 per ride, $13 for a book of 5 tickets, Free with Prospect Park Alliance Family Supporter membership or higher. Enjoy a ride on Prospect Park’s beloved 1912 Carousel . Open Thursdays – Sundays and Holidays, this treasured historic attraction features magnificent carved horses, lions, giraffes and deer. Join the Alliance at the Family Supporter level or above and enjoy unlimited free rides!",
+          "url": "https://www.prospectpark.org/event/carousel-rides-9/2026-10-16/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-16 16:00:00",
+          "utc_end_date": "2026-10-16 21:00:00",
+          "venue": []
+        },
+        {
+          "id": 10024963,
+          "global_id": "www.prospectpark.org?id=10024963",
+          "title": "Fall Festival at Lakeside",
+          "description": "Celebrate the season at the Lakeside Fall Festival, a month-long fall experience filled with pumpkins, Haunted Hotel experience, carnival games, family activities, seasonal treats, photo ops, and Halloween fun in the heart of Prospect Park. Pick a pumpkin, make your way through the corn maze, challenge your family to carnival games, test your skills, grab something seasonal to eat, and spend the day enjoying fall at LeFrak Center at Lakeside. The Fall Festival is designed to be family friendly and fun for all ages. Weekdays: 4–10 pm Weekends: 11 am–10 pm Get Tickets",
+          "url": "https://www.prospectpark.org/event/fall-festival-at-lakeside/2026-10-16/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-16 20:00:00",
+          "utc_end_date": "2026-10-17 02:00:00",
+          "venue": []
+        },
+        {
+          "id": 10001084,
+          "global_id": "www.prospectpark.org?id=10001084",
+          "title": "Greenmarket at Grand Army Plaza",
+          "description": "At what other market can you do all your food shopping, sample local wine and explore Brooklyn’s favorite park? Established in 1989, the Grand Army Plaza greenmarket is the flagship Brooklyn market. EBT/Food Stamps and WIC & Senior FMNP coupons accepted year-round. Learn More For a full calendar of events and a list of sellers, visit the GrowNYC website. Learn about all Nutrition Benefit Programs accepted at GrowNYC Markets.",
+          "url": "https://www.prospectpark.org/event/greenmarket-at-grand-army-plaza-2/2026-10-17/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-17 12:00:00",
+          "utc_end_date": "2026-10-17 20:00:00",
+          "venue": []
+        },
+        {
+          "id": 38327,
+          "global_id": "www.prospectpark.org?id=38327",
+          "title": "Wellness For The People Presents: The Festival",
+          "description": "Join Wellness For The People, in partnership with Prospect Park Alliance, as they close out the year with an all-ages event grounded in collective healing, movement, and joy. Founded on the belief that everyone deserves access to well-being and care, this initiative brings together local visionaries, artists, and practitioners for a restorative day in Brooklyn’s Backyard. Bring your friends, family, and neighbors to ground, rise, and celebrate together. RSVP Event Highlights: Collective Movement with Roberto Hued and Maga Villarreal Community Conversation with Djali from Nueva Yorkinos Spoken Word & Poetry performance by Joél Leon Wisdom Talk & Guided Meditation with deep listening and breathwork led by Kenji Summers Dance & Closing Celebration hosted by Dance Church Community Market featuring food and well-being offerings from Anima Mundi & more Additional community guests and artists to be announced. What to Bring: A yoga mat or large towel A reusable water bottle An open heart and your whole self RSVP",
+          "url": "https://www.prospectpark.org/event/wellness-for-the-people-presents-the-festival/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-17 12:30:00",
+          "utc_end_date": "2026-10-17 18:00:00",
+          "venue": []
+        }
+      ]
+    }
+  ]
+}

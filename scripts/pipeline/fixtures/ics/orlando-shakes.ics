@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Orlando Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:orlando-shakes-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T153000Z
+SUMMARY:Orlando Shakes (Shakespeare Theater) Community Showcase
+DESCRIPTION:Lowndes Shakespeare Center in Loch Haven Park.
+LOCATION:Orlando Shakes (Shakespeare Theater)
+URL:https://www.orlandoshakes.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:orlando-shakes-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T220000Z
+DTEND:20261027T233000Z
+SUMMARY:Orlando Shakes (Shakespeare Theater) Evening Program
+DESCRIPTION:VERIFIED: Classical Shakespeare contemporary comedies and children's literature productions in Loch Haven Park.
+LOCATION:Orlando Shakes (Shakespeare Theater)
+URL:https://www.orlandoshakes.org/
+END:VEVENT
+END:VCALENDAR

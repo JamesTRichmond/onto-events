@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Flagstaff Fixture//EN
+X-WR-TIMEZONE:America/Phoenix
+BEGIN:VEVENT
+UID:nau-ardrey-auditorium-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T170000Z
+DTEND:20261024T183000Z
+SUMMARY:NAU Symphony & Performing Arts Series Concert
+DESCRIPTION:Masterworks orchestral concert and guest artist showcase in Ardrey Memorial Auditorium.
+LOCATION:NAU Ardrey Memorial Auditorium
+URL:https://events.nau.edu/ardrey-auditorium.ics
+END:VEVENT
+BEGIN:VEVENT
+UID:nau-ardrey-auditorium-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261028T210000Z
+DTEND:20261028T223000Z
+SUMMARY:NAU Symphony & Performing Arts Series Concert (Encore)
+DESCRIPTION:Masterworks orchestral concert and guest artist showcase in Ardrey Memorial Auditorium.
+LOCATION:NAU Ardrey Memorial Auditorium
+URL:https://events.nau.edu/ardrey-auditorium.ics
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Expansion Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:aurora-santori-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261025T160000Z
+DTEND:20261025T173000Z
+SUMMARY:Fox River STEM & Environmental Makers Workshop
+DESCRIPTION:Eco-STEM interactive lab exploring Fox River watershed ecology, water testing, and robotics building at the Santori Library.
+LOCATION:Aurora Public Library District (Santori Library)
+URL:https://www.aurorapubliclibrary.org
+END:VEVENT
+BEGIN:VEVENT
+UID:aurora-santori-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261028T183000Z
+DTEND:20261028T200000Z
+SUMMARY:Kane County Community Arts & Acoustic Showcase
+DESCRIPTION:All-ages community concert showcasing local acoustic musicians, poets, and visual artists in the Santori Library Atrium.
+LOCATION:Aurora Public Library District (Santori Library)
+URL:https://www.aurorapubliclibrary.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Philadelphia Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:flp-chestnut-hill-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Chestnut Hill Garden Storytime & Book Discussion
+DESCRIPTION:Weekly children storytime, garden stewardship talks, and author discussions along historic Germantown Avenue.
+LOCATION:FLP Chestnut Hill Branch Library
+URL:https://libwww.freelibrary.org/locations/chestnut-hill-library
+END:VEVENT
+BEGIN:VEVENT
+UID:flp-chestnut-hill-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Chestnut Hill Garden Storytime & Book Discussion (Session 2)
+DESCRIPTION:Weekly children storytime, garden stewardship talks, and author discussions along historic Germantown Avenue. Follow-up community session.
+LOCATION:FLP Chestnut Hill Branch Library
+URL:https://libwww.freelibrary.org/locations/chestnut-hill-library
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto fixture//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weeksville Heritage Center Events
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:whc-hunterfly-tour-20261107
+DTSTART:20261107T160000Z
+DTEND:20261107T173000Z
+SUMMARY:Historic Hunterfly Road Houses Guided Tour
+LOCATION:Weeksville Heritage Center, 158 Buffalo Ave, Brooklyn, NY 11213
+DESCRIPTION:Guided architectural and historic exploration of the remaining 19th-century homes of Weeksville, one of America's first free Black independent communities.
+URL:https://www.weeksvillesociety.org/visit
+END:VEVENT
+BEGIN:VEVENT
+UID:whc-genealogy-lab-20261114
+DTSTART:20261114T180000Z
+DTEND:20261114T200000Z
+SUMMARY:African American Oral History & Genealogy Workshop
+LOCATION:Weeksville Heritage Center, 158 Buffalo Ave, Brooklyn, NY 11213
+DESCRIPTION:Archival preservation lab teaching family history recording, census ledger navigation, and oral testimony preservation techniques for Brooklyn lineages.
+URL:https://www.weeksvillesociety.org/events/genealogy-lab-fall-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:whc-community-garden-20261121
+DTSTART:20261121T150000Z
+DTEND:20261121T180000Z
+SUMMARY:Legacy Garden Harvest & Herbalism Demonstration
+LOCATION:Weeksville Heritage Center, 158 Buffalo Ave, Brooklyn, NY 11213
+DESCRIPTION:Community agricultural gathering exploring heirloom seed preservation, historic African Diasporic foodways, and traditional medicinal herbal preparations.
+URL:https://www.weeksvillesociety.org/events/harvest-garden-legacy
+END:VEVENT
+END:VCALENDAR

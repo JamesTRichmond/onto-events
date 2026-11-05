@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bradfordville Blues Club//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bradfordville Blues Club
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T020000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T020000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:bbc-2026-001@bradfordvilleblues.com
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260918T200000
+DTEND;TZID=America/New_York:20260918T233000
+SUMMARY:Roots Blues Live at the Juke Joint: Southern Roots Revival
+DESCRIPTION:Live rhythm & blues with bonfire under the oak canopy. Outdoor fry shack and authentic Delta acoustic and electric blues.
+LOCATION:Bradfordville Blues Club
+URL:https://bradfordvilleblues.com/shows/southern-roots-revival
+CATEGORIES:arts
+END:VEVENT
+BEGIN:VEVENT
+UID:bbc-2026-002@bradfordvilleblues.com
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260925T200000
+DTEND;TZID=America/New_York:20260925T233000
+SUMMARY:Florida Blues Trail Showcase: Swamp Blues Masters
+DESCRIPTION:Annual Florida Blues Trail showcase featuring regional guitar virtuosos and traditional harmonica blues masters.
+LOCATION:Bradfordville Blues Club
+URL:https://bradfordvilleblues.com/shows/florida-blues-trail-showcase
+CATEGORIES:arts
+END:VEVENT
+END:VCALENDAR

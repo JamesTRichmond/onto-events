@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Eastside Branch Library//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Eastside Branch Library
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T020000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T020000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:lcpl-east-001@leoncountyfl.gov
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260916T103000
+DTEND;TZID=America/New_York:20260916T110000
+SUMMARY:Preschool Story Time (Ages 3-6) @ Eastside Branch
+DESCRIPTION:Enjoy stories\, songs and rhymes that build early literacy skills and spark imagination in young minds.
+LOCATION:Eastside Branch Library
+URL:https://leoncountyfl.libcal.com/event/11679610
+CATEGORIES:learning,family
+END:VEVENT
+BEGIN:VEVENT
+UID:lcpl-east-002@leoncountyfl.gov
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260916T110000
+DTEND;TZID=America/New_York:20260916T120000
+SUMMARY:Stay and Play @ Eastside Branch
+DESCRIPTION:After Story Time\, stay to play\, explore and connect with other families. Hands-on toys and learning stations provided.
+LOCATION:Eastside Branch Library
+URL:https://leoncountyfl.libcal.com/event/10891077
+CATEGORIES:family,community
+END:VEVENT
+BEGIN:VEVENT
+UID:lcpl-east-003@leoncountyfl.gov
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260922T180000
+DTEND;TZID=America/New_York:20260922T193000
+SUMMARY:Click With Confidence: Digital Safety Workshop
+DESCRIPTION:Learn practical tips to stay safe online. This beginner-friendly workshop covers passwords\, phishing\, and scam protection.
+LOCATION:Eastside Branch Library
+URL:https://leoncountyfl.libcal.com/event/16945911
+CATEGORIES:learning,community
+END:VEVENT
+END:VCALENDAR

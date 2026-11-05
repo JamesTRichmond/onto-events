@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Pensacola Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:uwf-central-events-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:UWF Public Lecture Series: Gulf Coast Marine Resilience
+DESCRIPTION:Faculty and visiting scholars present public research on Pensacola Bay watershed restoration.
+LOCATION:University of West Florida Main Campus
+URL:https://uwf.edu/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:uwf-central-events-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:UWF Campus Community Astronomy & Science Night
+DESCRIPTION:Open campus science demonstrations and telescope viewing on the UWF Cannon Greens.
+LOCATION:University of West Florida Main Campus
+URL:https://uwf.edu/calendar/
+END:VEVENT
+END:VCALENDAR

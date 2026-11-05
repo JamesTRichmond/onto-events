@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto.events//Tokyo Community Feeds//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chiyoda Library (千代田区立千代田図書館)
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:tokyo-chiyoda-library-evt0@onto.events
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=Asia/Tokyo:20260920T103000
+DTEND;TZID=Asia/Tokyo:20260920T113000
+SUMMARY:Kudan Children’s Weekend Story Hour
+DESCRIPTION:Interactive storytelling and origami folding for children and families overlooking Chidorigafuchi.
+LOCATION:Chiyoda Library
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-chiyoda-library-evt1@onto.events
+DTSTAMP:20261031T120000Z
+DTSTART;TZID=Asia/Tokyo:20261107T103000
+DTEND;TZID=Asia/Tokyo:20261107T113000
+SUMMARY:Kudan Children’s Weekend Story Hour
+DESCRIPTION:Interactive storytelling and origami folding for children and families overlooking Chidorigafuchi.
+LOCATION:Chiyoda Library
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-chiyoda-library-evt2@onto.events
+DTSTAMP:20261031T120000Z
+DTSTART;TZID=Asia/Tokyo:20261114T140000
+DTEND;TZID=Asia/Tokyo:20261114T153000
+SUMMARY:Chiyoda Digital Archive Research Workshop
+DESCRIPTION:Guide to accessing digital historical collections of Edo castles, samurai residences, and Meiji administration records.
+LOCATION:Chiyoda Library
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

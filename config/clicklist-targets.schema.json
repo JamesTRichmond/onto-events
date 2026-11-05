@@ -1,0 +1,44 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ClicklistSyncTargetsManifest",
+  "description": "Schema for the opt-in manifest defining target repositories for automated clicklist synchronization.",
+  "type": "object",
+  "required": ["version", "targets"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "version": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "description": {
+      "type": "string"
+    },
+    "targets": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["repository"],
+        "additionalProperties": false,
+        "properties": {
+          "repository": {
+            "type": "string",
+            "pattern": "^[a-zA-Z0-9_.-]+/[a-zA-Z0-9_.-]+$",
+            "description": "Target repository in 'owner/name' format."
+          },
+          "branch": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Optional target branch name. Defaults to the repository default branch."
+          },
+          "enabled": {
+            "type": "boolean",
+            "description": "Whether synchronization is active for this repository. Defaults to true."
+          }
+        }
+      }
+    }
+  }
+}

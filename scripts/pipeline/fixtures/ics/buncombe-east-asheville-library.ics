@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+PRODID:-//Trumba Corporation//Trumba Calendar Services 0.11.26207//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Public Libraries|East Asheville Library
+X-WR-TIMEZONE:America/New_York
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Black Experience Book Club
+LOCATION:Noir Collective AVL<br>39 S. Market St. Suite C<br>Asheville\, NC 28801
+DTSTART;TZID=America/New_York:20261022T183000
+DTEND;TZID=America/New_York:20261022T193000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+URL:https://www.buncombecounty.org/governing/depts/library/branch-locations/east-asheville.aspx
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Public Libraries
+X-TRUMBA-CUSTOMFIELD;NAME="Phone";ID=35516;TYPE=PhoneUS10NoExt:[phone removed]
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=35482;TYPE=CustomAsset:Book Club
+X-TRUMBA-CUSTOMFIELD;NAME="Age Group";ID=35581;TYPE=CustomAsset:Adult
+X-TRUMBA-CUSTOMFIELD;NAME="Library";ID=35393;TYPE=CustomAsset:All Libraries\,East Asheville
+DTSTAMP:20240410T175202Z
+DESCRIPTION:Phone: [phone removed]<br>Event Type: Book Club<br>Age Group: Adult<br>Library: All Libraries\,East Asheville<br>Link: https://www.buncombecounty.org/governing/depts/library/branch-locations/east-asheville.aspx<br><br>The Black Experience Book Club reads books by Black authors about the many facets of the Black experience. Join other book lovers to discuss this month&#39\;s pick.<br><br><strong>WHERE TO FIND THE BOOK</strong><br>PUBLIC LIBRARY<br>Call your local Buncombe County Public Library or visit&#160\;buncombecounty.org/library&#160\;to reserve your copy online.<br><br>NOIR COLLECTIVE AT THE YMICC.<br>Stop by Noir Collective AVL during open hours\, call [phone removed]\, or email <a href="mailto:redacted@example.invalid" target="_blank" rel="noopener">redacted@example.invalid</a> to check availability.
+CATEGORIES:East Asheville Library
+UID:http://uid.trumba.com/event/159611812
+X-TRUMBA-LINK:https://www.buncombecounty.org/governing/depts/library/branch-locations/east-asheville.aspx?trumbaEmbed=view%3Devent%26eventid%3D159611812
+END:VEVENT
+END:VCALENDAR

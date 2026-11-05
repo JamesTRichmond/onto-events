@@ -1,0 +1,6 @@
+.onto-location-map { flex: 1; min-height: 160px; width: 100%; background: #d6dbdd; }
+.onto-location-map:focus-visible { outline: 3px solid #ff8a6b; outline-offset: -3px; }
+.onto-location-map .onto-map-pin { background: #ff6b4a; border: 3px solid #fff; border-radius: 50%; box-shadow: 0 2px 8px #0008; }
+.onto-location-map .leaflet-control-attribution { font: 11px/1.5 system-ui, sans-serif; }
+.onto-location-map .leaflet-control-attribution a { color: #12527a; }
+@media (prefers-reduced-motion: reduce) { .onto-location-map .leaflet-zoom-animated { transition: none !important; } }

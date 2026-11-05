@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Philadelphia Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:ensemble-arts-philly-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Broadway Masterstage Performance & Avenue Arts Recital
+DESCRIPTION:Touring Broadway theatrical showcase, resident orchestra overtures, and dance repertory in Verizon Hall.
+LOCATION:Kimmel Cultural Campus
+URL:https://www.ensembleartsphilly.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:ensemble-arts-philly-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Broadway Masterstage Performance & Avenue Arts Recital (Session 2)
+DESCRIPTION:Touring Broadway theatrical showcase, resident orchestra overtures, and dance repertory in Verizon Hall. Follow-up community session.
+LOCATION:Kimmel Cultural Campus
+URL:https://www.ensembleartsphilly.org/
+END:VEVENT
+END:VCALENDAR

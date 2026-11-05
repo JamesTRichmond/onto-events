@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Pensacola Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:uwf-tag-gallery-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:TAG Contemporary Exhibition Opening & Artist Talk
+DESCRIPTION:Free public gallery reception and curatorial talk at The Art Gallery at UWF.
+LOCATION:The Art Gallery (TAG) at UWF
+URL:https://tag.uwf.edu/
+END:VEVENT
+BEGIN:VEVENT
+UID:uwf-tag-gallery-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:UWF Visual Arts Critique & Open Gallery Afternoon
+DESCRIPTION:Guided walkthrough of contemporary installation and mixed-media works.
+LOCATION:The Art Gallery (TAG) at UWF
+URL:https://tag.uwf.edu/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,58 @@
+{
+  "pages": [
+    {
+      "total": 3,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 9316,
+          "global_id": "www.statenislandmuseum.org?id=9316",
+          "title": "Bird and Nature Walk: Fresh Kills &#8211; North Park",
+          "description": "<p>Join naturalists Ed Johnson and Ray Matarazzo with Director of Natural Science Colleen Evans on guided walks through the borough of parks.</p>\n<p>There should still be some lingering songbirds and raptors around, in addition to newly arrived wintering waterfowl.</p>\n<p>Meet in the parking lot at the end of Wild Ave. (see map)</p>",
+          "url": "https://www.statenislandmuseum.org/event/bird-and-nature-walk-fresh-kills-north-park/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-25 15:00:00",
+          "utc_end_date": "2026-10-25 17:00:00",
+          "venue": {
+            "venue": "Freshkills North Park",
+            "address": "350 Wild Ave.",
+            "city": "Staten Island"
+          }
+        },
+        {
+          "id": 9318,
+          "global_id": "www.statenislandmuseum.org?id=9318",
+          "title": "Bird and Nature Walk: Wolfe&#8217;s Pond Park",
+          "description": "<p>Join naturalists Ed Johnson and Ray Matarazzo with Director of Natural Science Colleen Evans on guided walks through the borough of parks.</p>\n<p>The diversity of habitats (freshwater pond, woodlands, Raritan Bay) should yield a good mix of late migrants and winter residents.</p>\n<p>Meet in the parking lot near the Parks Dept. buildings.</p>",
+          "url": "https://www.statenislandmuseum.org/event/bird-and-nature-walk-wolfes-pond-park-10/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-28 15:00:00",
+          "utc_end_date": "2026-10-28 17:00:00",
+          "venue": {
+            "venue": "Wolfe&#8217;s Pond Park",
+            "address": "420 Cornelia Ave.",
+            "city": "Staten Island"
+          }
+        },
+        {
+          "id": 9320,
+          "global_id": "www.statenislandmuseum.org?id=9320",
+          "title": "Bird and Nature Walk: Silver Lake Park",
+          "description": "<p>Join naturalists Ed Johnson and Ray Matarazzo with Director of Natural Science Colleen Evans on guided walks through the borough of parks.</p>\n<p>We will check the reservoirs for migrating waterfowl, and the plantings around the park for late migrant/winter resident songbirds.</p>\n<p>Meet on Victory Blvd., across from the last cemetery on the right. (Vicinity of Parks Dept greenhouse)</p>",
+          "url": "https://www.statenislandmuseum.org/event/bird-and-nature-walk-silver-lake-park-5/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-30 15:00:00",
+          "utc_end_date": "2026-10-30 17:00:00",
+          "venue": {
+            "venue": "Silver Lake Park",
+            "address": "700 Victory Boulevard",
+            "city": "Staten Island"
+          }
+        }
+      ]
+    }
+  ]
+}

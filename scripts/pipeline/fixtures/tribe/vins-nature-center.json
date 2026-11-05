@@ -1,0 +1,2174 @@
+{
+  "capture": {
+    "startedAt": "2026-10-15T23:31:42.573Z",
+    "completedAt": "2026-10-15T23:31:48.104Z",
+    "evaluationClock": "2026-10-15T23:31:42.544Z",
+    "publicUrl": "https://vinsweb.org/wp-json/tribe/events/v1/events",
+    "rawCaptureSha256": "37c11e5e50b14f51ba1e854c2eae713cc8e68161e7241f0d8160f8277df55cae"
+  },
+  "sanitization": "Real public API responses. Original event dates,IDs,UTC/local clocks,full eligibility/age prose and pagination retained. Unconsumed author/organizer/media/tracking fields omitted; direct contact strings redacted. No dates or occurrences invented.",
+  "pages": [
+    {
+      "total": 96,
+      "total_pages": 2,
+      "events": [
+        {
+          "id": 2555472,
+          "global_id": "vinsweb.org?id=2555472",
+          "url": "https://vinsweb.org/event/vins-annual-online-auction/",
+          "title": "VINS Annual Online Auction",
+          "description": "<p><strong>VINS Annual Online Auction</strong><br />\n<strong>October 14 &#8211; November 6*</strong></p>\n<p><strong><a style=\"text-decoration: underline;\" href=\"https://cbo.io/app/public/bidapp/vins2026\" target=\"_blank\">Browse Auction Items</a></strong></p>\n<p>The VINS Annual Auction will raise funds to support our work across the entire organization: our environmental education programs, research, and wildlife rehabilitation efforts. Your participation in the auction helps us reach thousands of children, educators, adult learners and bird patients each year. Whether you’re looking for something special for yourself or a loved one, this is a wonderful way to support VINS and local businesses this holiday season.</p>\n<p><strong>Support with a bid and get a little something in return!</strong></p>\n<p><em>*Opens to VINS Members on October 12 at 12 PM.</em></p>\n<p>Thank you for your support!</p>",
+          "all_day": false,
+          "start_date": "2026-10-14 12:00:00",
+          "end_date": "2026-11-06 00:00:00",
+          "utc_start_date": "2026-10-14 16:00:00",
+          "utc_end_date": "2026-11-06 05:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 212,
+            "venue": "VINS Nature Center",
+            "url": "https://vinsweb.org/venue/vins-nature-center/",
+            "address": "149 Natures Way",
+            "city": "Quechee",
+            "zip": "05059",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 11,
+              "name": "Special Events",
+              "slug": "special-events"
+            }
+          ]
+        },
+        {
+          "id": 2561066,
+          "global_id": "vinsweb.org?id=2561066",
+          "url": "https://vinsweb.org/event/coffee-in-the-canopy-4-2/",
+          "title": "Coffee in the Canopy",
+          "description": "<p><strong>Coffee in the Canopy<br />\nThursday, October 15<br />\n8:30 AM &#8211; 10 AM<br />\nFREE and open to the public*</strong></p>\n<p><em>Due to inclement weather expected on Friday, we are moving this event <strong>up</strong> a day to Thursday, October 15th.</em></p>\n<div style=\"margin-bottom: 8px;\"><strong><a style=\"text-decoration: underline;\" href=\"https://vermontinstituteofnaturalscience.ticketing.veevartapp.com/tickets/view/list/coffee-in-the-canopy-october-15\" target=\"_blank\" rel=\"noopener\">Register Today</a></strong></div>\n<p>Greet the day high among the treetops on the Forest Canopy Walk at this free, adults-only cultivation series. Before our opening hours, sip coffee and savor fresh pastries as the morning sun lights up the Ottauquechee River and the forest foliage. Enjoy conversation with our Executive Director Alden Smith and VINS Staff in a peaceful forest setting.</p>\n<p>Refreshments provided by <a href=\"https://thewoodlandfairyvt.com/\" target=\"_blank\" rel=\"noopener\">The Woodland Fairy</a>.</p>\n<p>Generously sponsored by <a href=\"https://kateandco.realestate/\" target=\"_blank\" rel=\"noopener\">Kate &amp; Co.</a></p>\n<p><em>*Registration is required. Please note this is an adults-only event.</em></p>\n<p><em>For more information contact us at <a style=\"color: #000; text-decoration: none;\" href=\"mailto:[contact omitted]\" target=\"_blank\" rel=\"noopener\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-15 08:30:00",
+          "end_date": "2026-10-15 10:00:00",
+          "utc_start_date": "2026-10-15 12:30:00",
+          "utc_end_date": "2026-10-15 14:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 11,
+              "name": "Special Events",
+              "slug": "special-events"
+            }
+          ]
+        },
+        {
+          "id": 2563580,
+          "global_id": "vinsweb.org?id=2563580",
+          "url": "https://vinsweb.org/event/forest-storytime-4-5/",
+          "title": "Forest Storytime",
+          "description": "<p><strong><strong>Forest Storytime<br />\nThursdays, October 15 &#038; 22<br />\n10:30 AM &#8211; 11:00 AM</strong></strong></p>\n<p>Join an Educator for our early learner&#8217;s storytime sessions. We&#8217;ll read stories, play games, sing songs, and laugh with puppets. Each session will focus on a different topic to learn about animals, plants, or other wonders of nature. This experience is designed to help promote connection, exploration, curiosity, and joy for the outdoors.</p>\n<p><em>This program is for children 5 and younger. Please arrive 15 minutes early to allow time to purchase admission tickets at the Nature Store – you&#8217;ll be directed to the location on campus.</em></p>\n<p><em>For more information, contact us at [contact omitted] or <a href=\"mailto:[contact omitted]\">[contact omitted]</a>.</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-15 10:30:00",
+          "end_date": "2026-10-15 11:00:00",
+          "utc_start_date": "2026-10-15 14:30:00",
+          "utc_end_date": "2026-10-15 15:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 11,
+              "name": "Special Events",
+              "slug": "special-events"
+            }
+          ]
+        },
+        {
+          "id": 11018380,
+          "global_id": "vinsweb.org?id=11018380",
+          "url": "https://vinsweb.org/event/natural-wonders-5-2/2026-10-15/",
+          "title": "Natural Wonders",
+          "description": "<p><strong>Natural Wonders<br />\n10:30 AM &#8211; 10:50 AM</strong></p>\n<p>Join us on a journey of discovery through the wonders of the natural world. Designed for families with young children, this short interactive program explores a range of engaging topics including animals of New England, Animal Engineers, and local habitats.*</p>\n<p><em>Location changes daily &#8211; inquire at the Nature Store.</em></p>\n<p><em>*Includes a live animal on Saturdays and Sundays only.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-15 10:30:00",
+          "end_date": "2026-10-15 10:50:00",
+          "utc_start_date": "2026-10-15 14:30:00",
+          "utc_end_date": "2026-10-15 14:50:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018518,
+          "global_id": "vinsweb.org?id=11018518",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-11am/2026-10-15/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n11 AM – 11:30 AM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-15 11:00:00",
+          "end_date": "2026-10-15 11:30:00",
+          "utc_start_date": "2026-10-15 15:00:00",
+          "utc_end_date": "2026-10-15 15:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11019012,
+          "global_id": "vinsweb.org?id=11019012",
+          "url": "https://vinsweb.org/event/woodland-wildlife-walk-jun26-oct26-1pm/2026-10-15/",
+          "title": "Woodland Wildlife Walk",
+          "description": "<p><strong>Woodland Wildlife Walk<br />\n1 PM &#8211; 1:30 PM</strong></p>\n<p>Come wander through the woods with us! Not only is VINS home to dozens of exhibit birds, but our 2.5 miles of trails are teeming with a variety of wildlife. Learn to identify the plants that support our diverse fauna, keep your eyes out for signs of animal activity, and, if we’re lucky, perhaps we’ll spot some critters, too!</p>\n<p><em>Meet at the trailhead by the Forest Canopy Walk.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-15 13:00:00",
+          "end_date": "2026-10-15 13:30:00",
+          "utc_start_date": "2026-10-15 17:00:00",
+          "utc_end_date": "2026-10-15 17:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018798,
+          "global_id": "vinsweb.org?id=11018798",
+          "url": "https://vinsweb.org/event/raptor-feeding-time-jun26-oct26-2pm/2026-10-15/",
+          "title": "Raptor Feeding Time",
+          "description": "<p><strong>Raptor Feeding Time<br />\n2 PM &#8211; 2:30 PM</strong></p>\n<p>Join our raptor care-givers for feeding time! Learn about the habits and history of each of the resident raptors at VINS as you watch them enjoy their daily meal.</p>\n<p><em>Meet at the Bald Eagles enclosure.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-15 14:00:00",
+          "end_date": "2026-10-15 14:30:00",
+          "utc_start_date": "2026-10-15 18:00:00",
+          "utc_end_date": "2026-10-15 18:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018659,
+          "global_id": "vinsweb.org?id=11018659",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-3pm/2026-10-15/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n3 PM – 3:30 PM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-15 15:00:00",
+          "end_date": "2026-10-15 15:30:00",
+          "utc_start_date": "2026-10-15 19:00:00",
+          "utc_end_date": "2026-10-15 19:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 2563548,
+          "global_id": "vinsweb.org?id=2563548",
+          "url": "https://vinsweb.org/event/saw-whet-owl-banding-demonstration-oct15/",
+          "title": "Saw-whet Owl Banding Demonstration",
+          "description": "<p><strong>Saw-whet Owl Banding Demonstration</strong></p>\n<p><strong>8:00 PM – 9:30 PM<br />\nFREE and Open to the Public*</strong></p>\n<p><strong>Please sign up for one date only:<br />\nThursday, October 15 &#8211; </strong><strong><a style=\"text-decoration: underline;\" href=\"https://vins.campbrainregistration.com/\"><em>Event Full! Join the Waitlist Today</em></a><br />\nWednesday, October 21 &#8211; <a style=\"text-decoration: underline;\" href=\"https://vins.campbrainregistration.com/\"><em>Event Full! Join the Waitlist Today</em></a><br />\n</strong></p>\n<p>Smaller than a softball, Northern Saw-whet Owls are some of Vermont’s most elusive residents. In the fall, many of these tiny owls undertake long journeys to wintering grounds farther south. In 2024, VINS established a Saw-whet Owl banding station to trap and monitor these migrants as they pass through the forests at our Nature Center.</p>\n<p>The VINS Field Research Team invites you to join them for a shift to learn about the banding process and how their work, and that of researchers at hundreds of banding stations around the country, is shedding light on the lives of these secretive birds.</p>\n<p>If we get birds in hand, our team will demonstrate how these birds are carefully weighed, measured, and banded before release back to the wild. Please note, while the chances are good, we cannot guarantee that we will successfully capture any owls during this event.</p>\n<p>This program is designed for adults. Interested youth 8 and up may participate with an adult.</p>\n<p>For the health and safety of the birds, the banding station is not open in rainy weather. In the event that weather forces us to cancel, VINS will contact you the day of the event.</p>\n<p><strong><a style=\"text-decoration: underline;\" href=\"https://vermontinstituteofnaturalscience.donation.veevartapp.com/donation/view/home/support-our-mission\" target=\"_blank\" rel=\"noopener\">Make a Donation</a></strong><br />\n*Please consider donating to the <a style=\"text-decoration: underline;\" href=\"https://vinsweb.org/research/\" target=\"_blank\" rel=\"noopener\">Center for Field Research</a> to support our work.</p>\n<p><em>Registration is required as space is limited.</em></p>\n<p><em>For more information, contact us at [contact omitted] or <a style=\"color: #000; text-decoration: none;\" href=\"mailto:[contact omitted]\" target=\"_blank\" rel=\"noopener\">[contact omitted]</a>.</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-15 20:00:00",
+          "end_date": "2026-10-15 21:30:00",
+          "utc_start_date": "2026-10-16 00:00:00",
+          "utc_end_date": "2026-10-16 01:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 8,
+              "name": "Adult Education",
+              "slug": "adult-education"
+            },
+            {
+              "id": 11,
+              "name": "Special Events",
+              "slug": "special-events"
+            }
+          ]
+        },
+        {
+          "id": 11018381,
+          "global_id": "vinsweb.org?id=11018381",
+          "url": "https://vinsweb.org/event/natural-wonders-5-2/2026-10-16/",
+          "title": "Natural Wonders",
+          "description": "<p><strong>Natural Wonders<br />\n10:30 AM &#8211; 10:50 AM</strong></p>\n<p>Join us on a journey of discovery through the wonders of the natural world. Designed for families with young children, this short interactive program explores a range of engaging topics including animals of New England, Animal Engineers, and local habitats.*</p>\n<p><em>Location changes daily &#8211; inquire at the Nature Store.</em></p>\n<p><em>*Includes a live animal on Saturdays and Sundays only.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-16 10:30:00",
+          "end_date": "2026-10-16 10:50:00",
+          "utc_start_date": "2026-10-16 14:30:00",
+          "utc_end_date": "2026-10-16 14:50:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018519,
+          "global_id": "vinsweb.org?id=11018519",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-11am/2026-10-16/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n11 AM – 11:30 AM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-16 11:00:00",
+          "end_date": "2026-10-16 11:30:00",
+          "utc_start_date": "2026-10-16 15:00:00",
+          "utc_end_date": "2026-10-16 15:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018959,
+          "global_id": "vinsweb.org?id=11018959",
+          "url": "https://vinsweb.org/event/talk-to-the-trainers/2026-10-16/",
+          "title": "Talk to the Trainers",
+          "description": "<p><strong>Talk to the Trainers<br />\n1 PM – 1:30 PM</strong></p>\n<p>How do we keep our amazing education birds in good shape? How do we teach our birds new behaviors, so they can showcase how they would behave in the wild? It all takes training. Join our Wildlife Ambassador team for a training session with one or more of our birds as we help them learn new things, or simply get their exercise in!</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-16 13:00:00",
+          "end_date": "2026-10-16 13:30:00",
+          "utc_start_date": "2026-10-16 17:00:00",
+          "utc_end_date": "2026-10-16 17:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018799,
+          "global_id": "vinsweb.org?id=11018799",
+          "url": "https://vinsweb.org/event/raptor-feeding-time-jun26-oct26-2pm/2026-10-16/",
+          "title": "Raptor Feeding Time",
+          "description": "<p><strong>Raptor Feeding Time<br />\n2 PM &#8211; 2:30 PM</strong></p>\n<p>Join our raptor care-givers for feeding time! Learn about the habits and history of each of the resident raptors at VINS as you watch them enjoy their daily meal.</p>\n<p><em>Meet at the Bald Eagles enclosure.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-16 14:00:00",
+          "end_date": "2026-10-16 14:30:00",
+          "utc_start_date": "2026-10-16 18:00:00",
+          "utc_end_date": "2026-10-16 18:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018660,
+          "global_id": "vinsweb.org?id=11018660",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-3pm/2026-10-16/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n3 PM – 3:30 PM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-16 15:00:00",
+          "end_date": "2026-10-16 15:30:00",
+          "utc_start_date": "2026-10-16 19:00:00",
+          "utc_end_date": "2026-10-16 19:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018865,
+          "global_id": "vinsweb.org?id=11018865",
+          "url": "https://vinsweb.org/event/hawk-on-the-walk-jun26-oct26-4pm/2026-10-16/",
+          "title": "Hawk on the Walk",
+          "description": "<p><strong>Hawk on the Walk<br />\nFRI / SAT / SUN<br />\n4 PM &#8211; 4:15 PM</strong></p>\n<p>Keep an eye out while exploring the Forest Canopy Walk at this time. You might get the chance to watch a Harris’s Hawk diving and weaving among the trees!</p>\n<p><em>Held on the Forest Canopy Walk. This program is weather dependent.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-16 16:00:00",
+          "end_date": "2026-10-16 16:15:00",
+          "utc_start_date": "2026-10-16 20:00:00",
+          "utc_end_date": "2026-10-16 20:15:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018382,
+          "global_id": "vinsweb.org?id=11018382",
+          "url": "https://vinsweb.org/event/natural-wonders-5-2/2026-10-17/",
+          "title": "Natural Wonders",
+          "description": "<p><strong>Natural Wonders<br />\n10:30 AM &#8211; 10:50 AM</strong></p>\n<p>Join us on a journey of discovery through the wonders of the natural world. Designed for families with young children, this short interactive program explores a range of engaging topics including animals of New England, Animal Engineers, and local habitats.*</p>\n<p><em>Location changes daily &#8211; inquire at the Nature Store.</em></p>\n<p><em>*Includes a live animal on Saturdays and Sundays only.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-17 10:30:00",
+          "end_date": "2026-10-17 10:50:00",
+          "utc_start_date": "2026-10-17 14:30:00",
+          "utc_end_date": "2026-10-17 14:50:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018520,
+          "global_id": "vinsweb.org?id=11018520",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-11am/2026-10-17/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n11 AM – 11:30 AM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-17 11:00:00",
+          "end_date": "2026-10-17 11:30:00",
+          "utc_start_date": "2026-10-17 15:00:00",
+          "utc_end_date": "2026-10-17 15:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018960,
+          "global_id": "vinsweb.org?id=11018960",
+          "url": "https://vinsweb.org/event/talk-to-the-trainers/2026-10-17/",
+          "title": "Talk to the Trainers",
+          "description": "<p><strong>Talk to the Trainers<br />\n1 PM – 1:30 PM</strong></p>\n<p>How do we keep our amazing education birds in good shape? How do we teach our birds new behaviors, so they can showcase how they would behave in the wild? It all takes training. Join our Wildlife Ambassador team for a training session with one or more of our birds as we help them learn new things, or simply get their exercise in!</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-17 13:00:00",
+          "end_date": "2026-10-17 13:30:00",
+          "utc_start_date": "2026-10-17 17:00:00",
+          "utc_end_date": "2026-10-17 17:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018800,
+          "global_id": "vinsweb.org?id=11018800",
+          "url": "https://vinsweb.org/event/raptor-feeding-time-jun26-oct26-2pm/2026-10-17/",
+          "title": "Raptor Feeding Time",
+          "description": "<p><strong>Raptor Feeding Time<br />\n2 PM &#8211; 2:30 PM</strong></p>\n<p>Join our raptor care-givers for feeding time! Learn about the habits and history of each of the resident raptors at VINS as you watch them enjoy their daily meal.</p>\n<p><em>Meet at the Bald Eagles enclosure.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-17 14:00:00",
+          "end_date": "2026-10-17 14:30:00",
+          "utc_start_date": "2026-10-17 18:00:00",
+          "utc_end_date": "2026-10-17 18:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018661,
+          "global_id": "vinsweb.org?id=11018661",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-3pm/2026-10-17/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n3 PM – 3:30 PM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-17 15:00:00",
+          "end_date": "2026-10-17 15:30:00",
+          "utc_start_date": "2026-10-17 19:00:00",
+          "utc_end_date": "2026-10-17 19:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018866,
+          "global_id": "vinsweb.org?id=11018866",
+          "url": "https://vinsweb.org/event/hawk-on-the-walk-jun26-oct26-4pm/2026-10-17/",
+          "title": "Hawk on the Walk",
+          "description": "<p><strong>Hawk on the Walk<br />\nFRI / SAT / SUN<br />\n4 PM &#8211; 4:15 PM</strong></p>\n<p>Keep an eye out while exploring the Forest Canopy Walk at this time. You might get the chance to watch a Harris’s Hawk diving and weaving among the trees!</p>\n<p><em>Held on the Forest Canopy Walk. This program is weather dependent.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-17 16:00:00",
+          "end_date": "2026-10-17 16:15:00",
+          "utc_start_date": "2026-10-17 20:00:00",
+          "utc_end_date": "2026-10-17 20:15:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018383,
+          "global_id": "vinsweb.org?id=11018383",
+          "url": "https://vinsweb.org/event/natural-wonders-5-2/2026-10-18/",
+          "title": "Natural Wonders",
+          "description": "<p><strong>Natural Wonders<br />\n10:30 AM &#8211; 10:50 AM</strong></p>\n<p>Join us on a journey of discovery through the wonders of the natural world. Designed for families with young children, this short interactive program explores a range of engaging topics including animals of New England, Animal Engineers, and local habitats.*</p>\n<p><em>Location changes daily &#8211; inquire at the Nature Store.</em></p>\n<p><em>*Includes a live animal on Saturdays and Sundays only.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-18 10:30:00",
+          "end_date": "2026-10-18 10:50:00",
+          "utc_start_date": "2026-10-18 14:30:00",
+          "utc_end_date": "2026-10-18 14:50:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018521,
+          "global_id": "vinsweb.org?id=11018521",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-11am/2026-10-18/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n11 AM – 11:30 AM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-18 11:00:00",
+          "end_date": "2026-10-18 11:30:00",
+          "utc_start_date": "2026-10-18 15:00:00",
+          "utc_end_date": "2026-10-18 15:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018961,
+          "global_id": "vinsweb.org?id=11018961",
+          "url": "https://vinsweb.org/event/talk-to-the-trainers/2026-10-18/",
+          "title": "Talk to the Trainers",
+          "description": "<p><strong>Talk to the Trainers<br />\n1 PM – 1:30 PM</strong></p>\n<p>How do we keep our amazing education birds in good shape? How do we teach our birds new behaviors, so they can showcase how they would behave in the wild? It all takes training. Join our Wildlife Ambassador team for a training session with one or more of our birds as we help them learn new things, or simply get their exercise in!</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-18 13:00:00",
+          "end_date": "2026-10-18 13:30:00",
+          "utc_start_date": "2026-10-18 17:00:00",
+          "utc_end_date": "2026-10-18 17:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018801,
+          "global_id": "vinsweb.org?id=11018801",
+          "url": "https://vinsweb.org/event/raptor-feeding-time-jun26-oct26-2pm/2026-10-18/",
+          "title": "Raptor Feeding Time",
+          "description": "<p><strong>Raptor Feeding Time<br />\n2 PM &#8211; 2:30 PM</strong></p>\n<p>Join our raptor care-givers for feeding time! Learn about the habits and history of each of the resident raptors at VINS as you watch them enjoy their daily meal.</p>\n<p><em>Meet at the Bald Eagles enclosure.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-18 14:00:00",
+          "end_date": "2026-10-18 14:30:00",
+          "utc_start_date": "2026-10-18 18:00:00",
+          "utc_end_date": "2026-10-18 18:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018662,
+          "global_id": "vinsweb.org?id=11018662",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-3pm/2026-10-18/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n3 PM – 3:30 PM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-18 15:00:00",
+          "end_date": "2026-10-18 15:30:00",
+          "utc_start_date": "2026-10-18 19:00:00",
+          "utc_end_date": "2026-10-18 19:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018867,
+          "global_id": "vinsweb.org?id=11018867",
+          "url": "https://vinsweb.org/event/hawk-on-the-walk-jun26-oct26-4pm/2026-10-18/",
+          "title": "Hawk on the Walk",
+          "description": "<p><strong>Hawk on the Walk<br />\nFRI / SAT / SUN<br />\n4 PM &#8211; 4:15 PM</strong></p>\n<p>Keep an eye out while exploring the Forest Canopy Walk at this time. You might get the chance to watch a Harris’s Hawk diving and weaving among the trees!</p>\n<p><em>Held on the Forest Canopy Walk. This program is weather dependent.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-18 16:00:00",
+          "end_date": "2026-10-18 16:15:00",
+          "utc_start_date": "2026-10-18 20:00:00",
+          "utc_end_date": "2026-10-18 20:15:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018384,
+          "global_id": "vinsweb.org?id=11018384",
+          "url": "https://vinsweb.org/event/natural-wonders-5-2/2026-10-19/",
+          "title": "Natural Wonders",
+          "description": "<p><strong>Natural Wonders<br />\n10:30 AM &#8211; 10:50 AM</strong></p>\n<p>Join us on a journey of discovery through the wonders of the natural world. Designed for families with young children, this short interactive program explores a range of engaging topics including animals of New England, Animal Engineers, and local habitats.*</p>\n<p><em>Location changes daily &#8211; inquire at the Nature Store.</em></p>\n<p><em>*Includes a live animal on Saturdays and Sundays only.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-19 10:30:00",
+          "end_date": "2026-10-19 10:50:00",
+          "utc_start_date": "2026-10-19 14:30:00",
+          "utc_end_date": "2026-10-19 14:50:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018522,
+          "global_id": "vinsweb.org?id=11018522",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-11am/2026-10-19/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n11 AM – 11:30 AM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-19 11:00:00",
+          "end_date": "2026-10-19 11:30:00",
+          "utc_start_date": "2026-10-19 15:00:00",
+          "utc_end_date": "2026-10-19 15:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018962,
+          "global_id": "vinsweb.org?id=11018962",
+          "url": "https://vinsweb.org/event/talk-to-the-trainers/2026-10-19/",
+          "title": "Talk to the Trainers",
+          "description": "<p><strong>Talk to the Trainers<br />\n1 PM – 1:30 PM</strong></p>\n<p>How do we keep our amazing education birds in good shape? How do we teach our birds new behaviors, so they can showcase how they would behave in the wild? It all takes training. Join our Wildlife Ambassador team for a training session with one or more of our birds as we help them learn new things, or simply get their exercise in!</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-19 13:00:00",
+          "end_date": "2026-10-19 13:30:00",
+          "utc_start_date": "2026-10-19 17:00:00",
+          "utc_end_date": "2026-10-19 17:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018802,
+          "global_id": "vinsweb.org?id=11018802",
+          "url": "https://vinsweb.org/event/raptor-feeding-time-jun26-oct26-2pm/2026-10-19/",
+          "title": "Raptor Feeding Time",
+          "description": "<p><strong>Raptor Feeding Time<br />\n2 PM &#8211; 2:30 PM</strong></p>\n<p>Join our raptor care-givers for feeding time! Learn about the habits and history of each of the resident raptors at VINS as you watch them enjoy their daily meal.</p>\n<p><em>Meet at the Bald Eagles enclosure.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-19 14:00:00",
+          "end_date": "2026-10-19 14:30:00",
+          "utc_start_date": "2026-10-19 18:00:00",
+          "utc_end_date": "2026-10-19 18:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018663,
+          "global_id": "vinsweb.org?id=11018663",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-3pm/2026-10-19/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n3 PM – 3:30 PM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-19 15:00:00",
+          "end_date": "2026-10-19 15:30:00",
+          "utc_start_date": "2026-10-19 19:00:00",
+          "utc_end_date": "2026-10-19 19:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018385,
+          "global_id": "vinsweb.org?id=11018385",
+          "url": "https://vinsweb.org/event/natural-wonders-5-2/2026-10-20/",
+          "title": "Natural Wonders",
+          "description": "<p><strong>Natural Wonders<br />\n10:30 AM &#8211; 10:50 AM</strong></p>\n<p>Join us on a journey of discovery through the wonders of the natural world. Designed for families with young children, this short interactive program explores a range of engaging topics including animals of New England, Animal Engineers, and local habitats.*</p>\n<p><em>Location changes daily &#8211; inquire at the Nature Store.</em></p>\n<p><em>*Includes a live animal on Saturdays and Sundays only.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-20 10:30:00",
+          "end_date": "2026-10-20 10:50:00",
+          "utc_start_date": "2026-10-20 14:30:00",
+          "utc_end_date": "2026-10-20 14:50:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018523,
+          "global_id": "vinsweb.org?id=11018523",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-11am/2026-10-20/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n11 AM – 11:30 AM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-20 11:00:00",
+          "end_date": "2026-10-20 11:30:00",
+          "utc_start_date": "2026-10-20 15:00:00",
+          "utc_end_date": "2026-10-20 15:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018963,
+          "global_id": "vinsweb.org?id=11018963",
+          "url": "https://vinsweb.org/event/talk-to-the-trainers/2026-10-20/",
+          "title": "Talk to the Trainers",
+          "description": "<p><strong>Talk to the Trainers<br />\n1 PM – 1:30 PM</strong></p>\n<p>How do we keep our amazing education birds in good shape? How do we teach our birds new behaviors, so they can showcase how they would behave in the wild? It all takes training. Join our Wildlife Ambassador team for a training session with one or more of our birds as we help them learn new things, or simply get their exercise in!</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-20 13:00:00",
+          "end_date": "2026-10-20 13:30:00",
+          "utc_start_date": "2026-10-20 17:00:00",
+          "utc_end_date": "2026-10-20 17:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018803,
+          "global_id": "vinsweb.org?id=11018803",
+          "url": "https://vinsweb.org/event/raptor-feeding-time-jun26-oct26-2pm/2026-10-20/",
+          "title": "Raptor Feeding Time",
+          "description": "<p><strong>Raptor Feeding Time<br />\n2 PM &#8211; 2:30 PM</strong></p>\n<p>Join our raptor care-givers for feeding time! Learn about the habits and history of each of the resident raptors at VINS as you watch them enjoy their daily meal.</p>\n<p><em>Meet at the Bald Eagles enclosure.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-20 14:00:00",
+          "end_date": "2026-10-20 14:30:00",
+          "utc_start_date": "2026-10-20 18:00:00",
+          "utc_end_date": "2026-10-20 18:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018664,
+          "global_id": "vinsweb.org?id=11018664",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-3pm/2026-10-20/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n3 PM – 3:30 PM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-20 15:00:00",
+          "end_date": "2026-10-20 15:30:00",
+          "utc_start_date": "2026-10-20 19:00:00",
+          "utc_end_date": "2026-10-20 19:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018386,
+          "global_id": "vinsweb.org?id=11018386",
+          "url": "https://vinsweb.org/event/natural-wonders-5-2/2026-10-21/",
+          "title": "Natural Wonders",
+          "description": "<p><strong>Natural Wonders<br />\n10:30 AM &#8211; 10:50 AM</strong></p>\n<p>Join us on a journey of discovery through the wonders of the natural world. Designed for families with young children, this short interactive program explores a range of engaging topics including animals of New England, Animal Engineers, and local habitats.*</p>\n<p><em>Location changes daily &#8211; inquire at the Nature Store.</em></p>\n<p><em>*Includes a live animal on Saturdays and Sundays only.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-21 10:30:00",
+          "end_date": "2026-10-21 10:50:00",
+          "utc_start_date": "2026-10-21 14:30:00",
+          "utc_end_date": "2026-10-21 14:50:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018524,
+          "global_id": "vinsweb.org?id=11018524",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-11am/2026-10-21/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n11 AM – 11:30 AM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-21 11:00:00",
+          "end_date": "2026-10-21 11:30:00",
+          "utc_start_date": "2026-10-21 15:00:00",
+          "utc_end_date": "2026-10-21 15:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11019013,
+          "global_id": "vinsweb.org?id=11019013",
+          "url": "https://vinsweb.org/event/woodland-wildlife-walk-jun26-oct26-1pm/2026-10-21/",
+          "title": "Woodland Wildlife Walk",
+          "description": "<p><strong>Woodland Wildlife Walk<br />\n1 PM &#8211; 1:30 PM</strong></p>\n<p>Come wander through the woods with us! Not only is VINS home to dozens of exhibit birds, but our 2.5 miles of trails are teeming with a variety of wildlife. Learn to identify the plants that support our diverse fauna, keep your eyes out for signs of animal activity, and, if we’re lucky, perhaps we’ll spot some critters, too!</p>\n<p><em>Meet at the trailhead by the Forest Canopy Walk.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-21 13:00:00",
+          "end_date": "2026-10-21 13:30:00",
+          "utc_start_date": "2026-10-21 17:00:00",
+          "utc_end_date": "2026-10-21 17:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018804,
+          "global_id": "vinsweb.org?id=11018804",
+          "url": "https://vinsweb.org/event/raptor-feeding-time-jun26-oct26-2pm/2026-10-21/",
+          "title": "Raptor Feeding Time",
+          "description": "<p><strong>Raptor Feeding Time<br />\n2 PM &#8211; 2:30 PM</strong></p>\n<p>Join our raptor care-givers for feeding time! Learn about the habits and history of each of the resident raptors at VINS as you watch them enjoy their daily meal.</p>\n<p><em>Meet at the Bald Eagles enclosure.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-21 14:00:00",
+          "end_date": "2026-10-21 14:30:00",
+          "utc_start_date": "2026-10-21 18:00:00",
+          "utc_end_date": "2026-10-21 18:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018665,
+          "global_id": "vinsweb.org?id=11018665",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-3pm/2026-10-21/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n3 PM – 3:30 PM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-21 15:00:00",
+          "end_date": "2026-10-21 15:30:00",
+          "utc_start_date": "2026-10-21 19:00:00",
+          "utc_end_date": "2026-10-21 19:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 2563543,
+          "global_id": "vinsweb.org?id=2563543",
+          "url": "https://vinsweb.org/event/saw-whet-owl-banding-demonstration-oct21/",
+          "title": "Saw-whet Owl Banding Demonstration",
+          "description": "<p><strong>Saw-whet Owl Banding Demonstration</strong></p>\n<p><strong>Wednesday, October 21<br />\n8:00 PM – 9:30 PM<br />\nFREE and Open to the Public*</strong></p>\n<p><strong><a style=\"text-decoration: underline;\" href=\"https://vins.campbrainregistration.com/\"><em>This session is full!</em> <em>Join our waitlist today.</em></a></strong></p>\n<p>Smaller than a softball, Northern Saw-whet Owls are some of Vermont’s most elusive residents. In the fall, many of these tiny owls undertake long journeys to wintering grounds farther south. In 2024, VINS established a Saw-whet Owl banding station to trap and monitor these migrants as they pass through the forests at our Nature Center.</p>\n<p>The VINS Field Research Team invites you to join them for a shift to learn about the banding process and how their work, and that of researchers at hundreds of banding stations around the country, is shedding light on the lives of these secretive birds.</p>\n<p>If we get birds in hand, our team will demonstrate how these birds are carefully weighed, measured, and banded before release back to the wild. Please note, while the chances are good, we cannot guarantee that we will successfully capture any owls during this event.</p>\n<p>This program is designed for adults. Interested youth 8 and up may participate with an adult.</p>\n<p>For the health and safety of the birds, the banding station is not open in rainy weather. In the event that weather forces us to cancel, VINS will contact you the day of the event.</p>\n<p><strong><a style=\"text-decoration: underline;\" href=\"https://vermontinstituteofnaturalscience.donation.veevartapp.com/donation/view/home/support-our-mission\" target=\"_blank\" rel=\"noopener\">Make a Donation</a></strong><br />\n*Please consider donating to the <a style=\"text-decoration: underline;\" href=\"https://vinsweb.org/research/\" target=\"_blank\" rel=\"noopener\">Center for Field Research</a> to support our work.</p>\n<p><em>Registration is required as space is limited.</em></p>\n<p><em>For more information, contact us at [contact omitted] or <a style=\"color: #000; text-decoration: none;\" href=\"mailto:[contact omitted]\" target=\"_blank\" rel=\"noopener\">[contact omitted]</a>.</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-21 20:00:00",
+          "end_date": "2026-10-21 21:30:00",
+          "utc_start_date": "2026-10-22 00:00:00",
+          "utc_end_date": "2026-10-22 01:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 8,
+              "name": "Adult Education",
+              "slug": "adult-education"
+            },
+            {
+              "id": 11,
+              "name": "Special Events",
+              "slug": "special-events"
+            }
+          ]
+        },
+        {
+          "id": 2563582,
+          "global_id": "vinsweb.org?id=2563582",
+          "url": "https://vinsweb.org/event/forest-storytime-4-6/",
+          "title": "Forest Storytime",
+          "description": "<p><strong><strong>Forest Storytime<br />\nThursday, October 22<br />\n10:30 AM &#8211; 11:00 AM</strong></strong></p>\n<p>Join an Educator for our early learner&#8217;s storytime sessions. We&#8217;ll read stories, play games, sing songs, and laugh with puppets. Each session will focus on a different topic to learn about animals, plants, or other wonders of nature. This experience is designed to help promote connection, exploration, curiosity, and joy for the outdoors.</p>\n<p><em>This program is for children 5 and younger. Please arrive 15 minutes early to allow time to purchase admission tickets at the Nature Store – you&#8217;ll be directed to the location on campus.</em></p>\n<p><em>For more information, contact us at [contact omitted] or <a href=\"mailto:[contact omitted]\">[contact omitted]</a>.</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-22 10:30:00",
+          "end_date": "2026-10-22 11:00:00",
+          "utc_start_date": "2026-10-22 14:30:00",
+          "utc_end_date": "2026-10-22 15:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 11,
+              "name": "Special Events",
+              "slug": "special-events"
+            }
+          ]
+        },
+        {
+          "id": 11018387,
+          "global_id": "vinsweb.org?id=11018387",
+          "url": "https://vinsweb.org/event/natural-wonders-5-2/2026-10-22/",
+          "title": "Natural Wonders",
+          "description": "<p><strong>Natural Wonders<br />\n10:30 AM &#8211; 10:50 AM</strong></p>\n<p>Join us on a journey of discovery through the wonders of the natural world. Designed for families with young children, this short interactive program explores a range of engaging topics including animals of New England, Animal Engineers, and local habitats.*</p>\n<p><em>Location changes daily &#8211; inquire at the Nature Store.</em></p>\n<p><em>*Includes a live animal on Saturdays and Sundays only.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-22 10:30:00",
+          "end_date": "2026-10-22 10:50:00",
+          "utc_start_date": "2026-10-22 14:30:00",
+          "utc_end_date": "2026-10-22 14:50:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018525,
+          "global_id": "vinsweb.org?id=11018525",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-11am/2026-10-22/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n11 AM – 11:30 AM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-22 11:00:00",
+          "end_date": "2026-10-22 11:30:00",
+          "utc_start_date": "2026-10-22 15:00:00",
+          "utc_end_date": "2026-10-22 15:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11019014,
+          "global_id": "vinsweb.org?id=11019014",
+          "url": "https://vinsweb.org/event/woodland-wildlife-walk-jun26-oct26-1pm/2026-10-22/",
+          "title": "Woodland Wildlife Walk",
+          "description": "<p><strong>Woodland Wildlife Walk<br />\n1 PM &#8211; 1:30 PM</strong></p>\n<p>Come wander through the woods with us! Not only is VINS home to dozens of exhibit birds, but our 2.5 miles of trails are teeming with a variety of wildlife. Learn to identify the plants that support our diverse fauna, keep your eyes out for signs of animal activity, and, if we’re lucky, perhaps we’ll spot some critters, too!</p>\n<p><em>Meet at the trailhead by the Forest Canopy Walk.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-22 13:00:00",
+          "end_date": "2026-10-22 13:30:00",
+          "utc_start_date": "2026-10-22 17:00:00",
+          "utc_end_date": "2026-10-22 17:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018805,
+          "global_id": "vinsweb.org?id=11018805",
+          "url": "https://vinsweb.org/event/raptor-feeding-time-jun26-oct26-2pm/2026-10-22/",
+          "title": "Raptor Feeding Time",
+          "description": "<p><strong>Raptor Feeding Time<br />\n2 PM &#8211; 2:30 PM</strong></p>\n<p>Join our raptor care-givers for feeding time! Learn about the habits and history of each of the resident raptors at VINS as you watch them enjoy their daily meal.</p>\n<p><em>Meet at the Bald Eagles enclosure.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-22 14:00:00",
+          "end_date": "2026-10-22 14:30:00",
+          "utc_start_date": "2026-10-22 18:00:00",
+          "utc_end_date": "2026-10-22 18:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018666,
+          "global_id": "vinsweb.org?id=11018666",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-3pm/2026-10-22/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n3 PM – 3:30 PM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-22 15:00:00",
+          "end_date": "2026-10-22 15:30:00",
+          "utc_start_date": "2026-10-22 19:00:00",
+          "utc_end_date": "2026-10-22 19:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018388,
+          "global_id": "vinsweb.org?id=11018388",
+          "url": "https://vinsweb.org/event/natural-wonders-5-2/2026-10-23/",
+          "title": "Natural Wonders",
+          "description": "<p><strong>Natural Wonders<br />\n10:30 AM &#8211; 10:50 AM</strong></p>\n<p>Join us on a journey of discovery through the wonders of the natural world. Designed for families with young children, this short interactive program explores a range of engaging topics including animals of New England, Animal Engineers, and local habitats.*</p>\n<p><em>Location changes daily &#8211; inquire at the Nature Store.</em></p>\n<p><em>*Includes a live animal on Saturdays and Sundays only.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-23 10:30:00",
+          "end_date": "2026-10-23 10:50:00",
+          "utc_start_date": "2026-10-23 14:30:00",
+          "utc_end_date": "2026-10-23 14:50:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "total": 96,
+      "total_pages": 2,
+      "events": [
+        {
+          "id": 11018526,
+          "global_id": "vinsweb.org?id=11018526",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-11am/2026-10-23/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n11 AM – 11:30 AM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-23 11:00:00",
+          "end_date": "2026-10-23 11:30:00",
+          "utc_start_date": "2026-10-23 15:00:00",
+          "utc_end_date": "2026-10-23 15:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018964,
+          "global_id": "vinsweb.org?id=11018964",
+          "url": "https://vinsweb.org/event/talk-to-the-trainers/2026-10-23/",
+          "title": "Talk to the Trainers",
+          "description": "<p><strong>Talk to the Trainers<br />\n1 PM – 1:30 PM</strong></p>\n<p>How do we keep our amazing education birds in good shape? How do we teach our birds new behaviors, so they can showcase how they would behave in the wild? It all takes training. Join our Wildlife Ambassador team for a training session with one or more of our birds as we help them learn new things, or simply get their exercise in!</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-23 13:00:00",
+          "end_date": "2026-10-23 13:30:00",
+          "utc_start_date": "2026-10-23 17:00:00",
+          "utc_end_date": "2026-10-23 17:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018806,
+          "global_id": "vinsweb.org?id=11018806",
+          "url": "https://vinsweb.org/event/raptor-feeding-time-jun26-oct26-2pm/2026-10-23/",
+          "title": "Raptor Feeding Time",
+          "description": "<p><strong>Raptor Feeding Time<br />\n2 PM &#8211; 2:30 PM</strong></p>\n<p>Join our raptor care-givers for feeding time! Learn about the habits and history of each of the resident raptors at VINS as you watch them enjoy their daily meal.</p>\n<p><em>Meet at the Bald Eagles enclosure.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-23 14:00:00",
+          "end_date": "2026-10-23 14:30:00",
+          "utc_start_date": "2026-10-23 18:00:00",
+          "utc_end_date": "2026-10-23 18:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018667,
+          "global_id": "vinsweb.org?id=11018667",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-3pm/2026-10-23/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n3 PM – 3:30 PM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-23 15:00:00",
+          "end_date": "2026-10-23 15:30:00",
+          "utc_start_date": "2026-10-23 19:00:00",
+          "utc_end_date": "2026-10-23 19:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018868,
+          "global_id": "vinsweb.org?id=11018868",
+          "url": "https://vinsweb.org/event/hawk-on-the-walk-jun26-oct26-4pm/2026-10-23/",
+          "title": "Hawk on the Walk",
+          "description": "<p><strong>Hawk on the Walk<br />\nFRI / SAT / SUN<br />\n4 PM &#8211; 4:15 PM</strong></p>\n<p>Keep an eye out while exploring the Forest Canopy Walk at this time. You might get the chance to watch a Harris’s Hawk diving and weaving among the trees!</p>\n<p><em>Held on the Forest Canopy Walk. This program is weather dependent.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-23 16:00:00",
+          "end_date": "2026-10-23 16:15:00",
+          "utc_start_date": "2026-10-23 20:00:00",
+          "utc_end_date": "2026-10-23 20:15:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 2554006,
+          "global_id": "vinsweb.org?id=2554006",
+          "url": "https://vinsweb.org/event/halloween-at-vins/",
+          "title": "Halloween at VINS",
+          "description": "<p>Changes to this event are made in the theme builder.</p>",
+          "all_day": false,
+          "start_date": "2026-10-24 10:00:00",
+          "end_date": "2026-10-24 17:00:00",
+          "utc_start_date": "2026-10-24 14:00:00",
+          "utc_end_date": "2026-10-24 21:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 501888,
+              "name": "Family Events",
+              "slug": "family-events"
+            },
+            {
+              "id": 501892,
+              "name": "Halloween",
+              "slug": "halloween"
+            },
+            {
+              "id": 11,
+              "name": "Special Events",
+              "slug": "special-events"
+            }
+          ]
+        },
+        {
+          "id": 2554011,
+          "global_id": "vinsweb.org?id=2554011",
+          "url": "https://vinsweb.org/event/hoots-howls/",
+          "title": "Hoots &#038; Howls",
+          "description": "<p>Changes to this event are made in the themer layout.</p>",
+          "all_day": false,
+          "start_date": "2026-10-24 17:30:00",
+          "end_date": "2026-10-24 20:00:00",
+          "utc_start_date": "2026-10-24 21:30:00",
+          "utc_end_date": "2026-10-25 00:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 501892,
+              "name": "Halloween",
+              "slug": "halloween"
+            },
+            {
+              "id": 11,
+              "name": "Special Events",
+              "slug": "special-events"
+            }
+          ]
+        },
+        {
+          "id": 11018389,
+          "global_id": "vinsweb.org?id=11018389",
+          "url": "https://vinsweb.org/event/natural-wonders-5-2/2026-10-25/",
+          "title": "Natural Wonders",
+          "description": "<p><strong>Natural Wonders<br />\n10:30 AM &#8211; 10:50 AM</strong></p>\n<p>Join us on a journey of discovery through the wonders of the natural world. Designed for families with young children, this short interactive program explores a range of engaging topics including animals of New England, Animal Engineers, and local habitats.*</p>\n<p><em>Location changes daily &#8211; inquire at the Nature Store.</em></p>\n<p><em>*Includes a live animal on Saturdays and Sundays only.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-25 10:30:00",
+          "end_date": "2026-10-25 10:50:00",
+          "utc_start_date": "2026-10-25 14:30:00",
+          "utc_end_date": "2026-10-25 14:50:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018527,
+          "global_id": "vinsweb.org?id=11018527",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-11am/2026-10-25/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n11 AM – 11:30 AM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-25 11:00:00",
+          "end_date": "2026-10-25 11:30:00",
+          "utc_start_date": "2026-10-25 15:00:00",
+          "utc_end_date": "2026-10-25 15:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018965,
+          "global_id": "vinsweb.org?id=11018965",
+          "url": "https://vinsweb.org/event/talk-to-the-trainers/2026-10-25/",
+          "title": "Talk to the Trainers",
+          "description": "<p><strong>Talk to the Trainers<br />\n1 PM – 1:30 PM</strong></p>\n<p>How do we keep our amazing education birds in good shape? How do we teach our birds new behaviors, so they can showcase how they would behave in the wild? It all takes training. Join our Wildlife Ambassador team for a training session with one or more of our birds as we help them learn new things, or simply get their exercise in!</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-25 13:00:00",
+          "end_date": "2026-10-25 13:30:00",
+          "utc_start_date": "2026-10-25 17:00:00",
+          "utc_end_date": "2026-10-25 17:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 2563375,
+          "global_id": "vinsweb.org?id=2563375",
+          "url": "https://vinsweb.org/event/raptors-in-focus-photography-workshop-oct26/",
+          "title": "Raptors in Focus: Photography Workshop",
+          "description": "<p><strong>Raptors in Focus: Photography Workshop<br />\nSunday, October 25<br />\n1 PM &#8211; 3 PM</strong></p>\n<p><strong>$56 General Public / $51 VINS Members</strong></p>\n<p><strong><a style=\"text-decoration: underline;\" href=\"https://vins.campbrainregistration.com/\" target=\"_blank\" rel=\"noopener\">Register Today</a></strong></p>\n<p>Join local photojournalist Rob Strong for an exclusive photo shoot with our resident raptors that will leave you with stunning pictures and great memories. With a focus on capturing movement, our raptor models will be flying for the camera, allowing you to get amazing action shots.</p>\n<p>Designed for the intermediate level photographer, Rob will go over essential techniques help you get the most out of your camera, maximizing results and improving wildlife photography skills.</p>\n<p><strong>Program Activities:</strong><br />\nRob will offer a slideshow on camera settings and photography techniques, followed by flight and portrait session with several different raptors, setting and backdrop weather dependent.</p>\n<p><strong>Details for Participants:</strong><br />\nSpend a full day at the VINS Nature Center. Purchase discounted admission to the VINS Nature Center for $5. Discount available only to registered participants on the day of the workshop.</p>\n<p>Participants should bring a camera and plenty of storage (be it digital or film).</p>\n<p>This workshop is designed for adults 18 and up. Interested youth 13 and up may participate with an adult. No registration fee required for an adult accompanying a youth participant unless the adult also plans to participate in the workshop.</p>\n<p><strong>Instructor Bio:</strong><br />\n<strong><a href=\"http://www.robstrong.com/\" target=\"_blank\" rel=\"noopener\">www.robstrong.com</a></strong></p>\n<p><em>Registration is required. For more information, contact us at [contact omitted] or <a href=\"mailto:[contact omitted]\" target=\"_blank\" rel=\"noopener\">[contact omitted]</a>.</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-25 13:00:00",
+          "end_date": "2026-10-25 15:00:00",
+          "utc_start_date": "2026-10-25 17:00:00",
+          "utc_end_date": "2026-10-25 19:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 8,
+              "name": "Adult Education",
+              "slug": "adult-education"
+            },
+            {
+              "id": 11,
+              "name": "Special Events",
+              "slug": "special-events"
+            }
+          ]
+        },
+        {
+          "id": 11018807,
+          "global_id": "vinsweb.org?id=11018807",
+          "url": "https://vinsweb.org/event/raptor-feeding-time-jun26-oct26-2pm/2026-10-25/",
+          "title": "Raptor Feeding Time",
+          "description": "<p><strong>Raptor Feeding Time<br />\n2 PM &#8211; 2:30 PM</strong></p>\n<p>Join our raptor care-givers for feeding time! Learn about the habits and history of each of the resident raptors at VINS as you watch them enjoy their daily meal.</p>\n<p><em>Meet at the Bald Eagles enclosure.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-25 14:00:00",
+          "end_date": "2026-10-25 14:30:00",
+          "utc_start_date": "2026-10-25 18:00:00",
+          "utc_end_date": "2026-10-25 18:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018669,
+          "global_id": "vinsweb.org?id=11018669",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-3pm/2026-10-25/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n3 PM – 3:30 PM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-25 15:00:00",
+          "end_date": "2026-10-25 15:30:00",
+          "utc_start_date": "2026-10-25 19:00:00",
+          "utc_end_date": "2026-10-25 19:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018869,
+          "global_id": "vinsweb.org?id=11018869",
+          "url": "https://vinsweb.org/event/hawk-on-the-walk-jun26-oct26-4pm/2026-10-25/",
+          "title": "Hawk on the Walk",
+          "description": "<p><strong>Hawk on the Walk<br />\nFRI / SAT / SUN<br />\n4 PM &#8211; 4:15 PM</strong></p>\n<p>Keep an eye out while exploring the Forest Canopy Walk at this time. You might get the chance to watch a Harris’s Hawk diving and weaving among the trees!</p>\n<p><em>Held on the Forest Canopy Walk. This program is weather dependent.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-25 16:00:00",
+          "end_date": "2026-10-25 16:15:00",
+          "utc_start_date": "2026-10-25 20:00:00",
+          "utc_end_date": "2026-10-25 20:15:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018390,
+          "global_id": "vinsweb.org?id=11018390",
+          "url": "https://vinsweb.org/event/natural-wonders-5-2/2026-10-26/",
+          "title": "Natural Wonders",
+          "description": "<p><strong>Natural Wonders<br />\n10:30 AM &#8211; 10:50 AM</strong></p>\n<p>Join us on a journey of discovery through the wonders of the natural world. Designed for families with young children, this short interactive program explores a range of engaging topics including animals of New England, Animal Engineers, and local habitats.*</p>\n<p><em>Location changes daily &#8211; inquire at the Nature Store.</em></p>\n<p><em>*Includes a live animal on Saturdays and Sundays only.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-26 10:30:00",
+          "end_date": "2026-10-26 10:50:00",
+          "utc_start_date": "2026-10-26 14:30:00",
+          "utc_end_date": "2026-10-26 14:50:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018528,
+          "global_id": "vinsweb.org?id=11018528",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-11am/2026-10-26/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n11 AM – 11:30 AM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-26 11:00:00",
+          "end_date": "2026-10-26 11:30:00",
+          "utc_start_date": "2026-10-26 15:00:00",
+          "utc_end_date": "2026-10-26 15:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018966,
+          "global_id": "vinsweb.org?id=11018966",
+          "url": "https://vinsweb.org/event/talk-to-the-trainers/2026-10-26/",
+          "title": "Talk to the Trainers",
+          "description": "<p><strong>Talk to the Trainers<br />\n1 PM – 1:30 PM</strong></p>\n<p>How do we keep our amazing education birds in good shape? How do we teach our birds new behaviors, so they can showcase how they would behave in the wild? It all takes training. Join our Wildlife Ambassador team for a training session with one or more of our birds as we help them learn new things, or simply get their exercise in!</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-26 13:00:00",
+          "end_date": "2026-10-26 13:30:00",
+          "utc_start_date": "2026-10-26 17:00:00",
+          "utc_end_date": "2026-10-26 17:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018808,
+          "global_id": "vinsweb.org?id=11018808",
+          "url": "https://vinsweb.org/event/raptor-feeding-time-jun26-oct26-2pm/2026-10-26/",
+          "title": "Raptor Feeding Time",
+          "description": "<p><strong>Raptor Feeding Time<br />\n2 PM &#8211; 2:30 PM</strong></p>\n<p>Join our raptor care-givers for feeding time! Learn about the habits and history of each of the resident raptors at VINS as you watch them enjoy their daily meal.</p>\n<p><em>Meet at the Bald Eagles enclosure.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-26 14:00:00",
+          "end_date": "2026-10-26 14:30:00",
+          "utc_start_date": "2026-10-26 18:00:00",
+          "utc_end_date": "2026-10-26 18:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018670,
+          "global_id": "vinsweb.org?id=11018670",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-3pm/2026-10-26/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n3 PM – 3:30 PM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-26 15:00:00",
+          "end_date": "2026-10-26 15:30:00",
+          "utc_start_date": "2026-10-26 19:00:00",
+          "utc_end_date": "2026-10-26 19:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018391,
+          "global_id": "vinsweb.org?id=11018391",
+          "url": "https://vinsweb.org/event/natural-wonders-5-2/2026-10-27/",
+          "title": "Natural Wonders",
+          "description": "<p><strong>Natural Wonders<br />\n10:30 AM &#8211; 10:50 AM</strong></p>\n<p>Join us on a journey of discovery through the wonders of the natural world. Designed for families with young children, this short interactive program explores a range of engaging topics including animals of New England, Animal Engineers, and local habitats.*</p>\n<p><em>Location changes daily &#8211; inquire at the Nature Store.</em></p>\n<p><em>*Includes a live animal on Saturdays and Sundays only.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-27 10:30:00",
+          "end_date": "2026-10-27 10:50:00",
+          "utc_start_date": "2026-10-27 14:30:00",
+          "utc_end_date": "2026-10-27 14:50:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018529,
+          "global_id": "vinsweb.org?id=11018529",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-11am/2026-10-27/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n11 AM – 11:30 AM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-27 11:00:00",
+          "end_date": "2026-10-27 11:30:00",
+          "utc_start_date": "2026-10-27 15:00:00",
+          "utc_end_date": "2026-10-27 15:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018967,
+          "global_id": "vinsweb.org?id=11018967",
+          "url": "https://vinsweb.org/event/talk-to-the-trainers/2026-10-27/",
+          "title": "Talk to the Trainers",
+          "description": "<p><strong>Talk to the Trainers<br />\n1 PM – 1:30 PM</strong></p>\n<p>How do we keep our amazing education birds in good shape? How do we teach our birds new behaviors, so they can showcase how they would behave in the wild? It all takes training. Join our Wildlife Ambassador team for a training session with one or more of our birds as we help them learn new things, or simply get their exercise in!</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-27 13:00:00",
+          "end_date": "2026-10-27 13:30:00",
+          "utc_start_date": "2026-10-27 17:00:00",
+          "utc_end_date": "2026-10-27 17:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018809,
+          "global_id": "vinsweb.org?id=11018809",
+          "url": "https://vinsweb.org/event/raptor-feeding-time-jun26-oct26-2pm/2026-10-27/",
+          "title": "Raptor Feeding Time",
+          "description": "<p><strong>Raptor Feeding Time<br />\n2 PM &#8211; 2:30 PM</strong></p>\n<p>Join our raptor care-givers for feeding time! Learn about the habits and history of each of the resident raptors at VINS as you watch them enjoy their daily meal.</p>\n<p><em>Meet at the Bald Eagles enclosure.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-27 14:00:00",
+          "end_date": "2026-10-27 14:30:00",
+          "utc_start_date": "2026-10-27 18:00:00",
+          "utc_end_date": "2026-10-27 18:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018671,
+          "global_id": "vinsweb.org?id=11018671",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-3pm/2026-10-27/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n3 PM – 3:30 PM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-27 15:00:00",
+          "end_date": "2026-10-27 15:30:00",
+          "utc_start_date": "2026-10-27 19:00:00",
+          "utc_end_date": "2026-10-27 19:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018392,
+          "global_id": "vinsweb.org?id=11018392",
+          "url": "https://vinsweb.org/event/natural-wonders-5-2/2026-10-28/",
+          "title": "Natural Wonders",
+          "description": "<p><strong>Natural Wonders<br />\n10:30 AM &#8211; 10:50 AM</strong></p>\n<p>Join us on a journey of discovery through the wonders of the natural world. Designed for families with young children, this short interactive program explores a range of engaging topics including animals of New England, Animal Engineers, and local habitats.*</p>\n<p><em>Location changes daily &#8211; inquire at the Nature Store.</em></p>\n<p><em>*Includes a live animal on Saturdays and Sundays only.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-28 10:30:00",
+          "end_date": "2026-10-28 10:50:00",
+          "utc_start_date": "2026-10-28 14:30:00",
+          "utc_end_date": "2026-10-28 14:50:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018530,
+          "global_id": "vinsweb.org?id=11018530",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-11am/2026-10-28/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n11 AM – 11:30 AM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-28 11:00:00",
+          "end_date": "2026-10-28 11:30:00",
+          "utc_start_date": "2026-10-28 15:00:00",
+          "utc_end_date": "2026-10-28 15:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11019015,
+          "global_id": "vinsweb.org?id=11019015",
+          "url": "https://vinsweb.org/event/woodland-wildlife-walk-jun26-oct26-1pm/2026-10-28/",
+          "title": "Woodland Wildlife Walk",
+          "description": "<p><strong>Woodland Wildlife Walk<br />\n1 PM &#8211; 1:30 PM</strong></p>\n<p>Come wander through the woods with us! Not only is VINS home to dozens of exhibit birds, but our 2.5 miles of trails are teeming with a variety of wildlife. Learn to identify the plants that support our diverse fauna, keep your eyes out for signs of animal activity, and, if we’re lucky, perhaps we’ll spot some critters, too!</p>\n<p><em>Meet at the trailhead by the Forest Canopy Walk.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-28 13:00:00",
+          "end_date": "2026-10-28 13:30:00",
+          "utc_start_date": "2026-10-28 17:00:00",
+          "utc_end_date": "2026-10-28 17:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018810,
+          "global_id": "vinsweb.org?id=11018810",
+          "url": "https://vinsweb.org/event/raptor-feeding-time-jun26-oct26-2pm/2026-10-28/",
+          "title": "Raptor Feeding Time",
+          "description": "<p><strong>Raptor Feeding Time<br />\n2 PM &#8211; 2:30 PM</strong></p>\n<p>Join our raptor care-givers for feeding time! Learn about the habits and history of each of the resident raptors at VINS as you watch them enjoy their daily meal.</p>\n<p><em>Meet at the Bald Eagles enclosure.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-28 14:00:00",
+          "end_date": "2026-10-28 14:30:00",
+          "utc_start_date": "2026-10-28 18:00:00",
+          "utc_end_date": "2026-10-28 18:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018672,
+          "global_id": "vinsweb.org?id=11018672",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-3pm/2026-10-28/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n3 PM – 3:30 PM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-28 15:00:00",
+          "end_date": "2026-10-28 15:30:00",
+          "utc_start_date": "2026-10-28 19:00:00",
+          "utc_end_date": "2026-10-28 19:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018393,
+          "global_id": "vinsweb.org?id=11018393",
+          "url": "https://vinsweb.org/event/natural-wonders-5-2/2026-10-29/",
+          "title": "Natural Wonders",
+          "description": "<p><strong>Natural Wonders<br />\n10:30 AM &#8211; 10:50 AM</strong></p>\n<p>Join us on a journey of discovery through the wonders of the natural world. Designed for families with young children, this short interactive program explores a range of engaging topics including animals of New England, Animal Engineers, and local habitats.*</p>\n<p><em>Location changes daily &#8211; inquire at the Nature Store.</em></p>\n<p><em>*Includes a live animal on Saturdays and Sundays only.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-29 10:30:00",
+          "end_date": "2026-10-29 10:50:00",
+          "utc_start_date": "2026-10-29 14:30:00",
+          "utc_end_date": "2026-10-29 14:50:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018531,
+          "global_id": "vinsweb.org?id=11018531",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-11am/2026-10-29/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n11 AM – 11:30 AM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-29 11:00:00",
+          "end_date": "2026-10-29 11:30:00",
+          "utc_start_date": "2026-10-29 15:00:00",
+          "utc_end_date": "2026-10-29 15:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11019016,
+          "global_id": "vinsweb.org?id=11019016",
+          "url": "https://vinsweb.org/event/woodland-wildlife-walk-jun26-oct26-1pm/2026-10-29/",
+          "title": "Woodland Wildlife Walk",
+          "description": "<p><strong>Woodland Wildlife Walk<br />\n1 PM &#8211; 1:30 PM</strong></p>\n<p>Come wander through the woods with us! Not only is VINS home to dozens of exhibit birds, but our 2.5 miles of trails are teeming with a variety of wildlife. Learn to identify the plants that support our diverse fauna, keep your eyes out for signs of animal activity, and, if we’re lucky, perhaps we’ll spot some critters, too!</p>\n<p><em>Meet at the trailhead by the Forest Canopy Walk.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-29 13:00:00",
+          "end_date": "2026-10-29 13:30:00",
+          "utc_start_date": "2026-10-29 17:00:00",
+          "utc_end_date": "2026-10-29 17:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018811,
+          "global_id": "vinsweb.org?id=11018811",
+          "url": "https://vinsweb.org/event/raptor-feeding-time-jun26-oct26-2pm/2026-10-29/",
+          "title": "Raptor Feeding Time",
+          "description": "<p><strong>Raptor Feeding Time<br />\n2 PM &#8211; 2:30 PM</strong></p>\n<p>Join our raptor care-givers for feeding time! Learn about the habits and history of each of the resident raptors at VINS as you watch them enjoy their daily meal.</p>\n<p><em>Meet at the Bald Eagles enclosure.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-29 14:00:00",
+          "end_date": "2026-10-29 14:30:00",
+          "utc_start_date": "2026-10-29 18:00:00",
+          "utc_end_date": "2026-10-29 18:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018673,
+          "global_id": "vinsweb.org?id=11018673",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-3pm/2026-10-29/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n3 PM – 3:30 PM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-29 15:00:00",
+          "end_date": "2026-10-29 15:30:00",
+          "utc_start_date": "2026-10-29 19:00:00",
+          "utc_end_date": "2026-10-29 19:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018394,
+          "global_id": "vinsweb.org?id=11018394",
+          "url": "https://vinsweb.org/event/natural-wonders-5-2/2026-10-30/",
+          "title": "Natural Wonders",
+          "description": "<p><strong>Natural Wonders<br />\n10:30 AM &#8211; 10:50 AM</strong></p>\n<p>Join us on a journey of discovery through the wonders of the natural world. Designed for families with young children, this short interactive program explores a range of engaging topics including animals of New England, Animal Engineers, and local habitats.*</p>\n<p><em>Location changes daily &#8211; inquire at the Nature Store.</em></p>\n<p><em>*Includes a live animal on Saturdays and Sundays only.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-30 10:30:00",
+          "end_date": "2026-10-30 10:50:00",
+          "utc_start_date": "2026-10-30 14:30:00",
+          "utc_end_date": "2026-10-30 14:50:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018532,
+          "global_id": "vinsweb.org?id=11018532",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-11am/2026-10-30/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n11 AM – 11:30 AM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-30 11:00:00",
+          "end_date": "2026-10-30 11:30:00",
+          "utc_start_date": "2026-10-30 15:00:00",
+          "utc_end_date": "2026-10-30 15:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018968,
+          "global_id": "vinsweb.org?id=11018968",
+          "url": "https://vinsweb.org/event/talk-to-the-trainers/2026-10-30/",
+          "title": "Talk to the Trainers",
+          "description": "<p><strong>Talk to the Trainers<br />\n1 PM – 1:30 PM</strong></p>\n<p>How do we keep our amazing education birds in good shape? How do we teach our birds new behaviors, so they can showcase how they would behave in the wild? It all takes training. Join our Wildlife Ambassador team for a training session with one or more of our birds as we help them learn new things, or simply get their exercise in!</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-30 13:00:00",
+          "end_date": "2026-10-30 13:30:00",
+          "utc_start_date": "2026-10-30 17:00:00",
+          "utc_end_date": "2026-10-30 17:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018812,
+          "global_id": "vinsweb.org?id=11018812",
+          "url": "https://vinsweb.org/event/raptor-feeding-time-jun26-oct26-2pm/2026-10-30/",
+          "title": "Raptor Feeding Time",
+          "description": "<p><strong>Raptor Feeding Time<br />\n2 PM &#8211; 2:30 PM</strong></p>\n<p>Join our raptor care-givers for feeding time! Learn about the habits and history of each of the resident raptors at VINS as you watch them enjoy their daily meal.</p>\n<p><em>Meet at the Bald Eagles enclosure.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-30 14:00:00",
+          "end_date": "2026-10-30 14:30:00",
+          "utc_start_date": "2026-10-30 18:00:00",
+          "utc_end_date": "2026-10-30 18:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018674,
+          "global_id": "vinsweb.org?id=11018674",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-3pm/2026-10-30/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n3 PM – 3:30 PM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-30 15:00:00",
+          "end_date": "2026-10-30 15:30:00",
+          "utc_start_date": "2026-10-30 19:00:00",
+          "utc_end_date": "2026-10-30 19:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018870,
+          "global_id": "vinsweb.org?id=11018870",
+          "url": "https://vinsweb.org/event/hawk-on-the-walk-jun26-oct26-4pm/2026-10-30/",
+          "title": "Hawk on the Walk",
+          "description": "<p><strong>Hawk on the Walk<br />\nFRI / SAT / SUN<br />\n4 PM &#8211; 4:15 PM</strong></p>\n<p>Keep an eye out while exploring the Forest Canopy Walk at this time. You might get the chance to watch a Harris’s Hawk diving and weaving among the trees!</p>\n<p><em>Held on the Forest Canopy Walk. This program is weather dependent.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-30 16:00:00",
+          "end_date": "2026-10-30 16:15:00",
+          "utc_start_date": "2026-10-30 20:00:00",
+          "utc_end_date": "2026-10-30 20:15:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018395,
+          "global_id": "vinsweb.org?id=11018395",
+          "url": "https://vinsweb.org/event/natural-wonders-5-2/2026-10-31/",
+          "title": "Natural Wonders",
+          "description": "<p><strong>Natural Wonders<br />\n10:30 AM &#8211; 10:50 AM</strong></p>\n<p>Join us on a journey of discovery through the wonders of the natural world. Designed for families with young children, this short interactive program explores a range of engaging topics including animals of New England, Animal Engineers, and local habitats.*</p>\n<p><em>Location changes daily &#8211; inquire at the Nature Store.</em></p>\n<p><em>*Includes a live animal on Saturdays and Sundays only.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-31 10:30:00",
+          "end_date": "2026-10-31 10:50:00",
+          "utc_start_date": "2026-10-31 14:30:00",
+          "utc_end_date": "2026-10-31 14:50:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018533,
+          "global_id": "vinsweb.org?id=11018533",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-11am/2026-10-31/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n11 AM – 11:30 AM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-31 11:00:00",
+          "end_date": "2026-10-31 11:30:00",
+          "utc_start_date": "2026-10-31 15:00:00",
+          "utc_end_date": "2026-10-31 15:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018969,
+          "global_id": "vinsweb.org?id=11018969",
+          "url": "https://vinsweb.org/event/talk-to-the-trainers/2026-10-31/",
+          "title": "Talk to the Trainers",
+          "description": "<p><strong>Talk to the Trainers<br />\n1 PM – 1:30 PM</strong></p>\n<p>How do we keep our amazing education birds in good shape? How do we teach our birds new behaviors, so they can showcase how they would behave in the wild? It all takes training. Join our Wildlife Ambassador team for a training session with one or more of our birds as we help them learn new things, or simply get their exercise in!</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-31 13:00:00",
+          "end_date": "2026-10-31 13:30:00",
+          "utc_start_date": "2026-10-31 17:00:00",
+          "utc_end_date": "2026-10-31 17:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018813,
+          "global_id": "vinsweb.org?id=11018813",
+          "url": "https://vinsweb.org/event/raptor-feeding-time-jun26-oct26-2pm/2026-10-31/",
+          "title": "Raptor Feeding Time",
+          "description": "<p><strong>Raptor Feeding Time<br />\n2 PM &#8211; 2:30 PM</strong></p>\n<p>Join our raptor care-givers for feeding time! Learn about the habits and history of each of the resident raptors at VINS as you watch them enjoy their daily meal.</p>\n<p><em>Meet at the Bald Eagles enclosure.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-31 14:00:00",
+          "end_date": "2026-10-31 14:30:00",
+          "utc_start_date": "2026-10-31 18:00:00",
+          "utc_end_date": "2026-10-31 18:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018675,
+          "global_id": "vinsweb.org?id=11018675",
+          "url": "https://vinsweb.org/event/predators-of-the-sky-jun26-oct26-3pm/2026-10-31/",
+          "title": "Predators of the Sky",
+          "description": "<p><strong>Predators of the Sky<br />\n3 PM – 3:30 PM</strong></p>\n<p>Take flight with us for an unforgettable experience! We’ll show you the unique nature of some of the world’s most highly skilled predators – raptors! In this live bird demonstration you’ll gain an up-close view and an in-depth understanding of these majestic birds. What makes a bird a raptor? How sharp are those talons? What does an owl’s wing sound like as it moves through the air? Join a VINS Educator and explore these adaptations and meet some of these birds up close.</p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-31 15:00:00",
+          "end_date": "2026-10-31 15:30:00",
+          "utc_start_date": "2026-10-31 19:00:00",
+          "utc_end_date": "2026-10-31 19:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        },
+        {
+          "id": 11018871,
+          "global_id": "vinsweb.org?id=11018871",
+          "url": "https://vinsweb.org/event/hawk-on-the-walk-jun26-oct26-4pm/2026-10-31/",
+          "title": "Hawk on the Walk",
+          "description": "<p><strong>Hawk on the Walk<br />\nFRI / SAT / SUN<br />\n4 PM &#8211; 4:15 PM</strong></p>\n<p>Keep an eye out while exploring the Forest Canopy Walk at this time. You might get the chance to watch a Harris’s Hawk diving and weaving among the trees!</p>\n<p><em>Held on the Forest Canopy Walk. This program is weather dependent.</em></p>\n<p><em>For more information, contact us at <a href=\"mailto:[contact omitted]\">[contact omitted]</a> or [contact omitted].</em></p>",
+          "all_day": false,
+          "start_date": "2026-10-31 16:00:00",
+          "end_date": "2026-10-31 16:15:00",
+          "utc_start_date": "2026-10-31 20:00:00",
+          "utc_end_date": "2026-10-31 20:15:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 13,
+              "name": "Visitor Programs",
+              "slug": "visitor-programs"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

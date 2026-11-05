@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Orlando Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:ocls-south-trail-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T153000Z
+SUMMARY:OCLS South Trail Branch Community Showcase
+DESCRIPTION:South Orange Blossom Trail civic presence.
+LOCATION:OCLS South Trail Branch
+URL:https://www.ocls.info/locations-hours/south-trail-branch
+END:VEVENT
+BEGIN:VEVENT
+UID:ocls-south-trail-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T220000Z
+DTEND:20261027T233000Z
+SUMMARY:OCLS South Trail Branch Evening Program
+DESCRIPTION:VERIFIED: Community branch offering English conversation hours citizenship classes and children's story hours.
+LOCATION:OCLS South Trail Branch
+URL:https://www.ocls.info/locations-hours/south-trail-branch
+END:VEVENT
+END:VCALENDAR

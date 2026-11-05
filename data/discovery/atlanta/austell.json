@@ -1,0 +1,77 @@
+{
+  "municipality": "Austell",
+  "county": "Cobb",
+  "state": "GA",
+  "serviceRegion": "atlanta",
+  "verifiedOn": null,
+  "streamsCount": 10,
+  "sampleSources": [
+    {
+      "id": "atl-stream-cobb-austell-civic-191",
+      "publisher": null,
+      "vertical": "Civic & Public Libraries",
+      "county": "Cobb",
+      "municipality": "Austell",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Austell Cobb County Georgia Civic & Public Libraries public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    },
+    {
+      "id": "atl-stream-cobb-austell-livep-192",
+      "publisher": null,
+      "vertical": "Live Performing Arts & Indie Music",
+      "county": "Cobb",
+      "municipality": "Austell",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Austell Cobb County Georgia Live Performing Arts & Indie Music public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    },
+    {
+      "id": "atl-stream-cobb-austell-visual-193",
+      "publisher": null,
+      "vertical": "Visual Arts & Museums",
+      "county": "Cobb",
+      "municipality": "Austell",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Austell Cobb County Georgia Visual Arts & Museums public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    },
+    {
+      "id": "atl-stream-cobb-austell-herita-194",
+      "publisher": null,
+      "vertical": "Heritage & Diverse Communities",
+      "county": "Cobb",
+      "municipality": "Austell",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Austell Cobb County Georgia Heritage & Diverse Communities public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    },
+    {
+      "id": "atl-stream-cobb-austell-parks-195",
+      "publisher": null,
+      "vertical": "Parks & Outdoor Recreation",
+      "county": "Cobb",
+      "municipality": "Austell",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Austell Cobb County Georgia Parks & Outdoor Recreation public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    }
+  ],
+  "status": "unverified",
+  "verifiedStreamsCount": 0
+}

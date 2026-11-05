@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Boston Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:bpl-north-end-branch-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:North End Children’s Story & Craft Hour
+DESCRIPTION:Creative seasonal crafts and illustrated book readings for elementary youth and families in the North End branch.
+LOCATION:BPL North End Branch
+URL:https://www.bpl.org/locations/north-end/
+END:VEVENT
+BEGIN:VEVENT
+UID:bpl-north-end-branch-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:North End Local History & Genealogy Circle
+DESCRIPTION:Guided research session exploring colonial Boston archives and Italian-American immigrant history in the historic North End.
+LOCATION:BPL North End Branch
+URL:https://www.bpl.org/locations/north-end/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,77 @@
+{
+  "municipality": "Brookhaven",
+  "county": "DeKalb",
+  "state": "GA",
+  "serviceRegion": "atlanta",
+  "verifiedOn": null,
+  "streamsCount": 10,
+  "sampleSources": [
+    {
+      "id": "atl-stream-dekalb-brookhaven-civic-91",
+      "publisher": null,
+      "vertical": "Civic & Public Libraries",
+      "county": "DeKalb",
+      "municipality": "Brookhaven",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Brookhaven DeKalb County Georgia Civic & Public Libraries public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    },
+    {
+      "id": "atl-stream-dekalb-brookhaven-livep-92",
+      "publisher": null,
+      "vertical": "Live Performing Arts & Indie Music",
+      "county": "DeKalb",
+      "municipality": "Brookhaven",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Brookhaven DeKalb County Georgia Live Performing Arts & Indie Music public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    },
+    {
+      "id": "atl-stream-dekalb-brookhaven-visual-93",
+      "publisher": null,
+      "vertical": "Visual Arts & Museums",
+      "county": "DeKalb",
+      "municipality": "Brookhaven",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Brookhaven DeKalb County Georgia Visual Arts & Museums public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    },
+    {
+      "id": "atl-stream-dekalb-brookhaven-herita-94",
+      "publisher": null,
+      "vertical": "Heritage & Diverse Communities",
+      "county": "DeKalb",
+      "municipality": "Brookhaven",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Brookhaven DeKalb County Georgia Heritage & Diverse Communities public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    },
+    {
+      "id": "atl-stream-dekalb-brookhaven-parks-95",
+      "publisher": null,
+      "vertical": "Parks & Outdoor Recreation",
+      "county": "DeKalb",
+      "municipality": "Brookhaven",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Brookhaven DeKalb County Georgia Parks & Outdoor Recreation public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    }
+  ],
+  "status": "unverified",
+  "verifiedStreamsCount": 0
+}

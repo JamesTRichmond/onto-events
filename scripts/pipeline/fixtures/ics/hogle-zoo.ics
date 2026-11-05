@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Utah&#039;s Hogle Zoo - ECPv6.17.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Utah&#039;s Hogle Zoo
+X-ORIGINAL-URL:https://www.hoglezoo.org
+X-WR-CALDESC:Events for Utah&#039;s Hogle Zoo
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Denver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+DTSTART:20250309T090000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+DTSTART:20251102T080000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+DTSTART:20260308T090000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+DTSTART:20261101T080000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+DTSTART:20270314T090000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+DTSTART:20271107T080000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Denver:20260910T183000
+DTEND;TZID=America/Denver:20260910T213000
+DTSTAMP:20260905T143435Z
+CREATED:20240620T163055Z
+LAST-MODIFIED:20260905T143435Z
+UID:7297-1789065000-1789075800@www.hoglezoo.org
+SUMMARY:Wild Wonderland (21+) Fundraiser
+DESCRIPTION:Utah's Hogle Zoo                    \n                        
+             \n\n                     Upcoming Events                     
+     \n                                        \n                        \
+ n        				\n				\ [trimmed]
+URL:https://www.hoglezoo.org/upcoming-events/wild-wonderland/
+CATEGORIES:After-hours,Fundraiser
+ATTACH;FMTTYPE=image/png:https://www.hoglezoo.org/wp-content/uploads/2024/
+ 06/[email redacted]
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Denver:20260916T180000
+DTEND;TZID=America/Denver:20260916T210000
+DTSTAMP:20260826T224424Z
+CREATED:20260508T163440Z
+LAST-MODIFIED:20260826T224424Z
+UID:9624-1789581600-1789592400@www.hoglezoo.org
+SUMMARY:Members-Only Sunset Safari: September 16
+DESCRIPTION:Utah's Hogle Zoo                    \n                        
+             \n\n                     Upcoming Events                     
+     \n                                        \n                        \
+ n        				\n				\ [trimmed]
+URL:https://www.hoglezoo.org/upcoming-events/members-sunset-sep-16/
+CATEGORIES:After-hours,Members-only
+ATTACH;FMTTYPE=image/jpeg:https://www.hoglezoo.org/wp-content/uploads/2025
+ /03/UHZ-Sunset-Safaris.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Denver:20261014T183000
+DTEND;TZID=America/Denver:20261014T213000
+DTSTAMP:20260608T224405Z
+CREATED:20260414T163724Z
+LAST-MODIFIED:20260608T224405Z
+UID:9531-1792002600-1792013400@www.hoglezoo.org
+SUMMARY:October ZooBrew (21+)
+DESCRIPTION:Utah's Hogle Zoo                    \n                        
+             \n\n                     Upcoming Events                     
+     \n                                        \n                        \
+ n        				\n				\ [trimmed]
+URL:https://www.hoglezoo.org/upcoming-events/october-zoobrew/
+CATEGORIES:After-hours,Fundraiser,ZooBrew
+ATTACH;FMTTYPE=image/jpeg:https://www.hoglezoo.org/wp-content/uploads/2026
+ /04/October-ZooBrew2026.jpg
+END:VEVENT
+END:VCALENDAR

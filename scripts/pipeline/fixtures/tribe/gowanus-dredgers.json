@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "total": 3,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 10001523,
+          "global_id": "gowanusdredgers.org?id=10001523",
+          "title": "Gowanus Dredgers’ Members Exhibition",
+          "description": "The Gowanus Dredgers Boathouse is proud to present a group exhibition featuring artwork by members of the Gowanus Dredgers Canoe Club. Presented as part of Gowanus Open Studios 2026 , the exhibit includes sculpture, photography, painting, drawing, and collage that showcase the breadth of creativity and craftsmanship among the Dredgers’ members. Featured artists include: Bruno Birolli Danielle Isadora Butler Brian Ellis Karen Gibbons Nadya Gomez Elias Halloran Nancy Kangas Val Moran Peter Reich Daniel Toretsky The group exhibition will be on view October 10, 17, 18, 24 & 31 (Saturdays, 1–5pm or by appointment). Opening party on Monday October 12th, 6-9pm, RSVP Here .",
+          "url": "https://gowanusdredgers.org/event/gowanus-dredgers-members-exhibition-2/2026-10-17/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-17 17:00:00",
+          "utc_end_date": "2026-10-17 21:00:00",
+          "venue": {
+            "venue": "Gowanus Dredgers Canoe Club Boathouse"
+          }
+        },
+        {
+          "id": 10001528,
+          "global_id": "gowanusdredgers.org?id=10001528",
+          "title": "Open House New York: Self-Guided Canoeing from 19th St.",
+          "description": "Join the Gowanus Dredgers for our special walk-up paddling from our 19th St. Bunker Launch location. As part of Open House New York, we take our signature free self-guided canoe programming to our location at the mouth of the Gowanus Canal, near Sunset Park! Launch from our custom, community-built dock and explore the canal’s history as an active industrial waterway through its ongoing transformation into a residential neighborhood. Guided audio tours developed by the Unheard-of Ensemble will be available, but are not required. Photo credit: Nicole Vergalla",
+          "url": "https://gowanusdredgers.org/event/open-house-new-york-self-guided-canoeing-from-19th-st/2026-10-17/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-17 14:00:00",
+          "utc_end_date": "2026-10-17 22:00:00",
+          "venue": {
+            "venue": "Gowanus Dredgers Bunker (19th St.)"
+          }
+        },
+        {
+          "id": 4678,
+          "global_id": "gowanusdredgers.org?id=4678",
+          "title": "Monthly Meeting + Paddle",
+          "description": "Socialize with the Dredgers at HIDDEN RIVERS (291 Nevins St, Brooklyn, NY 11217) for a casual member catch-up! We’ll gather at 6:30 to chat and plan. We’ll be meeting indoors during our off-water season as it’s too dark & cold for safe paddling! Follow us on Instagram or sign up for our mailing list to stay informed.",
+          "url": "https://gowanusdredgers.org/event/monthly-meeting-paddle-2-5/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-19 22:30:00",
+          "utc_end_date": "2026-10-20 00:30:00",
+          "venue": {
+            "venue": "Hidden Rivers"
+          }
+        }
+      ]
+    }
+  ]
+}

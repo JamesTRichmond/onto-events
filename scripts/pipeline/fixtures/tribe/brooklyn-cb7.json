@@ -1,0 +1,34 @@
+{
+  "pages": [
+    {
+      "total": 2,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 1333,
+          "global_id": "cbbrooklyn.cityofnewyork.us/cb7?id=1333",
+          "title": "CB7 Monthly Board Meeting – October 21",
+          "description": "The CB7 October board meeting will be held on Wednesday, October 21 @ 6:30pm at the CB7 Office located at 4201 4 th Avenue (43rd Street entrance). You can attend the board meeting in-person, or you can register to attend virtually via Zoom: https://bit.ly/4e5LuCH You can view the board meeting on the Brooklyn Community Board 7’s YouTube Channel: https://bit.ly/3uQlAtq Proposed Agenda: Pledge of Allegiance Roll Call Opening of the Meeting Adoption of the Agenda Adoption of the Minutes – September 16, 2026 Board Meeting Adoption of the Minutes – September 30, 2026 Public Hearing Adoption of the Minutes – October 14, 2026 Public Hearing Public Comment (3 minutes per speaker on agenda or general items) Committee Reports: Finance & By-Laws Committee Bylaws review and proposed amendments (Vote expected) Fiscal Year 2028 Capital & Expense Budget Priorities (Vote expected) Land Use & Landmarks Committee Discussion on recommendation for 783 4th Avenue land use application (Vote expected) Transportation Committee Owl’s Head Viaduct rehabilitation project update Proposed DOT bike lane project for McDonald Avenue (Vote expected) 2nd Roll Call Elected Officials and Representatives Chairperson’s Report District Manager’s Report Old Business New Business Adjournment",
+          "url": "https://cbbrooklyn.cityofnewyork.us/cb7/event/cb7-monthly-board-meeting-october-21/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-21 22:30:00",
+          "utc_end_date": "2026-10-22 00:30:00",
+          "venue": []
+        },
+        {
+          "id": 1336,
+          "global_id": "cbbrooklyn.cityofnewyork.us/cb7?id=1336",
+          "title": "CB7 Monthly Board Meeting – November 18",
+          "description": "Agenda TBA",
+          "url": "https://cbbrooklyn.cityofnewyork.us/cb7/event/cb7-monthly-board-meeting-november-18/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-11-18 23:30:00",
+          "utc_end_date": "2026-11-19 01:00:00",
+          "venue": []
+        }
+      ]
+    }
+  ]
+}

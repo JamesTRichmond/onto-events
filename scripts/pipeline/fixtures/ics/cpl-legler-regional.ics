@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:cpl-legler-regional-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:West Side Community Digital Audio & Beatmaking Lab
+DESCRIPTION:Introduction to music production, podcasting, and digital audio recording in the Legler Regional media studios.
+LOCATION:CPL Legler Regional Library
+URL:https://www.chipublib.org/locations/44/
+END:VEVENT
+BEGIN:VEVENT
+UID:cpl-legler-regional-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Legler Family Storytime & Craft Afternoon
+DESCRIPTION:Bilingual read-aloud session and watercolor craft workshop for preschool children and neighborhood families.
+LOCATION:CPL Legler Regional Library
+URL:https://www.chipublib.org/locations/44/
+END:VEVENT
+END:VCALENDAR

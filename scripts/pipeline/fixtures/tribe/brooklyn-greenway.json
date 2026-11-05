@@ -1,0 +1,66 @@
+{
+  "pages": [
+    {
+      "total": 4,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 10414,
+          "global_id": "www.brooklyngreenway.org?id=10414",
+          "title": "Open House New York (OHNY) Drop-In Tours at Greenway Botanical Garden",
+          "description": "October 16 | 5:42 am Brooklyn Greenway Initiative , Nelson Byrd Woltz Landscape Architects , and Understory Landscape Architecture invite you to stroll through our native plant meadow and pollinator habitat — with a chance to hear from one of the landscape architects who created it ten years ago. Stroll through a native plant meadow and pollinator habitat, with a chance to hear from the landscape architect, or take a self-guided tour to learn about the history and ecology of the site. Tours, led by Jeffrey Longhenry , principal of Understory Landscape Architecture and lead landscape designer of the Greenway Botanical Garden with Nelson Byrd Woltz Landscape Architects, will offer first-come, first-served tours starting at 12PM and 1PM lasting approximately 50-minutes each. *** Please note this is a three day event from Noon – 6pm each day. Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live",
+          "url": "https://www.brooklyngreenway.org/greenway-event/open-house-new-york-ohny-drop-in-tours-at-greenway-botanical-garden/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-16 16:00:00",
+          "utc_end_date": "2026-10-18 22:00:00",
+          "venue": {
+            "venue": "Greenway Botanical Garden"
+          }
+        },
+        {
+          "id": 10401,
+          "global_id": "www.brooklyngreenway.org?id=10401",
+          "title": "Greenway Stomp",
+          "description": "October 16 | 5:42 am A fall festival with food, kids’ and adult activities, a children’s costume parade, and bluegrass music! Costumes for all are encouraged! Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live",
+          "url": "https://www.brooklyngreenway.org/greenway-event/greenway-stomp/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-17 15:00:00",
+          "utc_end_date": "2026-10-17 19:00:00",
+          "venue": {
+            "venue": "Greenway Botanical Garden"
+          }
+        },
+        {
+          "id": 10430,
+          "global_id": "www.brooklyngreenway.org?id=10430",
+          "title": "Spooky Sunset Movie w/Greenway Botanical Garden",
+          "description": "October 16 | 5:42 am Join Brooklyn Greenway Initative for an outdoor sunset screening of Hocus Pocus on Saturday, October 24th, at the Naval Cemetery Landscape to roundoff an October series of events. This event is funded by Nature Sacred. There will be light food and drink available. But no outside food or drink allowed. Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live",
+          "url": "https://www.brooklyngreenway.org/greenway-event/spooky-sunset-movie-w-greenway-botanical-garden/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-24 22:30:00",
+          "utc_end_date": "2026-10-25 00:00:00",
+          "venue": {
+            "venue": "Greenway Botanical Garden"
+          }
+        },
+        {
+          "id": 10402,
+          "global_id": "www.brooklyngreenway.org?id=10402",
+          "title": "BGI Greenway Volunteer Stewardship Day",
+          "description": "October 16 | 5:42 am Join BGI gardeners in keeping the greenways green! Learn invasive plant management and about the benefits of native perennials and street trees as we steward the Greenway! Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live",
+          "url": "https://www.brooklyngreenway.org/greenway-event/bgi-greenway-volunteer-stewardship-day/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-31 14:00:00",
+          "utc_end_date": "2026-10-31 16:30:00",
+          "venue": {
+            "venue": "Greenway Botanical Garden"
+          }
+        }
+      ]
+    }
+  ]
+}

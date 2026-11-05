@@ -1,0 +1,46 @@
+{
+  "pages": [
+    {
+      "total": 3,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 15787,
+          "global_id": "stannswarehouse.org?id=15787",
+          "title": "Kramer/Fauci",
+          "description": "",
+          "url": "https://stannswarehouse.org/show/kramer-fauci-21/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-16 23:30:00",
+          "utc_end_date": "2026-10-17 00:30:00",
+          "venue": []
+        },
+        {
+          "id": 15904,
+          "global_id": "stannswarehouse.org?id=15904",
+          "title": "Tristan & Yseult",
+          "description": "",
+          "url": "https://stannswarehouse.org/show/tristan-yseult/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-11-02 00:30:00",
+          "utc_end_date": "2026-11-02 02:30:00",
+          "venue": []
+        },
+        {
+          "id": 16017,
+          "global_id": "stannswarehouse.org?id=16017",
+          "title": "Saigon",
+          "description": "",
+          "url": "https://stannswarehouse.org/show/saigon/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-12-04 00:00:00",
+          "utc_end_date": "2026-12-04 03:20:00",
+          "venue": []
+        }
+      ]
+    }
+  ]
+}

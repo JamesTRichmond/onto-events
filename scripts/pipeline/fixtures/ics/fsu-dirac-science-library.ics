@@ -1,0 +1,218 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Calendar - Dirac Science Library (DSL)
+X-WR-TIMEZONE:Eastern Time (US & Canada)
+BEGIN:VEVENT
+DTSTAMP:20261015T234806Z
+UID:tag:localist.com\,2008:EventInstance_53739843382407
+DTSTART:20261016T160000Z
+DTEND:20261016T170000Z
+DESCRIPTION:The FSU-SC Artificial Intelligence and Machine Learning Seminar brings together researchers and practitioners for weekly talks on AI\, machine learning\, scientific computing\, and applied research\, with speakers from FSU and beyond.
+GEO:30.44502;-84.299845
+LOCATION:Dirac Science Library (DSL)\, 499
+SUMMARY:SC AI/ML Seminar
+URL;VALUE=URI:https://calendar.fsu.edu/event/sc-ai-seminar
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234806Z
+UID:tag:localist.com\,2008:EventInstance_53560131929269
+DTSTART:20261020T143000Z
+DTEND:20261020T160000Z
+DESCRIPTION:Do you still do citations by hand? Invest an hour and a half of your academic career to learn how to utilize a free citation management program and save yourself countless hours in the future. In this workshop\, we will demonstrate how to use Zotero to collect\, save\, and organize citations and create citations and bibliographies with just a few clicks. Zotero is compatible with Microsoft Word and Google Docs\, allowing you to link your sources directly to your writing. With just a few additional clicks\, you can easily modify the style of your bibliography. The workshop is tailored to accommodate beginners and those with some Zotero experience. Participants interested in attending Systematic Review workshops are encouraged to take this workshop first.\n\n \n\nPlease bring your laptop to the session. If you don’t have one\, you can check one out at the Scholar Support Desk.\n\n \n\nPlease contact this QEP's instructor\, Jonathan DaSo\, if you have questions about workshop content.  \n\n \n\nPlease arrive at the workshop at least 5 minutes before the start time. Please have your FSU Card ready for check-in. Check-in ends 10 minutes after the scheduled start time and late arrivals will not be admitted. \n\n \n\nThe Graduate Skills Workshop series is a collection of workshops developed in collaboration with the Graduate School and the Quality Enhancement Plan (QEP) to support graduate research and success. \n  \n\nPlease note: The target audience for this workshop is graduate and doctoral students\, but participants at all levels are welcome to join.  To qualify for the Research and Creative Activity Travel Grant\, only fully matriculated and admitted FSU students will be considered.\n\n \n\nFor questions regarding Research and Creative Activity Travel Grants\, please contact the Graduate Student Resource Center.
+GEO:30.44502;-84.299845
+LOCATION:Dirac Science Library (DSL)\, 208 (Computer Lab/Instruction Room)
+SUMMARY:Introduction to Citation Management Using Zotero
+URL;VALUE=URI:https://calendar.fsu.edu/event/Fall26-Zotero-Oct20
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234806Z
+UID:tag:localist.com\,2008:EventInstance_53578473727937
+DTSTART:20261020T190000Z
+DTEND:20261020T203000Z
+DESCRIPTION:Our Introduction to Parallel R workshop is a free\, interactive session that provides a practical introduction to parallel computing in the R language\, with a focus on accelerating data processing and statistical analysis.\nThis workshop is designed for researchers in STEM and the Humanities who already have experience programming in R and are seeking to optimize their workflows for large datasets.\n\nTopics Covered\nBy the end of this workshop\, attendees will be able to connect to the High-Performance Compute cluster and use R’s built-in parallel computing package to improve the performance of their research tasks. Attendees will also gain a foundational understanding of parallel computing concepts that can be applied across programming languages.\n\nSpecific topics include:\n\nOverview of Parallel Computing\n\nHow to Identify Tasks Suitable for Parallelization· Connecting to RCC Systems\n\nIntroduction to the 'parallel' Package in R\n\nParallelizing Data Processing for Large Datasets\n\nRunning Parallel Regressions for Large Datasets\n\nFor online attendance: \n\nYou MUST use your FSU email account to access this workshop through Zoom. Please ensure that your Zoom app is up to date before the workshop.  \n\nFor in-person attendance:\n\nPlease have your FSU Card ready for check-in.
+GEO:30.44502;-84.299845
+LOCATION:Dirac Science Library (DSL)\, Computer Lab\, 208
+SUMMARY:Data at Your Desk Series: Parallel R
+URL;VALUE=URI:https://calendar.fsu.edu/event/F26-DAYD-ParallelR-Oct20
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234806Z
+UID:tag:localist.com\,2008:EventInstance_53560398048841
+DTSTART:20261021T180000Z
+DTEND:20261021T190000Z
+DESCRIPTION:Formerly known as the Literature in Natural Sciences\, this updated session is designed for graduate students in biology\, geology\, atmospheric sciences\, oceanography\, environmental sciences\, and other earth‑science–related programs.\n\nConducting a comprehensive literature review is essential for identifying research problems and questions that advance your thesis or dissertation. This session will cover strategies and best practices for searching scholarly resources\, organizing information\, identifying relevant studies to support your research\, and other helpful search tips and tricks.\n\nWe’ll discuss how to select the right databases for your topic\, how to write and track your searches\, and how to use tools and features within each database. The session will focus on effectively searching Web of Science and Scopus\, with additional databases included as time and attendee interest allow.\n\nWe’ll work through foundational strategies for searching scientific literature to develop strong research questions and move your work forward. Bring your research topics and questions!\n\n \n\nPlease contact this QEP's instructors\, Kelly Grove or Kassidy Hof-Mahoney\, if you have questions about workshop content.  \n\n \n\nYou MUST use your FSU email account to access this workshop through Zoom. Please ensure that your Zoom app is up to date before the workshop.  Check-in ends 10 minutes after the scheduled start time and late arrivals will not be admitted. \n\n \n\nThe Graduate Skills Workshop series is a collection of workshops developed in collaboration with the Graduate School and the Quality Enhancement Plan (QEP) to support graduate research and success. \n  \n\nPlease note: The target audience for this workshop is graduate and doctoral students\, but participants at all levels are welcome to join.  To qualify for the Research and Creative Activity Travel Grant\, only fully matriculated and admitted FSU students will be considered.\n\n \n\nFor questions regarding Research and Creative Activity Travel Grants\, please contact the Graduate Student Resource Center.
+GEO:30.44502;-84.299845
+LOCATION:Dirac Science Library (DSL)\, 208
+SUMMARY:Web of Science and Scopus for Graduate Students
+URL;VALUE=URI:https://calendar.fsu.edu/event/Fall26-WebofScience-Scopus-Oct21
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234806Z
+UID:tag:localist.com\,2008:EventInstance_54169971479885
+DTSTART:20261023T140000Z
+DTEND:20261023T160000Z
+DESCRIPTION:National Chemistry Week is joining forces with Open Access Week to feature open-access resources in chemistry!\n\nGet ready to go full mole! We're throwing a high-energy bash in honor of the quirkiest number in chemistry—Avogadro’s number (6.022 × 10²³)—and you're invited to join the reaction!\n\nExplosive fun for all! Whether you're a chemistry whiz or just here for the vibes\, this celebration is bound to be elemental.\n\nGames! Treats! Prizes! No registration needed—show up and dive in!\n\nFind us behind the turnstiles at Dirac Science Library. Let’s make this Mole Day unforgettable!
+GEO:30.44502;-84.299845
+LOCATION:Dirac Science Library (DSL)\, main floor\, behind turnstiles
+SUMMARY:Mole Day Madness
+URL;VALUE=URI:https://calendar.fsu.edu/event/mole-day-madness-Fall2026
+CATEGORIES:Tabling
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234806Z
+UID:tag:localist.com\,2008:EventInstance_53739843383432
+DTSTART:20261023T160000Z
+DTEND:20261023T170000Z
+DESCRIPTION:The FSU-SC Artificial Intelligence and Machine Learning Seminar brings together researchers and practitioners for weekly talks on AI\, machine learning\, scientific computing\, and applied research\, with speakers from FSU and beyond.
+GEO:30.44502;-84.299845
+LOCATION:Dirac Science Library (DSL)\, 499
+SUMMARY:SC AI/ML Seminar
+URL;VALUE=URI:https://calendar.fsu.edu/event/sc-ai-seminar
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234806Z
+UID:tag:localist.com\,2008:EventInstance_54109679926404
+DTSTART:20261027T173000Z
+DTEND:20261027T193000Z
+DESCRIPTION:Thinking of entering the Data Viz Contest? Get a competitive edge with Data Hours! Drop in for guidance and contest support to help take your visualization to the next level. No registration required\, with multiple dates available through the end of the Fall 2026 semester. Don’t miss out!\n\nAll Data Viz Office Hours will be held in the Dirac Science Library Instruction Room (Room 208).\n\nThursday\, October 1 (9:30-11:30 am)Monday\, October 12 (9:30-11:30 am)Tuesday\, October 27 (1:30-3:30 pm)Tuesday\, November 10 (1:30-3:30 pm)Wednesday\, December 2 (1:30-3:30 pm)
+GEO:30.44502;-84.299845
+LOCATION:Dirac Science Library (DSL)\, 208
+SUMMARY:Data Visualization Contest -- Office Hours & Contest Help
+URL;VALUE=URI:https://calendar.fsu.edu/event/F26-data-visualization-office-hours-contest-help
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+CATEGORIES:Academic/Registrar
+CATEGORIES:Workshop
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234806Z
+UID:tag:localist.com\,2008:EventInstance_54107968952664
+DTSTART:20261028T190000Z
+DTEND:20261028T220000Z
+DESCRIPTION:Join in on the fun at Dirac Science Library for the sixth annual Dirac-ula Fall Festival. Gather with us as we celebrate the life and legacy of Paul Dirac. Grab a green wristband at the check-in table to get every treat we have to offer: a photo booth\, snacks from Seminole Dining\, face painting\, games\, prizes and more (while supplies last)!\n\nEnter our Costume Contest @ the event between 3:00-5:30pm – vote on our Instagram stories starting after the event! Round 1 will go from Wednesday-Thursdsay\, with the final round going from Thursday-Friday! We'll announce the winner on our stories and contact them on Friday\, October 30!   \n\nDate: Wednesday\, October 28 \n\nTime: 3PM-6PM\n\nLocation: Legacy Walk outside of Dirac
+GEO:30.44502;-84.299845
+LOCATION:Dirac Science Library (DSL)
+SUMMARY:Dirac-ula Fall Fest 2026
+URL;VALUE=URI:https://calendar.fsu.edu/event/dirac-ula-fall-2026
+CATEGORIES:Special Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234806Z
+UID:tag:localist.com\,2008:EventInstance_53739843384457
+DTSTART:20261030T160000Z
+DTEND:20261030T170000Z
+DESCRIPTION:The FSU-SC Artificial Intelligence and Machine Learning Seminar brings together researchers and practitioners for weekly talks on AI\, machine learning\, scientific computing\, and applied research\, with speakers from FSU and beyond.
+GEO:30.44502;-84.299845
+LOCATION:Dirac Science Library (DSL)\, 499
+SUMMARY:SC AI/ML Seminar
+URL;VALUE=URI:https://calendar.fsu.edu/event/sc-ai-seminar
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234806Z
+UID:tag:localist.com\,2008:EventInstance_54196229714396
+DTSTART:20261103T140000Z
+DTEND:20261103T163000Z
+DESCRIPTION:Join us for GIS Day and explore Maps and the Stories They Tell through games\, snacks\, library swag\, coloring pages\, and activities.\n\nNo registration required. Main floor of Dirac Science Library\, behind the turnstiles.
+GEO:30.44502;-84.299845
+LOCATION:Dirac Science Library (DSL)\, main floor
+SUMMARY:GIS Day: Maps and the Stories They Tell
+URL;VALUE=URI:https://calendar.fsu.edu/event/F26-STEMCelebrationDays-GISDay
+CATEGORIES:Tabling
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234806Z
+UID:tag:localist.com\,2008:EventInstance_53578720611574
+DTSTART:20261103T200000Z
+DTEND:20261103T210000Z
+DESCRIPTION:Discover how to bring your ideas to life with Esri’s StoryMaps! This beginner-friendly workshop introduces students to the basics of creating interactive\, visually compelling stories that combine maps\, text\, and multimedia. You’ll learn how to navigate the StoryMaps interface\, design your first project\, and explore best practices for telling impactful stories. No prior experience required—just bring your creativity!\n\nFor online attendance: \n\nYou MUST use your FSU email account to access this workshop through Zoom. Please ensure that your Zoom app is up to date before the workshop.  \n\nFor in-person attendance:\n\nPlease have your FSU Card ready for check-in.
+GEO:30.44502;-84.299845
+LOCATION:Dirac Science Library (DSL)\, Computer Lab\, 208
+SUMMARY:Data at Your Desk Series: Getting Started with StoryMaps
+URL;VALUE=URI:https://calendar.fsu.edu/event/F26-DAYD-StoryMaps-Nov3
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234806Z
+UID:tag:localist.com\,2008:EventInstance_53739843384458
+DTSTART:20261106T170000Z
+DTEND:20261106T180000Z
+DESCRIPTION:The FSU-SC Artificial Intelligence and Machine Learning Seminar brings together researchers and practitioners for weekly talks on AI\, machine learning\, scientific computing\, and applied research\, with speakers from FSU and beyond.
+GEO:30.44502;-84.299845
+LOCATION:Dirac Science Library (DSL)\, 499
+SUMMARY:SC AI/ML Seminar
+URL;VALUE=URI:https://calendar.fsu.edu/event/sc-ai-seminar
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234806Z
+UID:tag:localist.com\,2008:EventInstance_54109679928453
+DTSTART:20261110T183000Z
+DTEND:20261110T203000Z
+DESCRIPTION:Thinking of entering the Data Viz Contest? Get a competitive edge with Data Hours! Drop in for guidance and contest support to help take your visualization to the next level. No registration required\, with multiple dates available through the end of the Fall 2026 semester. Don’t miss out!\n\nAll Data Viz Office Hours will be held in the Dirac Science Library Instruction Room (Room 208).\n\nThursday\, October 1 (9:30-11:30 am)Monday\, October 12 (9:30-11:30 am)Tuesday\, October 27 (1:30-3:30 pm)Tuesday\, November 10 (1:30-3:30 pm)Wednesday\, December 2 (1:30-3:30 pm)
+GEO:30.44502;-84.299845
+LOCATION:Dirac Science Library (DSL)\, 208
+SUMMARY:Data Visualization Contest -- Office Hours & Contest Help
+URL;VALUE=URI:https://calendar.fsu.edu/event/F26-data-visualization-office-hours-contest-help
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+CATEGORIES:Academic/Registrar
+CATEGORIES:Workshop
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234806Z
+UID:tag:localist.com\,2008:EventInstance_53739843385483
+DTSTART:20261113T170000Z
+DTEND:20261113T180000Z
+DESCRIPTION:The FSU-SC Artificial Intelligence and Machine Learning Seminar brings together researchers and practitioners for weekly talks on AI\, machine learning\, scientific computing\, and applied research\, with speakers from FSU and beyond.
+GEO:30.44502;-84.299845
+LOCATION:Dirac Science Library (DSL)\, 499
+SUMMARY:SC AI/ML Seminar
+URL;VALUE=URI:https://calendar.fsu.edu/event/sc-ai-seminar
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234806Z
+UID:tag:localist.com\,2008:EventInstance_54109679929478
+DTSTART:20261202T183000Z
+DTEND:20261202T203000Z
+DESCRIPTION:Thinking of entering the Data Viz Contest? Get a competitive edge with Data Hours! Drop in for guidance and contest support to help take your visualization to the next level. No registration required\, with multiple dates available through the end of the Fall 2026 semester. Don’t miss out!\n\nAll Data Viz Office Hours will be held in the Dirac Science Library Instruction Room (Room 208).\n\nThursday\, October 1 (9:30-11:30 am)Monday\, October 12 (9:30-11:30 am)Tuesday\, October 27 (1:30-3:30 pm)Tuesday\, November 10 (1:30-3:30 pm)Wednesday\, December 2 (1:30-3:30 pm)
+GEO:30.44502;-84.299845
+LOCATION:Dirac Science Library (DSL)\, 208
+SUMMARY:Data Visualization Contest -- Office Hours & Contest Help
+URL;VALUE=URI:https://calendar.fsu.edu/event/F26-data-visualization-office-hours-contest-help
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+CATEGORIES:Academic/Registrar
+CATEGORIES:Workshop
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234806Z
+UID:tag:localist.com\,2008:EventInstance_53739843388558
+DTSTART:20261204T170000Z
+DTEND:20261204T180000Z
+DESCRIPTION:The FSU-SC Artificial Intelligence and Machine Learning Seminar brings together researchers and practitioners for weekly talks on AI\, machine learning\, scientific computing\, and applied research\, with speakers from FSU and beyond.
+GEO:30.44502;-84.299845
+LOCATION:Dirac Science Library (DSL)\, 499
+SUMMARY:SC AI/ML Seminar
+URL;VALUE=URI:https://calendar.fsu.edu/event/sc-ai-seminar
+CATEGORIES:Professional Development
+CATEGORIES:Workshops & Seminars
+END:VEVENT
+END:VCALENDAR

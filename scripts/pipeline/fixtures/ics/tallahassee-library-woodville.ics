@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Woodville Branch Library//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Woodville Branch Library
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T020000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T020000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:lcpl-wood-001@leoncountyfl.gov
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260916T100000
+DTEND;TZID=America/New_York:20260916T113000
+SUMMARY:Coffee and Cards @ Woodville Branch
+DESCRIPTION:Ready for some fun? Join us every Wednesday for card games\, fresh coffee\, and community conversation in Woodville.
+LOCATION:Woodville Branch Library
+URL:https://leoncountyfl.libcal.com/event/16165552
+CATEGORIES:community
+END:VEVENT
+BEGIN:VEVENT
+UID:lcpl-wood-002@leoncountyfl.gov
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260919T103000
+DTEND;TZID=America/New_York:20260919T113000
+SUMMARY:Story Time and Crafts @ Woodville Branch
+DESCRIPTION:Stories\, rhymes and creative art projects for young children and their families.
+LOCATION:Woodville Branch Library
+URL:https://leoncountyfl.libcal.com/event/16165553
+CATEGORIES:learning,family
+END:VEVENT
+BEGIN:VEVENT
+UID:lcpl-wood-003@leoncountyfl.gov
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260926T140000
+DTEND;TZID=America/New_York:20260926T153000
+SUMMARY:Woodville Community Book Discussion
+DESCRIPTION:Monthly adult book discussion exploring historical fiction and Florida regional authors.
+LOCATION:Woodville Branch Library
+URL:https://leoncountyfl.libcal.com/event/16165554
+CATEGORIES:learning,community
+END:VEVENT
+END:VCALENDAR

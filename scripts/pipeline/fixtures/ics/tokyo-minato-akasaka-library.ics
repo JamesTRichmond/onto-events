@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto.events//Tokyo Community Feeds//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Minato City Akasaka Library (港区立赤坂図書館)
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:tokyo-minato-akasaka-library-evt0@onto.events
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=Asia/Tokyo:20260920T103000
+DTEND;TZID=Asia/Tokyo:20260920T113000
+SUMMARY:Akasaka International Children’s Book Club
+DESCRIPTION:Youth literature circle reading global folk tales and illustrated stories from around the world.
+LOCATION:Minato City Akasaka Library
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-minato-akasaka-library-evt1@onto.events
+DTSTAMP:20261031T120000Z
+DTSTART;TZID=Asia/Tokyo:20261107T103000
+DTEND;TZID=Asia/Tokyo:20261107T113000
+SUMMARY:Akasaka International Children’s Book Club
+DESCRIPTION:Youth literature circle reading global folk tales and illustrated stories from around the world.
+LOCATION:Minato City Akasaka Library
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-minato-akasaka-library-evt2@onto.events
+DTSTAMP:20261031T120000Z
+DTSTART;TZID=Asia/Tokyo:20261114T140000
+DTEND;TZID=Asia/Tokyo:20261114T153000
+SUMMARY:Urban Forestry & Green City Lecture
+DESCRIPTION:Community presentation on Akasaka’s public pocket parks and biodiversity corridors.
+LOCATION:Minato City Akasaka Library
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

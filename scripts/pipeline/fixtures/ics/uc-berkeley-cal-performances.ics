@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//San Francisco Fixture//EN
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:uc-berkeley-cal-performances-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T180000Z
+DTEND:20261024T193000Z
+SUMMARY:Cal Performances Midday Chamber Concert at Hertz Hall
+DESCRIPTION:Free noon acoustic chamber music concert featuring UC Berkeley music fellows performing strings and woodwind repertoire.
+LOCATION:Cal Performances (Hertz Hall, UC Berkeley)
+URL:https://calperformances.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:uc-berkeley-cal-performances-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:UC Berkeley Symphony Open Rehearsal
+DESCRIPTION:Undergraduate symphony open rehearsal featuring classical European and contemporary symphonic works.
+LOCATION:Cal Performances (Hertz Hall, UC Berkeley)
+URL:https://calperformances.org/
+END:VEVENT
+END:VCALENDAR

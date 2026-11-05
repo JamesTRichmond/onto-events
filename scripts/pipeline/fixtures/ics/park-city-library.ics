@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Park City Library - ECPv6.17.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Park City Library
+X-ORIGINAL-URL:https://parkcitylibrary.org
+X-WR-CALDESC:Events for Park City Library
+BEGIN:VTIMEZONE
+TZID:America/Denver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+DTSTART:20260308T090000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+DTSTART:20261101T080000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Denver:20261015T100000
+DTEND;TZID=America/Denver:20261015T110000
+DTSTAMP:20261001T150000Z
+UID:pcl-storytime-20261015@parkcitylibrary.org
+SUMMARY:Preschool Family Storytime & Puppet Circle
+DESCRIPTION:Interactive morning stories, songs, fingerplays, and creative learning for young children and their caregivers in the story room.
+URL:https://parkcitylibrary.org/event/preschool-storytime/2026-10-15/
+LOCATION:Park City Library\, 1255 Park Ave\, Park City\, UT\, 84060\, United States
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Denver:20261017T140000
+DTEND;TZID=America/Denver:20261017T160000
+DTSTAMP:20261001T150000Z
+UID:pcl-stem-lego-20261017@parkcitylibrary.org
+SUMMARY:Saturday Youth STEM & Robotics Lab
+DESCRIPTION:Drop-in hands-on robotics, coding puzzles, and architectural building challenges for elementary and middle school youth.
+URL:https://parkcitylibrary.org/event/stem-robotics-lab/2026-10-17/
+LOCATION:Park City Library\, 1255 Park Ave\, Park City\, UT\, 84060\, United States
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Denver:20261020T180000
+DTEND;TZID=America/Denver:20261020T193000
+DTSTAMP:20261001T150000Z
+UID:pcl-book-group-20261020@parkcitylibrary.org
+SUMMARY:Wasatch Mountain Readers Evening Book Club
+DESCRIPTION:Monthly community book discussion exploring contemporary literature, mountain memoirs, and environmental essays in the reading lounge.
+URL:https://parkcitylibrary.org/event/mountain-readers-book-club/2026-10-20/
+LOCATION:Park City Library\, 1255 Park Ave\, Park City\, UT\, 84060\, United States
+END:VEVENT
+END:VCALENDAR

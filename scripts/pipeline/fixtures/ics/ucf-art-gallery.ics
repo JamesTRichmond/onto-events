@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Orlando Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:ucf-art-gallery-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T153000Z
+SUMMARY:UCF Art Gallery Community Showcase
+DESCRIPTION:Visual Arts Building public gallery.
+LOCATION:UCF Art Gallery
+URL:https://gallery.cah.ucf.edu/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:ucf-art-gallery-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T220000Z
+DTEND:20261027T233000Z
+SUMMARY:UCF Art Gallery Evening Program
+DESCRIPTION:VERIFIED: Fine arts exhibitions visiting artist lectures and opening receptions.
+LOCATION:UCF Art Gallery
+URL:https://gallery.cah.ucf.edu/events/
+END:VEVENT
+END:VCALENDAR

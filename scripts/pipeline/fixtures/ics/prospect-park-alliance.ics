@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto fixture//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Prospect Park Alliance Events
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:ppa-audubon-bird-walk-20261108
+DTSTART:20261108T150000Z
+DTEND:20261108T170000Z
+SUMMARY:Audubon Center Introduction to Birdwatching
+LOCATION:Prospect Park, 95 Prospect Park West, Brooklyn, NY 11215
+DESCRIPTION:Free weekend naturalist-led exploration of migratory birds, lake ecology, and woodland habitats departing from the historic Boathouse Audubon Center.
+URL:https://www.prospectpark.org/visit-the-park/places-to-go/audubon-center/
+END:VEVENT
+BEGIN:VEVENT
+UID:ppa-historic-carousel-20261115
+DTSTART:20261115T170000Z
+DTEND:20261115T210000Z
+SUMMARY:Prospect Park Historic Carousel Community Rides
+LOCATION:Prospect Park, 95 Prospect Park West, Brooklyn, NY 11215
+DESCRIPTION:Enjoy rides on the park's hand-carved 1912 Charles Carmel carousel located in the Children's Corner, preserved by the Prospect Park Alliance.
+URL:https://www.prospectpark.org/visit-the-park/places-to-go/carousel/
+END:VEVENT
+BEGIN:VEVENT
+UID:ppa-long-meadow-community-run-20261122
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Long Meadow Wellness Walk & Community 5K
+LOCATION:Prospect Park, 95 Prospect Park West, Brooklyn, NY 11215
+DESCRIPTION:Free community run and guided walking loop across the one-mile Long Meadow, welcoming all paces, strollers, and community members.
+URL:https://www.prospectpark.org/visit-the-park/activities/running/
+END:VEVENT
+END:VCALENDAR

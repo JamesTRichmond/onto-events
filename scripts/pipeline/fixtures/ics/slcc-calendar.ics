@@ -1,0 +1,167 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Salt Lake Community College Calendar
+X-WR-TIMEZONE:Mountain Time (US & Canada)
+BEGIN:VEVENT
+DTSTAMP:20260906T011902Z
+UID:tag:localist.com\,2008:EventInstance_53806851955503
+DTSTART;VALUE=DATE:20260904
+DESCRIPTION:Attention Utah Artists! We are extending the President's Art S
+ how Call for Entries for another week! You now have until September 7 to 
+ enter your artwork in our annual juried exhibition that features 100 loca
+ l artists\, awards $ [trimmed]
+LOCATION:
+SUMMARY:President's Art Show '26 - Call for Entries
+URL;VALUE=URI:https://calendar.slcc.edu/event/presidents-art-show-26-call-
+ for-entries
+CATEGORIES:Galleries
+CATEGORIES:Arts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T011902Z
+UID:tag:localist.com\,2008:EventInstance_53701963158459
+DTSTART:20260905T013000Z
+DTEND:20260905T023000Z
+DESCRIPTION:Backstage At The Grand is back! Come and enjoy watching Lady D
+ ay At Emerson's Bar and Grill.\n\nThe time is 1959. The place is a seedy 
+ bar in Philadelphia. The audience is about to witness one of Billie Holid
+ ay's last performanc [trimmed]
+GEO:41.860288;-87.627073
+LOCATION:\, Backstage
+SUMMARY:Lady Day at Emerson's Bar and Grill
+URL;VALUE=URI:https://calendar.slcc.edu/event/lady-day-at-emersons-bar-and
+ -grill-9394
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T011902Z
+UID:tag:localist.com\,2008:EventInstance_53806851955504
+DTSTART;VALUE=DATE:20260905
+DESCRIPTION:Attention Utah Artists! We are extending the President's Art S
+ how Call for Entries for another week! You now have until September 7 to 
+ enter your artwork in our annual juried exhibition that features 100 loca
+ l artists\, awards $ [trimmed]
+LOCATION:
+SUMMARY:President's Art Show '26 - Call for Entries
+URL;VALUE=URI:https://calendar.slcc.edu/event/presidents-art-show-26-call-
+ for-entries
+CATEGORIES:Galleries
+CATEGORIES:Arts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T011902Z
+UID:tag:localist.com\,2008:EventInstance_53701965079290
+DTSTART:20260906T013000Z
+DTEND:20260906T023000Z
+DESCRIPTION:Backstage At The Grand is back! Come and enjoy watching Lady D
+ ay At Emerson's Bar and Grill.\n\nThe time is 1959. The place is a seedy 
+ bar in Philadelphia. The audience is about to witness one of Billie Holid
+ ay's last performanc [trimmed]
+GEO:41.860288;-87.627073
+LOCATION:\, Backstage
+SUMMARY:Lady Day at Emerson's Bar and Grill
+URL;VALUE=URI:https://calendar.slcc.edu/event/lady-day-at-emersons-bar-and
+ -grill-3486
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T011902Z
+UID:tag:localist.com\,2008:EventInstance_53806851956529
+DTSTART;VALUE=DATE:20260906
+DESCRIPTION:Attention Utah Artists! We are extending the President's Art S
+ how Call for Entries for another week! You now have until September 7 to 
+ enter your artwork in our annual juried exhibition that features 100 loca
+ l artists\, awards $ [trimmed]
+LOCATION:
+SUMMARY:President's Art Show '26 - Call for Entries
+URL;VALUE=URI:https://calendar.slcc.edu/event/presidents-art-show-26-call-
+ for-entries
+CATEGORIES:Galleries
+CATEGORIES:Arts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T011902Z
+UID:tag:localist.com\,2008:EventInstance_53806851956530
+DTSTART;VALUE=DATE:20260907
+DESCRIPTION:Attention Utah Artists! We are extending the President's Art S
+ how Call for Entries for another week! You now have until September 7 to 
+ enter your artwork in our annual juried exhibition that features 100 loca
+ l artists\, awards $ [trimmed]
+LOCATION:
+SUMMARY:President's Art Show '26 - Call for Entries
+URL;VALUE=URI:https://calendar.slcc.edu/event/presidents-art-show-26-call-
+ for-entries
+CATEGORIES:Galleries
+CATEGORIES:Arts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T011902Z
+UID:tag:localist.com\,2008:EventInstance_53429195488714
+DTSTART:20260907T140000Z
+DTEND:20260908T030000Z
+DESCRIPTION:"Megan Wilson: Cycles"\n\n \n\nOpening Reception\n\nThursday\,
+  August 13\, 2026\n\n6 - 8 PM\n\n \n\nOn View\n\nAugust 13 - September 25
+ \, 2026\n\n \n\nLocation\n\nSLCC\, South City Campus\nCenter for Arts & M
+ edia\, East Lobby\,  [trimmed]
+GEO:40.734979;-111.88701
+LOCATION:\, Enda Runswick Taylor Foyer
+SUMMARY:Gallery Exhibit - Megan Wilson: Cycles
+URL;VALUE=URI:https://calendar.slcc.edu/event/gallery-exhibit-megan-wilson
+ -cycles
+CATEGORIES:Galleries
+CATEGORIES:Arts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T011902Z
+UID:tag:localist.com\,2008:EventInstance_53630118917843
+DTSTART:20260907T140000Z
+DTEND:20260908T030000Z
+DESCRIPTION:Izzy Beauschesne: "Archive in The Wild" Exhibition\n\n \n\nOn 
+ View\n\nAugust 13 - December 23\, 2026\n\n \n\nOpening Reception\n\nThurs
+ day\, August 13\n\n6 - 8 p.m.\n\n \n\nLocation\n\n"The Call Box" micro ga
+ llery\n\nCenter for  [trimmed]
+GEO:40.735328;-111.885749
+LOCATION:Center For Arts & Media\, The Edna Runswick Taylor Foyer / East E
+ ntrance
+SUMMARY:Izzy Beauschesne: "Archive in The Wild" Exhibition
+URL;VALUE=URI:https://calendar.slcc.edu/event/izzy-beauschesne-archive-in-
+ the-wild-exhibition
+CATEGORIES:Galleries
+CATEGORIES:Arts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T011902Z
+UID:tag:localist.com\,2008:EventInstance_53737783039355
+DTSTART:20260907T140000Z
+DTEND:20260908T030000Z
+DESCRIPTION:“LatinArte: Nuestras Raíces 2026 (Our Roots) 2026” Group 
+ Exhibition\n\n \n\nOpening Reception\nThursday\, August 13\n6 – 8 PM\n 
+ \n\nAwards Ceremony at the Grand Theater from 7 – 8 PM.\n\n \n\nExhibit
+  Dates\n\nAug 13 – Sept 25\,  [trimmed]
+GEO:40.735328;-111.885749
+LOCATION:Center for Arts & Media\, The George S. & Dolores Doré Eccles Ga
+ llery
+SUMMARY:LatinArte: Nuestras Raíces (Our Roots) Exhibition
+URL;VALUE=URI:https://calendar.slcc.edu/event/latinarte-nuestras-raices-ou
+ r-roots-exhibition-2513
+CATEGORIES:Galleries
+CATEGORIES:Arts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T011902Z
+UID:tag:localist.com\,2008:EventInstance_53429195489739
+DTSTART:20260908T140000Z
+DTEND:20260909T030000Z
+DESCRIPTION:"Megan Wilson: Cycles"\n\n \n\nOpening Reception\n\nThursday\,
+  August 13\, 2026\n\n6 - 8 PM\n\n \n\nOn View\n\nAugust 13 - September 25
+ \, 2026\n\n \n\nLocation\n\nSLCC\, South City Campus\nCenter for Arts & M
+ edia\, East Lobby\,  [trimmed]
+GEO:40.734979;-111.88701
+LOCATION:\, Enda Runswick Taylor Foyer
+SUMMARY:Gallery Exhibit - Megan Wilson: Cycles
+URL;VALUE=URI:https://calendar.slcc.edu/event/gallery-exhibit-megan-wilson
+ -cycles
+CATEGORIES:Galleries
+CATEGORIES:Arts
+END:VEVENT
+END:VCALENDAR

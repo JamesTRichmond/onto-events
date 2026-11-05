@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//fixture//EN
+BEGIN:VEVENT
+UID:vcal_7870-www.huntercollegeathletics.com
+DTSTART:20261020T230000Z
+DTEND:20261021T010000Z
+SUMMARY:Women's Volleyball vs Brooklyn College
+LOCATION:\, Hunter Sportsplex
+URL:https://www.huntercollegeathletics.com/calendar.aspx?game_id=7870&amp;sport_id=4
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_7871-www.huntercollegeathletics.com
+DTSTART:20261022T220000Z
+DTEND:20261023T000000Z
+SUMMARY:Women's Volleyball at Medgar Evers College
+LOCATION:New York\, NY\, Hunter Sportsplex
+URL:https://www.huntercollegeathletics.com/calendar.aspx?game_id=7871&amp;sport_id=4
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_7873-www.huntercollegeathletics.com
+DTSTART:20261029T220000Z
+DTEND:20261030T000000Z
+SUMMARY:Women's Volleyball vs Baruch College
+LOCATION:\, Hunter Sportsplex
+URL:https://www.huntercollegeathletics.com/calendar.aspx?game_id=7873&amp;sport_id=4
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Pensacola Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:uwf-cfpa-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:UWF Symphonic Band & Chamber Ensemble Recital
+DESCRIPTION:Evening concert in the UWF CFPA Recital Hall featuring classical wind and string repertoire.
+LOCATION:UWF Center for Fine and Performing Arts
+URL:https://uwf.edu/cassh/departments/department-of-music/concert-series/
+END:VEVENT
+BEGIN:VEVENT
+UID:uwf-cfpa-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:UWF Department of Theatre Mainstage Production
+DESCRIPTION:Student and faculty theatrical performance at the UWF Center for Fine and Performing Arts.
+LOCATION:UWF Center for Fine and Performing Arts
+URL:https://uwf.edu/cassh/departments/department-of-music/concert-series/
+END:VEVENT
+END:VCALENDAR

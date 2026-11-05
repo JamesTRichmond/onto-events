@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Pensacola Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:pensacola-museum-of-art-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Curator Gallery Tour & Contemporary Art Conversation
+DESCRIPTION:Guided docent tour through modern and contemporary exhibitions at the Pensacola Museum of Art.
+LOCATION:Pensacola Museum of Art
+URL:https://pensacolamuseum.org/visit/
+END:VEVENT
+BEGIN:VEVENT
+UID:pensacola-museum-of-art-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Saturday Studio Art Workshop at PMA
+DESCRIPTION:Hands-on printmaking and mixed-media studio session for youth and adults.
+LOCATION:Pensacola Museum of Art
+URL:https://pensacolamuseum.org/visit/
+END:VEVENT
+END:VCALENDAR

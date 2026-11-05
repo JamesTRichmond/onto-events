@@ -1,0 +1,38 @@
+{
+  "town": "Buel's Gore",
+  "county": "Chittenden",
+  "entityType": "Unorganized Gore",
+  "covered": true,
+  "actionTag": "ready for ingest",
+  "groupId": "burlington-montpelier",
+  "groupName": "Burlington–Montpelier",
+  "shortfall": true,
+  "shortfallReason": "Unincorporated gore with permanent population ~30; recreation centered around Appalachian Gap and Long Trail; municipal services handled by state/county.",
+  "sourceCount": 1,
+  "shared_sources": [
+    "green-mountain-club"
+  ],
+  "sources": [
+    {
+      "town": "Buel's Gore",
+      "county": "Chittenden",
+      "covered": true,
+      "action_tag": "ready for ingest",
+      "rank": 1,
+      "source_name": "Appalachian Gap / Green Mountain Pass Summit Outings",
+      "feed_url": "https://greenmountainclub.org/hike/appalachian-gap/",
+      "evidence_url": "https://greenmountainclub.org/",
+      "kind": "outdoors-portal",
+      "tier": 3,
+      "access": "free",
+      "categories": "outdoors",
+      "robots_ok": true,
+      "tos_ok": true,
+      "last_event_seen": "2026-09-20",
+      "score": 65,
+      "shortfall_reason": "Unincorporated gore with permanent population ~30; recreation centered around Appalachian Gap and Long Trail; municipal services handled by state/county.",
+      "shared_id": null
+    }
+  ],
+  "discoveredAt": "2026-10-31T05:49:55.137Z"
+}

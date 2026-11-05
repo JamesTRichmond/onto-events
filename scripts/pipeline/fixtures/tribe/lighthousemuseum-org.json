@@ -1,0 +1,50 @@
+{
+  "pages": [
+    {
+      "total": 3,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 11628,
+          "global_id": "lighthousemuseum.org?id=11628",
+          "title": "Towards the Beacon of Light and Hope",
+          "description": "<p>Celebrate America’s 250th anniversary with Dr. Robert Marraccino, Dr. Michael <span data-olk-copy-source=\"MessageBody\">Vigorito</span>, and Denise Giachetta-Ryan, MPH, MSN, of the Save Ellis Island Foundation, as they trace the journey of immigrants through New York Harbor from the Staten Island Quarantine to Ellis Island. Beginning with the historic Quarantine grounds surrounding today’s National Lighthouse Museum, the program will explore the experiences of immigrants arriving in New York, with special attention to Irish immigration during the Great Hunger and the overcrowded “coffin ships” that carried thousands across the Atlantic. The speakers will examine how epidemics, immigration, maritime commerce, and a growing population shaped the development of medical inspection, sanitatio",
+          "url": "https://lighthousemuseum.org/event/towards-the-beacon-of-light-and-hope/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-18 18:00:00",
+          "utc_end_date": "2026-10-18 20:00:00",
+          "venue": {
+            "venue": "National Lighthouse Museum",
+            "address": "200 The Promenade at Lighthouse Point",
+            "city": "Staten Island"
+          }
+        },
+        {
+          "id": 11778,
+          "global_id": "lighthousemuseum.org?id=11778",
+          "title": "Community Activate Presents: Rock Rock Rock Aerobics with Anna Copa Cabanna",
+          "description": "<p>Bring the ruckus. Leave the judgment.</p>\n<p>Get ready to move, rock, and have some unapologetic fun with Community Activate and the one-and-only Anna Copa Cabanna at ROCK ROCK ROCK AEROBICS!</p>\n<p>Join us for an hour of high-energy movement and music designed to get everyone moving. No experience necessary and no pressure to keep up. All bodies, all abilities, and all fitness levels are welcome.</p>\n<p>Participation is completely free, and everyone who attends will also receive free admission to the National Lighthouse Museum for the day.</p>\n<p>ROCK ROCK ROCK AEROBICS is presented by Community Activate in partnership with the National Lighthouse Museum and is made possible through a grant from Citizens Committee for New York City. Goodies will be provided by Richmond Hood Company.</p",
+          "url": "https://lighthousemuseum.org/event/community-activate-presents-rock-rock-rock-aerobics-with-anna-copa-cabanna-2/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-11-08 17:00:00",
+          "utc_end_date": "2026-11-08 18:00:00",
+          "venue": []
+        },
+        {
+          "id": 11810,
+          "global_id": "lighthousemuseum.org?id=11810",
+          "title": "NJ Model Ship Society Maritime Model Ship Display",
+          "description": "<p>Join us for an exciting day of maritime craftsmanship and creativity with the NJ Model Ship Society! Dedicated members will showcase their stunning model ships and share their expertise through live demonstrations.</p>",
+          "url": "https://lighthousemuseum.org/event/nj-model-ship-society-maritime-model-ship-display/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-11-14 16:00:00",
+          "utc_end_date": "2026-11-14 21:00:00",
+          "venue": []
+        }
+      ]
+    }
+  ]
+}

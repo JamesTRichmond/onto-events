@@ -1,0 +1,46 @@
+{
+  "pages": [
+    {
+      "total": 3,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 22683,
+          "global_id": "fpcnyc.org?id=22683",
+          "title": "D. A. Group",
+          "description": "",
+          "url": "https://fpcnyc.org/event/d-a-group-3/2026-10-16",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-16 22:00:00",
+          "utc_end_date": "2026-10-17 01:00:00",
+          "venue": []
+        },
+        {
+          "id": 22684,
+          "global_id": "fpcnyc.org?id=22684",
+          "title": "Save Her a Seat",
+          "description": "<p>Save Her a Seat (SHAS) is a beginners meeting, with the focus on people who identify as women with less than 5 years of sobriety. We are trans friendly. Each Friday is a different meeting format:</p>\n<p>1st Friday: Speaker<br />\n2nd Friday: Step<br />\n3rd Friday: Speaker<br />\nLast Friday: Anniversary<br />\n(With months with 5 Fridays, the 4th Friday is a Speaker meeting)</p>",
+          "url": "https://fpcnyc.org/event/save-her-a-seat/2026-10-16",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-16 22:30:00",
+          "utc_end_date": "2026-10-17 00:00:00",
+          "venue": []
+        },
+        {
+          "id": 23600,
+          "global_id": "fpcnyc.org?id=23600",
+          "title": "St. Joe&#8217;s Soup Kitchen",
+          "description": "<p>Serving Hours are from 1:00pm &#8211; 3:00pm</p>",
+          "url": "https://fpcnyc.org/event/st-joes-soup-kitchen-7/2026-10-17",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-17 14:00:00",
+          "utc_end_date": "2026-10-17 19:00:00",
+          "venue": []
+        }
+      ]
+    }
+  ]
+}

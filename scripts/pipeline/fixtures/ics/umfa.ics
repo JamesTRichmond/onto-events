@@ -1,0 +1,144 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Utah Museum of Fine Arts - ECPv6.17.3.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Utah Museum of Fine Arts
+X-ORIGINAL-URL:https://umfa.utah.edu
+X-WR-CALDESC:Events for Utah Museum of Fine Arts
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Denver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+DTSTART:20250309T090000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+DTSTART:20251102T080000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+DTSTART:20260308T090000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+DTSTART:20261101T080000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+DTSTART:20270314T090000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+DTSTART:20271107T080000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Denver:20260909T180000
+DTEND;TZID=America/Denver:20260909T190000
+DTSTAMP:20260826T164852Z
+CREATED:20260716T150143Z
+LAST-MODIFIED:20260826T164852Z
+UID:10001305-1788976800-1788980400@umfa.utah.edu
+SUMMARY:Art + Wellness: Yoga
+DESCRIPTION:Insights Tour: For the Future\n\n\nDe-stress surrounded by art
+  at the Utah Museum of Fine Arts! \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRSVP for 
+ this Event\n\n\n\n\nDo you need to shed some stress after work? Yoga is t
+ he perfect solution\ [trimmed]
+URL:https://umfa.utah.edu/event/art-wellness-yoga-3/2026-09-09/
+LOCATION:UMFA\, 410 Campus Center Dr\, Salt Lake City\, Utah\, 84112
+CATEGORIES:Art + Wellness
+ATTACH;FMTTYPE=image/jpeg:https://umfa.utah.edu/wp-content/uploads/files/2
+ 022-07/MKTG_digi suite_yoga_fall22_event calendar-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Denver:20260912T100000
+DTEND;TZID=America/Denver:20260912T120000
+DTSTAMP:20260904T164657Z
+CREATED:20260806T175509Z
+LAST-MODIFIED:20260904T164657Z
+UID:10001315-1789207200-1789214400@umfa.utah.edu
+SUMMARY:Creative Aging: For the Future
+DESCRIPTION:Creative Aging: For the Future\n\n\n\nFree workshop for artist
+ s 55 and better!  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRegistration Requ
+ ired\n\n\n\n\nSaturdays\, September 12\, 26\, October 3\, 10\, 24\, 31\, 
+ and November 7\, 14| [trimmed]
+URL:https://umfa.utah.edu/event/creative-aging-for-the-future/
+LOCATION:UMFA
+CATEGORIES:Art Making,Creative Aging,For the Future
+ATTACH;FMTTYPE=image/png:https://umfa.utah.edu/wp-content/uploads/2026/08/
+ 20251003-Gallery-Visitors_006-crop-scaled.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Denver:20260912T130000
+DTEND;TZID=America/Denver:20260912T150000
+DTSTAMP:20260902T193332Z
+CREATED:20260326T175938Z
+LAST-MODIFIED:20260902T193332Z
+UID:10001262-1789218000-1789225200@umfa.utah.edu
+SUMMARY:UMFA in the Wild: Torn Paper Landscapes
+DESCRIPTION:Insights Tour: For the Future\n\n\nat Antelope Island State Pa
+ rk\n\n\n\n\n\n\n\n\n\n\n\n\n\nVenture out to Utah’s wild places and joi
+ n the Utah Museum of Fine Arts for an art-making experience inspired by n
+ ature. Take a day trip [trimmed]
+URL:https://umfa.utah.edu/event/umfa-in-the-wild-torn-paper-landscapes-ant
+ elope-island/
+LOCATION:Antelope Island State Park\, Antelope Island State Park Davis Cou
+ nty\, UT
+CATEGORIES:Art Making,In the Community,UMFA in the Wild
+ATTACH;FMTTYPE=image/png:https://umfa.utah.edu/wp-content/uploads/2025/06/
+ Torn-Paper-Landscapes-option-2.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Denver:20260916T180000
+DTEND;TZID=America/Denver:20260916T180000
+DTSTAMP:20260904T194818Z
+CREATED:20260716T160213Z
+LAST-MODIFIED:20260904T194818Z
+UID:10001311-1789581600-1789581600@umfa.utah.edu
+SUMMARY:Collecting For the Future
+DESCRIPTION:Insights Tour: For the Future\n\n\nCurator Talk\n\n\n\nA behin
+ d-the-scenes look into collecting at the Utah Museum of Fine Arts with Gr
+ etchen Dietrich the Marcia and John Price Executive Director\, and UMFA c
+ urators Alisa McCusk [trimmed]
+URL:https://umfa.utah.edu/event/collecting-for-the-future/
+LOCATION:UMFA\, 410 Campus Center Dr\, Salt Lake City\, Utah\, 84112
+CATEGORIES:For the Future,Talks and Panels
+ATTACH;FMTTYPE=image/jpeg:https://umfa.utah.edu/wp-content/uploads/2026/07
+ /UMFA-Jack-Hicks-Gallery-Superintendent-unpacking-estate-bequest_ca1975-1
+ -scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Denver:20260916T180000
+DTEND;TZID=America/Denver:20260916T190000
+DTSTAMP:20260826T164852Z
+CREATED:20260716T150143Z
+LAST-MODIFIED:20260826T164852Z
+UID:10001306-1789581600-1789585200@umfa.utah.edu
+SUMMARY:Art + Wellness: Yoga
+DESCRIPTION:Insights Tour: For the Future\n\n\nDe-stress surrounded by art
+  at the Utah Museum of Fine Arts! \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRSVP for 
+ this Event\n\n\n\n\nDo you need to shed some stress after work? Yoga is t
+ he perfect solution\ [trimmed]
+URL:https://umfa.utah.edu/event/art-wellness-yoga-3/2026-09-16/
+LOCATION:UMFA\, 410 Campus Center Dr\, Salt Lake City\, Utah\, 84112
+CATEGORIES:Art + Wellness
+ATTACH;FMTTYPE=image/jpeg:https://umfa.utah.edu/wp-content/uploads/files/2
+ 022-07/MKTG_digi suite_yoga_fall22_event calendar-scaled.jpg
+END:VEVENT
+END:VCALENDAR

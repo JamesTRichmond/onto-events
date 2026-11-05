@@ -1,0 +1,76 @@
+{
+  "municipality": "Dunwoody",
+  "county": "DeKalb",
+  "state": "GA",
+  "serviceRegion": "atlanta",
+  "verifiedOn": null,
+  "streamsCount": 11,
+  "sampleSources": [
+    {
+      "id": "dcpl-dunwoody-library",
+      "publisher": "Dunwoody Library",
+      "vertical": "learning",
+      "county": "DeKalb",
+      "municipality": "Dunwoody",
+      "endpointType": null,
+      "candidateUrl": "https://dekalblibrary.org/events/dunwoody.ics",
+      "status": "unverified-candidate",
+      "verifiedOn": null,
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    },
+    {
+      "id": "atl-stream-dekalb-dunwoody-civic-81",
+      "publisher": null,
+      "vertical": "Civic & Public Libraries",
+      "county": "DeKalb",
+      "municipality": "Dunwoody",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Dunwoody DeKalb County Georgia Civic & Public Libraries public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    },
+    {
+      "id": "atl-stream-dekalb-dunwoody-livep-82",
+      "publisher": null,
+      "vertical": "Live Performing Arts & Indie Music",
+      "county": "DeKalb",
+      "municipality": "Dunwoody",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Dunwoody DeKalb County Georgia Live Performing Arts & Indie Music public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    },
+    {
+      "id": "atl-stream-dekalb-dunwoody-visual-83",
+      "publisher": null,
+      "vertical": "Visual Arts & Museums",
+      "county": "DeKalb",
+      "municipality": "Dunwoody",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Dunwoody DeKalb County Georgia Visual Arts & Museums public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    },
+    {
+      "id": "atl-stream-dekalb-dunwoody-herita-84",
+      "publisher": null,
+      "vertical": "Heritage & Diverse Communities",
+      "county": "DeKalb",
+      "municipality": "Dunwoody",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Dunwoody DeKalb County Georgia Heritage & Diverse Communities public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    }
+  ],
+  "status": "unverified",
+  "verifiedStreamsCount": 0
+}

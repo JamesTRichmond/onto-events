@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Philadelphia Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:flp-charles-santore-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Bella Vista Preschool Music & Reading Circle
+DESCRIPTION:Morning rhythm songs, nursery rhymes, and storybook reading for toddlers and neighborhood families.
+LOCATION:FLP Charles Santore Branch Library
+URL:https://libwww.freelibrary.org/locations/charles-santore-library
+END:VEVENT
+BEGIN:VEVENT
+UID:flp-charles-santore-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Bella Vista Preschool Music & Reading Circle (Session 2)
+DESCRIPTION:Morning rhythm songs, nursery rhymes, and storybook reading for toddlers and neighborhood families. Follow-up community session.
+LOCATION:FLP Charles Santore Branch Library
+URL:https://libwww.freelibrary.org/locations/charles-santore-library
+END:VEVENT
+END:VCALENDAR

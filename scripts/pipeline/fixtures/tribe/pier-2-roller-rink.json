@@ -1,0 +1,66 @@
+{
+  "pages": [
+    {
+      "total": 4,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 6971,
+          "global_id": "www.brooklynbridgeskating.com?id=6971",
+          "title": "🛼💙 FREE ADMISSION FRIDAYS! 💙🛼",
+          "description": "🛼💙 FREE ADMISSION FRIDAYS! 💙🛼 Start your weekend early at Pier 2 Roller Skating with an unbeatable deal. ✨ Every Friday | 3:30 PM – 6:00 PM 🎟️ Admission: FREE 🛼 Skate Rental: $8 Bring the kids, bring your friends, or just bring yourself — the rink is the perfect place to roll into the weekend with good vibes and waterfront views. See you on the rink! 🌉🛼✨",
+          "url": "https://www.brooklynbridgeskating.com/event/free-fridays/2026-10-16/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-16 22:30:00",
+          "utc_end_date": "2026-10-17 01:00:00",
+          "venue": {
+            "venue": "Brooklyn Bridge Park – Pier 2"
+          }
+        },
+        {
+          "id": 7833,
+          "global_id": "www.brooklynbridgeskating.com?id=7833",
+          "title": "🛼✨ $5 FRIDAYS ✨🛼",
+          "description": "🛼✨ $5 FRIDAYS ✨🛼 Kick off your weekend at Pier 2 Roller Skating with the best deal in Brooklyn. 🎉 Every Friday | 6:00 PM – 8:30 PM 🎟️ Admission: $5 🛼 Skate Rental: $8 Bring your friends, bring the vibes, and roll into the weekend with us under the skyline. 📍 Pier 2 Roller Skating Rink – Brooklyn Bridge Park Let’s make Fridays FUN again! 💙🌉🛼",
+          "url": "https://www.brooklynbridgeskating.com/event/5-fridays-4-2026-10-16/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-17 01:00:00",
+          "utc_end_date": "2026-10-17 05:30:00",
+          "venue": {
+            "venue": "Brooklyn Bridge Park – Pier 2"
+          }
+        },
+        {
+          "id": 7551,
+          "global_id": "www.brooklynbridgeskating.com?id=7551",
+          "title": "🛼✨ Saturday Public Skating at Pier 2! ✨🛼",
+          "description": "🛼✨ Saturday Public Skating at Pier 2! ✨🛼 Your weekend plans just got better. Join us every Saturday from 12PM–9:30PM for all‑day skating fun at Pier 2! 🎟️ Admission: $12 🛼 Skate Rental: $8 🎉 Birthday Parties Available! Celebrate with us and make it unforgettable. Click here to book your party or learn more! 📍 Pier 2 Roller Skating – Brooklyn Bridge Park Grab your friends, bring the family, and roll into the weekend with us!",
+          "url": "https://www.brooklynbridgeskating.com/event/%f0%9f%9b%bc%e2%9c%a8-saturday-public-skating-at-pier-2-%e2%9c%a8%f0%9f%9b%bc/2026-10-17/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-17 19:00:00",
+          "utc_end_date": "2026-10-18 05:30:00",
+          "venue": {
+            "venue": "Brooklyn Bridge Park – Pier 2"
+          }
+        },
+        {
+          "id": 7841,
+          "global_id": "www.brooklynbridgeskating.com?id=7841",
+          "title": "🚨🧟‍♂️ THRILLER SKATE ! 🧟‍♂️🚨",
+          "description": "Are you ready to moonwalk into the spookiest skate night of the season? 🎤🛼🎃 Join us for Thriller Skate this Saturday at Pier 2 Roller Skating Rink and celebrate the music of Michael Jackson with a night full of thrills, chills, and skating fun! 👻 Costume Contest 🎵 Michael Jackson’s Greatest Hits 🧠 Trivia & Prizes 🍕 Café & Drink Specials 🕸️ Spooky Music All Night Long 📅 Saturday, October 18 ⏰ 6:00 PM – 10:00 PM 💲 Admission: $12 🛼 Skate Rental: $8 ✅ All Ages Welcome Gather your crew, dress in your best Halloween costume, and get ready for a night that’s sure to be a thriller… and no filler! 🧟‍♀️✨",
+          "url": "https://www.brooklynbridgeskating.com/event/%f0%9f%9a%a8%f0%9f%a7%9f%e2%99%82%ef%b8%8f-thriller-skate-%f0%9f%a7%9f%e2%99%82%ef%b8%8f%f0%9f%9a%a8/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-18 01:00:00",
+          "utc_end_date": "2026-10-18 05:00:00",
+          "venue": {
+            "venue": "Brooklyn Bridge Park – Pier 2"
+          }
+        }
+      ]
+    }
+  ]
+}

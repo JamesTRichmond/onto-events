@@ -1,0 +1,34 @@
+{
+  "pages": [
+    {
+      "total": 2,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 10007636,
+          "global_id": "forttryonpark.org?id=10007636",
+          "title": "Forest Fitness",
+          "description": "<p>Join us for a free, year-round \u201cFitness at the Fort\u201d exercise program on Tuesdays, Thursdays, and Saturdays!</p>\n<p>This fitness class incorporates climbing multiple staircases, stretches and strengthening exercises, notable tree identification, and forest bathing. Led by instructor, Nancy Bruning, BA, MPH, PAPHS.</p>\n<p>Classes are structured so that all levels of fitness will be accommodated; however, all classes involve relatively brisk walking and some stairs because of the layout of the park itself. Classes vary according to the season, path conditions, and the weather, but always meet",
+          "url": "https://forttryonpark.org/event/forest-fitness-8-2/2026-10-17/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-17 12:30:00",
+          "utc_end_date": "2026-10-17 13:30:00",
+          "venue": []
+        },
+        {
+          "id": 10007884,
+          "global_id": "forttryonpark.org?id=10007884",
+          "title": "Sunday Stewardship",
+          "description": "<p>The Fort Tryon Park Conservancy hosts volunteer opportunities for you, your friends, and family to dig in the dirt! Join us to help protect Fort Tryon Park\u2019s ecology and beauty!\u00a0<strong>Meet the NYC Parks\u2019 horticulture staff at the Heather Garden\u2019s Margaret Corbin Circle entrance to sign in at 10:00 a.m. sharp.</strong>\u00a0Activities will include removing debris and weeds and preparing the site for plantings. Tools and gloves will be provided, but wear long pants, sturdy shoes, a face mask as needed, and bring a filled water bottle,</p>\n<p>Groups of 5+ RSVP by emailing john.kelly@parks.nyc.gov",
+          "url": "https://forttryonpark.org/event/sunday-stewardship-4/2026-10-18/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-18 14:00:00",
+          "utc_end_date": "2026-10-18 17:00:00",
+          "venue": []
+        }
+      ]
+    }
+  ]
+}

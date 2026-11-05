@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Montreal Events Sync//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+UID:sat-montreal-20261024@onto.events
+SUMMARY:Immersion sous le dôme Satosphère / Satosphere 360 Immersive Electro Session
+LOCATION:Société des arts technologiques
+DESCRIPTION:Projection audiovisuelle immersive à 360 degrés sous le dôme Satosphère.
+DTSTART:20261024T180000Z
+DTEND:20261024T200000Z
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-montreal-20261101@onto.events
+SUMMARY:Immersion sous le dôme Satosphère / Satosphere 360 Immersive Electro Session
+LOCATION:Société des arts technologiques
+DESCRIPTION:Projection audiovisuelle immersive à 360 degrés sous le dôme Satosphère.
+DTSTART:20261106T010000Z
+DTEND:20261106T030000Z
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

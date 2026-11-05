@@ -1,0 +1,58 @@
+{
+  "pages": [
+    {
+      "total": 3,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 143596,
+          "global_id": "bj.org?id=143596",
+          "title": "Teen Retreat",
+          "description": "",
+          "url": "https://bj.org/event/teen-retreat-5787/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-16 08:00:00",
+          "utc_end_date": "2026-10-19 07:59:59",
+          "venue": {
+            "venue": "Camp Pinemere",
+            "address": "865 Bartonsville Woods Road",
+            "city": "Stroudsburg"
+          }
+        },
+        {
+          "id": 10021403,
+          "global_id": "bj.org?id=10021403",
+          "title": "Kabbalat Shabbat",
+          "description": "",
+          "url": "https://bj.org/event/kabbalat-shabbat-630/2026-10-16/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-16 22:30:00",
+          "utc_end_date": "2026-10-16 23:45:00",
+          "venue": {
+            "venue": "Sanctuary",
+            "address": "257 West 88th Street",
+            "city": "New York"
+          }
+        },
+        {
+          "id": 145117,
+          "global_id": "bj.org?id=145117",
+          "title": "Aviv Shabbat",
+          "description": "",
+          "url": "https://bj.org/event/aviv-shabbat-5787-3/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-16 22:30:00",
+          "utc_end_date": "2026-10-17 02:00:00",
+          "venue": {
+            "venue": "Community House",
+            "address": "270 West 89th Street",
+            "city": "New York"
+          }
+        }
+      ]
+    }
+  ]
+}

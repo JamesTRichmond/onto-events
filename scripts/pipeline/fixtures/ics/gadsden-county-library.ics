@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//William A. McGill Library - Gadsden County//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:William A. McGill Library
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T020000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T020000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:mcgill-001@gadsdencountyfl.gov
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260919T110000
+DTEND;TZID=America/New_York:20260919T123000
+SUMMARY:Saturday Family Storyhour & Creative Workshop
+DESCRIPTION:Bilingual family story hour and art workshop at the Quincy headquarters library. Free books provided to attending children.
+LOCATION:William A. McGill Library
+URL:https://gadsdencountyfl.gov/services/library_services/event/saturday-family-storyhour
+CATEGORIES:learning,family
+END:VEVENT
+BEGIN:VEVENT
+UID:mcgill-002@gadsdencountyfl.gov
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20261003T140000
+DTEND;TZID=America/New_York:20261003T153000
+SUMMARY:Gadsden Historic Corridor Digital Archive Workshop
+DESCRIPTION:Community local history scanning day and oral history preservation demonstration in the library computer lab.
+LOCATION:William A. McGill Library
+URL:https://gadsdencountyfl.gov/services/library_services/event/digital-archive-workshop
+CATEGORIES:learning,community
+END:VEVENT
+END:VCALENDAR

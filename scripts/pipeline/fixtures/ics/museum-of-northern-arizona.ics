@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Flagstaff Fixture//EN
+X-WR-TIMEZONE:America/Phoenix
+BEGIN:VEVENT
+UID:museum-of-northern-arizona-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T170000Z
+DTEND:20261024T183000Z
+SUMMARY:Colorado Plateau Indigenous Arts & Geology Tour
+DESCRIPTION:Curator-guided gallery walk exploring Hopi, Diné, Zuni, and Pai fine arts and Colorado Plateau geology.
+LOCATION:Museum of Northern Arizona (MNA)
+URL:https://musnaz.org/events/?ical=1
+END:VEVENT
+BEGIN:VEVENT
+UID:museum-of-northern-arizona-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261028T210000Z
+DTEND:20261028T223000Z
+SUMMARY:Colorado Plateau Indigenous Arts & Geology Tour (Encore)
+DESCRIPTION:Curator-guided gallery walk exploring Hopi, Diné, Zuni, and Pai fine arts and Colorado Plateau geology.
+LOCATION:Museum of Northern Arizona (MNA)
+URL:https://musnaz.org/events/?ical=1
+END:VEVENT
+END:VCALENDAR

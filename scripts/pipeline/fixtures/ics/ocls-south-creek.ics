@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Orlando Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:ocls-south-creek-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T153000Z
+SUMMARY:OCLS South Creek Branch Community Showcase
+DESCRIPTION:Serves Hunters Creek and South Orange residential corridor.
+LOCATION:OCLS South Creek Branch
+URL:https://www.ocls.info/locations-hours/south-creek-branch
+END:VEVENT
+BEGIN:VEVENT
+UID:ocls-south-creek-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T220000Z
+DTEND:20261027T233000Z
+SUMMARY:OCLS South Creek Branch Evening Program
+DESCRIPTION:VERIFIED: South county branch near Hunters Creek with children's robotics crafts and reading challenges.
+LOCATION:OCLS South Creek Branch
+URL:https://www.ocls.info/locations-hours/south-creek-branch
+END:VEVENT
+END:VCALENDAR

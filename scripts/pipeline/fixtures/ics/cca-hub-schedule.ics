@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//San Francisco Fixture//EN
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:cca-hub-schedule-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T180000Z
+DTEND:20261024T193000Z
+SUMMARY:CCA Architecture & Sustainable Design Lecture
+DESCRIPTION:Public symposium on ecological architecture, modular timber construction, and resilient urbanism.
+LOCATION:California College of the Arts (CCA Hub)
+URL:https://www.cca.edu/
+END:VEVENT
+BEGIN:VEVENT
+UID:cca-hub-schedule-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:CCA Wattis Institute Contemporary Art Panel
+DESCRIPTION:Curators and visiting artists in conversation discussing contemporary conceptual art and installation.
+LOCATION:California College of the Arts (CCA Hub)
+URL:https://www.cca.edu/
+END:VEVENT
+END:VCALENDAR

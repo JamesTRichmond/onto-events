@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Boston Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:bpl-mattapan-branch-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Mattapan Saturday Family Chess & Math Club
+DESCRIPTION:Beginner and intermediate chess tactics and logic puzzles for youth in the Mattapan community hall.
+LOCATION:BPL Mattapan Branch
+URL:https://www.bpl.org/locations/mattapan/
+END:VEVENT
+BEGIN:VEVENT
+UID:bpl-mattapan-branch-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Caribbean Voices Literary Circle
+DESCRIPTION:Discussion of contemporary Caribbean diaspora poetry and prose with local authors in the library reading room.
+LOCATION:BPL Mattapan Branch
+URL:https://www.bpl.org/locations/mattapan/
+END:VEVENT
+END:VCALENDAR

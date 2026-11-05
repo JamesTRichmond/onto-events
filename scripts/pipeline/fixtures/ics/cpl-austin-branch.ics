@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:cpl-austin-branch-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Austin Community STEAM Builders & Coding
+DESCRIPTION:Youth technology enrichment, block coding, and science challenges in the historic Austin Branch children room.
+LOCATION:CPL Austin Branch Library
+URL:https://www.chipublib.org/locations/6/
+END:VEVENT
+BEGIN:VEVENT
+UID:cpl-austin-branch-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Austin Family Literacy & Craft Hour
+DESCRIPTION:Read-aloud picture book session and creative collage-making for elementary school students and parents.
+LOCATION:CPL Austin Branch Library
+URL:https://www.chipublib.org/locations/6/
+END:VEVENT
+END:VCALENDAR

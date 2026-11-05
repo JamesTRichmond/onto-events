@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto.events//Tokyo Community Feeds//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Taito City Central Library (台東区立中央図書館)
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:tokyo-taito-central-library-evt0@onto.events
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=Asia/Tokyo:20260920T103000
+DTEND;TZID=Asia/Tokyo:20260920T113000
+SUMMARY:Shitamachi Folk Story & Puppet Theater
+DESCRIPTION:Traditional kamishibai paper theater and folk storytelling celebrating Edo shitamachi culture.
+LOCATION:Taito City Central Library
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-taito-central-library-evt1@onto.events
+DTSTAMP:20261031T120000Z
+DTSTART;TZID=Asia/Tokyo:20261107T103000
+DTEND;TZID=Asia/Tokyo:20261107T113000
+SUMMARY:Shitamachi Folk Story & Puppet Theater
+DESCRIPTION:Traditional kamishibai paper theater and folk storytelling celebrating Edo shitamachi culture.
+LOCATION:Taito City Central Library
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-taito-central-library-evt2@onto.events
+DTSTAMP:20261031T120000Z
+DTSTART;TZID=Asia/Tokyo:20261114T140000
+DTEND;TZID=Asia/Tokyo:20261114T153000
+SUMMARY:Ichiyo Higuchi Life & Literature Exhibition Tour
+DESCRIPTION:Curated tour of Meiji author Ichiyo Higuchi’s letters, manuscripts, and period memorabilia.
+LOCATION:Taito City Central Library
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

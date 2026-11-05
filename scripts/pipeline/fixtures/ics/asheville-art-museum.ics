@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Asheville Art Museum - ECPv6.18.0//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Asheville Art Museum
+X-ORIGINAL-URL:https://www.ashevilleart.org
+X-WR-CALDESC:Events for Asheville Art Museum
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20250309T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20251102T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20270314T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20271107T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261009T120000
+DTEND;TZID=America/New_York:20261009T130000
+DTSTAMP:20260702T160621Z
+CREATED:20260622T175806Z
+LAST-MODIFIED:20260702T160621Z
+UID:10006854-1791547200-1791550800@www.ashevilleart.org
+SUMMARY:Slow Art Tour
+DESCRIPTION:Join our volunteer educator for this week’s Slow Art Tour and experience how close looking can foster relaxation and connection. \nRESERVE TICKETS NOW
+URL:https://www.ashevilleart.org/event/slow-art-friday-18/2026-10-09/
+LOCATION:Asheville Art Museum\, 2 South Pack Square\, Asheville\, NC\, 28801\, United States
+CATEGORIES:Slow Art
+ATTACH;FMTTYPE=image/jpeg:https://www.ashevilleart.org/wp-content/uploads/IMG_9561-1-scaled.jpg
+GEO:35.5946714;-82.5512827
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Asheville Art Museum 2 South Pack Square Asheville NC 28801 United States;X-APPLE-RADIUS=500;X-TITLE=2 South Pack Square:geo:-82.5512827,35.5946714
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261010T093000
+DTEND;TZID=America/New_York:20261010T110000
+DTSTAMP:20260914T145625Z
+CREATED:20260518T183840Z
+LAST-MODIFIED:20260914T145625Z
+UID:10006699-1791624600-1791630000@www.ashevilleart.org
+SUMMARY:The Art of Yoga | Summer-Fall Series 2026
+DESCRIPTION:Join us at the Museum for a harmonious blend of artistic inspiration and mindful movement! Our Saturday sessions are from 9:30–11am.  Experience how close looking at art and practicing yoga in the beautiful spaces of the Museum can foster relaxation and connection. \nEach yoga session includes a guided mindful looking session in one of the Museum’s current exhibitions. After class\, you’re invited to the John & Robyn Horn Education Center (level 3) for a complimentary cup of tea and artful conversation. \nAll levels are welcome. Please bring your own yoga mat. No mat\, no problem\, the Museum has some extra mats to lend. Loose-fitting clothing is recommended\, ensuring ease of movement as you flow through your practice. \n\nBenefits: \n\nMindful Connection: connect with the present moment as you flow through your practice in relation to a thought-provoking artwork.\nArtistic Inspiration: take advantage of practicing yoga in one of the most inspiring interior spaces in Asheville. Fuel your creativity and enhance the mind-body connection while meeting other artful yogis.\n\nPractical Tips: \n\nArrive a little early to settle into the Museum’s ambiance and find your preferred spot in the gallery.\nSpace is limited; advance registration is required.\n\nRegister Now \nPlease enter through the Staff Entrance to the left of the building. \n 
+URL:https://www.ashevilleart.org/event/the-art-of-yoga-fall-summer-series-2026/2026-10-10/
+LOCATION:NC
+CATEGORIES:Wellness
+ATTACH;FMTTYPE=image/jpeg:https://www.ashevilleart.org/wp-content/uploads/DSC_1624-1-360x360-2.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261010T110000
+DTEND;TZID=America/New_York:20261010T170000
+DTSTAMP:20261007T183225Z
+CREATED:20260813T165041Z
+LAST-MODIFIED:20261007T183225Z
+UID:10007476-1791630000-1791651600@www.ashevilleart.org
+SUMMARY:Community Day | The Art of Paper
+DESCRIPTION:The Asheville Art Museum invites you to visit for free on Saturday\, October 10 between 11am–5pm! Come celebrate the exhibition The Art of Paper with an afternoon of creativity and community engagement—featuring live music\, art activities\, exhibition tours\, and more. \nSCHEDULE OF EVENTS\n11am–5pm: Free admission to the Museum\, including the featured exhibition\, The Art of Paper.  \n11:30am–3:30pm: Live piano in the Windgate Foundation Atrium with Willie Sime.  \nNoon\, 1pm\, and 2pm: The Art of Paper 30-minute Express Tours.  \nNoon – 3pm: Papermaking demonstration on the Plaza (weather permitting). \n12:30pm\, 1:30pm\, and 2:30pm: Warp\, Weft\, and the Grid\, 30-minute Express Tours. \n1-4pm: Paperweaving in the Studio – Starting with strips of handmade paper crafted from kudzu vines\, participants will create a small weaving inspired by traditional overshot patterns\, a popular weave structure used to make coverlets and bed coverings. We will turn our weavings into wearable buttons that highlight the beauty of these two art forms\, hand weaving and papermaking. Led by artist Alyssa Sacora of The Patchwork Underground\, this drop in experience will expose museum guests to new ways of thinking about materials and craft and provide a hands-on learning experience. Beginners are welcome and encouraged. \n2–2:15pm: Asheville School student dance performance in Explore Asheville Exhibition Hall (level 3)\, featuring Warp\, Weft\, and the Grid.  \n2:30–3pm\, 3:15-3:45pm: Asheville School student dance\, poetry\, and music performances in The Art of Paper. \nPreregister—let us know you’re coming! \n  \nThis Community Day is generously sponsored by:
+URL:https://www.ashevilleart.org/event/community-day-the-art-of-paper/
+LOCATION:Asheville Art Museum\, 2 South Pack Square\, Asheville\, NC\, 28801\, United States
+CATEGORIES:Community Event
+ATTACH;FMTTYPE=image/jpeg:https://www.ashevilleart.org/wp-content/uploads/2008.139-scaled.jpg
+GEO:35.5946714;-82.5512827
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Asheville Art Museum 2 South Pack Square Asheville NC 28801 United States;X-APPLE-RADIUS=500;X-TITLE=2 South Pack Square:geo:-82.5512827,35.5946714
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261011T140000
+DTEND;TZID=America/New_York:20261011T160000
+DTSTAMP:20260921T185623Z
+CREATED:20260713T161929Z
+LAST-MODIFIED:20260921T185623Z
+UID:10006934-1791727200-1791734400@www.ashevilleart.org
+SUMMARY:Exhibition on Screen | The Curious World of Hieronymus Bosch
+DESCRIPTION:Hieronymus Bosch – Visions of Genius at the Het Noordbrabants Museum (February 13–May 8\, 2016) was the largest ever Bosch retrospective\, bringing 36 of his 44 surviving works together in Den Bosch. The exhibition took a radical approach\, offering research and conservation expertise in exchange for loans from the world’s best museums. Over 420\,000 people flocked to the exhibition to marvel at Bosch’s curious creations\, with opening hours extended to 1am to accommodate the phenomenal demand. \nAccompanied by expert insights from the exhibition’s curators and leading cultural critics\, the film delves into the life of the visionary artist to explore the inspiration behind his strange and haunting works. Contributors include maverick filmmaker and artist Peter Greenaway\, The Times’ Chief Art Critic Rachel Campbell-Johnston\, and Director of the Het Noordbrabants Museum Dr. Charles de Mooij. \nThe Curious World of Hieronymus Bosch allows audiences to appreciate the detail of Bosch’s paintings like never before\, offering close-up views of the curiosities hidden within his brimming canvases\, from cannibalistic clergymen to three- headed birds. \nPurchase Tickets
+URL:https://www.ashevilleart.org/event/exhibition-on-screen-the-curious-world-of-hieronymus-bosch/2026-10-11/
+LOCATION:Asheville Art Museum\, 2 South Pack Square\, Asheville\, NC\, 28801\, United States
+CATEGORIES:Film
+ATTACH;FMTTYPE=image/jpeg:https://www.ashevilleart.org/wp-content/uploads/Bosch_portrait-scaled.jpg
+GEO:35.5946714;-82.5512827
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Asheville Art Museum 2 South Pack Square Asheville NC 28801 United States;X-APPLE-RADIUS=500;X-TITLE=2 South Pack Square:geo:-82.5512827,35.5946714
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261013T180000
+DTEND;TZID=America/New_York:20261013T193000
+DTSTAMP:20260921T183900Z
+CREATED:20260813T170410Z
+LAST-MODIFIED:20260921T183900Z
+UID:10007463-1791914400-1791919800@www.ashevilleart.org
+SUMMARY:Rising Stars Concert with Quartet Nova Lux
+DESCRIPTION:Rising Stars Concert is a collaboration between the Asheville Chamber Music Series and the Asheville Art Museum\, featuring North Carolina musicians embarking on a major concert career. The event is sponsored and made possible by Heidi DuBose. \nQuartet Nova Lux:  \n\nHyejin Kim\, violin\nAaron Lipsky\, clarinet\nKyle Johnson\, cello\nYeonju Lee\, piano\n\nQuartet Nova Lux was formed in 2025 by graduate students at the Indiana University Jacobs School of Music.  Its members have appeared as soloist with the Indianapolis Symphony\, “The President’s Own” United States Marine Band\, and have performed with the Nashville Symphony\, New World Symphony\, Indianapolis Chamber Orchestra and Chattanooga Symphony.  They have also appeared as featured soloists and in chamber concerts in South Korea\, Japan\, France\, Czechia\, and the United States. \nProgram: \n\nOliver Messiaen’s Quartet for the End of Time\nPhillip Rhodes’ Following Picasso (A Fantasy After Stravinsky)\n\nPurchase Tickets
+URL:https://www.ashevilleart.org/event/rising-stars-concert-with-quartet-nova-lux/
+LOCATION:Asheville Art Museum\, 2 South Pack Square\, Asheville\, NC\, 28801\, United States
+CATEGORIES:Performance
+ATTACH;FMTTYPE=image/jpeg:https://www.ashevilleart.org/wp-content/uploads/image0-2-scaled.jpeg
+GEO:35.5946714;-82.5512827
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Asheville Art Museum 2 South Pack Square Asheville NC 28801 United States;X-APPLE-RADIUS=500;X-TITLE=2 South Pack Square:geo:-82.5512827,35.5946714
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261015T170000
+DTEND;TZID=America/New_York:20261015T210000
+DTSTAMP:20261001T194405Z
+CREATED:20260604T144300Z
+LAST-MODIFIED:20261001T194405Z
+UID:10006743-1792083600-1792098000@www.ashevilleart.org
+SUMMARY:Third Thursday | Educator's Night Out
+DESCRIPTION:Every Third Thursday\, the Museum comes alive with an evening filled with music\, tours\, art making\, special cocktails in our rooftop café\, and more! \n  \nEducator’s Night Out: FREE admission for K–12 and college educators\, administrators\, and teaching artists (with valid ID) \nIn addition to our regular Third Thursday programming\, this month we invite K–12 and college educators\, administrators\, and teaching artists to join us for our Fall Educator’s Night Out. View the Museum’s current exhibitions\, enjoy music\, create art in the Studio\, learn about our many tour offerings and opportunities to work with the Museum\, and take time to socialize. Please preregister below.  \nSchedule of Events  \n5–5:30pm: Guided tour of The Art of Paper  \n5:30–7pm: In this high energy ninety-minute workshop\, Denise Markbreit\, printmaker/educator & founder of printhouseavl.com will lead you through the steps necessary to create your own unique block print. You will come away with some newfound knowledge\, skills\, and a lovely collection of small prints to share with your students and friends. And it will be so much fun!!!  \nEducator Preregistration \n\n  \nEnjoy an evening of live music from 6–8pm performed by the Asheville Symphony Youth Orchestra’s talented chamber ensembles. Featuring a brass duo\, three string quartets\, and a clarinet duo\, the two-hour program will bring energy\, artistry\, and inspiration to the Museum’s galleries.  \n\nThe Asheville Symphony Youth Orchestra program serves more than 200 of the very best young musicians in the greater Asheville area. The program consists of two string orchestras\, two symphony orchestras\, a percussion ensemble\, a flute choir\, a jazz combo\, and numerous wind and string chamber ensembles. Students participate in masterclasses\, retreats\, workshops\, tours and social events. They also receive high-quality music instruction from the region’s most respected professional conductors and musicians and have the opportunity to perform throughout the community. Most importantly\, students involved in ASYO gain a strong sense of discipline\, increased confidence\, and a deep appreciation for music and the arts.
+URL:https://www.ashevilleart.org/event/third-thursday-14/
+LOCATION:Asheville Art Museum\, 2 South Pack Square\, Asheville\, NC\, 28801\, United States
+CATEGORIES:For Educators,Third Thursday
+ATTACH;FMTTYPE=image/jpeg:https://www.ashevilleart.org/wp-content/uploads/markbreit-PD-workshop.jpg
+GEO:35.5946714;-82.5512827
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Asheville Art Museum 2 South Pack Square Asheville NC 28801 United States;X-APPLE-RADIUS=500;X-TITLE=2 South Pack Square:geo:-82.5512827,35.5946714
+END:VEVENT
+END:VCALENDAR

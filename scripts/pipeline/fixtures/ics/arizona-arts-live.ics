@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Tucson Fixture//EN
+X-WR-TIMEZONE:America/Phoenix
+BEGIN:VEVENT
+UID:arizona-arts-live-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T170000Z
+DTEND:20261024T183000Z
+SUMMARY:Arizona Arts Live: World Music & Global Beats
+DESCRIPTION:International touring world ensemble performance on the Centennial Hall mainstage.
+LOCATION:Centennial Hall
+URL:https://arizonaartslive.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:arizona-arts-live-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261028T010000Z
+DTEND:20261028T023000Z
+SUMMARY:Contemporary Dance Showcase & Artist Talkback
+DESCRIPTION:Modern dance performance followed by an open Q&A with choreographers and company dancers.
+LOCATION:Centennial Hall
+URL:https://arizonaartslive.com/
+END:VEVENT
+END:VCALENDAR

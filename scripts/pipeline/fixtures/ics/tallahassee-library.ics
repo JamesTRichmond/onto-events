@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Leon County Public Library - Community Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:LeRoy Collins Leon County Public Library
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T020000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T020000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:lcpl-2026-001@leoncountyfl.gov
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260920T100000
+DTEND;TZID=America/New_York:20260920T113000
+SUMMARY:Preschool Story Hour & Crafts
+DESCRIPTION:Join library staff for interactive stories\, rhymes\, and fun crafts for children ages 3-5 and their caregivers. All materials provided. Free admission.
+LOCATION:LeRoy Collins Leon County Main Library\, 200 W Park Ave\, Tallahassee\, FL 32301
+URL:https://cms.leoncountyfl.gov/Library/event/story-hour
+CATEGORIES:learning,family
+END:VEVENT
+BEGIN:VEVENT
+UID:lcpl-2026-002@leoncountyfl.gov
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20261010T140000
+DTEND;TZID=America/New_York:20261010T160000
+SUMMARY:Leon County STEM Saturday
+DESCRIPTION:Hands-on robotics and coding exploration for students in grades 4-8. Registration recommended through the library website.
+LOCATION:LeRoy Collins Leon County Main Library\, 200 W Park Ave\, Tallahassee\, FL 32301
+URL:https://cms.leoncountyfl.gov/Library/event/stem-saturday
+CATEGORIES:learning,family
+END:VEVENT
+BEGIN:VEVENT
+UID:lcpl-2026-003@leoncountyfl.gov
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20261018T140000
+DTEND;TZID=America/New_York:20261018T153000
+SUMMARY:Tallahassee Reads: Community Book Discussion
+DESCRIPTION:Community discussion of this month's featured civic history selection. Free and open to all adult readers.
+LOCATION:LeRoy Collins Leon County Main Library\, 200 W Park Ave\, Tallahassee\, FL 32301
+URL:https://cms.leoncountyfl.gov/Library/event/tallahassee-reads
+CATEGORIES:learning,community
+END:VEVENT
+BEGIN:VEVENT
+UID:lcpl-2026-004@leoncountyfl.gov
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20261025T150000
+DTEND;TZID=America/New_York:20261025T170000
+SUMMARY:Florida History Lecture: The Red Hills Region
+DESCRIPTION:A public talk exploring the ecology and cultural heritage of the Red Hills region between Tallahassee and Thomasville. Free and open to the public.
+LOCATION:LeRoy Collins Leon County Main Library\, 200 W Park Ave\, Tallahassee\, FL 32301
+URL:https://cms.leoncountyfl.gov/Library/event/history-lecture
+CATEGORIES:learning,community
+END:VEVENT
+END:VCALENDAR

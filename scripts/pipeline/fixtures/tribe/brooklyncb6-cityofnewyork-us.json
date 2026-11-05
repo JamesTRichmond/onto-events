@@ -1,0 +1,26 @@
+{
+  "pages": [
+    {
+      "total": 1,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 8912,
+          "global_id": "brooklyncb6.cityofnewyork.us?id=8912",
+          "title": "CHiPS Free Monthly Food Distribution at PS 15",
+          "description": "Visit the CHiPS pantry van for free pantry items and fresh produce. Monthly on Fridays: 9/18, 10/16, 11/20 and 12/11. To volunteer, email volunteer@chipsonline.org. Ends 3:00 PM.",
+          "url": "https://brooklyncb6.cityofnewyork.us/event/chips-free-monthly-food-distribution-at-ps-15/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-16 17:30:00",
+          "utc_end_date": "2026-10-16 17:30:00",
+          "venue": {
+            "venue": "PS 15",
+            "address": "71 Sullivan Street",
+            "city": "Brooklyn"
+          }
+        }
+      ]
+    }
+  ]
+}

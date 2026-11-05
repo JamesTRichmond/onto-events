@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Montreal Events Sync//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+UID:mbam-montreal-20261024@onto.events
+SUMMARY:Atelier d'art en famille / Weekend Family Art Creation Studio
+LOCATION:Musée des beaux-arts de Montréal
+DESCRIPTION:Atelier créatif parent-enfant inspiré des collections permanentes de peinture et sculpture québécoises.
+DTSTART:20261024T180000Z
+DTEND:20261024T200000Z
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mbam-montreal-20261101@onto.events
+SUMMARY:Atelier d'art en famille / Weekend Family Art Creation Studio
+LOCATION:Musée des beaux-arts de Montréal
+DESCRIPTION:Atelier créatif parent-enfant inspiré des collections permanentes de peinture et sculpture québécoises.
+DTSTART:20261108T183000Z
+DTEND:20261108T203000Z
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

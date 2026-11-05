@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//fixture//EN
+BEGIN:VEVENT
+UID:tag:localist.com\,2008:EventInstance_53762107239682
+DTSTART:20261016T040000Z
+DTEND:20261017T040000Z
+SUMMARY:AIDS Education and Training Center Series 
+URL:https://events.weill.cornell.edu/event/aids-education-and-training-center-series
+END:VEVENT
+BEGIN:VEVENT
+UID:tag:localist.com\,2008:EventInstance_53249150776753
+DTSTART:20261016T040000Z
+DTEND:20261017T040000Z
+SUMMARY:Innovations in Cancer Genetics Symposium
+LOCATION:Uris Auditorium
+URL:https://events.weill.cornell.edu/event/innovations-in-cancer-genetics-symposium
+END:VEVENT
+BEGIN:VEVENT
+UID:tag:localist.com\,2008:EventInstance_54010361340604
+DTSTART:20261016T150000Z
+DTEND:20261016T160000Z
+SUMMARY: Hormones: Midlife Women
+LOCATION:Stavros Niarchos Foundation Library\, Room 303
+URL:https://events.weill.cornell.edu/event/hormones-midlife-women
+END:VEVENT
+END:VCALENDAR

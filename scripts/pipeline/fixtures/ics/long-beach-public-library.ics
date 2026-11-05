@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Los Angeles Fixture//EN
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:long-beach-public-library-event-1@onto.events
+DTSTAMP:20261018T120000Z
+DTSTART:20261024T180000Z
+DTEND:20261024T193000Z
+SUMMARY:Long Beach Public Library Community Showcase
+DESCRIPTION:Downtown Long Beach flagship library overlooking Lincoln Park featuring family learning centers and public exhibitions.
+LOCATION:Long Beach Public Library (Billie Jean King Main Library)
+URL:https://www.longbeach.gov/library/
+END:VEVENT
+BEGIN:VEVENT
+UID:long-beach-public-library-event-2@onto.events
+DTSTAMP:20261018T120000Z
+DTSTART:20261028T010000Z
+DTEND:20261028T023000Z
+SUMMARY:Long Beach Public Library Evening Arts & Discussion
+DESCRIPTION:Evening public program and cultural discussion at Long Beach Public Library (Billie Jean King Main Library).
+LOCATION:Long Beach Public Library (Billie Jean King Main Library)
+URL:https://www.longbeach.gov/library/
+END:VEVENT
+END:VCALENDAR

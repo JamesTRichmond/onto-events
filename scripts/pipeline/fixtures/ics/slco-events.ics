@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+PRODID:-//Trumba Corporation//Trumba Calendar Services 0.11.26102//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Salt Lake County Events Calendar
+X-WR-TIMEZONE:America/Denver
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Denver
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Farm and Sun: Solar Party
+LOCATION:Wheeler Historic Farm<br>6351 South 900 East\, Murray\, UT
+DTSTART;TZID=America/Denver:20260905T090000
+DTEND;TZID=America/Denver:20260905T110000
+URL:https://solarpartySept2026.eventbrite.com
+DTSTAMP:20260901T092529Z
+DESCRIPTION:Event Location/Address: Wheeler Historic Farm\n6351 South 900 
+ East\, Murray\, UT<br>Ages: All Ages<br>Neighborhood: Murray<br>Departmen
+ t Phone: [phone redacted]<br>Department Email: [email redacted]<br>Contac
+ t Name: Anna Swenson [trimmed]
+CATEGORIES:Clark Planetarium
+UID:http://uid.trumba.com/event/206807973
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sensory Friendly Saturday
+LOCATION:Clark Planetarium
+DTSTART;TZID=America/Denver:20260905T093000
+DTEND;TZID=America/Denver:20260905T113000
+DTSTAMP:20260818T141656Z
+DESCRIPTION:Event Location/Address: 110 South 400 West<br>Ages: All ages<b
+ r>Neighborhood: Salt Lake City<br>Department Phone: [phone redacted]<br>D
+ epartment Email: [email redacted]<br>Contact Name: Anna Swenson<br>Contac
+ t phone: [phone reda [trimmed]
+CATEGORIES:Clark Planetarium
+UID:http://uid.trumba.com/event/183060893
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farm and Sky: Solar Party
+LOCATION:Wheeler Historic Farm
+DTSTART;TZID=America/Denver:20260905T110000
+DTEND;TZID=America/Denver:20260905T130000
+URL:clarkplanetarium.eventbrite.com
+DTSTAMP:20260106T115242Z
+DESCRIPTION:Event Location/Address: 6351 South 900 East\nMurray\, Utah 841
+ 21<br>Neighborhood: Murray<br>Event Type: Activities<br>Sensory Friendly 
+ Program: No<br>ASL: No<br>Spanish Interpretation: No<br>Other Languages A
+ valiable: No<br>Whee [trimmed]
+CATEGORIES:Parks &amp; Recreation
+UID:http://uid.trumba.com/event/195039561
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wheeler Farm Sunday Market
+LOCATION:Wheeler Farm
+DTSTART;TZID=America/Denver:20260906T090000
+DTEND;TZID=America/Denver:20260906T130000
+URL:https://www.saltlakecounty.gov/wheeler-farm/
+DTSTAMP:20260415T152908Z
+DESCRIPTION:Event Location/Address: 6351 South 900 East\nMurray\, Utah 841
+ 21<br>Neighborhood: County Wide\,Murray<br>Department Email: [email redac
+ ted]<br>Contact phone: [phone redacted]<br>Event Type: Activities<br>Sens
+ ory Friendly Program [trimmed]
+CATEGORIES:Parks &amp; Recreation
+UID:http://uid.trumba.com/event/201158747
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rocket Science Day
+LOCATION:Clark Planetarium
+DTSTART;TZID=America/Denver:20260907T120000
+DTEND;TZID=America/Denver:20260907T160000
+DTSTAMP:20260901T092810Z
+DESCRIPTION:Event Location/Address: Clark Planetarium Learning Space (130 
+ S 400 W\, Salt Lake City\, UT 84101)\n&nbsp\;<br>Ages: All Ages<br>Neighb
+ orhood: Salt Lake City<br>Department Phone: [phone redacted]<br>Departmen
+ t Email: [email reda [trimmed]
+CATEGORIES:Clark Planetarium
+UID:http://uid.trumba.com/event/207537513
+END:VEVENT
+END:VCALENDAR

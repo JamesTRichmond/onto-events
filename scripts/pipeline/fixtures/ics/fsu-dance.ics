@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FSU School of Dance//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FSU School of Dance
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T020000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T020000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:fsu-dance-001@calendar.fsu.edu
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20261006T193000
+DTEND;TZID=America/New_York:20261006T213000
+SUMMARY:Adele Myers and Dancers: a world gone FABULOUS in Collaboration with Opening Nights
+DESCRIPTION:A dynamic evening of contemporary dance theater featuring Miami-based choreographer Adele Myers and ensemble.
+LOCATION:Montgomery Hall (MON)\, Nancy Smith Fichter Dance Theatre
+URL:https://calendar.fsu.edu/event/adele-myers-and-dancers
+CATEGORIES:dance,arts
+END:VEVENT
+BEGIN:VEVENT
+UID:fsu-dance-002@calendar.fsu.edu
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20261023T193000
+DTEND;TZID=America/New_York:20261023T213000
+SUMMARY:Days of Dance: Fall Repertory Showcase
+DESCRIPTION:Exciting contemporary choreographic works by undergraduate and graduate dance artists at Nancy Smith Fichter Dance Theatre.
+LOCATION:Montgomery Hall (MON)\, Nancy Smith Fichter Dance Theatre
+URL:https://calendar.fsu.edu/event/days-of-dance-fall
+CATEGORIES:dance,arts
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:qstaffvt@gmail.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART:20261025T150000Z
+DTEND:20261025T210000Z
+UID:7ekuu1pbnv5glh299dusjl1mkk@google.com
+DESCRIPTION:<p>Doors at 11\, Product Will be Handed out at Noon Sharp.</p><p>Players will participate in an ordinary three-pack pick-two booster draft\, with one major shake-up: Before each game begins\, a player may reveal two different cards they drafted that are part of an Echoed Pair. Those cards start the game in exile. The player may cast one of those cards during the game as though it were in their hand\; when they do\, they may shuffle the other into their library. Players begin each game with only a single Echoed Pair in exile.</p><p>Prize Support: One Reality Fracture Play Booster per Round Win\, with some bonus promos.</p>
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reality Echoes Pick Two Draft
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20230416T100000
+DTEND;TZID=America/New_York:20230416T210000
+UID:6mspu7pti1kq8kek775h8dcph4@google.com
+RECURRENCE-ID;TZID=America/New_York:20230416T110000
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:MTG: MOM Prerelease
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20250603T170000
+DTEND;TZID=America/New_York:20250603T230000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+EXDATE;TZID=America/New_York:20251230T170000
+EXDATE;TZID=America/New_York:20260106T170000
+UID:0t7s1leqq1kfck1tqifu25oopi@google.com
+DESCRIPTION:Free tables for fantasy tabletop miniature games and open hobby nights. Come roll the night away or bring your project of choice to paint with the staff and friends! BYOBrush!
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hobby Night!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20230122T110000
+DTEND;TZID=America/New_York:20230122T170000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+EXDATE;TZID=America/New_York:20230205T110000
+EXDATE;TZID=America/New_York:20240414T110000
+EXDATE;TZID=America/New_York:20240714T110000
+EXDATE;TZID=America/New_York:20240728T110000
+EXDATE;TZID=America/New_York:20240922T110000
+EXDATE;TZID=America/New_York:20250209T110000
+EXDATE;TZID=America/New_York:20250330T110000
+EXDATE;TZID=America/New_York:20250427T110000
+EXDATE;TZID=America/New_York:20250525T110000
+EXDATE;TZID=America/New_York:20250608T110000
+EXDATE;TZID=America/New_York:20250706T110000
+EXDATE;TZID=America/New_York:20250727T110000
+EXDATE;TZID=America/New_York:20250921T110000
+EXDATE;TZID=America/New_York:20251116T110000
+EXDATE;TZID=America/New_York:20260104T110000
+EXDATE;TZID=America/New_York:20260111T110000
+EXDATE;TZID=America/New_York:20260118T110000
+EXDATE;TZID=America/New_York:20260301T110000
+EXDATE;TZID=America/New_York:20260405T110000
+EXDATE;TZID=America/New_York:20260419T110000
+EXDATE;TZID=America/New_York:20260809T110000
+UID:6mspu7pti1kq8kek775h8dcph4@google.com
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:General Open Tables
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260124T110000
+DTEND;TZID=America/New_York:20260124T180000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+EXDATE;TZID=America/New_York:20260131T110000
+EXDATE;TZID=America/New_York:20260221T110000
+EXDATE;TZID=America/New_York:20260228T110000
+EXDATE;TZID=America/New_York:20260411T110000
+EXDATE;TZID=America/New_York:20260418T110000
+EXDATE;TZID=America/New_York:20260620T110000
+EXDATE;TZID=America/New_York:20260808T110000
+EXDATE;TZID=America/New_York:20261017T110000
+UID:2rd48fb7mojd2b3qv6hlj83toj@google.com
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Warhammer 40K Open Tables
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20250706T110000
+DTEND;TZID=America/New_York:20250706T170000
+UID:6mspu7pti1kq8kek775h8dcph4@google.com
+RECURRENCE-ID;TZID=America/New_York:20250629T110000
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:General Open Tables
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20250603T170000
+DTEND;TZID=America/New_York:20250603T230000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+EXDATE;TZID=America/New_York:20260106T170000
+EXDATE;TZID=America/New_York:20251230T170000
+UID:01pgjaf8j7e1576slb25s1qk41@google.com
+DESCRIPTION:Free tables for fantasy tabletop miniature games and open hobby nights. Come roll the night away or bring your project of choice to paint with the staff and friends! BYOBrush!
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Age of Sigmar/Old World
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20250131T180000
+DTEND;TZID=America/New_York:20250131T230000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+EXDATE;TZID=America/New_York:20250207T180000
+EXDATE;TZID=America/New_York:20250404T180000
+EXDATE;TZID=America/New_York:20250606T180000
+EXDATE;TZID=America/New_York:20250725T180000
+EXDATE;TZID=America/New_York:20250919T180000
+EXDATE;TZID=America/New_York:20251114T180000
+EXDATE;TZID=America/New_York:20260102T180000
+EXDATE;TZID=America/New_York:20260109T180000
+EXDATE;TZID=America/New_York:20260116T180000
+EXDATE;TZID=America/New_York:20260227T180000
+EXDATE;TZID=America/New_York:20260417T180000
+EXDATE;TZID=America/New_York:20260619T180000
+EXDATE;TZID=America/New_York:20260807T180000
+EXDATE;TZID=America/New_York:20260925T180000
+UID:0qna8ed2g21bqqk8elk5uhco4h_R20250131T230000@google.com
+DESCRIPTION:Friday Night Magic - Format: Commander\n\n$6 Entry\, comes with 1 booster pack and promo!\n\nOpen play\, no proxies\, and open rule 0 highly encouraged with your pod.\n\nBonus prize given out every hour\, on the hour.
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:FNM - Commander
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260624T160000
+DTEND;TZID=America/New_York:20260624T210000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+UID:5or1qh5dicvacj1spp3dkm6dma@google.com
+DESCRIPTION:Come play\, trade\, draw\, and talk all things Pokemon!
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pokemon Club!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20230903T100000
+DTEND;TZID=America/New_York:20230903T210000
+UID:6mspu7pti1kq8kek775h8dcph4@google.com
+RECURRENCE-ID;TZID=America/New_York:20230903T110000
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:MTG : Wilds of Eldraine Prerelease Events
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20250109T180000
+DTEND;TZID=America/New_York:20250109T230000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+EXDATE;TZID=America/New_York:20251127T180000
+EXDATE;TZID=America/New_York:20260101T180000
+EXDATE;TZID=America/New_York:20260108T180000
+UID:0j0pcnp8ti7bga4fbmpptpc6g0_R20250109T230000@google.com
+DESCRIPTION:Free tables for Star Wars Legion and Shatterpoint. Join our dedicated community to learn\, practice your lists\, and discuss all things Legion!
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Star Wars Legion Open Tables
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261017T150000Z
+DTEND:20261017T220000Z
+UID:1beja8kqoo78scda16t84v03ja@google.com
+DESCRIPTION:<p>11th is here\, Armageddon rages\, and there is only WAR! Bring your mightiest warriors to this inaugural tournament in our new location\, celebrating both the new edition and new digs!</p><p></p><p>1000pt army per player\, all models must follow standard tournament conversion rules and be fully assembled. We will be using 26-27 Mission Decks and Tournament Companion Missions based on force dispositions. Time will be allotted at the start of each round for mission set up with 1:30 round clocks.</p><p>Doors at 10:30am\, dice roll at 11am sharp! $10 Entry\, official OP tournament prizes for Best General and participation. Additional prizes for Best Painted Model and Best Sportsman.</p><p></p><p>Max 10 players\, 3 round event with a break for lunch.</p><p></p><p>Paint Event: We will be judging submissions for best painted HQ. Showcase your leader in the new era with technique\, creativity\, and style. Standard competition rules apply: all submissions must be majority (~70%) a GW model\, fully painted and based by the submitter\, judged by staff\, and do not need to be models played in the tournament that day\, nor even of your played faction.</p><p></p><p>No refunds on event entry.</p>
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:40k 11th Edition Tournament - 1000k
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20231022T093000
+DTEND;TZID=America/New_York:20231022T210000
+UID:6mspu7pti1kq8kek775h8dcph4@google.com
+RECURRENCE-ID;TZID=America/New_York:20231022T110000
+DESCRIPTION:For full details\, visit our Facebook event: <a href="https://www.facebook.com/events/330880802635987">https://www.facebook.com/events/330880802635987</a>
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:MTG: DreamHack RCQ - WoE Limited
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

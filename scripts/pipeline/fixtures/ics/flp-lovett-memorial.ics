@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Philadelphia Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:flp-lovett-memorial-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Mount Airy Park Storytime & Teen Maker Lab
+DESCRIPTION:Outdoor lawn storytimes, maker space crafting, and youth STEM workshops in central Mount Airy.
+LOCATION:FLP Lovett Memorial Library
+URL:https://libwww.freelibrary.org/locations/lovett-memorial-library
+END:VEVENT
+BEGIN:VEVENT
+UID:flp-lovett-memorial-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Mount Airy Park Storytime & Teen Maker Lab (Session 2)
+DESCRIPTION:Outdoor lawn storytimes, maker space crafting, and youth STEM workshops in central Mount Airy. Follow-up community session.
+LOCATION:FLP Lovett Memorial Library
+URL:https://libwww.freelibrary.org/locations/lovett-memorial-library
+END:VEVENT
+END:VCALENDAR

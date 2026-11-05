@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Philadelphia Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:philadelphia-museum-of-art-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Parkway Masterpieces Gallery Tour & Art Studio
+DESCRIPTION:Guided gallery talk through Impressionist and modern collections followed by open sketching studio.
+LOCATION:Philadelphia Museum of Art
+URL:https://philamuseum.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:philadelphia-museum-of-art-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Parkway Masterpieces Gallery Tour & Art Studio (Session 2)
+DESCRIPTION:Guided gallery talk through Impressionist and modern collections followed by open sketching studio. Follow-up community session.
+LOCATION:Philadelphia Museum of Art
+URL:https://philamuseum.org/
+END:VEVENT
+END:VCALENDAR

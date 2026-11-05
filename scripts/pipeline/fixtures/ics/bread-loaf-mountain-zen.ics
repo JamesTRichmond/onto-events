@@ -1,0 +1,487 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bread Loaf Mountain Zen Community - ECPv6.18.0//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bread Loaf Mountain Zen Community
+X-ORIGINAL-URL:https://breadloafmountainzen.org
+X-WR-CALDESC:Events for Bread Loaf Mountain Zen Community
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20250309T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20251102T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20270314T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20271107T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20250309T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20251102T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20270314T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20271107T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261016T070000
+DTEND;TZID=America/New_York:20261016T074000
+DTSTAMP:20260726T163034Z
+CREATED:20260726T163027Z
+LAST-MODIFIED:20260726T163034Z
+UID:10000852-1792134000-1792136400@breadloafmountainzen.org
+SUMMARY:Meditation
+DESCRIPTION:Join in Meditation in person or online at No Barriers Temple. All are welcome.\nMonday through Friday\n7:00-7:40am\n  \n\nJOIN IN PERSON:\nBread Loaf Mountain Zen Community\nNo Barriers Temple\n76 Court Street\, Middlebury\, VT \nOR JOIN ONLINE:\nENTER ONLINE ZENDO \nAll times are US Eastern\nVerify your local start time here
+URL:https://breadloafmountainzen.org/event/morning-meditation-2/2026-10-16/
+LOCATION:Bread Loaf Mountain Zen Community\, 76 Court Street\, Middlebury\, VT\, 05753\, United States
+CATEGORIES:Meditation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261017T070000
+DTEND;TZID=America/New_York:20261017T080000
+DTSTAMP:20251213T045753Z
+CREATED:20250909T183748Z
+LAST-MODIFIED:20251213T045753Z
+UID:10004041-1792220400-1792224000@breadloafmountainzen.org
+SUMMARY:Meditation
+DESCRIPTION:Join in Meditation in person or online at No Barriers Temple. All are welcome.\nSaturday & Sunday\n7:00-7:40am US Eastern followed by chant service\nOn Saturdays and Sundays there is a short chant service at 7:40am led by one of our novice priests. View our chantbook here. \n\nJOIN IN PERSON:\nBread Loaf Mountain Zen Community\nNo Barriers Temple\n76 Court Street\, Middlebury\, VT \nOR JOIN ONLINE:\nENTER ONLINE ZENDO \nAll times are US Eastern\nVerify your local start time here
+URL:https://breadloafmountainzen.org/event/weekend-meditation/2026-10-17/
+LOCATION:Bread Loaf Mountain Zen Community\, 76 Court Street\, Middlebury\, VT\, 05753\, United States
+CATEGORIES:Meditation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261018T070000
+DTEND;TZID=America/New_York:20261018T080000
+DTSTAMP:20251213T045753Z
+CREATED:20250909T183748Z
+LAST-MODIFIED:20251213T045753Z
+UID:10004042-1792306800-1792310400@breadloafmountainzen.org
+SUMMARY:Meditation
+DESCRIPTION:Join in Meditation in person or online at No Barriers Temple. All are welcome.\nSaturday & Sunday\n7:00-7:40am US Eastern followed by chant service\nOn Saturdays and Sundays there is a short chant service at 7:40am led by one of our novice priests. View our chantbook here. \n\nJOIN IN PERSON:\nBread Loaf Mountain Zen Community\nNo Barriers Temple\n76 Court Street\, Middlebury\, VT \nOR JOIN ONLINE:\nENTER ONLINE ZENDO \nAll times are US Eastern\nVerify your local start time here
+URL:https://breadloafmountainzen.org/event/weekend-meditation/2026-10-18/
+LOCATION:Bread Loaf Mountain Zen Community\, 76 Court Street\, Middlebury\, VT\, 05753\, United States
+CATEGORIES:Meditation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261019T070000
+DTEND;TZID=America/New_York:20261019T074000
+DTSTAMP:20260726T163034Z
+CREATED:20260726T163027Z
+LAST-MODIFIED:20260726T163034Z
+UID:10002379-1792393200-1792395600@breadloafmountainzen.org
+SUMMARY:Meditation
+DESCRIPTION:Join in Meditation in person or online at No Barriers Temple. All are welcome.\nMonday through Friday\n7:00-7:40am\n  \n\nJOIN IN PERSON:\nBread Loaf Mountain Zen Community\nNo Barriers Temple\n76 Court Street\, Middlebury\, VT \nOR JOIN ONLINE:\nENTER ONLINE ZENDO \nAll times are US Eastern\nVerify your local start time here
+URL:https://breadloafmountainzen.org/event/morning-meditation-2/2026-10-19/
+LOCATION:Bread Loaf Mountain Zen Community\, 76 Court Street\, Middlebury\, VT\, 05753\, United States
+CATEGORIES:Meditation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261020T070000
+DTEND;TZID=America/New_York:20261020T074000
+DTSTAMP:20260726T163034Z
+CREATED:20260726T163027Z
+LAST-MODIFIED:20260726T163034Z
+UID:10000856-1792479600-1792482000@breadloafmountainzen.org
+SUMMARY:Meditation
+DESCRIPTION:Join in Meditation in person or online at No Barriers Temple. All are welcome.\nMonday through Friday\n7:00-7:40am\n  \n\nJOIN IN PERSON:\nBread Loaf Mountain Zen Community\nNo Barriers Temple\n76 Court Street\, Middlebury\, VT \nOR JOIN ONLINE:\nENTER ONLINE ZENDO \nAll times are US Eastern\nVerify your local start time here
+URL:https://breadloafmountainzen.org/event/morning-meditation-2/2026-10-20/
+LOCATION:Bread Loaf Mountain Zen Community\, 76 Court Street\, Middlebury\, VT\, 05753\, United States
+CATEGORIES:Meditation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261021T070000
+DTEND;TZID=America/New_York:20261021T074000
+DTSTAMP:20260726T163034Z
+CREATED:20260726T163027Z
+LAST-MODIFIED:20260726T163034Z
+UID:10000857-1792566000-1792568400@breadloafmountainzen.org
+SUMMARY:Meditation
+DESCRIPTION:Join in Meditation in person or online at No Barriers Temple. All are welcome.\nMonday through Friday\n7:00-7:40am\n  \n\nJOIN IN PERSON:\nBread Loaf Mountain Zen Community\nNo Barriers Temple\n76 Court Street\, Middlebury\, VT \nOR JOIN ONLINE:\nENTER ONLINE ZENDO \nAll times are US Eastern\nVerify your local start time here
+URL:https://breadloafmountainzen.org/event/morning-meditation-2/2026-10-21/
+LOCATION:Bread Loaf Mountain Zen Community\, 76 Court Street\, Middlebury\, VT\, 05753\, United States
+CATEGORIES:Meditation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261021T173000
+DTEND;TZID=America/New_York:20261021T183000
+DTSTAMP:20260917T134635Z
+CREATED:20240117T143858Z
+LAST-MODIFIED:20260917T134635Z
+UID:10008247-1792603800-1792607400@breadloafmountainzen.org
+SUMMARY:Dharma Reflection by Eisho (online and in person)
+DESCRIPTION:When: Every Wednesday evening from 5:30-6:30pm. \nWhere: In person: 76 Court Street in Middlebury or online via Zoom (for zoom link click here) \nDetails: This is a time to hear and discuss the benefits of Zen in our everyday lives. We begin with silent sitting\, then Zen teachers\, Zen students\, and guests offer their reflections for about 30 minutes. Community conversation about the talk follows. Please come for the entire time so we can give our discussion time some energy and attention. It’s an open session. Always free. \nJoin us for our next reflection led by Eisho \nSensei Eisho has been part of Bread Loaf Mountain Zen Community nearly since its inception\, and has served our local and online sangha with a steady\, warm and trustworthy hand and heart. He brings clear insight\, humility\, and attentive care to his teaching\, spiritual counseling\, and our temple’s rituals. His Zen journey began when he was quite young\, and over the years\, he has served professionally as a Buddhist prison chaplain in the UK\, and has maintained a committed life of practice\, study\, and service at society’s margins. Eisho carries a wealth of wisdom from the many teachers he has studied with and shares it freely. In addition to other gifts\, skills\, and talents\, he is a Hakomi therapist and cherishes his roles as a partner\, father\, and grandfather. \n  \n\n				Dana Donation (Optional)\n			\n					\n		    			\n		    			    \n		    			\n						\n\n    \n\n\n					\n		             \n 
+URL:https://breadloafmountainzen.org/event/dharma-reflection-by-eisho-sinclair-2/2026-10-21/
+LOCATION:Bread Loaf Mountain Zen Community\, 76 Court Street\, Middlebury\, VT\, 05753\, United States
+CATEGORIES:Dharma Talk,Hybrid
+ATTACH;FMTTYPE=image/jpeg:https://breadloafmountainzen.org/wp-content/uploads/2024/03/Eisho.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261022T070000
+DTEND;TZID=America/New_York:20261022T074000
+DTSTAMP:20260726T163034Z
+CREATED:20260726T163027Z
+LAST-MODIFIED:20260726T163034Z
+UID:10000858-1792652400-1792654800@breadloafmountainzen.org
+SUMMARY:Meditation
+DESCRIPTION:Join in Meditation in person or online at No Barriers Temple. All are welcome.\nMonday through Friday\n7:00-7:40am\n  \n\nJOIN IN PERSON:\nBread Loaf Mountain Zen Community\nNo Barriers Temple\n76 Court Street\, Middlebury\, VT \nOR JOIN ONLINE:\nENTER ONLINE ZENDO \nAll times are US Eastern\nVerify your local start time here
+URL:https://breadloafmountainzen.org/event/morning-meditation-2/2026-10-22/
+LOCATION:Bread Loaf Mountain Zen Community\, 76 Court Street\, Middlebury\, VT\, 05753\, United States
+CATEGORIES:Meditation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261022T193000
+DTEND;TZID=America/New_York:20261022T203000
+DTSTAMP:20260922T191913Z
+CREATED:20260113T114546Z
+LAST-MODIFIED:20260922T191913Z
+UID:10007433-1792697400-1792701000@breadloafmountainzen.org
+SUMMARY:Infinite Circle Community: Integration Circle
+DESCRIPTION:Our Integration Circles are a time for the Infinite Circle Community to reflect on the practice theme for the month\, sharing how the readings and embodied practices have shifted\, or not\, our way of seeing the world. We alternate between Council and Dialogue practices to provide the container for members to explore how our practice topics have been working in our lives. Visit the IC Community Table and use the ICC zoom link to join at 7:30pm EST. If you are interested on learning more about the Infinite Circle Community\, or how to join\, please email us.
+URL:https://breadloafmountainzen.org/event/infinite-circle-community-integration-circle-2/2026-10-22/
+LOCATION:https://breadloafmountainzen.org/event/infinite-circle-community-integration-circle-2/2026-10-22/
+CATEGORIES:Infinite Circle Community
+ATTACH;FMTTYPE=image/jpeg:https://breadloafmountainzen.org/wp-content/uploads/2024/01/Infinite-Circle-10x9-1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261023T070000
+DTEND;TZID=America/New_York:20261023T074000
+DTSTAMP:20260726T163034Z
+CREATED:20260726T163027Z
+LAST-MODIFIED:20260726T163034Z
+UID:10000859-1792738800-1792741200@breadloafmountainzen.org
+SUMMARY:Meditation
+DESCRIPTION:Join in Meditation in person or online at No Barriers Temple. All are welcome.\nMonday through Friday\n7:00-7:40am\n  \n\nJOIN IN PERSON:\nBread Loaf Mountain Zen Community\nNo Barriers Temple\n76 Court Street\, Middlebury\, VT \nOR JOIN ONLINE:\nENTER ONLINE ZENDO \nAll times are US Eastern\nVerify your local start time here
+URL:https://breadloafmountainzen.org/event/morning-meditation-2/2026-10-23/
+LOCATION:Bread Loaf Mountain Zen Community\, 76 Court Street\, Middlebury\, VT\, 05753\, United States
+CATEGORIES:Meditation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261023T150000
+DTEND;TZID=America/New_York:20261023T163000
+DTSTAMP:20260825T145820Z
+CREATED:20260314T201029Z
+LAST-MODIFIED:20260825T145820Z
+UID:10007831-1792767600-1792773000@breadloafmountainzen.org
+SUMMARY:Priests and Postulants Meeting
+DESCRIPTION:A biweekly meeting of the Priests and Postulants of Bread Loaf Mountain Zen Community. Please log in to our Community Table to find the prompt and zoom link.
+URL:https://breadloafmountainzen.org/event/priests-and-postulants-meeting/2026-10-23/
+LOCATION:VT
+CATEGORIES:Priests and Postulants
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261024T070000
+DTEND;TZID=America/New_York:20261024T080000
+DTSTAMP:20251213T045753Z
+CREATED:20250909T183748Z
+LAST-MODIFIED:20251213T045753Z
+UID:10004043-1792825200-1792828800@breadloafmountainzen.org
+SUMMARY:Meditation
+DESCRIPTION:Join in Meditation in person or online at No Barriers Temple. All are welcome.\nSaturday & Sunday\n7:00-7:40am US Eastern followed by chant service\nOn Saturdays and Sundays there is a short chant service at 7:40am led by one of our novice priests. View our chantbook here. \n\nJOIN IN PERSON:\nBread Loaf Mountain Zen Community\nNo Barriers Temple\n76 Court Street\, Middlebury\, VT \nOR JOIN ONLINE:\nENTER ONLINE ZENDO \nAll times are US Eastern\nVerify your local start time here
+URL:https://breadloafmountainzen.org/event/weekend-meditation/2026-10-24/
+LOCATION:Bread Loaf Mountain Zen Community\, 76 Court Street\, Middlebury\, VT\, 05753\, United States
+CATEGORIES:Meditation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261024T140000
+DTEND;TZID=America/New_York:20261024T150000
+DTSTAMP:20260525T110845Z
+CREATED:20260511T100021Z
+LAST-MODIFIED:20260525T110845Z
+UID:10007666-1792850400-1792854000@breadloafmountainzen.org
+SUMMARY:Infinite Circle Community: Integration Circle
+DESCRIPTION:Our Integration Circles are a time for the Infinite Circle Community to reflect on the practice theme for the month\, sharing how the readings and embodied practices have shifted\, or not\, our way of seeing the world. We alternate between Council and Dialogue practices to provide the container for members to explore how our practice topics have been working in our lives. Visit the IC Community Table and use the ICC zoom link to join at 2:00pm EST. If you are interested on learning more about the Infinite Circle Community\, or how to join\, please email us.
+URL:https://breadloafmountainzen.org/event/infinite-circle-community-integration-circle-3-2/2026-10-24/
+LOCATION:https://breadloafmountainzen.org/event/infinite-circle-community-integration-circle-3-2/2026-10-24/
+CATEGORIES:Infinite Circle Community
+ATTACH;FMTTYPE=image/jpeg:https://breadloafmountainzen.org/wp-content/uploads/2024/01/Infinite-Circle-10x9-1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261025T070000
+DTEND;TZID=America/New_York:20261025T080000
+DTSTAMP:20251213T045753Z
+CREATED:20250909T183748Z
+LAST-MODIFIED:20251213T045753Z
+UID:10004044-1792911600-1792915200@breadloafmountainzen.org
+SUMMARY:Meditation
+DESCRIPTION:Join in Meditation in person or online at No Barriers Temple. All are welcome.\nSaturday & Sunday\n7:00-7:40am US Eastern followed by chant service\nOn Saturdays and Sundays there is a short chant service at 7:40am led by one of our novice priests. View our chantbook here. \n\nJOIN IN PERSON:\nBread Loaf Mountain Zen Community\nNo Barriers Temple\n76 Court Street\, Middlebury\, VT \nOR JOIN ONLINE:\nENTER ONLINE ZENDO \nAll times are US Eastern\nVerify your local start time here
+URL:https://breadloafmountainzen.org/event/weekend-meditation/2026-10-25/
+LOCATION:Bread Loaf Mountain Zen Community\, 76 Court Street\, Middlebury\, VT\, 05753\, United States
+CATEGORIES:Meditation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261026T070000
+DTEND;TZID=America/New_York:20261026T074000
+DTSTAMP:20260726T163034Z
+CREATED:20260726T163027Z
+LAST-MODIFIED:20260726T163034Z
+UID:10002380-1792998000-1793000400@breadloafmountainzen.org
+SUMMARY:Meditation
+DESCRIPTION:Join in Meditation in person or online at No Barriers Temple. All are welcome.\nMonday through Friday\n7:00-7:40am\n  \n\nJOIN IN PERSON:\nBread Loaf Mountain Zen Community\nNo Barriers Temple\n76 Court Street\, Middlebury\, VT \nOR JOIN ONLINE:\nENTER ONLINE ZENDO \nAll times are US Eastern\nVerify your local start time here
+URL:https://breadloafmountainzen.org/event/morning-meditation-2/2026-10-26/
+LOCATION:Bread Loaf Mountain Zen Community\, 76 Court Street\, Middlebury\, VT\, 05753\, United States
+CATEGORIES:Meditation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261026T070000
+DTEND;TZID=America/New_York:20261026T080000
+DTSTAMP:20261006T110044Z
+CREATED:20240117T145039Z
+LAST-MODIFIED:20261006T110044Z
+UID:10008315-1792998000-1793001600@breadloafmountainzen.org
+SUMMARY:Precepts Renewal Ceremony (online and in person)
+DESCRIPTION:Every month on the full moon\, we recommit ourselves to the peacemaker precepts in a beautiful ceremony of chanting and bows (fusatsu) held during meditation. \nRegister here for the Zoom link to join us online (the link is the same for all public dharma talks and ceremonies).
+URL:https://breadloafmountainzen.org/event/precepts-reflection-and-renewal-ceremony-2-2/2026-10-26/
+LOCATION:VT
+CATEGORIES:Ceremonies,Online
+ATTACH;FMTTYPE=image/jpeg:https://breadloafmountainzen.org/wp-content/uploads/2024/01/Incense-pot-e1733847554979.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261027T070000
+DTEND;TZID=America/New_York:20261027T074000
+DTSTAMP:20260726T163034Z
+CREATED:20260726T163027Z
+LAST-MODIFIED:20260726T163034Z
+UID:10000863-1793084400-1793086800@breadloafmountainzen.org
+SUMMARY:Meditation
+DESCRIPTION:Join in Meditation in person or online at No Barriers Temple. All are welcome.\nMonday through Friday\n7:00-7:40am\n  \n\nJOIN IN PERSON:\nBread Loaf Mountain Zen Community\nNo Barriers Temple\n76 Court Street\, Middlebury\, VT \nOR JOIN ONLINE:\nENTER ONLINE ZENDO \nAll times are US Eastern\nVerify your local start time here
+URL:https://breadloafmountainzen.org/event/morning-meditation-2/2026-10-27/
+LOCATION:Bread Loaf Mountain Zen Community\, 76 Court Street\, Middlebury\, VT\, 05753\, United States
+CATEGORIES:Meditation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261028T070000
+DTEND;TZID=America/New_York:20261028T074000
+DTSTAMP:20260726T163034Z
+CREATED:20260726T163027Z
+LAST-MODIFIED:20260726T163034Z
+UID:10000864-1793170800-1793173200@breadloafmountainzen.org
+SUMMARY:Meditation
+DESCRIPTION:Join in Meditation in person or online at No Barriers Temple. All are welcome.\nMonday through Friday\n7:00-7:40am\n  \n\nJOIN IN PERSON:\nBread Loaf Mountain Zen Community\nNo Barriers Temple\n76 Court Street\, Middlebury\, VT \nOR JOIN ONLINE:\nENTER ONLINE ZENDO \nAll times are US Eastern\nVerify your local start time here
+URL:https://breadloafmountainzen.org/event/morning-meditation-2/2026-10-28/
+LOCATION:Bread Loaf Mountain Zen Community\, 76 Court Street\, Middlebury\, VT\, 05753\, United States
+CATEGORIES:Meditation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261028T173000
+DTEND;TZID=America/New_York:20261028T183000
+DTSTAMP:20260917T134726Z
+CREATED:20251001T190004Z
+LAST-MODIFIED:20260917T134726Z
+UID:10008248-1793208600-1793212200@breadloafmountainzen.org
+SUMMARY:Dharma Talk So'on Dunworth (online and in person)
+DESCRIPTION:When: Every Wednesday at 5:30pm Eastern Time \nWhere:\nIn person 76 Court Street Middlebury VT\nand online via Zoom (click here for the zoom link) \nDetails: This is a time to hear and discuss the benefits of Zen in our everyday lives. We begin with silent sitting\, then Zen teachers\, Zen students\, and guests offer their reflections for about 30 minutes. Community conversation about the talk follows. Please come for the entire time so we can give our discussion time some energy and attention. It’s an open session. Always free. \nJoin us for our next reflection led by So’on. This reflection offers a chance to deepen your understanding and practice of Zen in a warm and inviting community setting. \nRic So’on Dunworth became a formal student of Joshin Sensei in 2018. \nSo’on carries the Dharma name “Ancestor’s Warmth.” Prior to joining BLMZC he practiced for many years at Zen Mountain Monastery in the Catskill Mountains of New York State. His original Teacher was John Daido Loori\, Roshi and he brings their insights and warmth to the BLMZC community. He first received the precepts with Daido Roshi in May of 1995 on the day that Maezumi Roshi died in Japan. So’on is a retired Clinical Social Worker and spent most of his career at Rutland Regional Medical Center in Rutland\, VT. So’on is married with a son and two Grand-sons. \n\n				Dana Donation (Optional)
+URL:https://breadloafmountainzen.org/event/dharma-talk-soon-dunworth-online-and-in-person/2026-10-28/
+LOCATION:VT
+CATEGORIES:Dharma Talk,In-person,Online
+ATTACH;FMTTYPE=image/jpeg:https://breadloafmountainzen.org/wp-content/uploads/2025/09/Ric-So-on-Dunworth-2.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261029T070000
+DTEND;TZID=America/New_York:20261029T074000
+DTSTAMP:20260726T163034Z
+CREATED:20260726T163027Z
+LAST-MODIFIED:20260726T163034Z
+UID:10000865-1793257200-1793259600@breadloafmountainzen.org
+SUMMARY:Meditation
+DESCRIPTION:Join in Meditation in person or online at No Barriers Temple. All are welcome.\nMonday through Friday\n7:00-7:40am\n  \n\nJOIN IN PERSON:\nBread Loaf Mountain Zen Community\nNo Barriers Temple\n76 Court Street\, Middlebury\, VT \nOR JOIN ONLINE:\nENTER ONLINE ZENDO \nAll times are US Eastern\nVerify your local start time here
+URL:https://breadloafmountainzen.org/event/morning-meditation-2/2026-10-29/
+LOCATION:Bread Loaf Mountain Zen Community\, 76 Court Street\, Middlebury\, VT\, 05753\, United States
+CATEGORIES:Meditation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261030T070000
+DTEND;TZID=America/New_York:20261030T074000
+DTSTAMP:20260726T163034Z
+CREATED:20260726T163027Z
+LAST-MODIFIED:20260726T163034Z
+UID:10000866-1793343600-1793346000@breadloafmountainzen.org
+SUMMARY:Meditation
+DESCRIPTION:Join in Meditation in person or online at No Barriers Temple. All are welcome.\nMonday through Friday\n7:00-7:40am\n  \n\nJOIN IN PERSON:\nBread Loaf Mountain Zen Community\nNo Barriers Temple\n76 Court Street\, Middlebury\, VT \nOR JOIN ONLINE:\nENTER ONLINE ZENDO \nAll times are US Eastern\nVerify your local start time here
+URL:https://breadloafmountainzen.org/event/morning-meditation-2/2026-10-30/
+LOCATION:Bread Loaf Mountain Zen Community\, 76 Court Street\, Middlebury\, VT\, 05753\, United States
+CATEGORIES:Meditation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261031T070000
+DTEND;TZID=America/New_York:20261031T080000
+DTSTAMP:20251213T045753Z
+CREATED:20250909T183748Z
+LAST-MODIFIED:20251213T045753Z
+UID:10004045-1793430000-1793433600@breadloafmountainzen.org
+SUMMARY:Meditation
+DESCRIPTION:Join in Meditation in person or online at No Barriers Temple. All are welcome.\nSaturday & Sunday\n7:00-7:40am US Eastern followed by chant service\nOn Saturdays and Sundays there is a short chant service at 7:40am led by one of our novice priests. View our chantbook here. \n\nJOIN IN PERSON:\nBread Loaf Mountain Zen Community\nNo Barriers Temple\n76 Court Street\, Middlebury\, VT \nOR JOIN ONLINE:\nENTER ONLINE ZENDO \nAll times are US Eastern\nVerify your local start time here
+URL:https://breadloafmountainzen.org/event/weekend-meditation/2026-10-31/
+LOCATION:Bread Loaf Mountain Zen Community\, 76 Court Street\, Middlebury\, VT\, 05753\, United States
+CATEGORIES:Meditation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261031T120000
+DTEND;TZID=America/New_York:20261031T133000
+DTSTAMP:20261012T192136Z
+CREATED:20261012T191811Z
+LAST-MODIFIED:20261012T192136Z
+UID:10008316-1793448000-1793453400@breadloafmountainzen.org
+SUMMARY:Bernie Glassman Memorial: "Bernie on the Street" (a ZPI event)
+DESCRIPTION:Bernie on the Street: A Panel Discussion\nA Zen Peacemakers Event\nOctober 31\, 2026\n12:00 – 1:30 pm Eastern \nJoin us to celebrate Bernie Glassman’s life and legacy through his groundbreaking work with Street Retreats. \nWe’ll begin with a conversation with Sensei Jorge Koho Mello\, Sensei Mikko Ijäs\, Sensei Joshin Byrnes\, and Jürgen Lembke. Together\, we’ll explore how this practice continues today and what its future might hold. \nAll are welcome to join us in remembering Bernie and reflecting on this living practice of bearing witness. \nNote: This is a Zen Peacemakers event\, hosted through their website. You can register for the event here.
+URL:https://breadloafmountainzen.org/event/bernie-glassman-memorial-bernie-on-the-street-a-zpi-event/
+LOCATION:VT
+CATEGORIES:Online
+ATTACH;FMTTYPE=image/jpeg:https://breadloafmountainzen.org/wp-content/uploads/2026/10/homeles-bernie2-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261101T070000
+DTEND;TZID=America/New_York:20261101T080000
+DTSTAMP:20251213T045753Z
+CREATED:20250909T183748Z
+LAST-MODIFIED:20251213T045753Z
+UID:10004046-1793516400-1793520000@breadloafmountainzen.org
+SUMMARY:Meditation
+DESCRIPTION:Join in Meditation in person or online at No Barriers Temple. All are welcome.\nSaturday & Sunday\n7:00-7:40am US Eastern followed by chant service\nOn Saturdays and Sundays there is a short chant service at 7:40am led by one of our novice priests. View our chantbook here. \n\nJOIN IN PERSON:\nBread Loaf Mountain Zen Community\nNo Barriers Temple\n76 Court Street\, Middlebury\, VT \nOR JOIN ONLINE:\nENTER ONLINE ZENDO \nAll times are US Eastern\nVerify your local start time here
+URL:https://breadloafmountainzen.org/event/weekend-meditation/2026-11-01/
+LOCATION:Bread Loaf Mountain Zen Community\, 76 Court Street\, Middlebury\, VT\, 05753\, United States
+CATEGORIES:Meditation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261101T120000
+DTEND;TZID=America/New_York:20261101T130000
+DTSTAMP:20260307T170814Z
+CREATED:20260112T153818Z
+LAST-MODIFIED:20260307T170814Z
+UID:10006882-1793534400-1793538000@breadloafmountainzen.org
+SUMMARY:Intro to Zen Practice
+DESCRIPTION:Intro to Zen Practice (One Hour)\nCurious about Zen\, meditation\, or Bread Loaf Mountain Zen Community? This one-hour introduction offers a simple\, down-to-earth entry into our practice and community. \nWe’ll cover the basics of Zen practice\, including posture and breath\, what we mean by “just sitting\,” and how practice connects with everyday life. There will be time for a short period of meditation and space for questions. \nThis session is open to newcomers as well as those who want a refresher. No prior experience is needed. \nOffered monthly\, alternating between in-person at Bread Loaf Mountain Zen Community and online via Zoom. \nIn person\nIn person on 1st Thursday of the even month from 5:30-6:30pm EST   \nPlease fill out this form it you want to join in person \nBread Loaf Mountain Zen Community\nNo Barriers Temple\n76 Court Street\, Middlebury\, VT \nOnline\nOnline on 1st Sunday of the uneven month from 12-1pm EST \nEnter online zendo
+URL:https://breadloafmountainzen.org/event/intro-to-zen-practice/2026-11-01/
+LOCATION:Online
+ATTACH;FMTTYPE=image/jpeg:https://breadloafmountainzen.org/wp-content/uploads/2025/09/BLMZC-zendo-1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261102T070000
+DTEND;TZID=America/New_York:20261102T074000
+DTSTAMP:20260726T163034Z
+CREATED:20260726T163027Z
+LAST-MODIFIED:20260726T163034Z
+UID:10002381-1793602800-1793605200@breadloafmountainzen.org
+SUMMARY:Meditation
+DESCRIPTION:Join in Meditation in person or online at No Barriers Temple. All are welcome.\nMonday through Friday\n7:00-7:40am\n  \n\nJOIN IN PERSON:\nBread Loaf Mountain Zen Community\nNo Barriers Temple\n76 Court Street\, Middlebury\, VT \nOR JOIN ONLINE:\nENTER ONLINE ZENDO \nAll times are US Eastern\nVerify your local start time here
+URL:https://breadloafmountainzen.org/event/morning-meditation-2/2026-11-02/
+LOCATION:Bread Loaf Mountain Zen Community\, 76 Court Street\, Middlebury\, VT\, 05753\, United States
+CATEGORIES:Meditation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261102T171500
+DTEND;TZID=America/New_York:20261102T183000
+DTSTAMP:20261009T145646Z
+CREATED:20260930T203823Z
+LAST-MODIFIED:20261009T145646Z
+UID:10008307-1793639700-1793644200@breadloafmountainzen.org
+SUMMARY:Meditation for a Shared World
+DESCRIPTION:During the month of November\, we will be offering an experiential series on Buddhist meditation exploring the different styles of\nmeditation practice that have arisen as the Dharma evolved over the last few millennia. We will practice with guided meditations\nusing objects and themes\, as well as the method-less method found in Dogen’s Zen. We will also discuss how we take our experience on the cushion out into and for the world. These sessions can be taken as a series or as stand-alone sessions\, and they will be suitable for beginners as well as experienced meditators. \nThese are a series of meditation trainings that can be taken as a series or as stand-alone sessions\, and they will be suitable for beginners as well as experienced meditators. Full guidance will be given\, the meditations will be guided There will be a Q&A from 6:15pm. \nEnter Online Zendo\nSchedule: \nNovember 2nd: Foundations of Mindfulness \n\nJoin Eisho for a training in the Four Foundations of Mindfulness (Satipatthana) one of the Buddha&#39;s core teachings on meditation – a way of training our attention across four areas of experience: the body\, feelings\, the mind\, and mental phenomena.\n\nNovember 9th: Divine Abodes \n\nAt this brief evening training\, we will be guided through the Brahmaviharas–the Divine Abodes. Eisho will introduce each of the qualities\, and lead guided meditations through all four in sequence\, opening our hearts to Loving-kindness\, Compassion\, Sympathetic Joy\, and Equanimity.\n\nNovember 16th: Silence & Illumination \n\nDuring this training Eisho will look at ‘Calming’ – the calming and steadying of attention\, and the ‘Clear Seeing’ that arises once the mind is quiet enough to look. Eisho will guide us to sit in silence\, a silence that can allow illumination.\n\nNovember 23rd: Just Sitting \n\nIn the last of our Meditation Workshops\, Eisho will guide us into one of our core Zen practices – Just Sitting (Shikantaza)\, no goal\, no striving–presence itself.
+URL:https://breadloafmountainzen.org/event/meditation-for-a-shared-world/
+LOCATION:VT
+CATEGORIES:Workshop
+ATTACH;FMTTYPE=image/jpeg:https://breadloafmountainzen.org/wp-content/uploads/2026/09/Picture1-1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261103T070000
+DTEND;TZID=America/New_York:20261103T074000
+DTSTAMP:20260726T163034Z
+CREATED:20260726T163027Z
+LAST-MODIFIED:20260726T163034Z
+UID:10000870-1793689200-1793691600@breadloafmountainzen.org
+SUMMARY:Meditation
+DESCRIPTION:Join in Meditation in person or online at No Barriers Temple. All are welcome.\nMonday through Friday\n7:00-7:40am\n  \n\nJOIN IN PERSON:\nBread Loaf Mountain Zen Community\nNo Barriers Temple\n76 Court Street\, Middlebury\, VT \nOR JOIN ONLINE:\nENTER ONLINE ZENDO \nAll times are US Eastern\nVerify your local start time here
+URL:https://breadloafmountainzen.org/event/morning-meditation-2/2026-11-03/
+LOCATION:Bread Loaf Mountain Zen Community\, 76 Court Street\, Middlebury\, VT\, 05753\, United States
+CATEGORIES:Meditation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261104T070000
+DTEND;TZID=America/New_York:20261104T074000
+DTSTAMP:20260726T163034Z
+CREATED:20260726T163027Z
+LAST-MODIFIED:20260726T163034Z
+UID:10000871-1793775600-1793778000@breadloafmountainzen.org
+SUMMARY:Meditation
+DESCRIPTION:Join in Meditation in person or online at No Barriers Temple. All are welcome.\nMonday through Friday\n7:00-7:40am\n  \n\nJOIN IN PERSON:\nBread Loaf Mountain Zen Community\nNo Barriers Temple\n76 Court Street\, Middlebury\, VT \nOR JOIN ONLINE:\nENTER ONLINE ZENDO \nAll times are US Eastern\nVerify your local start time here
+URL:https://breadloafmountainzen.org/event/morning-meditation-2/2026-11-04/
+LOCATION:Bread Loaf Mountain Zen Community\, 76 Court Street\, Middlebury\, VT\, 05753\, United States
+CATEGORIES:Meditation
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261105T070000
+DTEND;TZID=America/New_York:20261105T074000
+DTSTAMP:20260726T163034Z
+CREATED:20260726T163027Z
+LAST-MODIFIED:20260726T163034Z
+UID:10000872-1793862000-1793864400@breadloafmountainzen.org
+SUMMARY:Meditation
+DESCRIPTION:Join in Meditation in person or online at No Barriers Temple. All are welcome.\nMonday through Friday\n7:00-7:40am\n  \n\nJOIN IN PERSON:\nBread Loaf Mountain Zen Community\nNo Barriers Temple\n76 Court Street\, Middlebury\, VT \nOR JOIN ONLINE:\nENTER ONLINE ZENDO \nAll times are US Eastern\nVerify your local start time here
+URL:https://breadloafmountainzen.org/event/morning-meditation-2/2026-11-05/
+LOCATION:Bread Loaf Mountain Zen Community\, 76 Court Street\, Middlebury\, VT\, 05753\, United States
+CATEGORIES:Meditation
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,270 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+X-WR-CALNAME:UWF Event Calendar Calendar
+X-WR-TIMEZONE:Central Time (US & Canada)
+BEGIN:VEVENT
+DTSTAMP:20261018T025600Z
+UID:tag:localist.com\,2008:EventInstance_53798934354103
+DTSTART:20261018T200000Z
+DTEND:20261018T213000Z
+DESCRIPTION:Praised for being “delicate and powerful”\, Zehao Bai is ac
+ tive as a soloist\, collaborator\, and educator. In 2025\, he performed an
+ d taught extensively across the United States\, Europe\, and Asia\, establ
+ ishing himself as a prominent presence on today’s classical music scene.
+ \n\nDr. Grier Williams School of Music
+GEO:30.545533;-87.217429
+LOCATION:Building 82 - Center for Fine and Performing Arts\, Rolfs Music Ha
+ ll
+SUMMARY:Kamerman Piano Series presents Zehao Bai
+URL;VALUE=URI:https://events.uwf.edu/event/kamerman-piano-series-presents-z
+ ehao-bai
+CATEGORIES:Performance
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T025600Z
+UID:tag:localist.com\,2008:EventInstance_54179442282664
+DTSTART:20261020T150000Z
+DTEND:20261020T220000Z
+DESCRIPTION:The Academy of American Civic Republicanism will host Freedom T
+ rucks: An Interactive Journey Through America’s Founding\, an immersive 
+ mobile museum experience exploring the people\, ideas and events that shap
+ ed the American founding\, from 10 a.m. to 5 p.m. on Tuesday\, October 20\
+ ; Wednesday\, October 21\; and Thursday\, October 22\, at Parking Lot K on
+  the UWF Pensacola campus.\n\nVisitors can explore Revolutionary-era artif
+ acts\, interactive touchscreen activities and games\, AI portraits of the 
+ Founders\, and audiovisual exhibits designed to make American history enga
+ ging and accessible for audiences of all ages.\n\nThe event is part of the
+  commemoration of America’s 250th anniversary and offers students\, fami
+ lies and community members an interactive opportunity to learn more about 
+ the nation’s founding era.
+LOCATION:Parking Lot K
+SUMMARY:Freedom Trucks: An Interactive Journey Through America’s Founding
+URL;VALUE=URI:https://events.uwf.edu/event/freedom-trucks-an-interactive-jo
+ urney-through-americas-founding
+CATEGORIES:Special Event
+CATEGORIES:Student Activity
+CATEGORIES:Academic
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T025600Z
+UID:tag:localist.com\,2008:EventInstance_53816026831100
+DTSTART:20261104T180000Z
+DTEND:20261104T193000Z
+DESCRIPTION:2026 marks the 21st season for the UWF Chamber Music Concert Se
+ ries at the beautiful\, historic Old Christ Church. Under the direction of
+  Dr. Hedi Salanki\, members of the UWF Chamber Music Class will perform a 
+ wide variety of chamber music repertoire\, featuring many different instru
+ ments and groups. The audience will hear chamber music pieces written for 
+ piano\, strings\, flute\, clarinet\, harpsichord\, cello and castanet.
+GEO:30.409113;-87.210387
+LOCATION:Old Christ Church
+SUMMARY:Chamber Music Concert
+URL;VALUE=URI:https://events.uwf.edu/event/chamber-music-concert-4300
+CATEGORIES:Performance
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T025600Z
+UID:tag:localist.com\,2008:EventInstance_54064670496857
+DTSTART:20261023T213000Z
+DTEND:20261023T230000Z
+DESCRIPTION:Join UWF on Friday\, October 23\, at 4:30 p.m. as we celebrate 
+ the opening of the UWF Community Garden and recognize the partnerships\, d
+ edication\, and shared vision that made this space possible.
+GEO:30.542783;-87.220993
+LOCATION:Community Garden
+SUMMARY:UWF Community Garden Ribbon Cutting Ceremony
+URL;VALUE=URI:https://events.uwf.edu/event/community-garden-ribbon-cutting-
+ ceremony
+CATEGORIES:Special Event
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T025600Z
+UID:tag:localist.com\,2008:EventInstance_54108819606825
+DTSTART:20261022T223000Z
+DTEND:20261023T000000Z
+DESCRIPTION:The Dr. Grier Williams School of Music and UWF Gulf Coast Cultu
+ re Series presents Songs of Revolution & Rebellion\, a USO-style variety s
+ how that takes audiences on a musical journey through revolution\, rebelli
+ on\, war\, peace\, patriotism and protest on Thursday\, October 22\, at 5:
+ 30 p.m. at the Museum of Commerce.\n\nFrom the American Revolution and Civ
+ il War through the World Wars and beyond\, faculty\, students and guest pe
+ rformers bring history to life through songs\, letters\, stories and humor
+ . The program pairs music from different eras with reflections on the peop
+ le who fought\, served\, sacrificed and challenged the nation to live up t
+ o its ideals—from Abigail Adams' call to "remember the ladies" to soldie
+ rs' letters home\, wartime songs of hope and later voices of change.\n\nPa
+ rt of the Songs of Revolution & Rebellion: A USO-Style Variety Show explor
+ es a recurring American story: Every generation inherits a nation still in
+  progress\, and has a role in determining what comes next.\n\nInspired by 
+ the tradition of USO entertainment\, the show also pays tribute to Pensaco
+ la's deep connection to the U.S. military and its identity as the Cradle o
+ f Naval Aviation. The evening concludes with a special recognition of acti
+ ve-duty service members\, veterans and military families.\n\nFeatured perf
+ ormers include: Corey McKern-Baritone\, April Kocher-Soprano\, Sheila Dunn
+ -Soprano\, Dylan Fischer-Baritone\, Coda Lee Owens-Baritone\, Ethan Middle
+ ton-Baritone\, Blake Riley-Collaborative Pianist\, Rachel Bettis-Flute\, T
+ he Blue Anchor Belles.\n\nSeating is limited. Registration is recommended.
+ \n\nThis event is presented by the UWF College of Arts\, Social Sciences a
+ nd Humanities Gulf Coast Culture Series\, The Dr. Grier Williams School of
+  Music\, and is sponsored in part by the John C. Pace Symposium Series.
+GEO:30.408434;-87.211378
+LOCATION:Museum of Commerce
+SUMMARY:Gulf Coast Culture Series Presents Songs of Revolution & Rebellion:
+  A USO-Style Variety Show
+URL;VALUE=URI:https://events.uwf.edu/event/songs-of-revolution-rebellion-a-
+ uso-style-variety-show
+CATEGORIES:Special Event
+CATEGORIES:Performance
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T025600Z
+UID:tag:localist.com\,2008:EventInstance_53816119250821
+DTSTART:20261107T013000Z
+DTEND:20261107T040000Z
+DESCRIPTION:Monty\, a charming but poor young man finds out he is ninth in 
+ line for an earldom and a family fortune when his mother passes away. His 
+ chance of outliving those ahead of him in succession are slim\, so he deci
+ des to take matters into his own hands. Of course\, murder isn’t the onl
+ y thing on his mind\, he must also decide which woman should become his br
+ ide: the honorable Phoebe or fiery Sibella. Based on the 1907 fictional no
+ vel “Israel Rank: The Autobiography of a Criminal” by Roy Horniman\, t
+ his four-time Tony Award-winning musical is filled with murder\, wit\, and
+  laughs with book and lyrics by Robert L. Freedman and music and lyrics by
+  Steven Lutvak.\n\nDue to Adult situations and subject matter\, this show 
+ may not be appropriate for all audiences.\n\nDepartment of Theatre
+GEO:30.545533;-87.217429
+LOCATION:Building 82 - Center for Fine and Performing Arts\, Besser Studio 
+ Theatre
+SUMMARY:A Gentleman's Guide to Love and Murder
+URL;VALUE=URI:https://events.uwf.edu/event/a-gentlemans-guide-to-love-and-m
+ urder
+CATEGORIES:Performance
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T025600Z
+UID:tag:localist.com\,2008:EventInstance_53081386774508
+DTSTART:20261028T170000Z
+DTEND:20261028T200000Z
+DESCRIPTION:The All Majors Career and Internship Fair event on Wednesday\, 
+ October 28\, from noon to 3 p.m. in the UWF Commons Auditorium and Great H
+ all offers UWF students the opportunity to connect with a wide range of em
+ ployers representing multiple industries.\n\nStudents can explore full-tim
+ e\, part-time\, internship\, and other career opportunities\, while networ
+ king directly with recruiters and professionals. The fair is designed to h
+ elp students expand their career options\, build professional connections\
+ , and strengthen their pathway toward future employment.
+GEO:30.549094;-87.218573
+LOCATION:Building 22 - University Commons\, Auditorium & Great Hall
+SUMMARY:All Majors Career and Internship Fair
+URL;VALUE=URI:https://events.uwf.edu/event/all-majors-career-and-internship
+ -fair-2026
+CATEGORIES:Career Fair
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T025600Z
+UID:tag:localist.com\,2008:EventInstance_54171533957239
+DTSTART:20261022T193000Z
+DTEND:20261022T203000Z
+DESCRIPTION:The search committee for the Assistant Professor of Finance (po
+ sition #110450) will meet virtually via Zoom on Thursday\, October 22\, fr
+ om 2:30 to 3:30 p.m. to continue to discuss and deliberate candidates for 
+ the position.\n\nThis is a public meeting to which all persons are invited
+  to attend. For more information or to request minutes of this meeting\, c
+ ontact Shari Maupin.
+LOCATION:Online / Virtual
+SUMMARY:Assistant Professor of Finance Search Committee Meeting
+URL;VALUE=URI:https://events.uwf.edu/event/assistant-professor-finance-2026
+ -10-22
+CATEGORIES:Public Meeting
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T025600Z
+UID:tag:localist.com\,2008:EventInstance_53556144139989
+DTSTART:20261018T170000Z
+DTEND:20261018T190000Z
+DESCRIPTION:University of West Florida Women's Soccer vs Queens University 
+ of Charlotte - No Fans Admitted\nStreaming Video: https://goargos.com/show
+ case?Live=595
+GEO:30.540679;-87.203341
+LOCATION:Soccer Complex
+SUMMARY:University of West Florida Women's Soccer vs Queens University of C
+ harlotte - No Fans Admitted
+URL;VALUE=URI:https://events.uwf.edu/event/university-of-west-florida-women
+ s-soccer-vs-queens-university-of-charlotte
+CATEGORIES:Athletics
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T025600Z
+UID:tag:localist.com\,2008:EventInstance_53348419447738
+DTSTART:20261020T230000Z
+DTEND:20261021T000000Z
+DESCRIPTION:Join Librarian Travis Souther for a historical discussion explo
+ ring the engineering evolution of Ancient and Medieval Iran. The presentat
+ ion will take place in the UWF Tech Campus Library's Student Government Ro
+ om on Tuesday\, October 20\, at 6 p.m. All are welcome to attend.\n\nThis 
+ presentation is part of a four-part Tech Campus Library event series on th
+ e Engineering History of Ancient Persia.
+GEO:30.453392;-86.653091
+LOCATION:UWF Emerald Coast - Building 8
+SUMMARY:The King of Kings: The Rise of an Empire Presentation 
+URL;VALUE=URI:https://events.uwf.edu/event/the-king-of-kings-the-rise-of-an
+ -empire-presentation
+CATEGORIES:Academic
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T025600Z
+UID:tag:localist.com\,2008:EventInstance_53683823783310
+DTSTART:20261024T130000Z
+DTEND:20261025T000000Z
+DESCRIPTION:Get Outside with Outdoor Adventures (OA)! Whether you're a thri
+ ll-seeker or just really like rocks\, you're welcome here! No experience n
+ eeded—but be warned\, once you try one trip\, you might get hooked!\n \n
+ \nClimbing is one of our all-time favorite activities\, and we’re excite
+ d to take you bouldering outside on real rock at the stunning Horse Pens 4
+ 0! This location is renowned as one of the best bouldering destinations in
+  the Eastern U.S.! Mark your calendars for Saturday\, Oct. 24 to Sunday\, 
+ Oct. 25\, 2026—you won’t want to miss this rocktastic adventure!\n\nHe
+ re’s the plan: Saturday – Hit the road to Steele\, Alabama\, set up ca
+ mp\, climb a little\, and enjoy a cozy campfire and eat S'mores\; Sunday -
+  Wake up and climb until it's time to leave! We’ll be camping in HP40 so
+  accessing the boulders are very easy - the campgrounds have bathrooms and
+  plenty of space to explore. Our gear is made for chilly weather\, so even
+  if it's still a tad cold\, we will be prepared!\n\nEvery trip is led by a
+ t least two trained OA staff or volunteers\, with transportation included.
+  All other details—like what’s provided and what to bring—will be in
+  the trip itinerary. It’s your responsibility to read it thoroughly so y
+ ou know what to expect.\n\nCheck out the trip's full itinerary here!\n\nWh
+ o can join? All UWF students\, faculty\, and staff are welcome to particip
+ ate! Each UWF member also gets one “plus one\,” meaning a non-UWF frie
+ nd or family member can join too. To get your guest set up\, they’ll nee
+ d an OA Plus One Membership. To get your guest access to this free\, year-
+ long OA Plus One Membership\, just email OA—even if they already have a 
+ RecWell account. This membership is only available through OA and isn’t 
+ offered anywhere else. Once it’s added\, your guest will be able to regi
+ ster and join you on OA trips!\n\nPayment Policy: Full payment is required
+  at registration unless a deposit option is available. A 7% University pro
+ cessing fee will be deducted from all personal refunds. Refund requests mu
+ st be submitted by the deadline—typically 14 days before the trip or eve
+ nt\, unless stated otherwise. After the deadline\, you’ll need to contac
+ t OA directly with your reason for withdrawing\; full refunds at that poin
+ t are not guaranteed and will be reviewed on a case-by-case basis. If a tr
+ ip is canceled due to weather or low participation\, you’ll have the opt
+ ion to keep your spot for the rescheduled date or receive a full refund. W
+ aitlist Policy: If a spot becomes available\, the first person on the wait
+ list will be moved to the active roster.\n\nHave questions? Email us at ou
+ tdooradventure@uwf.edu or call 850.474.2819 / 850.474.2204\n\n\n*Fun Fact:
+  The base cost of this trip—HP40 climbing fee ($22)\, camping ($22)\, an
+ d transportation ($120)—totals about $144. And that doesn’t even inclu
+ de camping and climbing gear OA is providing! Just the camping equipment a
+ lone can cost hundreds. By going with OA\, you’re saving at least about 
+ $100\, even if you already own your own climbing and camping gear!
+GEO:33.139323;-86.691383
+LOCATION:Steele\, AL
+SUMMARY:Happy Rocks: Bouldering at HP40 Trip
+URL;VALUE=URI:https://events.uwf.edu/event/happy-rocks-bouldering-at-hp40-t
+ rip
+CATEGORIES:Recreation/Wellness
+END:VEVENT
+END:VCALENDAR

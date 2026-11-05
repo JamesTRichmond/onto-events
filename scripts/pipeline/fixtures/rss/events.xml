@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Synthetic contract fixture. No real people, locations or source coverage. -->
+<rss version="2.0" xmlns:ev="http://purl.org/rss/1.0/modules/event/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel><title>Fixture calendar</title><link>https://fixture.example/</link><description>Tests only</description>
+    <item><guid>concert</guid><title>Plain concert</title><ev:startdate>2026-11-01T19:00:00-07:00</ev:startdate><ev:enddate>2026-11-01T21:00:00-07:00</ev:enddate><ev:location>Fixture Hall</ev:location><link>https://fixture.example/concert</link><description><![CDATA[One night only. <b>Live music</b> & guests.]]></description></item>
+    <item><guid>bar</guid><title>Bar concert</title><ev:startdate>2026-11-02T19:00:00-07:00</ev:startdate><ev:location>Fixture Bar</ev:location></item>
+    <item><guid>casino</guid><title>Casino showroom</title><ev:startdate>2026-11-03T19:00:00-07:00</ev:startdate><ev:location>Fixture Hall</ev:location></item>
+    <item><guid>kids</guid><title>Kids' matinee</title><ev:startdate>2026-11-04T12:00:00-07:00</ev:startdate><ev:location>Fixture Hall</ev:location></item>
+    <item><guid>title-date</guid><title>Open concert 2026-11-05T19:00:00-07:00</title><ev:location>Fixture Hall</ev:location></item>
+    <item><guid>dc-date</guid><title>Explicit source-defined dc date</title><dc:date>2026-11-06T19:00:00-07:00</dc:date><ev:location>Fixture Hall</ev:location></item>
+    <item><guid>article</guid><title>Concert announced</title><pubDate>Sat, 31 Oct 2026 12:00:00 GMT</pubDate><description>Playing next Friday at seven.</description><ev:location>Fixture Hall</ev:location></item>
+    <item><guid>unknown</guid><title>Unknown venue</title><ev:startdate>2026-11-07T19:00:00-07:00</ev:startdate><ev:location>Unmapped Place</ev:location></item>
+    <item><guid>cancelled</guid><title>Cancelled concert</title><ev:startdate>2026-11-08T19:00:00-07:00</ev:startdate><ev:location>Fixture Hall</ev:location><ev:status>CANCELLED</ev:status></item>
+  </channel>
+</rss>

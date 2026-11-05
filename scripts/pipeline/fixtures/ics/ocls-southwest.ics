@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Orlando Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:ocls-southwest-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T153000Z
+SUMMARY:OCLS Southwest Branch Community Showcase
+DESCRIPTION:Core civic hub for the Dr. Phillips and Bay Hill communities.
+LOCATION:OCLS Southwest Branch
+URL:https://www.ocls.info/locations-hours/southwest-branch
+END:VEVENT
+BEGIN:VEVENT
+UID:ocls-southwest-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T220000Z
+DTEND:20261027T233000Z
+SUMMARY:OCLS Southwest Branch Evening Program
+DESCRIPTION:VERIFIED: Popular Dr. Phillips branch hosting literary author talks coding clubs and youth theatre workshops.
+LOCATION:OCLS Southwest Branch
+URL:https://www.ocls.info/locations-hours/southwest-branch
+END:VEVENT
+END:VCALENDAR

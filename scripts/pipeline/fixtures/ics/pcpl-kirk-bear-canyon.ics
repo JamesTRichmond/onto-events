@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Tucson Fixture//EN
+X-WR-TIMEZONE:America/Phoenix
+BEGIN:VEVENT
+UID:pcpl-kirk-bear-canyon-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T170000Z
+DTEND:20261024T183000Z
+SUMMARY:Bear Canyon Nature & Wildlife Story Hour
+DESCRIPTION:Picture books and interactive presentations highlighting Sonoran Desert wildlife and native cacti.
+LOCATION:Kirk-Bear Canyon Library
+URL:https://www.library.pima.gov/locations/kirk-bear-canyon/
+END:VEVENT
+BEGIN:VEVENT
+UID:pcpl-kirk-bear-canyon-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261028T010000Z
+DTEND:20261028T023000Z
+SUMMARY:Tanque Verde Astronomy & Star Party
+DESCRIPTION:Evening telescope viewing and constellation identification with amateur astronomers on the library patio.
+LOCATION:Kirk-Bear Canyon Library
+URL:https://www.library.pima.gov/locations/kirk-bear-canyon/
+END:VEVENT
+END:VCALENDAR

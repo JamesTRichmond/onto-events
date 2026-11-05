@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Los Angeles Fixture//EN
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:lacounty-library-culver-city-event-1@onto.events
+DTSTAMP:20261018T120000Z
+DTSTART:20261024T180000Z
+DTEND:20261024T193000Z
+SUMMARY:LA County Library — Culver City Julian Dixon Library Community Showcase
+DESCRIPTION:Culver City community library providing STEAM clubs, adult literacy classes, and preschool storytimes.
+LOCATION:LA County Library — Culver City Julian Dixon Library
+URL:https://lacountylibrary.org/culver-city-julian-dixon-library/
+END:VEVENT
+BEGIN:VEVENT
+UID:lacounty-library-culver-city-event-2@onto.events
+DTSTAMP:20261018T120000Z
+DTSTART:20261028T010000Z
+DTEND:20261028T023000Z
+SUMMARY:LA County Library — Culver City Julian Dixon Library Evening Arts & Discussion
+DESCRIPTION:Evening public program and cultural discussion at LA County Library — Culver City Julian Dixon Library.
+LOCATION:LA County Library — Culver City Julian Dixon Library
+URL:https://lacountylibrary.org/culver-city-julian-dixon-library/
+END:VEVENT
+END:VCALENDAR

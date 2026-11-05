@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//San Francisco Fixture//EN
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:sfpl-richmond-branch-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T180000Z
+DTEND:20261024T193000Z
+SUMMARY:Richmond Family LEGO & Construction Club
+DESCRIPTION:Creative brick building and engineering challenges for children and caregivers in the children’s room.
+LOCATION:SFPL Richmond Branch Library
+URL:https://sfpl.org/locations/richmond
+END:VEVENT
+BEGIN:VEVENT
+UID:sfpl-richmond-branch-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Richmond Neighborhood Book Discussion
+DESCRIPTION:Monthly book circle exploring contemporary world fiction and local California history.
+LOCATION:SFPL Richmond Branch Library
+URL:https://sfpl.org/locations/richmond
+END:VEVENT
+END:VCALENDAR

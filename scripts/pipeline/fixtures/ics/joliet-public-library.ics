@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Expansion Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:joliet-ottawa-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T200000Z
+DTEND:20261024T213000Z
+SUMMARY:Burnham Architectural Heritage & Joliet History Night
+DESCRIPTION:Architectural walk and lecture inside the historic 1903 Burnham-designed Joliet Public Library building in downtown Joliet.
+LOCATION:Joliet Public Library (Ottawa Street Branch)
+URL:https://jolietlibrary.org
+END:VEVENT
+BEGIN:VEVENT
+UID:joliet-ottawa-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T163000Z
+DTEND:20261027T173000Z
+SUMMARY:Will County Digital Media & 3D Design Lab
+DESCRIPTION:Hands-on digital maker lab introducing teens and adults to 3D printing and digital audio editing in the Ottawa Street Digital Media Center.
+LOCATION:Joliet Public Library (Ottawa Street Branch)
+URL:https://jolietlibrary.org
+END:VEVENT
+END:VCALENDAR

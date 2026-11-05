@@ -1,0 +1,77 @@
+{
+  "municipality": "Powder Springs",
+  "county": "Cobb",
+  "state": "GA",
+  "serviceRegion": "atlanta",
+  "verifiedOn": null,
+  "streamsCount": 10,
+  "sampleSources": [
+    {
+      "id": "atl-stream-cobb-powder-springs-civic-181",
+      "publisher": null,
+      "vertical": "Civic & Public Libraries",
+      "county": "Cobb",
+      "municipality": "Powder Springs",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Powder Springs Cobb County Georgia Civic & Public Libraries public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    },
+    {
+      "id": "atl-stream-cobb-powder-springs-livep-182",
+      "publisher": null,
+      "vertical": "Live Performing Arts & Indie Music",
+      "county": "Cobb",
+      "municipality": "Powder Springs",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Powder Springs Cobb County Georgia Live Performing Arts & Indie Music public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    },
+    {
+      "id": "atl-stream-cobb-powder-springs-visual-183",
+      "publisher": null,
+      "vertical": "Visual Arts & Museums",
+      "county": "Cobb",
+      "municipality": "Powder Springs",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Powder Springs Cobb County Georgia Visual Arts & Museums public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    },
+    {
+      "id": "atl-stream-cobb-powder-springs-herita-184",
+      "publisher": null,
+      "vertical": "Heritage & Diverse Communities",
+      "county": "Cobb",
+      "municipality": "Powder Springs",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Powder Springs Cobb County Georgia Heritage & Diverse Communities public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    },
+    {
+      "id": "atl-stream-cobb-powder-springs-parks-185",
+      "publisher": null,
+      "vertical": "Parks & Outdoor Recreation",
+      "county": "Cobb",
+      "municipality": "Powder Springs",
+      "endpointType": null,
+      "candidateUrl": null,
+      "status": "unverified-search-idea",
+      "verifiedOn": null,
+      "searchQuery": "Powder Springs Cobb County Georgia Parks & Outdoor Recreation public events official calendar",
+      "evidence": "No publisher snapshot has been independently verified; generated fixture is not evidence."
+    }
+  ],
+  "status": "unverified",
+  "verifiedStreamsCount": 0
+}

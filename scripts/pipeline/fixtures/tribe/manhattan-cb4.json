@@ -1,0 +1,74 @@
+{
+  "pages": [
+    {
+      "total": 4,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 16458,
+          "global_id": "cbmanhattan.cityofnewyork.us/cb4?id=16458",
+          "title": "Chelsea Land Use Committee (CLU)",
+          "description": "<p><strong>This will be a hybrid meeting – held virtually and in person. Virtual participation is highly recommended.</strong></p>\n<p><strong>In Person Location: MCB4 Office – 630 9th Avenue, Suite 208 (44/45)</strong></p>\n<p><a href=\"https://www.zoomgov.com/webinar/register/WN_wLFnrFsjTYS6NA4CyJHA7w\">Zoom Registration Link</a><br />\nWebinar ID: 161 647 0667<br />\n<strong>Conference Call-In Number:</strong>646-828-7666</p>\n<p><a href=\"https://www.youtube.com/channel/UCVuHwITcFASNggyVX847NNg\">View Live Stream</a></p>",
+          "url": "https://cbmanhattan.cityofnewyork.us/cb4/meeting/chelsea-land-use-committee-clu-62/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-19 22:30:00",
+          "utc_end_date": "2026-10-20 01:30:00",
+          "venue": {
+            "venue": "MCB4 Office &#8211; 630 9th Avenue, Suite 208",
+            "address": "630 9th Avenue, Ste. 208",
+            "city": "New York"
+          }
+        },
+        {
+          "id": 16484,
+          "global_id": "cbmanhattan.cityofnewyork.us/cb4?id=16484",
+          "title": "Budget Task Force",
+          "description": "<p><strong>This will be a hybrid meeting – held virtually and in person. Virtual participation is highly recommended.</strong></p>\n<p><strong>In Person Location: MCB4 Office – 630 9th Avenue, Suite 208 (44/45)</strong></p>\n<p><a href=\"https://www.zoomgov.com/webinar/register/WN_u27OSCjwRUiIdo_l8uAVjg\"><strong>Zoom Registration Link</strong></a><br />\n<strong>Webinar ID:</strong> <span id=\"group_label_1\" class=\"sr-only\" data-v-819256bc=\"\">Webinar ID</span>165 786 6449<br />\n<strong>Conference Call-In Number:</strong> 646 828 7666</p>\n<p><a href=\"https://www.youtube.com/channel/UCVuHwITcFASNggyVX847NNg\">View Live Stream</a></p>",
+          "url": "https://cbmanhattan.cityofnewyork.us/cb4/meeting/budget-task-force-16/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-20 22:30:00",
+          "utc_end_date": "2026-10-21 00:30:00",
+          "venue": {
+            "venue": "MCB4 Office &#8211; 630 9th Avenue, Suite 208",
+            "address": "630 9th Avenue, Ste. 208",
+            "city": "New York"
+          }
+        },
+        {
+          "id": 16468,
+          "global_id": "cbmanhattan.cityofnewyork.us/cb4?id=16468",
+          "title": "Transportation Planning Committee (TPC)",
+          "description": "<p><strong>This will be a hybrid meeting – held virtually and in person. Virtual participation is highly recommended.</strong></p>\n<p><strong>In Person Location: MCB4 Office – 630 9th Avenue, Suite 208 (44/45)</strong></p>\n<p><a href=\"https://www.zoomgov.com/webinar/register/WN_qrJnAC6hSGyS8JZPneeaCw\">Zoom Registration Link</a><br />\n<strong>Webinar ID:</strong> 160 324 4328<br />\n<strong>Conference Call-In Number: </strong>646-828-7666</p>\n<p><a href=\"https://www.youtube.com/channel/UCVuHwITcFASNggyVX847NNg\">View Live Stream</a></p>",
+          "url": "https://cbmanhattan.cityofnewyork.us/cb4/meeting/transportation-planning-committee-tpc-26/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-21 22:30:00",
+          "utc_end_date": "2026-10-22 01:30:00",
+          "venue": {
+            "venue": "MCB4 Office &#8211; 630 9th Avenue, Suite 208",
+            "address": "630 9th Avenue, Ste. 208",
+            "city": "New York"
+          }
+        },
+        {
+          "id": 16486,
+          "global_id": "cbmanhattan.cityofnewyork.us/cb4?id=16486",
+          "title": "Nominating Committee",
+          "description": "<p><strong>This will be a hybrid meeting – held virtually and in person. Virtual participation is highly recommended.</strong></p>\n<p><strong>In Person Location: MCB4 Office – 630 9th Avenue, Suite 208 (44/45)</strong></p>\n<p><a href=\"https://www.zoomgov.com/webinar/register/WN_oQkI2-t8TgqBcQOs58Z5Mw\"><strong>Zoom Registration Link</strong></a><br />\n<strong>Webinar ID:</strong> <span id=\"group_label_1\" class=\"sr-only\" data-v-819256bc=\"\">Webinar ID</span>165 143 4085<br />\n<strong>Conference Call-In Number:</strong> 646 828 7666</p>\n<p><a href=\"https://www.youtube.com/channel/UCVuHwITcFASNggyVX847NNg\">View Live Stream</a></p>",
+          "url": "https://cbmanhattan.cityofnewyork.us/cb4/meeting/nominating-committee-6/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-22 22:30:00",
+          "utc_end_date": "2026-10-23 00:30:00",
+          "venue": {
+            "venue": "MCB4 Office &#8211; 630 9th Avenue, Suite 208",
+            "address": "630 9th Avenue, Ste. 208",
+            "city": "New York"
+          }
+        }
+      ]
+    }
+  ]
+}

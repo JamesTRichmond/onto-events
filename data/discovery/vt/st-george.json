@@ -1,0 +1,38 @@
+{
+  "town": "St. George",
+  "county": "Chittenden",
+  "entityType": "Town",
+  "covered": true,
+  "actionTag": "ready for ingest",
+  "groupId": "burlington",
+  "groupName": "Burlington",
+  "shortfall": true,
+  "shortfallReason": "Geographically smallest town in Vermont (pop ~794, 3.6 sq mi); residential community centered around Town Hall; relies on Williston and Hinesburg for services.",
+  "sourceCount": 1,
+  "shared_sources": [
+    "higher-ground"
+  ],
+  "sources": [
+    {
+      "town": "St. George",
+      "county": "Chittenden",
+      "covered": true,
+      "action_tag": "ready for ingest",
+      "rank": 1,
+      "source_name": "Town of St. George Municipal Calendar",
+      "feed_url": "http://stgeorgevt.com/calendar.php",
+      "evidence_url": "http://stgeorgevt.com/",
+      "kind": "civic-web",
+      "tier": 3,
+      "access": "free",
+      "categories": "civic,community",
+      "robots_ok": true,
+      "tos_ok": true,
+      "last_event_seen": "2026-10-20",
+      "score": 71,
+      "shortfall_reason": "Geographically smallest town in Vermont (pop ~794, 3.6 sq mi); residential community centered around Town Hall; relies on Williston and Hinesburg for services.",
+      "shared_id": null
+    }
+  ],
+  "discoveredAt": "2026-10-31T05:49:55.139Z"
+}

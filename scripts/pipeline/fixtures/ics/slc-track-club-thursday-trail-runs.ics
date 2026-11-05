@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Thursday Runs
+X-WR-TIMEZONE:America/Denver
+BEGIN:VEVENT
+DTSTART:20260910T123000Z
+DTSTAMP:20260906T011939Z
+UID:2ge5lutq72c2fmafufka5l74qp@google.com
+CREATED:20260826T215022Z
+DESCRIPTION:Join us for one of our favorite SLCTC traditions: the Big Moun
+ tain Breakfast Run followed by breakfast at Ruth's Diner!\n\nBig Mtn Pass
+  (meeting at 40.800051\,-111.679224\, right off Hwy 65 - about 1.2 miles 
+ from Little Dell\, b [trimmed]
+LAST-MODIFIED:20260826T220857Z
+LOCATION:https://maps.app.goo.gl/cqnoBjbBK17NcGCh7
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Big Mountain Pass & breakfast at Ruth's dinner afterwards
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260917T123000Z
+DTSTAMP:20260906T011939Z
+UID:4afde91l71pfto835oqojhspd5@google.com
+CREATED:20260826T220211Z
+DESCRIPTION:Host: TBD
+LAST-MODIFIED:20260826T220211Z
+LOCATION:670 Victory Rd\, Salt Lake City\, UT 84103
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hells Canyon and Provo Shoreline <a href="https://www.strava.com/r
+ outes/3473034795616899076">route HERE!</a>
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260924T123000Z
+DTSTAMP:20260906T011939Z
+UID:0ek1qeji6bdpm8q2m5mrmj3998@google.com
+CREATED:20260826T220450Z
+DESCRIPTION:Ranger Station/Parking lot at mouth of City Creek Canyon off o
+ f Bonneville Blvd.\nHost: TBA
+LAST-MODIFIED:20260826T220450Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BST to North Salt Lake Towers- Eastern Shoshone and Goshute Native
+  Land <a href="https://www.mapmyrun.com/routes/view/1503322474">route HER
+ E!</a>
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

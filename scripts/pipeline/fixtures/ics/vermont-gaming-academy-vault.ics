@@ -1,0 +1,281 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Vault @ VGA
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260204T170000
+DTEND;TZID=America/New_York:20260204T200000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+UID:7qihvvjc2eh6dh6p96p4o1ksvn@google.com
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Kill Team Casual - FREE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260204T170000
+DTEND;TZID=America/New_York:20260204T200000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+UID:2jg2mnetn7dupi6rukfjhkvs0l@google.com
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Trench Crusade - FREE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261010T120000
+DTEND;TZID=America/New_York:20261010T140000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20261026T035959Z;INTERVAL=2;BYDAY=SA
+UID:7k4nnc76qrnusj07ou12nd9942@google.com
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:D&D Learn to DM!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260208T103000
+DTEND;TZID=America/New_York:20260208T143000
+UID:ngvoanq55c5atj88sn6s9d921q@google.com
+RECURRENCE-ID;TZID=America/New_York:20260208T103000
+CLASS:PUBLIC
+DESCRIPTION:Morning DnD session run by [public facilitator omitted]\n$10 Entry or $15 for morning and afternoon sessions\n\nCome experience some wacky Spelljammer hijinks in space! Any level of player experience is welcome. Drop in drop out sessions\, come play for the long haul or just a day. 5e and 2024 rules welcome. Arrive at 10:00am if you would like any help building a character or learning the rules.
+LOCATION:The Vault at VGA
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Morning D&D Session $10 Entry
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260214T123000
+DTEND;TZID=America/New_York:20260214T200000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+EXDATE;TZID=America/New_York:20260228T123000
+EXDATE;TZID=America/New_York:20260418T123000
+EXDATE;TZID=America/New_York:20260425T123000
+EXDATE;TZID=America/New_York:20260926T123000
+UID:3r5iibaa9o3klhpcsahd9cab5c@google.com
+DESCRIPTION:Free and open tables prepared for Warhammer 40k! We will have semi-competitive and full competitive terrain set out and ready to go for you. \n\nPlayers of all skill levels are welcome! \n\n2000pt loaner armies and models are available upon request.
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Warhammer 40k Open Tables
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261004T150000
+DTEND;TZID=America/New_York:20261004T190000
+RRULE:FREQ=WEEKLY;WKST=SU;INTERVAL=2;BYDAY=SU
+UID:8nji41gvgo2opuoosch89rricd@google.com
+DESCRIPTION:Come experience some dangerous and secretive adventures set around the Chernobyl exclusion zone! Any level of player experience is welcome. Drop in drop out sessions\, come play for the long haul or just a day. Arrive at 2:30pm if you need any help building a character or learning the rules.
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Afternoon Vampire the Masquerade Session $10 Entry
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261024T143000Z
+DTEND:20261025T000000Z
+UID:5nnp3oeptjp2j1f3o49il7odke@google.com
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:WARMACHINE TOURNAMENT\, 75 points\, Arrival 11:00 Start\, FREE No Painting Required
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260420T103000
+DTEND;TZID=America/New_York:20260420T200000
+RRULE:FREQ=WEEKLY;WKST=SU;BYDAY=MO,TU
+UID:619ocnsqs2co855hnkqt6h29qs_R20260420T143000@google.com
+DESCRIPTION:Tables are open for any game you want to play! We have many sets of terrain\, mats\, and accessories available for games like Warhammer 40k\, Kill team\, Trench Crusade\, Bolt Action\, Age of Sigmar\, and more!
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Open Tables
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260214T160000
+DTEND;TZID=America/New_York:20260214T200000
+UID:3r5iibaa9o3klhpcsahd9cab5c@google.com
+RECURRENCE-ID;TZID=America/New_York:20260214T123000
+DESCRIPTION:Free and open tables prepared for Warhammer 40k! We will have semi-competitive and full competitive terrain set out and ready to go for you. \n\nPlayers of all skill levels are welcome! \n\n2000pt loaner armies and models are available upon request.
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Warhammer 40k Open Tables
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260808T100000
+DTEND;TZID=America/New_York:20260808T200000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+EXDATE;TZID=America/New_York:20260926T100000
+UID:0vdssgkv6q9mtf1g92smo3pbkf@google.com
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Wargaming Open Tables\, All day\, FREE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260201T103000
+DTEND;TZID=America/New_York:20260201T143000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+EXDATE;TZID=America/New_York:20260405T103000
+EXDATE;TZID=America/New_York:20260412T103000
+UID:ngvoanq55c5atj88sn6s9d921q@google.com
+CLASS:PUBLIC
+DESCRIPTION:Morning DnD session run by [public facilitator omitted]\n$10 Entry or $15 for morning and afternoon sessions\n\nCome experience some wacky Spelljammer hijinks in space! Any level of player experience is welcome. Drop in drop out sessions\, come play for the long haul or just a day. 5e and 2024 rules welcome. Arrive at 10:00am if you need any help building a character or learning the rules.
+LOCATION:The Vault at VGA
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Morning D&D Session $10 Entry
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260927T150000
+DTEND;TZID=America/New_York:20260927T190000
+RRULE:FREQ=WEEKLY;WKST=SU;INTERVAL=2;BYDAY=SU
+UID:a1eoogmbenq2vfg6vdr8dr88ts@google.com
+CLASS:PUBLIC
+DESCRIPTION:Afternoon session run by [public facilitator omitted]\n$10 or $15 for Morning and Afternoon sessions\n\nCome and join us to explore a strange new land and unlock its wonderous secrets! This game is intended to be a more serious and grounded campaign set in a homebrew world that has just discovered a new continent. Expect difficult decisions\, challenging battles\, draining exploration\, and above all a good time! \n\nThis campaign is Experience based\, and new players will start at three quarters of the party total. Reach out to the DM in person or at [public contact omitted] if you have any questions about joining!
+LOCATION:The Vault at VGA
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:Afternoon D&D Session $10 Entry
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260212T160000
+DTEND;TZID=America/New_York:20260212T200000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+UID:3e0q92vptq4c5fugm03eroqnup@google.com
+DESCRIPTION:Prepare to slay the grey! Come in and join other hobbyists while we all spend some time working on our various piles of shame. \n\nAll free participants in this free event will receive a demo model and access to our store paints\, tools\, and airbrushes.\n\nA rotating cast of instructors will be by to teach classes on specific techniques and styles\, keep your eye out such special events.
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hobby Night! Free Entry and Models
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260904T180000
+DTEND;TZID=America/New_York:20260904T200000
+RRULE:FREQ=WEEKLY;WKST=SU;INTERVAL=2;BYDAY=FR
+UID:0tqmk3ve2kshou7t6jdi3h6jtm@google.com
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lorcana Core Constructed\, FREE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260213T160000
+DTEND;TZID=America/New_York:20260213T200000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+EXDATE;TZID=America/New_York:20260227T160000
+UID:5b3kk58garo6jm7h8r6f473752@google.com
+DESCRIPTION:Free entry! Players of all skill levels are welcome to come play some Age of Sigmar at the Vault! Loaner Spearheads and 1000pt lists available.
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Warhammer Age of Sigmar Open Tables
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261011T160000Z
+DTEND:20261011T210000Z
+UID:56r6vhnoj33g9rt2484gv7aut2@google.com
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Elestrals Snowshade Prerelease Event\, Noon\, Entry TBD
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261011T150000Z
+DTEND:20261012T000000Z
+UID:6ffpbn72geocvil10po6tuu3n8@google.com
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:WARMACHINE DEMO DAY\, 75 points\, Arrival 11:00 Start\, FREE No Painting Required
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261004T120000
+DTEND;TZID=America/New_York:20261004T140000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20261025T035959Z;INTERVAL=2;BYDAY=SU
+UID:5kl0da994l2r5a5p0f7p2dtv43@google.com
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:D&D Learn to DM!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260802T100000
+DTEND;TZID=America/New_York:20260802T200000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+UID:5fpprtb9aa49ej22boot1lrr6t@google.com
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Wargaming Open Tables\, All day\, FREE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260204T103000
+DTEND;TZID=America/New_York:20260204T200000
+RRULE:FREQ=WEEKLY;WKST=SU;BYDAY=FR,TH,WE
+EXDATE;TZID=America/New_York:20260227T103000
+UID:5bt5uv0dt0kgea92hhga6rag8e@google.com
+DESCRIPTION:Tables are open for any game you want to play! We have many sets of terrain\, mats\, and accessories available for games like Warhammer 40k\, Kill team\, Trench Crusade\, Bolt Action\, Age of Sigmar\, and more!
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Open Tables
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260213T160000
+DTEND;TZID=America/New_York:20260213T200000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+EXDATE;TZID=America/New_York:20260227T160000
+UID:7c4jt2umd0ceimd1cifg82hvfr@google.com
+DESCRIPTION:<b>Warhammer 40k Demo - Learn to play!</b><br>Come and learn how to play Warhammer 40k taught using the Combat Patrol game mode. Bring your own force or borrow one of our 20 demo patrols from a variety of different factions! No experience necessary\, first time players will also receive a <i>free miniature! </i><b></b><br><b><br></b><br><b>Casual Play:</b><br>Free and open tables prepared for Warhammer 40k narrative and casual! We will have thematic\, asymmetrical\, and/or unique terrain and mission setups to play some laid back yet enjoyable games.  <br>Players of all skill levels are welcome!  <br>2000pt loaner armies and models are available upon request.
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Warhammer 40k Casual Play and Demos
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T200000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+UID:62t0r84p6q7auup0td5od132sm_R20261007T200000@google.com
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Lancer 4PM - 8PM\, FREE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260905T160000
+DTEND;TZID=America/New_York:20260905T200000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+EXDATE;TZID=America/New_York:20260926T160000
+UID:5h2a4lpeenqub8uj12ldsaspcb@google.com
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Battletech\, 4PM\, FREE
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

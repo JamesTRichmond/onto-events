@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Pensacola Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:wfpl-tryon-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Tryon Branch Family LEGO Builders Club
+DESCRIPTION:Creative engineering challenges and open LEGO construction for children and families at Tryon Branch Library.
+LOCATION:WFPL Tryon Branch Library
+URL:https://mywfpl.com/locations/tryon
+END:VEVENT
+BEGIN:VEVENT
+UID:wfpl-tryon-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Northeast Pensacola Community Book Discussion
+DESCRIPTION:Monthly literary discussion group exploring regional Gulf Coast fiction and non-fiction.
+LOCATION:WFPL Tryon Branch Library
+URL:https://mywfpl.com/locations/tryon
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,39 @@
+{
+  "town": "Panton",
+  "county": "Addison",
+  "entityType": "Town",
+  "covered": true,
+  "actionTag": "ready for ingest",
+  "groupId": "bristol-vergennes",
+  "groupName": "Bristol–Vergennes",
+  "shortfall": true,
+  "shortfallReason": "Lakeside rural town (pop ~646) without standalone public library facility; co-chartered member of Bixby Memorial Free Library union district in Vergennes.",
+  "sourceCount": 1,
+  "shared_sources": [
+    "bixby-library",
+    "addison-chamber"
+  ],
+  "sources": [
+    {
+      "town": "Panton",
+      "county": "Addison",
+      "covered": true,
+      "action_tag": "ready for ingest",
+      "rank": 1,
+      "source_name": "Town of Panton Civic Notices",
+      "feed_url": "https://pantonvt.us/calendar",
+      "evidence_url": "https://pantonvt.us/",
+      "kind": "civic-web",
+      "tier": 3,
+      "access": "free",
+      "categories": "civic,community",
+      "robots_ok": true,
+      "tos_ok": true,
+      "last_event_seen": "2026-10-22",
+      "score": 72,
+      "shortfall_reason": "Lakeside rural town (pop ~646) without standalone public library facility; co-chartered member of Bixby Memorial Free Library union district in Vergennes.",
+      "shared_id": null
+    }
+  ],
+  "discoveredAt": "2026-10-31T05:49:55.134Z"
+}

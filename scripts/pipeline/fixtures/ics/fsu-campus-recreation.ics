@@ -1,0 +1,158 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Calendar - Bobby E. Leach Recreation Center (SRC)
+X-WR-TIMEZONE:Eastern Time (US & Canada)
+BEGIN:VEVENT
+DTSTAMP:20261015T234807Z
+UID:tag:localist.com\,2008:EventInstance_53701371514977
+DTSTART:20261015T140000Z
+DTEND:20261015T160000Z
+DESCRIPTION:CHAW’s RDs Katie and Reana will be hosting drop-in hours at Leach and the Fitness and Movement Clinic throughout the semester. Stop by for a quick\, 10-minute chat about your nutrition questions!\n\nNo appointment needed\, walk-ups only. Can't make this event? Appointments are available\; call [contact removed].
+GEO:30.441968;-84.302098
+LOCATION:Bobby E. Leach Recreation Center (SRC)\, Studio 1 Fitness Assessment Room
+SUMMARY:Drop in with the Dietitian - Leach
+URL;VALUE=URI:https://calendar.fsu.edu/event/drop-in-with-the-dietitian-leach
+CATEGORIES:Campus Recreation
+CATEGORIES:Fitness & Wellness
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234807Z
+UID:tag:localist.com\,2008:EventInstance_53850750993369
+DTSTART:20261015T150000Z
+DTEND:20261015T160000Z
+DESCRIPTION:They’re back! Come say hello to our favorite furry friends and visit therapy animals at the Leach. Take a break\, get some puppy-powered positivity\, and enjoy some furry friendship! \n\nWednesday\, Sept. 16 | 11am - 12pm\n\nThursday\, Oct. 15 | 11am - 12pm\n\nThursday\, Nov. 19 | 11am - 12pm\n\nWednesday\, Dec. 2 | 11am - 12pm
+GEO:30.441968;-84.302098
+LOCATION:Bobby E. Leach Recreation Center (SRC)
+SUMMARY:Therapy Animals at the Leach
+URL;VALUE=URI:https://calendar.fsu.edu/event/therapy-animals-at-the-leach
+CATEGORIES:Campus Recreation
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234807Z
+UID:tag:localist.com\,2008:EventInstance_53701371516002
+DTSTART:20261015T180000Z
+DTEND:20261015T200000Z
+DESCRIPTION:CHAW’s RDs Katie and Reana will be hosting drop-in hours at Leach and the Fitness and Movement Clinic throughout the semester. Stop by for a quick\, 10-minute chat about your nutrition questions!\n\nNo appointment needed\, walk-ups only. Can't make this event? Appointments are available\; call [contact removed].
+GEO:30.441968;-84.302098
+LOCATION:Bobby E. Leach Recreation Center (SRC)\, Studio 1 Fitness Assessment Room
+SUMMARY:Drop in with the Dietitian - Leach
+URL;VALUE=URI:https://calendar.fsu.edu/event/drop-in-with-the-dietitian-leach
+CATEGORIES:Campus Recreation
+CATEGORIES:Fitness & Wellness
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234807Z
+UID:tag:localist.com\,2008:EventInstance_53701371517027
+DTSTART:20261029T140000Z
+DTEND:20261029T160000Z
+DESCRIPTION:CHAW’s RDs Katie and Reana will be hosting drop-in hours at Leach and the Fitness and Movement Clinic throughout the semester. Stop by for a quick\, 10-minute chat about your nutrition questions!\n\nNo appointment needed\, walk-ups only. Can't make this event? Appointments are available\; call [contact removed].
+GEO:30.441968;-84.302098
+LOCATION:Bobby E. Leach Recreation Center (SRC)\, Studio 1 Fitness Assessment Room
+SUMMARY:Drop in with the Dietitian - Leach
+URL;VALUE=URI:https://calendar.fsu.edu/event/drop-in-with-the-dietitian-leach
+CATEGORIES:Campus Recreation
+CATEGORIES:Fitness & Wellness
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234807Z
+UID:tag:localist.com\,2008:EventInstance_53701371518052
+DTSTART:20261029T180000Z
+DTEND:20261029T200000Z
+DESCRIPTION:CHAW’s RDs Katie and Reana will be hosting drop-in hours at Leach and the Fitness and Movement Clinic throughout the semester. Stop by for a quick\, 10-minute chat about your nutrition questions!\n\nNo appointment needed\, walk-ups only. Can't make this event? Appointments are available\; call [contact removed].
+GEO:30.441968;-84.302098
+LOCATION:Bobby E. Leach Recreation Center (SRC)\, Studio 1 Fitness Assessment Room
+SUMMARY:Drop in with the Dietitian - Leach
+URL;VALUE=URI:https://calendar.fsu.edu/event/drop-in-with-the-dietitian-leach
+CATEGORIES:Campus Recreation
+CATEGORIES:Fitness & Wellness
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234807Z
+UID:tag:localist.com\,2008:EventInstance_53701371518053
+DTSTART:20261119T150000Z
+DTEND:20261119T170000Z
+DESCRIPTION:CHAW’s RDs Katie and Reana will be hosting drop-in hours at Leach and the Fitness and Movement Clinic throughout the semester. Stop by for a quick\, 10-minute chat about your nutrition questions!\n\nNo appointment needed\, walk-ups only. Can't make this event? Appointments are available\; call [contact removed].
+GEO:30.441968;-84.302098
+LOCATION:Bobby E. Leach Recreation Center (SRC)\, Studio 1 Fitness Assessment Room
+SUMMARY:Drop in with the Dietitian - Leach
+URL;VALUE=URI:https://calendar.fsu.edu/event/drop-in-with-the-dietitian-leach
+CATEGORIES:Campus Recreation
+CATEGORIES:Fitness & Wellness
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234807Z
+UID:tag:localist.com\,2008:EventInstance_53850750994394
+DTSTART:20261119T160000Z
+DTEND:20261119T170000Z
+DESCRIPTION:They’re back! Come say hello to our favorite furry friends and visit therapy animals at the Leach. Take a break\, get some puppy-powered positivity\, and enjoy some furry friendship! \n\nWednesday\, Sept. 16 | 11am - 12pm\n\nThursday\, Oct. 15 | 11am - 12pm\n\nThursday\, Nov. 19 | 11am - 12pm\n\nWednesday\, Dec. 2 | 11am - 12pm
+GEO:30.441968;-84.302098
+LOCATION:Bobby E. Leach Recreation Center (SRC)
+SUMMARY:Therapy Animals at the Leach
+URL;VALUE=URI:https://calendar.fsu.edu/event/therapy-animals-at-the-leach
+CATEGORIES:Campus Recreation
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234807Z
+UID:tag:localist.com\,2008:EventInstance_53701371519078
+DTSTART:20261119T190000Z
+DTEND:20261119T210000Z
+DESCRIPTION:CHAW’s RDs Katie and Reana will be hosting drop-in hours at Leach and the Fitness and Movement Clinic throughout the semester. Stop by for a quick\, 10-minute chat about your nutrition questions!\n\nNo appointment needed\, walk-ups only. Can't make this event? Appointments are available\; call [contact removed].
+GEO:30.441968;-84.302098
+LOCATION:Bobby E. Leach Recreation Center (SRC)\, Studio 1 Fitness Assessment Room
+SUMMARY:Drop in with the Dietitian - Leach
+URL;VALUE=URI:https://calendar.fsu.edu/event/drop-in-with-the-dietitian-leach
+CATEGORIES:Campus Recreation
+CATEGORIES:Fitness & Wellness
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234807Z
+UID:tag:localist.com\,2008:EventInstance_53701371520103
+DTSTART:20261202T150000Z
+DTEND:20261202T170000Z
+DESCRIPTION:CHAW’s RDs Katie and Reana will be hosting drop-in hours at Leach and the Fitness and Movement Clinic throughout the semester. Stop by for a quick\, 10-minute chat about your nutrition questions!\n\nNo appointment needed\, walk-ups only. Can't make this event? Appointments are available\; call [contact removed].
+GEO:30.441968;-84.302098
+LOCATION:Bobby E. Leach Recreation Center (SRC)\, Studio 1 Fitness Assessment Room
+SUMMARY:Drop in with the Dietitian - Leach
+URL;VALUE=URI:https://calendar.fsu.edu/event/drop-in-with-the-dietitian-leach
+CATEGORIES:Campus Recreation
+CATEGORIES:Fitness & Wellness
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234807Z
+UID:tag:localist.com\,2008:EventInstance_53850750995419
+DTSTART:20261202T160000Z
+DTEND:20261202T170000Z
+DESCRIPTION:They’re back! Come say hello to our favorite furry friends and visit therapy animals at the Leach. Take a break\, get some puppy-powered positivity\, and enjoy some furry friendship! \n\nWednesday\, Sept. 16 | 11am - 12pm\n\nThursday\, Oct. 15 | 11am - 12pm\n\nThursday\, Nov. 19 | 11am - 12pm\n\nWednesday\, Dec. 2 | 11am - 12pm
+GEO:30.441968;-84.302098
+LOCATION:Bobby E. Leach Recreation Center (SRC)
+SUMMARY:Therapy Animals at the Leach
+URL;VALUE=URI:https://calendar.fsu.edu/event/therapy-animals-at-the-leach
+CATEGORIES:Campus Recreation
+CATEGORIES:Wellness
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234807Z
+UID:tag:localist.com\,2008:EventInstance_53701371522152
+DTSTART:20261202T190000Z
+DTEND:20261202T210000Z
+DESCRIPTION:CHAW’s RDs Katie and Reana will be hosting drop-in hours at Leach and the Fitness and Movement Clinic throughout the semester. Stop by for a quick\, 10-minute chat about your nutrition questions!\n\nNo appointment needed\, walk-ups only. Can't make this event? Appointments are available\; call [contact removed].
+GEO:30.441968;-84.302098
+LOCATION:Bobby E. Leach Recreation Center (SRC)\, Studio 1 Fitness Assessment Room
+SUMMARY:Drop in with the Dietitian - Leach
+URL;VALUE=URI:https://calendar.fsu.edu/event/drop-in-with-the-dietitian-leach
+CATEGORIES:Campus Recreation
+CATEGORIES:Fitness & Wellness
+CATEGORIES:Wellness
+END:VEVENT
+END:VCALENDAR

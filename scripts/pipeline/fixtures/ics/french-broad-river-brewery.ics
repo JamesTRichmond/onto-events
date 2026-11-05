@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wp-events-plugin.com//7.4.6//EN
+TZID:America/New_York
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:1@frenchbroadbrewery.com
+DTSTART:20180628T230000Z
+DTEND:20180629T010000Z
+DTSTAMP:20180607T200210Z
+URL:https://www.frenchbroadbrewery.com/events/alexa-rose-band/
+SUMMARY:Alexa Rose Band
+DESCRIPTION:
+ATTACH;FMTTYPE=image/jpeg:https://www.frenchbroadbrewery.com/wp-content/up
+ loads/2018/06/Alexa-Rose.jpg
+END:VEVENT
+BEGIN:VEVENT
+UID:3695@frenchbroadbrewery.com
+DTSTART;TZID=America/New_York:20261008T180000
+DTEND;TZID=America/New_York:20261008T210000
+DTSTAMP:20260507T204508Z
+URL:https://www.frenchbroadbrewery.com/events/jerrys-dead-thursdays-3-2026
+ -05-07-2026-05-14-2026-05-21-2026-05-28-2026-06-04-2026-06-11-2026-06-18-2
+ 026-06-25-2026-07-02-2026-07-09-2026-07-16-2026-07-23-2026-07-30-2026-08-0
+ 6-2026-08-01-2026-10-08/
+SUMMARY:Jerry's Dead Thursdays
+DESCRIPTION:\nCelebrate the songbook of Jerry Garcia with Jerry’s Dead 
+ at French Broad River Brewery! Brought to you by Tim Marsh on guitar\, Dan
+  Pederson on bass\, Gus Vigo on the keys and Lee Kram on drums. Each and e
+ very week celebrates the spirt of the Grateful Dead with a unique set list
+  and a faithful community of dead heads in attendance\, turning our taproo
+ m into a haven for Deadheads and music lovers alike\, every Thursday! \n\n
+ \n\nCheck it out on our Instagram!\n\n\n\nhttps://jerrysdead.com\n\n\n\nTh
+ is is a free show\, with no cover charge. Our taproom is family and dog fr
+ iendly! \n
+ATTACH;FMTTYPE=image/jpeg:https://www.frenchbroadbrewery.com/wp-content/up
+ loads/2025/11/Black-Red-Grey-Bold-Creative-Upcoming-Events-Instagram-Story
+ -Instagram-Post-4-copy.png.png
+END:VEVENT
+BEGIN:VEVENT
+UID:4087@frenchbroadbrewery.com
+DTSTART;TZID=America/New_York:20261009T180000
+DTEND;TZID=America/New_York:20261009T210000
+DTSTAMP:20261005T221528Z
+URL:https://www.frenchbroadbrewery.com/events/avl-blues-women/
+SUMMARY:AVL Blues Women
+DESCRIPTION:\nFriday | October 9th | 6-9pm\n\n\n\nFree Show | All Ages | Pe
+ t-friendly | Drinks + Food On-site\n\n\n\nThe Asheville Blues Women includ
+ e Anne Coombs\, Nicole Nicolopolus\, Laura Blackley\, Cary Fridley\, Elain
+ e Scott\, Robin Borthwick and Carrie Morrison.\n\n\n\n\nhttps://www.youtub
+ e.com/live/Zc0SYa3RN8g?si=ACNg5Fo09_C4V3N6\n\n
+ATTACH;FMTTYPE=image/jpeg:https://www.frenchbroadbrewery.com/wp-content/up
+ loads/2026/09/AVL-Blues-Women-FBRB-10-9-26.png
+CATEGORIES:Special Events
+END:VEVENT
+BEGIN:VEVENT
+UID:3631@frenchbroadbrewery.com
+DTSTART;TZID=America/New_York:20261010T113000
+DTEND;TZID=America/New_York:20261010T143000
+DTSTAMP:20260422T081633Z
+URL:https://www.frenchbroadbrewery.com/events/jazz-brunch-3-2026-05-02-202
+ 6-05-09-2026-05-16-2026-05-23-2026-05-30-2026-06-06-2026-06-13-2026-06-20-
+ 2026-06-27-2026-07-04-2026-07-11-2026-07-18-2026-07-25-2026-08-01-2026-08-
+ 08-2026-08-03-2026-10-10/
+SUMMARY:Jazz Brunch
+DESCRIPTION:\nJoin us for Jazz Brunch Saturdays from 11:30 AM - 2:30 PM!\n\
+ n\n\nSaturdays just got a whole lot more exciting here in the taproom! We 
+ hope y’all will all join us for some jazzzzy\, mid-day spring/summer tap
+ room vibes. We’ll have an extra special brunch menu\, craft beer\, mimos
+ as\, and of course\, beer-mosas\, all alongside jazz music from the talent
+ ed jazz fusion trio\, “Four Peanuts”.\n\n\n\nThe group explores both o
+ riginal compositions and zesty covers of tunes you may or may not know. Th
+ e trio features Alex Taub on keyboards\, Brennan Dugan on bass\, and Joe E
+ nright on drums\, and will certainly leave your peanuts salted and boiled 
+ to perfection!\n
+ATTACH;FMTTYPE=image/jpeg:https://www.frenchbroadbrewery.com/wp-content/up
+ loads/2026/04/Jazz-Brunch-Flyer-Menu-Real-Estate-Flyer-scaled.png
+END:VEVENT
+BEGIN:VEVENT
+UID:1933@frenchbroadbrewery.com
+DTSTART;TZID=America/New_York:20261011T150000
+DTEND;TZID=America/New_York:20261011T180000
+DTSTAMP:20260909T203320Z
+URL:https://www.frenchbroadbrewery.com/events/reggae-sunday-with-chalwa-20
+ 26-10-11/
+SUMMARY:Reggae Sunday with Chalwa
+DESCRIPTION:\nFeel the Island Vibes at Reggae Sunday!\n\n\n\nChalwa&nbsp\;R
+ eggae Sunday at French Broad River Brewery happens every week from 3pm-6pm
+ ! It’s the perfect way to round out each weekend. You’ll find yourself
+  drifting away to the sounds of reggae music surrounded by good people and
+  great beer. Reggae Sunday is fun for the whole family!&nbsp\;\n\n\n\nThis
+  8-member Mountain Reggae powerhouse packs it full of roots meditations an
+ d high grade jams that awaken your spirit and soul! Chalwa’s high energy
+  shows are one of a kind\, featuring smooth vocals\, percussion\, bass\, l
+ ead guitar\, keys and saxophone. Their extensive collection of original mu
+ sic is interlaced with music from some of the Greats including\, Bob Marle
+ y\, Peter Tosh\, Burning Spear\, Bunny Wailer and even Jerry Garcia and th
+ e Grateful Dead.\n\n\n\n\nhttps://open.spotify.com/artist/5mwa3DcMn99Knp4X
+ vY2WY4?si=hXOTX8oQSwicEsDtfHToeQ\nCheck out Chalwa on Spotify! \n\n\n\nFre
+ nch Broad River Brewery is family and dog friendly\, proudly serving our d
+ elicious craft beer and seltzer as well as a additional selection of local
+  cider\, wine and non-alcoholic options. French Broad River Pizza will als
+ o be serving up fresh made pies and slices\, as well as other snacks\, sal
+ ads\, wraps and sandwiches.\n\n\n\nThis is a free show\, with no cover cha
+ rge. Our taproom is family and dog friendly!\n\n\n\nWhy Reggae Sunday Rock
+ s:\n\n\n\n\nLive Reggae Music: CHALWA\, an 8-member reggae powerhouse\, de
+ livers roots meditations and high-energy jams that will move your spirit a
+ nd soul. Enjoy original tracks and classics from legends like Bob Marley\,
+  Peter Tosh\, and the Grateful Dead.\n\n\n\nAll Ages &amp\; Pet-Friendly: 
+ Bring the whole family\, including your furry friends\, for an afternoon o
+ f fun.\n\n\n\nNo Cover Charge: Enjoy the music without any entry fee.\n\n\
+ n\nTaproom Selection: Choose from craft beers on draft\, local ciders\, ha
+ rd seltzers\, wines\, non-alcoholic beer\, and sodas.\n\n\n\nDelicious Piz
+ za: Savor fresh\, hand-tossed pizza from French Broad River Pizza\, availa
+ ble daily in the taproom. View the menu.\n\n\n\n\nCome experience the perf
+ ect blend of music\, vibes\, and community every Sunday at French Broad Ri
+ ver Brewery!\n\n\n\n[instagram-feed feed=5]\n
+ATTACH;FMTTYPE=image/jpeg:https://www.frenchbroadbrewery.com/wp-content/up
+ loads/2023/04/Black-Red-Grey-Bold-Creative-Upcoming-Events-Instagram-Story
+ -Instagram-Post-4-copy-2.png.png
+END:VEVENT
+BEGIN:VEVENT
+UID:3801@frenchbroadbrewery.com
+DTSTART;TZID=America/New_York:20261013T190000
+DTEND;TZID=America/New_York:20261013T210000
+DTSTAMP:20260507T212200Z
+URL:https://www.frenchbroadbrewery.com/events/roberts-totally-rad-triva-20
+ 26-05-12-2026-05-19-2026-05-26-2026-06-02-2026-06-09-2026-06-16-2026-06-23
+ -2026-06-30-2026-07-07-2026-07-14-2026-07-21-2026-07-28-2026-08-04-2026-08
+ -11-2026-0-06-2026-10-13/
+SUMMARY:Robert's Totally Rad Triva
+DESCRIPTION:\nVoted Best Trivia in Asheville!\n\n\n\nCome out every Tuesday
+  for Asheville’s best trivia night starting at 7pm. Get here early to gr
+ ab a table for your group and Enjoy pints and pizza while you help your te
+ am strive for victory and win prizes and beer.\n\n\n\nBeer\, Wine\, Cider\
+ , Seltzer\, Soda and Non-alcoholic beverages available at the bar. Food av
+ ailable from our on-site pizza shop! \n\n\n\nOrder ahead of time and pick 
+ up your pizza when you arrive. Check out the pizza menu!\n\n\n\nhttps://rb
+ ennett5634.wixsite.com/totallyradtrivia\n\n\n\n\n
+ATTACH;FMTTYPE=image/jpeg:https://www.frenchbroadbrewery.com/wp-content/up
+ loads/2023/04/events-tuesday.png.png
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,58 @@
+{
+  "pages": [
+    {
+      "total": 3,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 48445,
+          "global_id": "dumbo.nyc?id=48445",
+          "title": "Afrevia Pop Up at maman",
+          "description": "<p>Afrevia, a Brooklyn-based candle brand will be popping up at maman DUMBO on Friday, Oct 16th from 9:30AM–3PM!</p>",
+          "url": "https://dumbo.nyc/event/afrevia-pop-up-at-maman/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-16 04:00:00",
+          "utc_end_date": "2026-10-17 03:59:59",
+          "venue": {
+            "venue": "maman dumbo",
+            "address": "66 Water Street",
+            "city": "Brooklyn"
+          }
+        },
+        {
+          "id": 10015423,
+          "global_id": "dumbo.nyc?id=10015423",
+          "title": "Haunted Mission",
+          "description": "<p>Back by popular demand: Haunted Mission is here! Grab your friends and family, take on 5 all-new haunted team games and race the clock to disarm the Red Slime Bomb! Think fast, work together, and have a blast…if you dare 😉. October Only.</p>\n<p>What’s Included:</p>\n<p>🤝 Cooperative-style play<br />\n👻 5 all-new haunted game rooms: Lights Out, Ghost Walk, Witching Hour, Dead End, and Graveyard Shift.<br />\n🧨 Red Slime Bomb blast ending<br />\n🥽 Full protective gear — hazmat suit, booties, and goggles<br />\n📸 FREE photos &amp; videos</p>",
+          "url": "https://dumbo.nyc/event/haunted-mission/2026-10-16/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-16 19:00:00",
+          "utc_end_date": "2026-10-17 01:00:00",
+          "venue": {
+            "venue": "Beat The Bomb Brooklyn",
+            "address": "255 Water Street",
+            "city": "Brooklyn, NY"
+          }
+        },
+        {
+          "id": 10004523,
+          "global_id": "dumbo.nyc?id=10004523",
+          "title": "Game Night Fridays at Time Out Market",
+          "description": "<p>Kick off your Friday night with games, beats, and skyline views at Game Night Fridays at Time Out Market.</p>\n<p>Challenge your friends to your favorite board and card games while enjoying live music from DJ Stretch and DJ Price Is Right, setting the vibe all night long. Sip on drink specials, catch live sports on our projector screen, and soak in some of the best city views around.</p>\n<p>Whether you’re competitive, casual, or just here for the music and drinks, Game Night Fridays is your new end-of-week tradition.<br />\nLocationTime Out Market New York 5th Floor Rooftop</p>\n<p>Perfect for friends, game lovers, after-work hangouts, and anyone looking for a fun, social Friday night experience.</p>\n<p>Every Friday 7pm -11pm</p>",
+          "url": "https://dumbo.nyc/event/game-night-fridays-at-time-out-market/2026-10-16/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-16 23:00:00",
+          "utc_end_date": "2026-10-17 03:00:00",
+          "venue": {
+            "venue": "Time Out Market",
+            "address": "55 Water St",
+            "city": "Brooklyn"
+          }
+        }
+      ]
+    }
+  ]
+}

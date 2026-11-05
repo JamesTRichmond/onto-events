@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Boston Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:bpl-east-boston-branch-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:East Boston Bilingual Story & Song Hour
+DESCRIPTION:Spanish and English bilingual storytelling, songs, and sensory play for neighborhood children and families.
+LOCATION:BPL East Boston Branch
+URL:https://www.bpl.org/locations/east-boston/
+END:VEVENT
+BEGIN:VEVENT
+UID:bpl-east-boston-branch-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:East Boston Green Energy & Climate Workshop
+DESCRIPTION:Community presentation on coastal resilience, green building design, and urban environmental protection in East Boston.
+LOCATION:BPL East Boston Branch
+URL:https://www.bpl.org/locations/east-boston/
+END:VEVENT
+END:VCALENDAR

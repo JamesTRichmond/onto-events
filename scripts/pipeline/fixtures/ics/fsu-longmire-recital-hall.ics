@@ -1,0 +1,351 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Calendar - Longmire Recital Hall (LON)
+X-WR-TIMEZONE:Eastern Time (US & Canada)
+BEGIN:VEVENT
+DTSTAMP:20261015T234803Z
+UID:tag:localist.com\,2008:EventInstance_54228384714720
+DTSTART:20261017T233000Z
+DTEND:20261018T013000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3344722/occurrences/8337774
+GEO:30.441965;-84.292309
+LOCATION:Longmire Recital Hall (LON)
+SUMMARY:Doctoral Solo Recital of Connor Garrison Altagen\, trombone
+URL;VALUE=URI:https://calendar.fsu.edu/event/doctoral-solo-recital-of-connor-garrison-altagen-trombone-6343
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234803Z
+UID:tag:localist.com\,2008:EventInstance_53785941858035
+DTSTART:20261019T233000Z
+DTEND:20261020T010000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3318621/occurrences/8211287
+GEO:30.441965;-84.292309
+LOCATION:Longmire Recital Hall (LON)
+SUMMARY:Faculty/Guest Artist Recital - Caroline Owen and David Kalhous\, duo piano
+URL;VALUE=URI:https://calendar.fsu.edu/event/facultyguest-artist-recital-caroline-owen-and-david-kalhous-duo-piano
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234803Z
+UID:tag:localist.com\,2008:EventInstance_53316992944137
+DTSTART:20261020T190000Z
+DTEND:20261020T220000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3280479/occurrences/7971903
+GEO:30.441965;-84.292309
+LOCATION:Longmire Recital Hall (LON)
+SUMMARY:Living Song Project Dress
+URL;VALUE=URI:https://calendar.fsu.edu/event/living-song-project-dress
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234803Z
+UID:tag:localist.com\,2008:EventInstance_53794797364045
+DTSTART:20261020T233000Z
+DTEND:20261021T003000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3319324/occurrences/8216163
+GEO:30.441965;-84.292309
+LOCATION:Longmire Recital Hall (LON)
+SUMMARY:Doctoral Solo Recital of Mr William Matthew Rich\, trumpet
+URL;VALUE=URI:https://calendar.fsu.edu/event/doctoral-solo-recital-of-mr-william-matthew-rich-trumpet-9311
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234803Z
+UID:tag:localist.com\,2008:EventInstance_53316992919554
+DTSTART:20261021T233000Z
+DTEND:20261022T010000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3280459/occurrences/7971869
+GEO:30.441965;-84.292309
+LOCATION:Longmire Recital Hall (LON)
+SUMMARY:Discovery Days: "Living Song Project: Healing through the Arts"
+URL;VALUE=URI:https://calendar.fsu.edu/event/living-song-project-healing-through-the-arts
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234803Z
+UID:tag:localist.com\,2008:EventInstance_54170372329810
+DTSTART:20261021T233000Z
+DTEND:20261022T010000Z
+DESCRIPTION:This event introduces the Living Song Project (LSP)\, followed by a roughly 45-minute recital shared among four performers and a music therapist\, who will weave improvised guitar and spoken therapeutic narrative between songs\, connecting the music and text to the evening's theme of healing through the arts. The recital is followed by a 20-minute audience-interactive panel discussion\, including a demonstration of the LSP's searchable database and its use in programming the recital\, and a discussion of LSP's potential to support multidisciplinary research and cultural understanding.
+GEO:30.441965;-84.292309
+LOCATION:Longmire Recital Hall (LON)
+SUMMARY:Living Song Project: Healing through the Arts
+URL;VALUE=URI:https://calendar.fsu.edu/event/living-song-project-healing-through-the-arts-2392
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234803Z
+UID:tag:localist.com\,2008:EventInstance_54179886139592
+DTSTART:20261023T143000Z
+DTEND:20261023T160000Z
+DESCRIPTION:This Housewright Virtuoso Series symposium will focus on the limits of knowledge frameworks for music studies in our moment of global transformation. It will feature world-renowned scholars\, including Andrew Chung from the University of North Texas\, Paula Harper from the University of Chicago\, and Gary Tomlinson from Yale University. The panelists will discuss their cutting-edge work on music and the Anthropocene\, digital virality\, and cultural evolution. Together\, we will seek to understand how music is both shaped by and produces dramatic changes in our contemporary world.\n\nAttend in person or virtually!\n\nLivestream: https://www.youtube.com/live/pxNNy4dlmx4
+GEO:30.441965;-84.292309
+LOCATION:Longmire Recital Hall (LON)
+SUMMARY:Musicological Brainfood: Studying Music in the Post-Truth Era
+URL;VALUE=URI:https://calendar.fsu.edu/event/musicological-brainfood-studying-music-in-the-post-truth-era
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234803Z
+UID:tag:localist.com\,2008:EventInstance_52432328352538
+DTSTART:20261023T233000Z
+DTEND:20261024T003000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3251591/occurrences/7861336
+GEO:30.441965;-84.292309
+LOCATION:Longmire Recital Hall (LON)
+SUMMARY:Guest Artist Recital – Mrofchak-Fowler Guitar Duo
+URL;VALUE=URI:https://calendar.fsu.edu/event/guest-artists-recital-of-the-mrofchak-fowler-guitar-duo
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234803Z
+UID:tag:localist.com\,2008:EventInstance_53927527594665
+DTSTART:20261024T233000Z
+DTEND:20261025T013000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3331818/occurrences/8293697
+GEO:30.441965;-84.292309
+LOCATION:Longmire Recital Hall (LON)
+SUMMARY:Special Recital of Peter Fennema\, violin
+URL;VALUE=URI:https://calendar.fsu.edu/event/special-recital-of-peter-fennema-violin-7931
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234803Z
+UID:tag:localist.com\,2008:EventInstance_53794798214085
+DTSTART:20261026T233000Z
+DTEND:20261027T010000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3319357/occurrences/8216413
+GEO:30.441965;-84.292309
+LOCATION:Longmire Recital Hall (LON)
+SUMMARY:Doctoral Solo Recital of Ha Eun Hyun\, piano
+URL;VALUE=URI:https://calendar.fsu.edu/event/doctoral-solo-recital-of-ha-eun-hyun-piano-1422
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234803Z
+UID:tag:localist.com\,2008:EventInstance_53794797816721
+DTSTART:20261027T233000Z
+DTEND:20261028T010000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3319289/occurrences/8215908
+GEO:30.441965;-84.292309
+LOCATION:Longmire Recital Hall (LON)
+SUMMARY:Doctoral Solo Recital of Cailin P McGarry\, bassoon
+URL;VALUE=URI:https://calendar.fsu.edu/event/doctoral-solo-recital-of-cailin-p-mcgarry-bassoon-4865
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234803Z
+UID:tag:localist.com\,2008:EventInstance_53856745225289
+DTSTART:20261028T233000Z
+DTEND:20261029T010000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3324971/occurrences/8253184
+GEO:30.441965;-84.292309
+LOCATION:Longmire Recital Hall (LON)
+SUMMARY:Senior Recital of Ms Haley Ann ONeill\, oboe
+URL;VALUE=URI:https://calendar.fsu.edu/event/of-ms-haley-ann-oneill-oboe
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234803Z
+UID:tag:localist.com\,2008:EventInstance_53741711755020
+DTSTART:20261029T233000Z
+DTEND:20261030T010000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3314623/occurrences/8183781
+GEO:30.441965;-84.292309
+LOCATION:Longmire Recital Hall (LON)
+SUMMARY:Guest Artist Recital - andPlay (Maya Bennardo\, violin\; Hannah Levinson\, viola)
+URL;VALUE=URI:https://calendar.fsu.edu/event/guest-artist-recital-andplay
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234803Z
+UID:tag:localist.com\,2008:EventInstance_53856744918045
+DTSTART:20261030T233000Z
+DTEND:20261031T010000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3324960/occurrences/8253145
+GEO:30.441965;-84.292309
+LOCATION:Longmire Recital Hall (LON)
+SUMMARY:Senior Recital of Jariel I Santiago Ruperto\, clarinet
+URL;VALUE=URI:https://calendar.fsu.edu/event/senior-recital-of-jariel-i-santiago-ruperto
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234803Z
+UID:tag:localist.com\,2008:EventInstance_53299296681915
+DTSTART:20261103T003000Z
+DTEND:20261103T020000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3280024/occurrences/7967966
+GEO:30.441965;-84.292309
+LOCATION:Longmire Recital Hall (LON)
+SUMMARY:Guest Artist Recital of Megan Boutin\, trombone
+URL;VALUE=URI:https://calendar.fsu.edu/event/guest-artist-recital-of-megan-boutin-trombone
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234803Z
+UID:tag:localist.com\,2008:EventInstance_53759411673265
+DTSTART:20261104T003000Z
+DTEND:20261104T020000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3308531/occurrences/8140267
+GEO:30.441965;-84.292309
+LOCATION:Longmire Recital Hall (LON)
+SUMMARY:Saxophone Studio Recital
+URL;VALUE=URI:https://calendar.fsu.edu/event/saxophone-studio-recital
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234803Z
+UID:tag:localist.com\,2008:EventInstance_53794797136675
+DTSTART:20261105T003000Z
+DTEND:20261105T013000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3319422/occurrences/8216867
+GEO:30.441965;-84.292309
+LOCATION:Longmire Recital Hall (LON)
+SUMMARY:Doctoral Chamber Recital of Jinoo Kim\, clarinet
+URL;VALUE=URI:https://calendar.fsu.edu/event/doctoral-chamber-recital-of-jinoo-kim-clarinet
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234803Z
+UID:tag:localist.com\,2008:EventInstance_53794797092629
+DTSTART:20261106T220000Z
+DTEND:20261106T230000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3319319/occurrences/8216158
+GEO:30.441965;-84.292309
+LOCATION:Longmire Recital Hall (LON)
+SUMMARY:Doctoral Lecture Recital of Emily Chantelle Palmer\, violin
+URL;VALUE=URI:https://calendar.fsu.edu/event/doctoral-lecture-recital-of-emily-chantelle-palmer-violin
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234803Z
+UID:tag:localist.com\,2008:EventInstance_53856745771161
+DTSTART:20261107T003000Z
+DTEND:20261107T020000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3324856/occurrences/8252790
+GEO:30.441965;-84.292309
+LOCATION:Longmire Recital Hall (LON)
+SUMMARY:Senior Recital of Sharavan Duvvuri\, trumpet
+URL;VALUE=URI:https://calendar.fsu.edu/event/senior-recital-of-sharavan-duvvuri
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234803Z
+UID:tag:localist.com\,2008:EventInstance_53794797402971
+DTSTART:20261107T190000Z
+DTEND:20261107T203000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3319742/occurrences/8218695
+GEO:30.441965;-84.292309
+LOCATION:Longmire Recital Hall (LON)
+SUMMARY:Doctoral Lecture Recital of Fernando Nicholas Garcia\, piano
+URL;VALUE=URI:https://calendar.fsu.edu/event/doctoral-lecture-recital-of-fernando-nicholas-garcia-piano
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234803Z
+UID:tag:localist.com\,2008:EventInstance_53794797160234
+DTSTART:20261108T003000Z
+DTEND:20261108T013000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3319563/occurrences/8217650
+GEO:30.441965;-84.292309
+LOCATION:Longmire Recital Hall (LON)
+SUMMARY:Doctoral Chamber Recital of Rebecca Lou Keith\, oboe
+URL;VALUE=URI:https://calendar.fsu.edu/event/doctoral-chamber-recital-of-rebecca-lou-keith-oboe
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234803Z
+UID:tag:localist.com\,2008:EventInstance_53794797071118
+DTSTART:20261110T003000Z
+DTEND:20261110T013000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3319207/occurrences/8215700
+GEO:30.441965;-84.292309
+LOCATION:Longmire Recital Hall (LON)
+SUMMARY:Doctoral Lecture Recital of Soohyun Lee\, piano
+URL;VALUE=URI:https://calendar.fsu.edu/event/doctoral-lecture-recital-of-soohyun-lee-piano
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234803Z
+UID:tag:localist.com\,2008:EventInstance_53794797115164
+DTSTART:20261111T003000Z
+DTEND:20261111T013000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3319353/occurrences/8216409
+GEO:30.441965;-84.292309
+LOCATION:Longmire Recital Hall (LON)
+SUMMARY:Doctoral Solo Recital of Johniel Paul Najera\, trumpet
+URL;VALUE=URI:https://calendar.fsu.edu/event/doctoral-solo-recital-of-johniel-paul-najera-trumpet
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234803Z
+UID:tag:localist.com\,2008:EventInstance_53794797620084
+DTSTART:20261113T003000Z
+DTEND:20261113T013000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3319361/occurrences/8216420
+GEO:30.441965;-84.292309
+LOCATION:Longmire Recital Hall (LON)
+SUMMARY:Doctoral Solo Recital of Alex John Nagy\, piano
+URL;VALUE=URI:https://calendar.fsu.edu/event/doctoral-solo-recital-of-alex-john-nagy-piano
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T234803Z
+UID:tag:localist.com\,2008:EventInstance_53794797600621
+DTSTART:20261114T003000Z
+DTEND:20261114T023000Z
+DESCRIPTION:https://fsu-college-of-music.gofmx.com/scheduling/requests/3319192/occurrences/8215681
+GEO:30.441965;-84.292309
+LOCATION:Longmire Recital Hall (LON)
+SUMMARY:Doctoral Solo Recital of Leah Jean Shewmaker\, voice
+URL;VALUE=URI:https://calendar.fsu.edu/event/doctoral-solo-recital-of-leah-jean-shewmaker-voice
+CATEGORIES:Arts/Entertainment
+CATEGORIES:Music & Concerts
+CATEGORIES:Recitals
+END:VEVENT
+END:VCALENDAR

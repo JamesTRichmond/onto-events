@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//fixture//EN
+BEGIN:VEVENT
+UID:91261-1792233000-1792240200@wagner.edu
+DTSTART:20261017T143000Z
+DTEND:20261017T163000Z
+SUMMARY:Men's Water Polo v Mount St Mary's
+LOCATION:Spiro Sports Center\, 1 Campus Road\, Staten Island\, NY\, 10301
+URL:https://wagner.edu/newsroom/event/mens-water-polo-v-mount-st-marys-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:91147-1792236600-1792254600@wagner.edu
+DTSTART:20261017T153000Z
+DTEND:20261017T203000Z
+SUMMARY:Wagner Weekend
+LOCATION:Outdoor\, NY
+URL:https://wagner.edu/newsroom/event/wagner-weekend-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:91262-1792252800-1792260000@wagner.edu
+DTSTART:20261017T200000Z
+DTEND:20261017T220000Z
+SUMMARY:Men's Water Polo v Bucknell
+LOCATION:Spiro Sports Center\, 1 Campus Road\, Staten Island\, NY\, 10301
+URL:https://wagner.edu/newsroom/event/mens-water-polo-v-bucknell-4/
+END:VEVENT
+END:VCALENDAR

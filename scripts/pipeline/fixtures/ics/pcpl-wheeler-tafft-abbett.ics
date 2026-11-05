@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Tucson Fixture//EN
+X-WR-TIMEZONE:America/Phoenix
+BEGIN:VEVENT
+UID:pcpl-wheeler-tafft-abbett-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T170000Z
+DTEND:20261024T183000Z
+SUMMARY:Continental Ranch Family Storytime & Play
+DESCRIPTION:Active storytelling, finger puppets, and socialization play for toddlers and preschoolers in Marana.
+LOCATION:Wheeler Taft Abbett Sr. Library
+URL:https://www.library.pima.gov/locations/wheeler-taft-abbett-sr/
+END:VEVENT
+BEGIN:VEVENT
+UID:pcpl-wheeler-tafft-abbett-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261028T010000Z
+DTEND:20261028T023000Z
+SUMMARY:Marana Community Board Game & Puzzle Social
+DESCRIPTION:Family-friendly tabletop board games and collaborative puzzle-solving afternoon.
+LOCATION:Wheeler Taft Abbett Sr. Library
+URL:https://www.library.pima.gov/locations/wheeler-taft-abbett-sr/
+END:VEVENT
+END:VCALENDAR

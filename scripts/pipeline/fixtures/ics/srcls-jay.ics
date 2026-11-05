@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Pensacola Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:srcls-jay-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Jay Library Community Story & Craft Hour
+DESCRIPTION:Weekly children reading circle and hands-on art workshop in the Town of Jay.
+LOCATION:Jay Library (SRCLS)
+URL:https://www.santarosa.fl.gov/162/Jay-Library
+END:VEVENT
+BEGIN:VEVENT
+UID:srcls-jay-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:North Santa Rosa Heritage & Quilting Social
+DESCRIPTION:Community craft and local agricultural heritage meetup at Jay Library.
+LOCATION:Jay Library (SRCLS)
+URL:https://www.santarosa.fl.gov/162/Jay-Library
+END:VEVENT
+END:VCALENDAR

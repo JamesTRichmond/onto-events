@@ -1,0 +1,58 @@
+{
+  "pages": [
+    {
+      "total": 4,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 4019,
+          "global_id": "cbbrooklyn.cityofnewyork.us/cb17?id=4019",
+          "title": "Sanitation/DEP Committee Meeting",
+          "description": "https://nyccb.webex.com/nyccb/j.php?MTID=m97bb64708a5164c98f5d5f7f1fb7d58c",
+          "url": "https://cbbrooklyn.cityofnewyork.us/cb17/event/sanitation-dep-committee-meeting-3-2/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-19 23:30:00",
+          "utc_end_date": "2026-10-20 01:00:00",
+          "venue": []
+        },
+        {
+          "id": 10001279,
+          "global_id": "cbbrooklyn.cityofnewyork.us/cb17?id=10001279",
+          "title": "Commerce Committee Meeting",
+          "description": "https://nyccb.webex.com/nyccb/j.php?MTID=m7fd6e9883e2ec00a16cb112597151688",
+          "url": "https://cbbrooklyn.cityofnewyork.us/cb17/event/commerce-committee-meeting-9/2026-10-20/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-20 23:00:00",
+          "utc_end_date": "2026-10-21 01:00:00",
+          "venue": []
+        },
+        {
+          "id": 4010,
+          "global_id": "cbbrooklyn.cityofnewyork.us/cb17?id=4010",
+          "title": "CB17 Parks & Beautification Committee | Flatbush Clean for Halloween",
+          "description": "",
+          "url": "https://cbbrooklyn.cityofnewyork.us/cb17/event/cb17-parks-beautification-committee-flatbush-clean-for-halloween/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-24 17:00:00",
+          "utc_end_date": "2026-10-24 20:00:00",
+          "venue": []
+        },
+        {
+          "id": 4017,
+          "global_id": "cbbrooklyn.cityofnewyork.us/cb17?id=4017",
+          "title": "Social & Health Services Committee Meeting",
+          "description": "https://nyccb.webex.com/nyccb/j.php?MTID=m89ce052304b622bfa58cc29203d6f0dc",
+          "url": "https://cbbrooklyn.cityofnewyork.us/cb17/event/social-health-services-committee-meeting-3-2/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-26 23:30:00",
+          "utc_end_date": "2026-10-27 01:00:00",
+          "venue": []
+        }
+      ]
+    }
+  ]
+}

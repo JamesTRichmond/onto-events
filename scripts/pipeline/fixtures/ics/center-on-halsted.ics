@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Expansion Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:center-on-halsted-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261025T190000Z
+DTEND:20261025T203000Z
+SUMMARY:Northalsted Community Open Forum & Welcome Circle
+DESCRIPTION:Monthly inclusive community gathering exploring Northalsted neighborhood arts, mutual aid networks, and LGBTQ+ community history.
+LOCATION:Center on Halsted
+URL:https://www.centeronhalsted.org/events/community
+END:VEVENT
+BEGIN:VEVENT
+UID:center-on-halsted-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261028T190000Z
+DTEND:20261028T203000Z
+SUMMARY:Center on Halsted Youth & Intergenerational Story Lab
+DESCRIPTION:Intergenerational storytelling and community oral history session bringing together Northalsted elders and youth artists.
+LOCATION:Center on Halsted
+URL:https://www.centeronhalsted.org/events/youth-intergenerational
+END:VEVENT
+END:VCALENDAR

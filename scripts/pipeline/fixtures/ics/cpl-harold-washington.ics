@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:cpl-harold-washington-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Downtown Family STEM & Story Hour
+DESCRIPTION:Interactive story reading, rhythm instruments, and youth science exploration for toddlers, preschoolers, and families at the Harold Washington Library Center.
+LOCATION:Harold Washington Library Center (CPL Main)
+URL:https://www.chipublib.org/locations/34/
+END:VEVENT
+BEGIN:VEVENT
+UID:cpl-harold-washington-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:CPL Maker Lab: Digital Design & 3D Fabrication
+DESCRIPTION:Hands-on digital modeling, laser cutting basics, and creative fabrication workshop in the 3rd floor Maker Lab.
+LOCATION:Harold Washington Library Center (CPL Main)
+URL:https://www.chipublib.org/locations/34/
+END:VEVENT
+END:VCALENDAR

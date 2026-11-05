@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Round Rock Public Library Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:rrpl-steam-lab-20261025@onto.events
+DTSTAMP:20260905T120000Z
+DTSTART:20261025T160000Z
+DTEND:20261025T173000Z
+SUMMARY:Youth STEAM Discovery & Robotics Lab
+DESCRIPTION:Hands-on robotics and coding workshop for elementary and middle school students in the Round Rock Library Discovery Center.
+LOCATION:Round Rock Public Library
+URL:https://www.roundrocktexas.gov/city-departments/library/
+END:VEVENT
+BEGIN:VEVENT
+UID:rrpl-author-talk-20261102@onto.events
+DTSTAMP:20260905T120000Z
+DTSTART:20261102T190000Z
+DTEND:20261102T203000Z
+SUMMARY:Hill Country Author Series & Book Discussion
+DESCRIPTION:Local Texas authors share historical insights and fiction craft in the library community room.
+LOCATION:Round Rock Public Library
+URL:https://www.roundrocktexas.gov/city-departments/library/
+END:VEVENT
+BEGIN:VEVENT
+UID:rrpl-family-storytime-20261114@onto.events
+DTSTAMP:20260905T120000Z
+DTSTART:20261114T153000Z
+DTEND:20261114T163000Z
+SUMMARY:Family Bilingual Storytime & Puppet Theater
+DESCRIPTION:Bilingual English and Spanish storytime featuring interactive music, movement, and puppet crafts.
+LOCATION:Round Rock Public Library
+URL:https://www.roundrocktexas.gov/city-departments/library/
+END:VEVENT
+END:VCALENDAR

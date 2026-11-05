@@ -1,0 +1,390 @@
+{
+  "capture": {
+    "startedAt": "2026-10-15T23:31:48.110Z",
+    "completedAt": "2026-10-15T23:31:50.341Z",
+    "evaluationClock": "2026-10-15T23:31:42.544Z",
+    "publicUrl": "https://www.smcvt.edu/wp-json/tribe/events/v1/events",
+    "rawCaptureSha256": "0be6b5ad667e0349c642a4a56a4903b5fedab517b2c670f3422058ee9daa986a"
+  },
+  "sanitization": "Real public API responses. Original event dates,IDs,UTC/local clocks,full eligibility/age prose and pagination retained. Unconsumed author/organizer/media/tracking fields omitted; direct contact strings redacted. No dates or occurrences invented.",
+  "pages": [
+    {
+      "total": 16,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 191553,
+          "global_id": "www.smcvt.edu?id=191553",
+          "url": "https://www.smcvt.edu/event/st-mikes-at-boston-legacy-fc/",
+          "title": "St. Mike&#8217;s at Boston Legacy FC",
+          "description": "<p>The Legacy are amidst their inaugural season, and this will be the last regular season game the Legacy will play in 2026! Tickets are $60 per person and will be located in section 132!</p>\n<p><a href=\"https://www.givecampus.com/schools/SaintMichaelsCollege/events/2026-st-mike-s-night-at-boston-legacy-fc\">https://www.givecampus.com/schools/SaintMichaelsCollege/events/2026-st-mike-s-night-at-boston-legacy-fc</a></p>",
+          "all_day": false,
+          "start_date": "2026-10-16 20:00:00",
+          "end_date": "2026-10-16 23:00:00",
+          "utc_start_date": "2026-10-17 00:00:00",
+          "utc_end_date": "2026-10-17 03:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 191551,
+            "venue": "Gillette Stadium",
+            "url": "https://www.smcvt.edu/venue/gillette-stadium/",
+            "address": "1 Patriot Pl",
+            "city": "Foxborough",
+            "state": "MA",
+            "stateprovince": "MA",
+            "zip": "02035",
+            "country": "United States"
+          },
+          "categories": [
+            {
+              "id": 18600,
+              "name": "Alumni Events",
+              "slug": "alumni"
+            }
+          ]
+        },
+        {
+          "id": 194658,
+          "global_id": "www.smcvt.edu?id=194658",
+          "url": "https://www.smcvt.edu/event/mens-rugby-vs-western-new-england/",
+          "title": "Men&#8217;s Rugby vs. Western New England",
+          "description": "<p>Men&#8217;s Rugby is facing off against Western New England University on Saturday October 17th at 2 p.m. Come out and support at the 300&#8217;s field!</p>",
+          "all_day": false,
+          "start_date": "2026-10-17 14:00:00",
+          "end_date": "2026-10-17 17:00:00",
+          "utc_start_date": "2026-10-17 18:00:00",
+          "utc_end_date": "2026-10-17 21:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 114569,
+            "venue": "300’s Field",
+            "url": "https://www.smcvt.edu/venue/300s-field/"
+          },
+          "categories": []
+        },
+        {
+          "id": 10002888,
+          "global_id": "www.smcvt.edu?id=10002888",
+          "url": "https://www.smcvt.edu/event/bucket-golf/2026-10-21/",
+          "title": "Bucket Golf",
+          "description": "<p>Every Wednesday, Bucket Golf is set up on the main lawn between the Chapel and Library, come take a few swings!</p>",
+          "all_day": true,
+          "start_date": "2026-10-21 00:00:00",
+          "end_date": "2026-10-21 23:59:59",
+          "utc_start_date": "2026-10-21 04:00:00",
+          "utc_end_date": "2026-10-22 03:59:59",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": []
+        },
+        {
+          "id": 194726,
+          "global_id": "www.smcvt.edu?id=194726",
+          "url": "https://www.smcvt.edu/event/master-of-arts-in-teaching-information-session/",
+          "title": "Master of Arts in Teaching Information Session",
+          "description": "<p>Have you ever considered teaching? If so, please join us for an information session on Wednesday, October 21 from 3:30 &#8211; 4:30 PM to learn more about SMC&#8217;s one-year Master of Arts in Teaching (MAT) program. This competitively-priced program is open to students from any major. No prior education coursework is required. The MAT leads to a master&#8217;s degree and licensure in art, elementary, middle, secondary, or special education. SMC juniors and seniors can take up to 3 graduate courses as part of their undergraduate program at no additional cost and save up to $6,000 in graduate tuition. The program is also open to graduates of other colleges and universities.<br />\nVisit smcvt.edu/gradevents to register. To learn more about the MAT, visit smcvt.edu/mat or contact Amy Saks Pavese at [contact omitted].</p>",
+          "all_day": false,
+          "start_date": "2026-10-21 15:30:00",
+          "end_date": "2026-10-21 16:30:00",
+          "utc_start_date": "2026-10-21 19:30:00",
+          "utc_end_date": "2026-10-21 20:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 114530,
+            "venue": "Saint Edmund’s Hall",
+            "url": "https://www.smcvt.edu/venue/saint-edmunds-hall-2/"
+          },
+          "categories": [
+            {
+              "id": 21766,
+              "name": "Graduate Education",
+              "slug": "graduate-education"
+            }
+          ]
+        },
+        {
+          "id": 194633,
+          "global_id": "www.smcvt.edu?id=194633",
+          "url": "https://www.smcvt.edu/event/fall-networking-event-at-onlogic-2/",
+          "title": "Fall Career Networking Night",
+          "description": "<p><b>Network with current students</b><b><a href=\"https://www.givecampus.com/s/da6y8d\" target=\"_blank\" rel=\"noopener\"><u> </u></a></b><b>on campus on </b><b>Wednesday, October 21st</b></p>\n<p><b><a href=\"https://www.givecampus.com/s/da6y8d\" target=\"_blank\" rel=\"noopener\"><u>Sign up today!</u></a></b><b><u></u></b></p>\n<p>Local or traveling to VT for work or leaf peeping? Join fellow alumni and current students for an evening of conversation, connections, and light bites &#8211; hosted right here in the Student Success Center on the St. Mike&#8217;s campus!</p>\n<p>Our alumni network is one of the best parts of a St. Mike&#8217;s education. Come share your experiences, make new connections, and show students just how strong the Purple Knight community really is.</p>\n<p><b>Wednesday, October 21, 2026<br />\n4:30 &#8211; 6:30 p.m.</b></p>\n<p><b>Student Success Center, Durick Library<br />\n150 Lyons Lane<br />\nColchester, VT 05439</b></p>",
+          "all_day": false,
+          "start_date": "2026-10-21 16:30:00",
+          "end_date": "2026-10-21 18:30:00",
+          "utc_start_date": "2026-10-21 20:30:00",
+          "utc_end_date": "2026-10-21 22:30:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 136736,
+            "venue": "Student Success Center",
+            "url": "https://www.smcvt.edu/venue/student-success-center/"
+          },
+          "categories": [
+            {
+              "id": 18600,
+              "name": "Alumni Events",
+              "slug": "alumni"
+            },
+            {
+              "id": 21645,
+              "name": "Boucher Career Education Center",
+              "slug": "boucher-career-education-center"
+            }
+          ]
+        },
+        {
+          "id": 194660,
+          "global_id": "www.smcvt.edu?id=194660",
+          "url": "https://www.smcvt.edu/event/womens-rugby-vs-providence/",
+          "title": "Women&#8217;s Rugby vs. Providence",
+          "description": "<p>Women&#8217;s Rugby is facing off against Providence College on Saturday October 24th at 1 p.m. Come out and support at the 300&#8217;s field!</p>",
+          "all_day": false,
+          "start_date": "2026-10-24 08:00:00",
+          "end_date": "2026-10-24 17:00:00",
+          "utc_start_date": "2026-10-24 12:00:00",
+          "utc_end_date": "2026-10-24 21:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 114569,
+            "venue": "300’s Field",
+            "url": "https://www.smcvt.edu/venue/300s-field/"
+          },
+          "categories": []
+        },
+        {
+          "id": 194490,
+          "global_id": "www.smcvt.edu?id=194490",
+          "url": "https://www.smcvt.edu/event/fall-open-house-7/",
+          "title": "Fall Open House",
+          "description": "<p>Discover what makes St. Mike’s special. Enjoy interactive faculty sessions, a student-led campus tour, complimentary lunch, and a student life activities fair. Please register online.</p>",
+          "all_day": false,
+          "start_date": "2026-10-24 09:00:00",
+          "end_date": "2026-10-24 14:00:00",
+          "utc_start_date": "2026-10-24 13:00:00",
+          "utc_end_date": "2026-10-24 18:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 114526,
+            "venue": "McCarthy Arts Center",
+            "url": "https://www.smcvt.edu/venue/mccarthy-arts-center/"
+          },
+          "categories": [
+            {
+              "id": 21637,
+              "name": "Admission",
+              "slug": "admission"
+            }
+          ]
+        },
+        {
+          "id": 194728,
+          "global_id": "www.smcvt.edu?id=194728",
+          "url": "https://www.smcvt.edu/event/graduate-education-open-house/",
+          "title": "Graduate Education Open House",
+          "description": "<p>Join us to learn more about the Graduate Education programs at Saint Michael’s College, meet current faculty and students, and attend a graduate class. Designed to support educators at all stages of their professional journey from pre-service teacher to experienced school leader, SMC offers the following programs: Master of Arts in Teaching, Master of Education, post-master&#8217;s Certificate of Advanced Graduate Study, and Graduate Certificates, with options for initial teacher licensure and additional endorsements in school leadership. Our newly redesigned M.Ed. and C.A.G.S. programs now offer four new concentrations with more options for personalization, applied learning, online courses, and flexibility. Come learn how SMC can support you in meeting your professional goals.</p>",
+          "all_day": false,
+          "start_date": "2026-10-26 16:00:00",
+          "end_date": "2026-10-26 18:15:00",
+          "utc_start_date": "2026-10-26 20:00:00",
+          "utc_end_date": "2026-10-26 22:15:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 114573,
+            "venue": "Farrell Room, Saint Edmund’s Hall",
+            "url": "https://www.smcvt.edu/venue/farrell-room-saint-edmunds-hall/"
+          },
+          "categories": [
+            {
+              "id": 21766,
+              "name": "Graduate Education",
+              "slug": "graduate-education"
+            }
+          ]
+        },
+        {
+          "id": 10002889,
+          "global_id": "www.smcvt.edu?id=10002889",
+          "url": "https://www.smcvt.edu/event/bucket-golf/2026-10-28/",
+          "title": "Bucket Golf",
+          "description": "<p>Every Wednesday, Bucket Golf is set up on the main lawn between the Chapel and Library, come take a few swings!</p>",
+          "all_day": true,
+          "start_date": "2026-10-28 00:00:00",
+          "end_date": "2026-10-28 23:59:59",
+          "utc_start_date": "2026-10-28 04:00:00",
+          "utc_end_date": "2026-10-29 03:59:59",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": []
+        },
+        {
+          "id": 10002890,
+          "global_id": "www.smcvt.edu?id=10002890",
+          "url": "https://www.smcvt.edu/event/bucket-golf/2026-11-04/",
+          "title": "Bucket Golf",
+          "description": "<p>Every Wednesday, Bucket Golf is set up on the main lawn between the Chapel and Library, come take a few swings!</p>",
+          "all_day": true,
+          "start_date": "2026-11-04 00:00:00",
+          "end_date": "2026-11-04 23:59:59",
+          "utc_start_date": "2026-11-04 05:00:00",
+          "utc_end_date": "2026-11-05 04:59:59",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": []
+        },
+        {
+          "id": 193668,
+          "global_id": "www.smcvt.edu?id=193668",
+          "url": "https://www.smcvt.edu/event/__trashed-2/",
+          "title": "Artist Talk: Lucia Monge",
+          "description": "<p>Visiting artist Lucia Monge will be talking about her work and her exhibition in the McCarthy Art Gallery, &#8220;Against the Grain.&#8221; The talk will be in Saint Edmund&#8217;s Hall 104.</p>\n<p>Artist bio<br />\nLucia Monge is a Peruvian artist whose work explores the ways humans position ourselves<br />\nwithin the natural world and relate to other living beings, especially plants. Some of her<br />\nrecent projects include exploring interspecies vulnerability and material circularity through<br />\nplant respiration, a &#8220;fungi broadcast&#8221; about deforestation in the Amazon, sending potato<br />\nseeds to space as messengers for non-colonial visions of space travel, and organizing<br />\n&#8220;walking forest&#8221; performances that have led to the creation of green spaces in Lima,<br />\nLondon, New York, Paris, and Pamplona.<br />\nMonge has shown her work internationally, including at the Museum of Latin American Art,<br />\nQueens Museum, Whitechapel Gallery, Museum of Contemporary Art in Lima, the United<br />\nNations Climate Change Conference, Ars Electronica, and the Havana and Shenzhen<br />\nbiennales. She has received grants from the Oak Spring Garden Foundation, Peruvian<br />\nMinistry of Culture, COAL, and Foundation for Contemporary Arts, among other. Her work<br />\nhas been featured in publications such as MoMA’s Uneven Growth, Global Performance<br />\nStudies, Let&#8217;s Become Fungal, The Work of Art in the Age of Planetary Destruction, and<br />\nLejos de la Tierra, among other.<br />\nShe holds an MFA from Rhode Island School of Design and a BFA from Universidad<br />\nCatólica del Perú. She is a founding member of FIBRA art collective, and Assistant<br />\nProfessor of Art at Amherst College.</p>",
+          "all_day": false,
+          "start_date": "2026-11-05 17:00:00",
+          "end_date": "2026-11-05 18:00:00",
+          "utc_start_date": "2026-11-05 22:00:00",
+          "utc_end_date": "2026-11-05 23:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": [],
+          "categories": [
+            {
+              "id": 21789,
+              "name": "McCarthy Art Gallery",
+              "slug": "mccarthy-art-gallery"
+            }
+          ]
+        },
+        {
+          "id": 193666,
+          "global_id": "www.smcvt.edu?id=193666",
+          "url": "https://www.smcvt.edu/event/__trashed-3/",
+          "title": "McCarthy Art Gallery Reception: &#8220;Against the Grain&#8221; an exhibition by Lucia Monge",
+          "description": "<p>Please join us at a gallery reception for visiting artist Lucia Monge&#8217;s exhibition &#8220;Against the Grain,&#8221; a sculptural installation focused on Amaranthus palmeri, a plant that some call a “superfood” and others a “superweed.” It has evolved to resist at least six herbicides used to support GMO monoculture. The installation sets a large-scale amaranth ovary against a homogeneous field of corn and soy, to explore classification, exploitation, and resistance.</p>",
+          "all_day": false,
+          "start_date": "2026-11-05 18:00:00",
+          "end_date": "2026-11-05 19:00:00",
+          "utc_start_date": "2026-11-05 23:00:00",
+          "utc_end_date": "2026-11-06 00:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 114527,
+            "venue": "Gallery, McCarthy Arts Center",
+            "url": "https://www.smcvt.edu/venue/gallery-mccarthy-arts-center/"
+          },
+          "categories": [
+            {
+              "id": 21789,
+              "name": "McCarthy Art Gallery",
+              "slug": "mccarthy-art-gallery"
+            }
+          ]
+        },
+        {
+          "id": 193933,
+          "global_id": "www.smcvt.edu?id=193933",
+          "url": "https://www.smcvt.edu/event/branching-out-environmental-symposium/",
+          "title": "The Branching Out Symposium",
+          "description": "<p>Join us for the Leahy Institute for Environment’s annual Branching Out Symposium—an evening of presentations and celebrations focused on Teaching, Learning, and Leadership in, for, and about the environment. The event will be held Thursday, November 12th from 5:00–8:00 p.m. in the Dion Center&#8217;s Roy Room.</p>\n<p>Our goal is to uplift the work of I4E students and highlight the many ways we learn about and care for the world—across fields, disciplines, and lived experiences. The event will feature light networking, food drinks, guest speakers, and student poster presentations.</p>\n<p>To stay informed of the event and receive reminders closer to the date, register here: https://forms.clickup.com/9006078693/f/8ccvpq5-26674/N9DLX3J66XK2NV5YPT</p>\n<p>(Prior registration is not required for participation)</p>",
+          "all_day": false,
+          "start_date": "2026-11-12 17:00:00",
+          "end_date": "2026-11-12 20:00:00",
+          "utc_start_date": "2026-11-12 22:00:00",
+          "utc_end_date": "2026-11-13 01:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 114550,
+            "venue": "Roy Room, Dion Family Student Center",
+            "url": "https://www.smcvt.edu/venue/roy-room-dion-family-student-center/"
+          },
+          "categories": [
+            {
+              "id": 21650,
+              "name": "Center for the Environment",
+              "slug": "center-for-the-environment"
+            }
+          ]
+        },
+        {
+          "id": 194087,
+          "global_id": "www.smcvt.edu?id=194087",
+          "url": "https://www.smcvt.edu/event/fall-open-house-6/",
+          "title": "Fall Open House",
+          "description": "<p>Discover what makes St. Mike’s special. Enjoy interactive faculty sessions, a student-led campus tour, complimentary lunch, and a student life activities fair. Please register online.</p>",
+          "all_day": false,
+          "start_date": "2026-11-14 09:00:00",
+          "end_date": "2026-11-14 14:00:00",
+          "utc_start_date": "2026-11-14 14:00:00",
+          "utc_end_date": "2026-11-14 19:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 114526,
+            "venue": "McCarthy Arts Center",
+            "url": "https://www.smcvt.edu/venue/mccarthy-arts-center/"
+          },
+          "categories": [
+            {
+              "id": 21637,
+              "name": "Admission",
+              "slug": "admission"
+            }
+          ]
+        },
+        {
+          "id": 10002944,
+          "global_id": "www.smcvt.edu?id=10002944",
+          "url": "https://www.smcvt.edu/event/intramural-soccer/2026-11-15/",
+          "title": "Intramural Soccer",
+          "description": "<p>Intramural Soccer League happens on Sunday nights from 6:30 p.m.-9:30 p.m. We have 8 teams and about 80 students playing every sunday night, come out to Duffy Field to see the action!</p>",
+          "all_day": false,
+          "start_date": "2026-11-15 08:00:00",
+          "end_date": "2026-11-15 17:00:00",
+          "utc_start_date": "2026-11-15 13:00:00",
+          "utc_end_date": "2026-11-15 22:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 194666,
+            "venue": "Duffy Field",
+            "url": "https://www.smcvt.edu/venue/duffy-field/",
+            "city": "Colchester",
+            "stateprovince": "Vermont",
+            "zip": "05439"
+          },
+          "categories": []
+        },
+        {
+          "id": 194687,
+          "global_id": "www.smcvt.edu?id=194687",
+          "url": "https://www.smcvt.edu/event/second-annual-hope-happens-here-charity-basketball-tournament-benefiting-movember/",
+          "title": "Second Annual Hope Happens Here Charity Basketball Tournament",
+          "description": "<p>Join us for the second annual 3v3 Charity Basketball Tournament in support of Movember. The event is organized by the student-run organization Hope Happens Here and marketing staff member Kevin Hummer, who raises funds for men’s mental health and suicide prevention.</p>",
+          "all_day": false,
+          "start_date": "2026-11-17 17:00:00",
+          "end_date": "2026-11-17 21:00:00",
+          "utc_start_date": "2026-11-17 22:00:00",
+          "utc_end_date": "2026-11-18 02:00:00",
+          "timezone": "America/New_York",
+          "hide_from_listings": false,
+          "venue": {
+            "id": 114566,
+            "venue": "Tarrant Recreation Center",
+            "url": "https://www.smcvt.edu/venue/tarrant-recreation-center/"
+          },
+          "categories": []
+        }
+      ]
+    }
+  ]
+}

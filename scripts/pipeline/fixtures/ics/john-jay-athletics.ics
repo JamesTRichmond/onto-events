@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//fixture//EN
+BEGIN:VEVENT
+UID:vcal_12387-johnjayathletics.com
+DTSTART:20261020T220000Z
+DTEND:20261021T010000Z
+SUMMARY:Women's Swimming vs Maritime
+LOCATION:New York\, NY\, John Jay Pool
+URL:https://johnjayathletics.com/calendar.aspx?game_id=12387&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12388-johnjayathletics.com
+DTSTART:20261020T220000Z
+DTEND:20261021T010000Z
+SUMMARY:Women's Swimming vs Purchase
+LOCATION:New York\, NY\, John Jay Pool
+URL:https://johnjayathletics.com/calendar.aspx?game_id=12388&amp;sport_id=9
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12342-johnjayathletics.com
+DTSTART:20261022T220000Z
+DTEND:20261023T000000Z
+SUMMARY:Women's Volleyball vs Lehman
+LOCATION:New York\, NY\, The Doghouse
+URL:https://johnjayathletics.com/calendar.aspx?game_id=12342&amp;sport_id=3
+END:VEVENT
+END:VCALENDAR

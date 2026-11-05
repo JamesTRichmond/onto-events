@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto fixture//EN
+BEGIN:VEVENT
+UID:20261016T040000Z-402953@events.nyu.edu
+DTSTART:20261016T040000Z
+DTEND:20261017T040000Z
+SUMMARY:80WSE Gallery Exhibition: Incendiaries: The People's Flag Show 1970
+LOCATION:80 Washington Square East\, NYC
+URL:https://steinhardt.nyu.edu/events/2026-09/80wse-gallery-exhibition-incendiaries-peoples-flag-show-1970
+END:VEVENT
+BEGIN:VEVENT
+UID:20261016T233000Z-402702@events.nyu.edu
+DTSTART:20261016T233000Z
+DTEND:20261017T003000Z
+SUMMARY:Manual Cinema: The 4th Witch
+LOCATION:Skirball Center for the Performing Arts
+URL:https://events.nyu.edu/event/402702-manual-cinema-the-4th-witch
+END:VEVENT
+BEGIN:VEVENT
+UID:20261017T040000Z-402953@events.nyu.edu
+DTSTART:20261017T040000Z
+DTEND:20261018T040000Z
+SUMMARY:80WSE Gallery Exhibition: Incendiaries: The People's Flag Show 1970
+LOCATION:80 Washington Square East\, NYC
+URL:https://steinhardt.nyu.edu/events/2026-09/80wse-gallery-exhibition-incendiaries-peoples-flag-show-1970
+END:VEVENT
+END:VCALENDAR

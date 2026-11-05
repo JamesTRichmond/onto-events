@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Boston Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:newton-free-library-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Newton STEAM Discovery & Robotics Club
+DESCRIPTION:Hands-on robotics challenges and creative electronics experiments for elementary and middle schoolers.
+LOCATION:Newton Free Library
+URL:https://www.newtonfreelibrary.net/
+END:VEVENT
+BEGIN:VEVENT
+UID:newton-free-library-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Newton Community Art Exhibition & Artist Talk
+DESCRIPTION:Gallery opening showcasing regional New England oil and watercolor artists in the main library atrium.
+LOCATION:Newton Free Library
+URL:https://www.newtonfreelibrary.net/
+END:VEVENT
+END:VCALENDAR

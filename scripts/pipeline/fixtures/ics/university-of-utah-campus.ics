@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+PRODID:-//Trumba Corporation//Trumba Calendar Services 0.11.26102//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+X-WR-CALNAME:University of Utah
+X-WR-TIMEZONE:America/Denver
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Denver
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Bug World: A special exhibition at NHMU
+LOCATION:Natural History Museum of Utah (NHMU)
+DTSTART;TZID=America/Denver:20260615T100000
+DTEND;TZID=America/Denver:20260907T170000
+URL:https://nhmu.utah.edu/exhibitions/bug-world
+DTSTAMP:20260612T115105Z
+DESCRIPTION:Event Categories: Exhibitions<br>Campus Locations: Natural His
+ tory Museum of Utah (NHMU)<br>Cost: Free for University of Utah faculty\,
+  staff\, and students.<br>Ticket URL: https://nhmu.utah.edu/exhibitions/b
+ ug-world<br>Transpor [trimmed]
+CATEGORIES:Natural History Museum of Utah
+IMAGE;VALUE=URI:https://www.trumba.com/i/DgC9z9z4-hAxAHwkAb1QfK6L.jpg
+UID:http://uid.trumba.com/event/204576031
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Faculty Seed Grant Program (application portal open)
+LOCATION:<a href="https://wilkescenter.utah.edu/funding-opportunities/facu
+ lty-seed-grant/" target="_blank" rel="noopener" title="https://wilkescent
+ er.utah.edu/funding-opportunities/faculty-seed-grant/">wilkescenter.utah.
+ edu&#8230\;</a>
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20261031
+URL:https://wilkescenter.utah.edu/funding-opportunities/faculty-seed-grant
+ /
+DTSTAMP:20260701T092920Z
+DESCRIPTION:Link: https://wilkescenter.utah.edu/funding-opportunities/facu
+ lty-seed-grant/<br><br>This Incentive Seed Grant Program is intended to p
+ rovide initial support for impactful research exploring the fundamental p
+ rocesses surrounding [trimmed]
+CATEGORIES:Wilkes Center
+UID:http://uid.trumba.com/event/205189038
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Make Space Closed for Labor Day Weekend
+LOCATION:Lassonde Studios (LSND)
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+URL:https://lassonde.utah.edu/make
+DTSTAMP:20260730T101142Z
+DESCRIPTION:Campus Locations: Lassonde Studios (LSND)<br>Room Name/Number:
+  Makespace<br>Contact Name: Lassonde Studios<br>Contact Phone: [phone red
+ acted]<br>Contact Email: [email redacted]<br>Campus Wide Event: Yes<br>Li
+ nk: https://lassonde [trimmed]
+CATEGORIES:Lassonde Entrepreneur Institute
+IMAGE;VALUE=URI:https://www.trumba.com/i/DgD2F%2ATlOFR4QCRjnWVTHoG5.jpg
+UID:http://uid.trumba.com/event/206191590
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holiday: Labor Day
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+DTSTAMP:20250925T152639Z
+DESCRIPTION:Event Categories: Academic & Holiday<br>Campus Wide Event: Yes
+ <br>
+CATEGORIES:Academic Deadlines
+IMAGE;VALUE=URI:https://www.trumba.com/i/DgBxVVW1RYMxjzh597XcAlW7.png
+UID:http://uid.trumba.com/event/190764446
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Master of Business Creation: Virtual Info Session
+LOCATION:Zoom
+DTSTART;TZID=America/Denver:20260907T180000
+DTEND;TZID=America/Denver:20260907T190000
+URL:https://eccles.utah.edu/mbc
+DTSTAMP:20260708T162707Z
+DESCRIPTION:Event Categories: Workshops & Training<br>Campus Locations: Zo
+ om<br>Contact Phone: [phone redacted]<br>Contact Email: [email redacted]<
+ br>Campus Wide Event: Yes<br>Link: https://eccles.utah.edu/mbc<br><br>Att
+ end a Master of Busi [trimmed]
+CATEGORIES:Lassonde Entrepreneur Institute
+IMAGE;VALUE=URI:https://www.trumba.com/i/DgBaNECo3w5zSHexvkdA7XEw.jpeg
+UID:http://uid.trumba.com/event/205427308
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Pensacola Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:wfpl-southwest-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Perdido Coastal Nature & Birding Discovery Hour
+DESCRIPTION:Family ecology presentation on barrier island shorebirds and coastal conservation near Big Lagoon.
+LOCATION:WFPL Southwest Branch Library
+URL:https://mywfpl.com/locations/southwest
+END:VEVENT
+BEGIN:VEVENT
+UID:wfpl-southwest-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Southwest Branch Preschool Storytime
+DESCRIPTION:Early childhood songs, picture books, and fingerplays for young readers and caregivers.
+LOCATION:WFPL Southwest Branch Library
+URL:https://mywfpl.com/locations/southwest
+END:VEVENT
+END:VCALENDAR

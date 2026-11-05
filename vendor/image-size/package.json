@@ -1,0 +1,14 @@
+{
+  "name": "image-size",
+  "version": "2.0.3-onto.1",
+  "description": "Private SDK54 filename compatibility wrapper around the patched image-size 2.0.3 parser",
+  "private": true,
+  "license": "MIT",
+  "main": "index.cjs",
+  "sideEffects": false,
+  "files": ["index.cjs", "LICENSE", "README.md"],
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "image-size-parser": "npm:image-size@2.0.3"
+  }
+}

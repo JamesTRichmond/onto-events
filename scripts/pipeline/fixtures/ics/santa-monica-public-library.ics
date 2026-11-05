@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Los Angeles Fixture//EN
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:santa-monica-public-library-event-1@onto.events
+DTSTAMP:20261018T120000Z
+DTSTART:20261024T180000Z
+DTEND:20261024T193000Z
+SUMMARY:Santa Monica Public Library Community Showcase
+DESCRIPTION:Civic library courtyard and auditorium hosting film screenings, sound bath sessions, and children's story hours.
+LOCATION:Santa Monica Public Library (Main Library)
+URL:https://www.smpl.org
+END:VEVENT
+BEGIN:VEVENT
+UID:santa-monica-public-library-event-2@onto.events
+DTSTAMP:20261018T120000Z
+DTSTART:20261028T010000Z
+DTEND:20261028T023000Z
+SUMMARY:Santa Monica Public Library Evening Arts & Discussion
+DESCRIPTION:Evening public program and cultural discussion at Santa Monica Public Library (Main Library).
+LOCATION:Santa Monica Public Library (Main Library)
+URL:https://www.smpl.org
+END:VEVENT
+END:VCALENDAR

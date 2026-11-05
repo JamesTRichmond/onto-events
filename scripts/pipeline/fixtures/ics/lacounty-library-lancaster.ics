@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Los Angeles Fixture//EN
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:lacounty-library-lancaster-event-1@onto.events
+DTSTAMP:20261018T120000Z
+DTSTART:20261024T180000Z
+DTEND:20261024T193000Z
+SUMMARY:LA County Library — Lancaster Library Community Showcase
+DESCRIPTION:Antelope Valley regional library offering family literacy, career guidance workshops, and children's science clubs.
+LOCATION:LA County Library — Lancaster Library
+URL:https://lacountylibrary.org/lancaster-library/
+END:VEVENT
+BEGIN:VEVENT
+UID:lacounty-library-lancaster-event-2@onto.events
+DTSTAMP:20261018T120000Z
+DTSTART:20261028T010000Z
+DTEND:20261028T023000Z
+SUMMARY:LA County Library — Lancaster Library Evening Arts & Discussion
+DESCRIPTION:Evening public program and cultural discussion at LA County Library — Lancaster Library.
+LOCATION:LA County Library — Lancaster Library
+URL:https://lacountylibrary.org/lancaster-library/
+END:VEVENT
+END:VCALENDAR

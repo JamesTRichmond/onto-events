@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:cpl-edgewater-branch-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Edgewater Toddler Rhythm & Rhyme Time
+DESCRIPTION:Music, fingerplays, and interactive movement games supporting early childhood literacy on Broadway.
+LOCATION:CPL Edgewater Branch Library
+URL:https://www.chipublib.org/locations/27/
+END:VEVENT
+BEGIN:VEVENT
+UID:cpl-edgewater-branch-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Edgewater Community Garden & Eco Reading Group
+DESCRIPTION:Book discussion focusing on urban ecology, Lake Michigan bird conservation, and sustainable gardening.
+LOCATION:CPL Edgewater Branch Library
+URL:https://www.chipublib.org/locations/27/
+END:VEVENT
+END:VCALENDAR

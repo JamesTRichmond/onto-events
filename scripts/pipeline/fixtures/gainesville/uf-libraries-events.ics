@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Springshare//LibCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UF Libraries Events Calendar
+X-WR-CALDESC:The homebase for all library events - workshops\, author 
+ talks\, guest lectures\, and more!
+X-WR-TIMEZONE:America/New_York
+X-PUBLISHED-TTL:PT15M
+BEGIN:VEVENT
+DTSTART:20261020T150000Z
+DTEND:20261020T160000Z
+DTSTAMP:20261020T000000Z
+SUMMARY:Library Investi-gator Tour - HSC Library
+DESCRIPTION:New to the Health Science Center (HSC) Library? Get an introduction to its resources and spaces and then a tour of the building from one of the HSC librarians! This is a great way to learn what is available to you at the HSC Library while you are here at UF.\n\n \n\nFor more information about the UF Library Investi-gator Program\, please visit Library Investi-gator LibGuide.
+LOCATION:Biomedical Information Teaching Space (BITS@HSCL) (C1-121)\, Health Science Center Libraries
+CATEGORIES:
+UID:LibCal-22582-17078287
+URL:https://libcal.uflib.ufl.edu/calendar/UFLibrariesEvents/HSCInvestiGator2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T150000Z
+DTEND:20261021T170000Z
+DTSTAMP:20261021T000000Z
+SUMMARY:LibWest Resume Review Pop-In with C3
+DESCRIPTION:Stop by Library West for a resume review pop-in with the Career Connections Center (C3)! Get feedback on your resume\, learn how to highlight your skills and experiences\, and discover resources to help you prepare for internships\, jobs\, and future career opportunities. Whether you're creating your first resume or updating an existing one\, drop in and take the next step toward your career goals.
+LOCATION:Library West\, Room 211 (Library Instruction Lab)\, Library West
+CATEGORIES:
+UID:LibCal-22582-17813802
+URL:https://libcal.uflib.ufl.edu/event/17813802
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T180000Z
+DTEND:20261021T190000Z
+DTSTAMP:20261021T000000Z
+SUMMARY:Reading Comics for Resilience: Graphic Medicine Micro Book Club
+DESCRIPTION:Open to anyone! No need for prereading! This workshop is part of a series of mini book discussions using comics to explore topics in healthcare and wellbeing. We’ll read two comic excerpts together as a group\, followed by a facilitated group discussion. Join us to learn about how comics can be used to discuss coping with mental health issues and resilience!
+LOCATION:Health Science Center Libraries
+CATEGORIES:Workshops
+UID:LibCal-22582-17491514
+URL:https://libcal.uflib.ufl.edu/event/17491514
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261022T154500Z
+DTEND:20261022T163500Z
+DTSTAMP:20261022T000000Z
+SUMMARY:Government Information You Need to Know
+DESCRIPTION:This introductory workshop will develop your search strategies for the most complex resources in the library: government information. Explore current government information from the federal government including datasets\, legislation\, and web portals. Identify the scope of information from local to federal levels\, from every branch (legislative\, executive\, and judicial) and across geographic levels.
+LOCATION:Library West\, Room 211 (Library Instruction Lab)\, Library West
+CATEGORIES:Workshops
+UID:LibCal-22582-17347594
+URL:https://libcal.uflib.ufl.edu/event/17347594
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261022T160000Z
+DTEND:20261022T200000Z
+DTSTAMP:20261022T000000Z
+SUMMARY:Celebration of Reading Reception
+DESCRIPTION:Join us at the Health Science Center Library to celebrate reading and stories. Come and browse our health sciences leisure reading collection\, get reading recommendations\, maybe win a book giveaway\, and socialize with others who share a love of reading. Snacks (first come first serve) and games will be available!
+LOCATION:HSC Library First Floor Entrance\, Health Science Center Libraries
+CATEGORIES:Events
+UID:LibCal-22582-17534617
+URL:https://libcal.uflib.ufl.edu/calendar/UFLibrariesEvents/HSCL_reading_reception
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261022T180000Z
+DTEND:20261022T200000Z
+DTSTAMP:20261022T000000Z
+SUMMARY:Camp Geeky Gator CWC at Library West
+DESCRIPTION:What’s Happening: A couple hours of fun\, laughter\, and connection through crafts and boardgames\, all while focusing on wellness and community. Bring your friends or make new ones as we roll the dice on self-care! \n\nWhy You Should Come: Boost your brain – the fun way! Board games sharpen focus\, creativity\, and problem-solving without feeling like “work”. Support your mental health! Play and creativity are powerful tools for reducing anxiety and improving mood. Take a break from screens and stress! Step away from screens and academic work to give your mind a chance to reset in a cozy\, low-tech space. Meet fellow geeks and future friends!  Connect with people who love games\, art\, and other geeky interests just as much as you do! No experience needed — just bring your good vibes and gator spirit!
+LOCATION:Library West\, Room 212 (Scott Nygren Scholars Studio)\, Library West
+CATEGORIES:
+UID:LibCal-22582-17621543
+URL:https://libcal.uflib.ufl.edu/event/17621543
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261022T200000Z
+DTEND:20261022T205000Z
+DTSTAMP:20261022T000000Z
+SUMMARY:Mindfulness 101 Workshop CWC x Library West
+DESCRIPTION:Take a break and discover simple mindfulness techniques you can use every day to reduce stress\, improve focus\, and support overall well-being. Facilitated by the Counseling and Wellness Center\, this introductory workshop will also highlight our new Wellness Technology Collection\, featuring tools designed to help you relax\, recharge\, and build healthy habits. Attendees will receive a free swag bag filled with stress-relief items.\n\nDate: Thursday October 22\, 2026\nTime: 4:00 PM\nLocation: Library West 211\n\nAll experience levels are welcome. Come learn practical strategies for well-being and explore new wellness resources available through the library.\n\nRegistration is encouraged as space may be limited.
+LOCATION:Library West\, Room 211 (Library Instruction Lab)\, Library West
+CATEGORIES:
+UID:LibCal-22582-17841814
+URL:https://libcal.uflib.ufl.edu/event/17841814
+END:VEVENT
+END:VCALENDAR

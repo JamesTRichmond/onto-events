@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Pensacola Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:srcls-gulf-breeze-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Gulf Breeze Shoreline Family Storytime
+DESCRIPTION:Weekly story hour and craft session for children and parents at Gulf Breeze Library.
+LOCATION:Gulf Breeze Library (SRCLS)
+URL:https://www.santarosa.fl.gov/161/Gulf-Breeze-Library
+END:VEVENT
+BEGIN:VEVENT
+UID:srcls-gulf-breeze-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Gulf Breeze Friends of the Library Book Talk
+DESCRIPTION:Community book discussion and author spotlight on Shoreline Drive.
+LOCATION:Gulf Breeze Library (SRCLS)
+URL:https://www.santarosa.fl.gov/161/Gulf-Breeze-Library
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+{
+  "pages": [
+    {
+      "total": 1,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 19578,
+          "global_id": "www.scandinaviahouse.org?id=19578",
+          "title": "TELL EVERYONE | SCREENING &#038; FILM TALK",
+          "description": "<p>&#8220;A compelling and ultimately compassionate story&#8221;—On October 21, see the striking period drama <em>Tell Everyone</em>! Director Alli Haapasalo and lead actress Marketta Tikkanen will be present for a Q&amp;A following the screening.</p>\n<p>On a remote island where troublesome women are sent to be forgotten, an emotionally charged struggle for liberation unfolds in a dazzlingly beautiful and deeply moving historical drama.</p>\n<div class=\"plot-box rich-text\">\n<p>The year is 1898, and Amanda (Marketta Tikkanen) arrives at an institution on the island of Seili in the Finnish archipelago, where he has been committed after living a wandering, decadent life marked by episodes of “madness” once a month caused by severe menstrual pain. Amanda considers her stay on the island strictly temporary, but as she begins to form bonds with the other women, doubt takes root. Marketta Tikkanen shines in the lead role, supported by Alma Pöysti, Krista Kosonen and Aamu Milonoff, who together create a richly layered gallery of female fates in a genuinely affecting drama. Alli Haapasalo, the director of the acclaimed <em>Girl Picture</em> (2022),  takes the female body&#8217;s built-in violence and imbues that bottled up fury into 19th-century Finland.</p>\n</div>\n<p><a href=\"https://www.goelevent.com/ScandinaviaHouse/e/TellEveryone\"><strong><span style=\"color: #0000ff; font-size: 14pt;\">Purchase Tickets</span></strong></a></p>",
+          "url": "https://www.scandinaviahouse.org/event/tell-everyone-new-nordic-cinema/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-21 23:00:00",
+          "utc_end_date": "2026-10-22 01:00:00",
+          "venue": {
+            "venue": "Scandinavia House",
+            "address": "58 Park Avenue",
+            "city": "New York"
+          }
+        }
+      ]
+    }
+  ]
+}

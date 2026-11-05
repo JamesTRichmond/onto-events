@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bruce J. Host Northeast Branch Library//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bruce J. Host Northeast Branch Library
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T020000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T020000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:lcpl-ne-001@leoncountyfl.gov
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260916T103000
+DTEND;TZID=America/New_York:20260916T110000
+SUMMARY:Baby Story Time (Ages 0-2) @ Northeast Branch
+DESCRIPTION:Enjoy songs\, rhymes and stories that support your baby’s early language and literacy development. Caregivers and little ones welcome.
+LOCATION:Bruce J. Host Northeast Branch Library
+URL:https://leoncountyfl.libcal.com/event/10889610
+CATEGORIES:learning,family
+END:VEVENT
+BEGIN:VEVENT
+UID:lcpl-ne-002@leoncountyfl.gov
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260916T110000
+DTEND;TZID=America/New_York:20260916T120000
+SUMMARY:Stay and Play @ Northeast Branch
+DESCRIPTION:After Story Time\, stay to play\, explore and connect with other families. Hands-on developmental toys and puzzles provided.
+LOCATION:Bruce J. Host Northeast Branch Library
+URL:https://leoncountyfl.libcal.com/event/10889820
+CATEGORIES:family,community
+END:VEVENT
+BEGIN:VEVENT
+UID:lcpl-ne-003@leoncountyfl.gov
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=America/New_York:20260924T160000
+DTEND;TZID=America/New_York:20260924T173000
+SUMMARY:Northeast STEAM Discovery Club
+DESCRIPTION:Hands-on science\, engineering and robotics experiments for school-age learners grades K-5.
+LOCATION:Bruce J. Host Northeast Branch Library
+URL:https://leoncountyfl.libcal.com/event/16072774
+CATEGORIES:learning,family
+END:VEVENT
+END:VCALENDAR

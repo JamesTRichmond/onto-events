@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Miami-Dade Public Library System//NONSGML Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MDPLS Westchester Regional Library Events
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:mdpls-wc-20261017-art-exhibit@mdpls.org
+DTSTAMP:20261015T000000Z
+DTSTART:20261017T170000Z
+DTEND:20261017T183000Z
+SUMMARY:Art in the Library: Local Painters Showcase
+DESCRIPTION:Community gallery opening and artist conversation.
+LOCATION:Westchester Regional Library
+URL:https://www.mdpls.org/events/wc-art-exhibit
+CATEGORIES:Arts & Culture
+END:VEVENT
+BEGIN:VEVENT
+UID:mdpls-wc-20261021-writing@mdpls.org
+DTSTAMP:20261015T000000Z
+DTSTART:20261021T220000Z
+DTEND:20261021T233000Z
+SUMMARY:Creative Writing Workshop for Adults
+DESCRIPTION:Peer feedback, writing prompts, and short story craft.
+LOCATION:Westchester Regional Library
+URL:https://www.mdpls.org/events/wc-writing
+CATEGORIES:Arts & Culture
+END:VEVENT
+END:VCALENDAR

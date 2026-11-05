@@ -1,0 +1,58 @@
+{
+  "pages": [
+    {
+      "total": 4,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 21916,
+          "global_id": "industrycity.com?id=21916",
+          "title": "Sunset Part Open Studios – Oil Painting Workshop",
+          "description": "Stop by Lista during Sunset Park Open Studio for a two-hour painting workshop with Kristina Dubrovskaia Participants will choose from three reference images of playful contemporary objects, such as a yellow balloon-dog figurine. They will learn about shape, color, light and shadow to create one small painting. Beginners are welcome, and materials included.",
+          "url": "https://industrycity.com/event/sunset-part-open-studios-oil-painting-workshop/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-16 18:00:00",
+          "utc_end_date": "2026-10-16 20:00:00",
+          "venue": []
+        },
+        {
+          "id": 10052479,
+          "global_id": "industrycity.com?id=10052479",
+          "title": "Plain Slice Comedy Show",
+          "description": "Join Fort Hamilton Distillery for Plain Slice Comedy. This show features some of New York’s best comics and rising talents. 🍸Cocktail Hr @ 6:00 🎟 Doors open @ 7:00 🎤 Show Starts @ 7:30 🥃 Cocktails and mocktails are available for purchase – Support local business!",
+          "url": "https://industrycity.com/event/plain-slice-comedy-show/2026-10-16/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-16 19:30:00",
+          "utc_end_date": "2026-10-16 21:30:00",
+          "venue": []
+        },
+        {
+          "id": 21211,
+          "global_id": "industrycity.com?id=21211",
+          "title": "CollectedCon Brooklyn",
+          "description": "Mark your calendars for an unforgettable 1 day packed event in Industry City Brooklyn, as the ultimate designer toy & art convention makes its way home in the heart of New York.",
+          "url": "https://industrycity.com/event/collectedcon-brooklyn/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-17 10:30:00",
+          "utc_end_date": "2026-10-17 18:30:00",
+          "venue": []
+        },
+        {
+          "id": 21919,
+          "global_id": "industrycity.com?id=21919",
+          "title": "Sunset Park Open Studios: Open Watercolor Class with Patrick King",
+          "description": "Stop by Lista Studios on Saturday, October 17th to hear about and try some watercolor techniques. Materials provided. Instructor bio: Patrick King is a Brooklyn based painter. He grew up in Racine, Wisconsin, still the subject of much of his work. He studied at Minneapolis College of Art and Design, Philadelphia College of Art, and Pennsylvania Academy of the Fine Arts. He has taught at The Art Students League of New York, Temple University and Philadelphia University as well as several art centers in addition to conducting private plein air workshops. King’s work is in numerous private and public collections. He has exhibited at the National Academy of Design, The Pennsylvania Academy of the Fine Arts, Watercolor USA, Springfield Art Museum, American Watercolor Society, F.A.N. Gallery, Delaware Center for the Contemporary Arts, Maryland Federation of Art, Philadelphia Art Alliance, Silvermine Guild Arts Center, Gross McCleaf Gallery, and Woodmere Art Museum, among others. He is a recipient of a Pollock Krasner grant.",
+          "url": "https://industrycity.com/event/sunset-park-open-studios-open-watercolor-class-with-patrick-king/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-17 11:00:00",
+          "utc_end_date": "2026-10-17 13:00:00",
+          "venue": []
+        }
+      ]
+    }
+  ]
+}

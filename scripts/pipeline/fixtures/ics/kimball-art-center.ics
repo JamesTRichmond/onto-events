@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kimball Art Center - ECPv6.17.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kimball Art Center
+X-ORIGINAL-URL:https://kimballartcenter.org
+X-WR-CALDESC:Events for Kimball Art Center
+BEGIN:VTIMEZONE
+TZID:America/Denver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+DTSTART:20260308T090000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+DTSTART:20261101T080000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Denver:20261017T110000
+DTEND;TZID=America/Denver:20261017T130000
+DTSTAMP:20261001T150000Z
+UID:kac-gallery-tour-20261017@kimballartcenter.org
+SUMMARY:Curator Gallery Walk & Sculpture Tour
+DESCRIPTION:Join Kimball Art Center curatorial staff for a walking tour of the contemporary ceramics and high-alpine landscape exhibition.
+URL:https://kimballartcenter.org/event/curator-gallery-walk/2026-10-17/
+LOCATION:Kimball Art Center\, 1251 Kearns Blvd\, Park City\, UT\, 84060\, United States
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Denver:20261019T160000
+DTEND;TZID=America/Denver:20261019T180000
+DTSTAMP:20261001T150000Z
+UID:kac-clay-studio-20261019@kimballartcenter.org
+SUMMARY:Community Clay Studio Open Wheel Workshop
+DESCRIPTION:All-ages hands-on pottery wheel throwing workshop with professional studio ceramicists providing instruction.
+URL:https://kimballartcenter.org/event/clay-studio-open-wheel/2026-10-19/
+LOCATION:Kimball Art Center\, 1251 Kearns Blvd\, Park City\, UT\, 84060\, United States
+END:VEVENT
+END:VCALENDAR

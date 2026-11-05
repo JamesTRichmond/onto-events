@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Monroe County Public Library System//Key West Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Key West Library Events
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:keywest-lib-20261016-storytime@keyslibraries.org
+DTSTAMP:20261015T000000Z
+DTSTART:20261016T140000Z
+DTEND:20261016T150000Z
+SUMMARY:Key West Community Storytime & Discovery
+DESCRIPTION:Interactive morning storytime\, song\, and discovery activities for families and children in the palm garden reading area.
+LOCATION:Key West Public Library
+URL:https://keyslibraries.org/events/key-west-storytime
+CATEGORIES:Children & Family
+END:VEVENT
+BEGIN:VEVENT
+UID:keywest-lib-20261017-ecology-talk@keyslibraries.org
+DTSTAMP:20261015T000000Z
+DTSTART:20261017T180000Z
+DTEND:20261017T193000Z
+SUMMARY:Keys Marine Ecology & Reef Conservation Talk
+DESCRIPTION:Join marine scientists and local historians for a public presentation on coral reef restoration and Florida Keys marine sanctuaries.
+LOCATION:Key West Public Library
+URL:https://keyslibraries.org/events/marine-ecology-talk
+CATEGORIES:Science & Nature
+END:VEVENT
+BEGIN:VEVENT
+UID:keywest-lib-20261020-history-archive@keyslibraries.org
+DTSTAMP:20261015T000000Z
+DTSTART:20261020T220000Z
+DTEND:20261020T233000Z
+SUMMARY:Florida Keys Maritime Archive: Wrecking & Lighthouses
+DESCRIPTION:Historical presentation on 19th-century Key West wrecking history and coastal lighthouses using archival photography.
+LOCATION:Key West Public Library
+URL:https://keyslibraries.org/events/key-west-maritime-archive
+CATEGORIES:History & Culture
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//fixture//EN
+BEGIN:VEVENT
+UID:vcal_3247-bmccathletics.com
+DTSTART:20261020T220000Z
+DTEND:20261021T000000Z
+SUMMARY:Borough of Manhattan Community College Women's Volleyball vs Queensborough Community College
+LOCATION:New York\, New York \, BMCC Gymnasium
+URL:https://bmccathletics.com/calendar.aspx?game_id=3247&amp;sport_id=6
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_3249-bmccathletics.com
+DTSTART:20261024T160000Z
+DTEND:20261024T180000Z
+SUMMARY:Borough of Manhattan Community College Women's Volleyball vs Westchester Community College
+LOCATION:New York\, New York \, BMCC Gymnasium
+URL:https://bmccathletics.com/calendar.aspx?game_id=3249&amp;sport_id=6
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_3250-bmccathletics.com
+DTSTART:20261024T173000Z
+DTEND:20261024T193000Z
+SUMMARY:Borough of Manhattan Community College Women's Volleyball vs Rockland Community College
+LOCATION:New York\, New York \, BMCC Gymnasium
+URL:https://bmccathletics.com/calendar.aspx?game_id=3250&amp;sport_id=6
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Flagstaff Fixture//EN
+X-WR-TIMEZONE:America/Phoenix
+BEGIN:VEVENT
+UID:nau-cline-library-exhibits-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T170000Z
+DTEND:20261024T183000Z
+SUMMARY:Colorado Plateau Archival History Exhibition
+DESCRIPTION:Documentary photographs, indigenous oral history transcripts, and historic Colorado Plateau cartography on public display.
+LOCATION:NAU Cline Library Special Collections
+URL:https://events.nau.edu/cline-library.ics
+END:VEVENT
+BEGIN:VEVENT
+UID:nau-cline-library-exhibits-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261028T210000Z
+DTEND:20261028T223000Z
+SUMMARY:Colorado Plateau Archival History Exhibition (Encore)
+DESCRIPTION:Documentary photographs, indigenous oral history transcripts, and historic Colorado Plateau cartography on public display.
+LOCATION:NAU Cline Library Special Collections
+URL:https://events.nau.edu/cline-library.ics
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Swaner Preserve and EcoCenter - ECPv6.17.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Swaner Preserve and EcoCenter
+X-ORIGINAL-URL:https://extension.usu.edu/swaner/
+X-WR-CALDESC:Events for Swaner Preserve and EcoCenter
+BEGIN:VTIMEZONE
+TZID:America/Denver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+DTSTART:20260308T090000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+DTSTART:20261101T080000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Denver:20261017T090000
+DTEND;TZID=America/Denver:20261017T110000
+DTSTAMP:20261001T150000Z
+UID:swaner-bird-walk-20261017@usu.edu
+SUMMARY:Autumn Wetland Birding & Sandhill Crane Walk
+DESCRIPTION:Morning naturalist guided walk through the 1200-acre wetland preserve looking for migratory waterfowl, raptors, and Sandhill Cranes.
+URL:https://extension.usu.edu/swaner/calendar/birding-walk-20261017
+LOCATION:Swaner Preserve and EcoCenter\, 1254 Center Dr\, Kimball Junction\, UT\, 84098\, United States
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Denver:20261021T140000
+DTEND;TZID=America/Denver:20261021T153000
+DTSTAMP:20261001T150000Z
+UID:swaner-craft-hour-20261021@usu.edu
+SUMMARY:Youth Watershed Discovery & Nature Craft Hour
+DESCRIPTION:Hands-on educational activities exploring wetland ecology, water conservation, and interactive animal footprint plaster casting.
+URL:https://extension.usu.edu/swaner/calendar/watershed-crafts-20261021
+LOCATION:Swaner Preserve and EcoCenter\, 1254 Center Dr\, Kimball Junction\, UT\, 84098\, United States
+END:VEVENT
+END:VCALENDAR

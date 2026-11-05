@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+PRODID:-//Trumba Corporation//Trumba Calendar Services 0.11.26207//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Public Libraries|Oakley / South Asheville Library
+X-WR-TIMEZONE:America/New_York
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Baby Story Time
+LOCATION:Oakley/South Asheville Library - 749 Fairview Rd. - Asheville
+DTSTART;TZID=America/New_York:20261008T103000
+DTEND;TZID=America/New_York:20261008T110000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+URL:https://www.buncombecounty.org/governing/depts/library/branch-locations/oakley-south-asheville.aspx
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Public Libraries
+X-TRUMBA-CUSTOMFIELD;NAME="Location";ID=35583;TYPE=CustomAsset:Oakley/South Asheville Library - 749 Fairview Rd. - Asheville
+X-TRUMBA-CUSTOMFIELD;NAME="Phone";ID=35516;TYPE=PhoneUS10NoExt:[phone removed]
+X-TRUMBA-CUSTOMFIELD;NAME="Email";ID=35519;TYPE=Email:<a href="mailto:redacted@example.invalid" target="_blank" rel="noopener">redacted@example.invalid</a>
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=35482;TYPE=CustomAsset:Story Time for Kids
+X-TRUMBA-CUSTOMFIELD;NAME="Age Group";ID=35581;TYPE=CustomAsset:Baby - (ages 4 mos.-18 mos.)
+X-TRUMBA-CUSTOMFIELD;NAME="Library";ID=35393;TYPE=CustomAsset:Oakley / South Asheville
+DTSTAMP:20250108T151951Z
+DESCRIPTION:Location: Oakley/South Asheville Library - 749 Fairview Rd. - Asheville<br>Phone: [phone removed]<br>Email: redacted@example.invalid<br>Event Type: Story Time for Kids<br>Age Group: Baby - (ages 4 mos.-18 mos.)<br>Library: Oakley / South Asheville<br>Link: https://www.buncombecounty.org/governing/depts/library/branch-locations/oakley-south-asheville.aspx<br><br>Join us for a lively language enrichment story time designed for children ages 4 to 18 months.
+CATEGORIES:Oakley / South Asheville Library
+UID:http://uid.trumba.com/event/179713388
+X-TRUMBA-LINK:https://www.buncombecounty.org/governing/depts/library/branch-locations/oakley-south-asheville.aspx?trumbaEmbed=view%3Devent%26eventid%3D179713388
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toddler Story Time
+LOCATION:Oakley/South Asheville Library - 749 Fairview Rd. - Asheville
+DTSTART;TZID=America/New_York:20261013T103000
+DTEND;TZID=America/New_York:20261013T110000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+URL:https://www.buncombecounty.org/governing/depts/library/branch-locations/oakley-south-asheville.aspx
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Public Libraries
+X-TRUMBA-CUSTOMFIELD;NAME="Location";ID=35583;TYPE=CustomAsset:Oakley/South Asheville Library - 749 Fairview Rd. - Asheville
+X-TRUMBA-CUSTOMFIELD;NAME="Phone";ID=35516;TYPE=PhoneUS10NoExt:[phone removed]
+X-TRUMBA-CUSTOMFIELD;NAME="Email";ID=35519;TYPE=Email:<a href="mailto:redacted@example.invalid" target="_blank" rel="noopener">redacted@example.invalid</a>
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=35482;TYPE=CustomAsset:Story Time for Kids
+X-TRUMBA-CUSTOMFIELD;NAME="Age Group";ID=35581;TYPE=CustomAsset:Toddler - (ages 18 mos.-2 yrs.)
+X-TRUMBA-CUSTOMFIELD;NAME="Library";ID=35393;TYPE=CustomAsset:Oakley / South Asheville
+DTSTAMP:20241126T131319Z
+DESCRIPTION:Location: Oakley/South Asheville Library - 749 Fairview Rd. - Asheville<br>Phone: [phone removed]<br>Email: redacted@example.invalid<br>Event Type: Story Time for Kids<br>Age Group: Toddler - (ages 18 mos.-2 yrs.)<br>Library: Oakley / South Asheville<br>Link: https://www.buncombecounty.org/governing/depts/library/branch-locations/oakley-south-asheville.aspx<br><br>Join us for a fun and interactive story time designed for children ages 18 months to 3 years.&#160\; &#160\;
+CATEGORIES:Oakley / South Asheville Library
+UID:http://uid.trumba.com/event/179044913
+X-TRUMBA-LINK:https://www.buncombecounty.org/governing/depts/library/branch-locations/oakley-south-asheville.aspx?trumbaEmbed=view%3Devent%26eventid%3D179044913
+END:VEVENT
+END:VCALENDAR

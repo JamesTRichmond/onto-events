@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto.events//Tokyo Community Feeds//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Shinjuku Central Library (新宿区立中央図書館)
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:tokyo-shinjuku-central-library-evt0@onto.events
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=Asia/Tokyo:20260920T103000
+DTEND;TZID=Asia/Tokyo:20260920T113000
+SUMMARY:Shinjuku Literary Heritage & Soseki Reading Club
+DESCRIPTION:Community book club discussing the life and works of novelist Natsume Soseki in his birthplace ward.
+LOCATION:Shinjuku Central Library
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-shinjuku-central-library-evt1@onto.events
+DTSTAMP:20261031T120000Z
+DTSTART;TZID=Asia/Tokyo:20261107T103000
+DTEND;TZID=Asia/Tokyo:20261107T113000
+SUMMARY:Shinjuku Literary Heritage & Soseki Reading Club
+DESCRIPTION:Community book club discussing the life and works of novelist Natsume Soseki in his birthplace ward.
+LOCATION:Shinjuku Central Library
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-shinjuku-central-library-evt2@onto.events
+DTSTAMP:20261031T120000Z
+DTSTART;TZID=Asia/Tokyo:20261114T140000
+DTEND;TZID=Asia/Tokyo:20261114T153000
+SUMMARY:Toyama Park Youth Nature & Science Workshop
+DESCRIPTION:Seasonal outdoor flora and insect observation workshop in the adjacent Toyama parklands.
+LOCATION:Shinjuku Central Library
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Tucson Fixture//EN
+X-WR-TIMEZONE:America/Phoenix
+BEGIN:VEVENT
+UID:ua-central-events-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T170000Z
+DTEND:20261024T183000Z
+SUMMARY:UA Campus Distinguished Public Lecture
+DESCRIPTION:Interdisciplinary research forum addressing planetary science and Sonoran environmental sustainability.
+LOCATION:University of Arizona Campus
+URL:https://events.arizona.edu/
+END:VEVENT
+BEGIN:VEVENT
+UID:ua-central-events-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261028T010000Z
+DTEND:20261028T023000Z
+SUMMARY:University of Arizona Campus Heritage Walking Tour
+DESCRIPTION:Guided historical walking tour through the Old Main campus core and historic arboretum grounds.
+LOCATION:University of Arizona Campus
+URL:https://events.arizona.edu/
+END:VEVENT
+END:VCALENDAR

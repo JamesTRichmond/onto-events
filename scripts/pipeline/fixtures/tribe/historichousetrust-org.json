@@ -1,0 +1,42 @@
+{
+  "pages": [
+    {
+      "total": 2,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 23033,
+          "global_id": "historichousetrust.org?id=23033",
+          "title": "&#8220;Founding Principals&#8221; Exhibition",
+          "description": "<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\"><div  class=\"tribe-events-schedule tribe-clearfix\" >\n\t<p class=\"tribe-events-schedule__datetime\">\n\t\t<span class=\"tribe-events-schedule__date tribe-events-schedule__date--start\">\n\t\t\t\t\t</span>\n\n\t\t\t\t\t<span class=\"tribe-events-schedule__separator tribe-events-schedule__separator--date\">\n\t\t\t\t @ \t\t\t</span>\n\t\t\t<span class=\"tribe-events-schedule__time tribe-events-schedule__time--start\">\n\t\t\t\t\t\t\t</span>\n\t\t\n\t\t\t</p>\n</div>\n\n\n\n<p class=\"wp-block-paragraph\">This two-gallery exhibit at Historic Richmond Town, “Founding Principles: The Declaration of Independence, Civics, and Staten Island” uses local historical examples and objects from our collection such as campaign buttons and items from 1776, to examine the different levels and branches of government as well as the ways in which citizens engage government. It also explores civic assets, public spaces, and forums for civic engagement.</p>\n\n\n\t<div  class=\"tribe-block tribe-block__events-link\" >\n\t\t<div class=\"tribe-events tribe-common\">\n\t\t\t<div class=\"tribe-events-c-subscribe-dropdown__container\">\n\t\t\t\t<div class=\"tribe-events-c-subscribe-dropdown\">\n\t\t\t\t\t<div class=\"tribe-common-c-btn-border tribe-events-c-subscribe-dropdown__button\">\n\t\t\t\t\t\t<svg\n\t class=\"tribe-common-c-svgicon tribe-common-c-svgicon--cal-export tribe-events-c-subscribe-dropdown_",
+          "url": "https://historichousetrust.org/calendar-event/founding-principals-exhibition/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-06-27 15:00:00",
+          "utc_end_date": "2026-12-31 21:00:00",
+          "venue": {
+            "venue": "Historic Richmond Town",
+            "address": "441 Clarke Ave",
+            "city": "Staten Island"
+          }
+        },
+        {
+          "id": 22870,
+          "global_id": "historichousetrust.org?id=22870",
+          "title": "&#8220;Battle Pass in Prospect Park&#8221; Exhibit",
+          "description": "<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\"><div  class=\"tribe-events-schedule tribe-clearfix\" >\n\t<p class=\"tribe-events-schedule__datetime\">\n\t\t<span class=\"tribe-events-schedule__date tribe-events-schedule__date--start\">\n\t\t\t\t\t</span>\n\n\t\t\t\t\t<span class=\"tribe-events-schedule__separator tribe-events-schedule__separator--date\">\n\t\t\t\t @ \t\t\t</span>\n\t\t\t<span class=\"tribe-events-schedule__time tribe-events-schedule__time--start\">\n\t\t\t\t\t\t\t</span>\n\t\t\n\t\t\t</p>\n</div>\n\n\n\n<p class=\"wp-block-paragraph\">Join Prospect Park Alliance to learn more about the Revolutionary War’s Battle of Brooklyn, the first and largest battle of the American War for Independence, on its 250th anniversary with this replica of the famous Battle Pass:  in August 1776, American troops stationed two cannons on this site, in the hills separating Flatbush from the rest of Brooklyn, to defend against the British. However, on August 27, British troops evaded these defenses, forcing the Americans to withdraw across the Gowanus Creek to temporary safety. Nearly a century later, Prospect Park landscape architects Frederick Law Olmsted and Calvert Vaux named this area Battle Hill to commemorate the soldiers who fought there. This replica military installation, replete with two historic replica cannons, serves as a place for visitors to learn more about this formative battle",
+          "url": "https://historichousetrust.org/calendar-event/exhibit-battle-pass-in-prospect-park/",
+          "all_day": true,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-07-01 04:00:00",
+          "utc_end_date": "2026-11-16 04:59:59",
+          "venue": {
+            "venue": "Lefferts Historic House",
+            "address": "452 Flatbush Ave",
+            "city": "Brooklyn"
+          }
+        }
+      ]
+    }
+  ]
+}

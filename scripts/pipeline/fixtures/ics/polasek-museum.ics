@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Orlando Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:polasek-museum-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T153000Z
+SUMMARY:Albin Polasek Museum & Sculpture Gardens Community Showcase
+DESCRIPTION:Listed on the National Register of Historic Places.
+LOCATION:Albin Polasek Museum & Sculpture Gardens
+URL:https://polasek.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:polasek-museum-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T220000Z
+DTEND:20261027T233000Z
+SUMMARY:Albin Polasek Museum & Sculpture Gardens Evening Program
+DESCRIPTION:VERIFIED: Historic artist residence and 3-acre sculpture garden on Lake Osceola hosting Winter Park Paint Out.
+LOCATION:Albin Polasek Museum & Sculpture Gardens
+URL:https://polasek.org/
+END:VEVENT
+END:VCALENDAR

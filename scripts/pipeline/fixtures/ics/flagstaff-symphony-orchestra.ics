@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Flagstaff Fixture//EN
+X-WR-TIMEZONE:America/Phoenix
+BEGIN:VEVENT
+UID:flagstaff-symphony-orchestra-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T170000Z
+DTEND:20261024T183000Z
+SUMMARY:Flagstaff Symphony Orchestra Masterworks Performance
+DESCRIPTION:Symphonic masterworks concert featuring the full orchestra and guest soloists.
+LOCATION:Flagstaff Symphony Orchestra
+URL:https://flagstaffsymphony.org/events/?ical=1
+END:VEVENT
+BEGIN:VEVENT
+UID:flagstaff-symphony-orchestra-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261028T210000Z
+DTEND:20261028T223000Z
+SUMMARY:Flagstaff Symphony Orchestra Masterworks Performance (Encore)
+DESCRIPTION:Symphonic masterworks concert featuring the full orchestra and guest soloists.
+LOCATION:Flagstaff Symphony Orchestra
+URL:https://flagstaffsymphony.org/events/?ical=1
+END:VEVENT
+END:VCALENDAR

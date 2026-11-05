@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Thomas Wolfe Memorial - ECPv6.18.0//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Thomas Wolfe Memorial
+X-ORIGINAL-URL:https://wolfememorial.com
+X-WR-CALDESC:Events for Thomas Wolfe Memorial
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20250309T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20251102T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20270314T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20271107T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261016T170000
+DTEND;TZID=America/New_York:20261016T190000
+DTSTAMP:20260811T151706Z
+CREATED:20260808T204253Z
+LAST-MODIFIED:20260811T151706Z
+UID:3565-1792170000-1792177200@wolfememorial.com
+SUMMARY:Film Screening - You Can't Go Home Again from CBS (1979)
+DESCRIPTION:Join us for a special screening of “You Can’t Go Home Again” from CBS\, a rare chance to experience Thomas Wolfe’s work on screen. \n\n\n\nThis adaptation of the classic novel stars Chris Sarandon and Lee Grant and follows the story of a young writer trying to make it in New York\, his relationships\, and the editor who sees his potential for literary genius. Come join us\, grab some popcorn\, and enjoy the nostalgia of this 1979 television movie. \n\n\n\nThis is a FREE EVENT. Please reserve your seat here: https://www.zeffy.com/en-US/ticketing/film-screening-you-cant-go-home-again-from-cbs–1979 \n\n\n\nDonations are happily accepted and go toward the Memorial’s programming and other special events like this.
+URL:https://wolfememorial.com/event/film-screening-you-cant-go-home-again-from-cbs-1979/
+LOCATION:The Thomas Wolfe Memorial\, 52 North Market Street\, Asheville\, NC\, 28801\, United States
+ATTACH;FMTTYPE=image/png:https://wolfememorial.com/wp-content/uploads/2026/08/CBS-LHA-promo.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261024T170000
+DTEND;TZID=America/New_York:20261024T190000
+DTSTAMP:20260808T201028Z
+CREATED:20260808T201024Z
+LAST-MODIFIED:20260808T201028Z
+UID:3559-1792861200-1792868400@wolfememorial.com
+SUMMARY:From Death to Mourning: Spiritual Journeys of the Wolfe Family
+DESCRIPTION:Join us for this intimate\, open-house style tour of the Old Kentucky Home as we explore how the Wolfe Family grappled with death\, spiritualism\, and mysteries of the beyond. Discover stories of early 20th century funerary practices\, family visions\, and the ways death shaped one of America’s greatest writers.  \n\n\n\nCome and see the skeletons in our closets. \n\n\n\n$10 per person – purchase tickets HERE.
+URL:https://wolfememorial.com/event/from-death-to-mourning-spiritual-journeys-of-the-wolfe-family-2/
+LOCATION:The Thomas Wolfe Memorial\, 52 North Market Street\, Asheville\, NC\, 28801\, United States
+ATTACH;FMTTYPE=image/png:https://wolfememorial.com/wp-content/uploads/2026/08/2026-From-Death-To-Mourning-Instagram-Post.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261212T170000
+DTEND;TZID=America/New_York:20261212T190000
+DTSTAMP:20260808T201438Z
+CREATED:20260808T201435Z
+LAST-MODIFIED:20260808T201438Z
+UID:3562-1797094800-1797102000@wolfememorial.com
+SUMMARY:Home for the Holidays: A Victorian Holiday Open House of the Old Kentucky Home
+DESCRIPTION:Step into History This Holiday Season \n\n\n\nJoin us for the “Home for the Holidays: A Victorian Holiday Open House of the Old Kentucky Home.” Experience the warmth and charm of Holiday traditions in Thomas Wolfe’s world. Come see the home all dressed up in its Christmas finest! Guests will walk through the boardinghouse at their leisure to view this pop-up Holiday Traditions exhibit.  \n\n\n\nEnjoy holiday crafts\, our exhibit hall\, Christmas cookies\, and warm apple cider in the Memorial’s Visitor Center. Last admittance into the house is 6:45pm. \n\n\n\n$10 per person – purchase tickets HERE.
+URL:https://wolfememorial.com/event/home-for-the-holidays-a-victorian-holiday-open-house-of-the-old-kentucky-home-2/
+LOCATION:NC
+ATTACH;FMTTYPE=image/png:https://wolfememorial.com/wp-content/uploads/2026/08/2026-Holiday-Open-House-promo.png
+END:VEVENT
+END:VCALENDAR

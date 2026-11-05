@@ -1,0 +1,151 @@
+{
+  "capturedAt": "2026-10-10T00:30:08.268599Z",
+  "sourceUrl": "https://vtauto.org/wp-json/tribe/events/v1/events",
+  "evidence": "Real unfiltered public API page retained to prove local category enforcement. Six actual occurrence identities and timestamps unchanged. Contacts, author metadata and internal-meeting prose omitted. Fixture counts are not hosted supply.",
+  "pages": [
+    {
+      "total_pages": 1,
+      "total": 6,
+      "events": [
+        {
+          "id": 9325,
+          "global_id": "vtauto.org?id=9325",
+          "title": "Car Meet",
+          "url": "https://vtauto.org/event/car-meet-6/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-10-13 18:00:00",
+          "end_date": "2026-10-13 20:00:00",
+          "utc_start_date": "2026-10-13 22:00:00",
+          "utc_end_date": "2026-10-14 00:00:00",
+          "timezone": "America/New_York",
+          "categories": [
+            {
+              "id": 27,
+              "slug": "vermont-car-shows"
+            }
+          ],
+          "venue": {
+            "venue": "Island Ice Cream"
+          },
+          "description": "<p>2nd Tuesday of each month at Island Ice Cream, 21 Commerce St., Williston, VT, at 6 PM.</p>"
+        },
+        {
+          "id": 9114,
+          "global_id": "vtauto.org?id=9114",
+          "title": "VAE Board of Directors Meeting",
+          "url": "https://vtauto.org/event/vae-board-of-directors-meeting-4/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-10-15 18:00:00",
+          "end_date": "2026-10-15 20:00:00",
+          "utc_start_date": "2026-10-15 22:00:00",
+          "utc_end_date": "2026-10-16 00:00:00",
+          "timezone": "America/New_York",
+          "categories": [
+            {
+              "id": 28,
+              "slug": "events"
+            }
+          ],
+          "venue": {
+            "venue": "Fairfax Town Offices"
+          },
+          "description": ""
+        },
+        {
+          "id": 9132,
+          "global_id": "vtauto.org?id=9132",
+          "title": "Educational &amp; Charitable Outreach Committee Meeting",
+          "url": "https://vtauto.org/event/educational-charitable-outreach-committee-meeting-24/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-10-17 10:00:00",
+          "end_date": "2026-10-17 12:00:00",
+          "utc_start_date": "2026-10-17 14:00:00",
+          "utc_end_date": "2026-10-17 16:00:00",
+          "timezone": "America/New_York",
+          "categories": [
+            {
+              "id": 28,
+              "slug": "events"
+            }
+          ],
+          "venue": {
+            "venue": "338 Commerce Street"
+          },
+          "description": ""
+        },
+        {
+          "id": 9155,
+          "global_id": "vtauto.org?id=9155",
+          "title": "VT Antique &amp; Classic Car Meet Committee Meeting",
+          "url": "https://vtauto.org/event/vt-antique-classic-car-meet-committee-meeting-31/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-10-21 19:00:00",
+          "end_date": "2026-10-21 21:00:00",
+          "utc_start_date": "2026-10-21 23:00:00",
+          "utc_end_date": "2026-10-22 01:00:00",
+          "timezone": "America/New_York",
+          "categories": [
+            {
+              "id": 28,
+              "slug": "events"
+            }
+          ],
+          "venue": {
+            "venue": "Revitalizing Waterbury"
+          },
+          "description": ""
+        },
+        {
+          "id": 9159,
+          "global_id": "vtauto.org?id=9159",
+          "title": "VT Antique &amp; Classic Car Meet Committee Meeting",
+          "url": "https://vtauto.org/event/vt-antique-classic-car-meet-committee-meeting-32/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-11-18 19:00:00",
+          "end_date": "2026-11-18 21:00:00",
+          "utc_start_date": "2026-11-19 00:00:00",
+          "utc_end_date": "2026-11-19 02:00:00",
+          "timezone": "America/New_York",
+          "categories": [
+            {
+              "id": 28,
+              "slug": "events"
+            }
+          ],
+          "venue": {
+            "venue": "Revitalizing Waterbury"
+          },
+          "description": ""
+        },
+        {
+          "id": 9134,
+          "global_id": "vtauto.org?id=9134",
+          "title": "Educational &amp; Charitable Outreach Committee Meeting",
+          "url": "https://vtauto.org/event/educational-charitable-outreach-committee-meeting-25/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-11-21 10:00:00",
+          "end_date": "2026-11-21 12:00:00",
+          "utc_start_date": "2026-11-21 15:00:00",
+          "utc_end_date": "2026-11-21 17:00:00",
+          "timezone": "America/New_York",
+          "categories": [
+            {
+              "id": 28,
+              "slug": "events"
+            }
+          ],
+          "venue": {
+            "venue": "338 Commerce Street"
+          },
+          "description": ""
+        }
+      ]
+    }
+  ]
+}

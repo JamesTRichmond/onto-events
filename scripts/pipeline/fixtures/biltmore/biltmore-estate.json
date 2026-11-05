@@ -1,0 +1,457 @@
+[
+ {
+  "id": 352007,
+  "link": "https://www.biltmore.com/event/biltmore-employee-craft-fair/",
+  "title": {
+   "rendered": "Biltmore Employee Craft Fair "
+  },
+  "acf": {
+   "sub_headline": "Included with admission",
+   "card_snippet": "Celebrating the creative talents of estate staff, this event features handmade jewelry, ceramics, and more. ",
+   "cost": "Included with admission",
+   "good_to_know": "<p data-pm-slice=\"1 1 []\">Guests who make a purchase at the craft fair will receive a $5 voucher to the Creamery in Antler Hill Village to be used October 22.</p>",
+   "additional_content": "",
+   "hours": "11 a.m.–5 p.m.",
+   "e_event_start": "20261022",
+   "e_event_end": "20261022",
+   "days_of_the_week": [
+    "thursday"
+   ],
+   "location_select_event": [
+    "Antler Hill Village"
+   ]
+  }
+ },
+ {
+  "id": 351597,
+  "link": "https://www.biltmore.com/event/titanic-the-human-story/",
+  "title": {
+   "rendered": "Titanic: The Human Story"
+  },
+  "acf": {
+   "sub_headline": "Included with select ticket types",
+   "card_snippet": "Explore the human stories behind the 1912 tragedy with original accounts and storytelling by acclaimed Titanic experts. ",
+   "cost": "",
+   "good_to_know": "Approximate run time of exhibition audio guide is 60 minutes. Available in English and Spanish, it combines narration, music, sound effects, and original testimonies from passengers and crew.",
+   "additional_content": "",
+   "hours": "Open daily; hours may vary.",
+   "e_event_start": "20261226",
+   "e_event_end": "20270129",
+   "days_of_the_week": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday",
+    "saturday",
+    "sunday"
+   ],
+   "location_select_event": [
+    "Deerpark"
+   ]
+  }
+ },
+ {
+  "id": 7093,
+  "link": "https://www.biltmore.com/event/spring-at-biltmore/",
+  "title": {
+   "rendered": "Spring at Biltmore"
+  },
+  "acf": {
+   "sub_headline": "Included with admission",
+   "card_snippet": "Prepare to be dazzled as the blooming splendor of spring unfolds.",
+   "cost": "Included with admission",
+   "good_to_know": "",
+   "additional_content": "",
+   "hours": "",
+   "e_event_start": "20270325",
+   "e_event_end": "20270520",
+   "days_of_the_week": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday",
+    "saturday",
+    "sunday"
+   ],
+   "location_select_event": [
+    "Gardens"
+   ]
+  }
+ },
+ {
+  "id": 347323,
+  "link": "https://www.biltmore.com/event/deerpark-dining-event-hearts-and-harmony/",
+  "title": {
+   "rendered": "Deerpark Dining Event: Hearts and Harmony"
+  },
+  "acf": {
+   "sub_headline": "Passholder exclusive",
+   "card_snippet": "A romantic evening at Biltmore. Details coming soon!",
+   "cost": "",
+   "good_to_know": "",
+   "additional_content": "",
+   "hours": "6 p.m.",
+   "e_event_start": "20270212",
+   "e_event_end": "20270212",
+   "days_of_the_week": [
+    "friday"
+   ],
+   "location_select_event": [
+    "Deerpark"
+   ]
+  }
+ },
+ {
+  "id": 199952,
+  "link": "https://www.biltmore.com/event/live-music-at-the-bandstand/",
+  "title": {
+   "rendered": "Live Music at the Bandstand"
+  },
+  "acf": {
+   "sub_headline": "Included with admission",
+   "card_snippet": "Relax and unwind to the rhythm and charm of Antler Hill Village",
+   "cost": "Included with admission",
+   "good_to_know": "",
+   "additional_content": "<em>To enjoy this complimentary event, guest must have a daytime ticket, a Biltmore Annual Pass, or a stay at one of the estate’s splendid overnight properties. Space is limited; seating available on first-come, first-served basis. Dates and live performance schedule subject to change. Outside food and beverage not permitted on Village Green. Outside alcohol not permitted on Biltmore property.</em>",
+   "hours": "4:30–8:15 p.m.",
+   "e_event_start": "20260403",
+   "e_event_end": "20261031",
+   "days_of_the_week": [
+    "friday",
+    "saturday"
+   ],
+   "location_select_event": [
+    "Antler Hill Village"
+   ]
+  }
+ },
+ {
+  "id": 346593,
+  "link": "https://www.biltmore.com/event/biltmore-house-day-visit/",
+  "title": {
+   "rendered": "Biltmore House day visit"
+  },
+  "acf": {
+   "sub_headline": "",
+   "card_snippet": "",
+   "cost": "",
+   "good_to_know": "Approximate run time of audio guide is 60 minutes. Our Biltmore House Audio Guide is available in English, Spanish, French, German, and Mandarin Chinese languages; Audio Description Format (in English only) for guests with low vision or blindness; Neckloop Telecoil Coupler and Printed Transcript Format (currently in English only) for guests who are deaf or have partial hearing loss; and American Sign Language Format (viewable via tablet).",
+   "additional_content": "",
+   "hours": "Open daily; hours vary based on demand",
+   "e_event_start": null,
+   "e_event_end": null,
+   "days_of_the_week": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday",
+    "saturday",
+    "sunday"
+   ],
+   "location_select_event": [
+    "Biltmore House"
+   ]
+  }
+ },
+ {
+  "id": 346005,
+  "link": "https://www.biltmore.com/event/vines-of-autumn-dinner/",
+  "title": {
+   "rendered": "Vines of Autumn Dinner "
+  },
+  "acf": {
+   "sub_headline": "Vanderbilt Wine Club® & Passholder Exclusive ",
+   "card_snippet": "A special event showcasing our Vineyard’s beauty and exceptional wines.",
+   "cost": "$265 per person<br> <i>(includes gratuity) plus tax</i>",
+   "good_to_know": "<!-- wp:paragraph -->\r\n\r\n*<em>Seating is limited. Dates, time, menus, themes, guest speakers, and giveaways are all subject to change. Suggested attire: smart casual.</em>\r\n\r\n<!-- /wp:paragraph --> <!-- wp:paragraph -->\r\n\r\n**<em>The Vineyard features uneven terrain, which should be considered when selecting footwear; in the event of severe weather, the reception will take place in the Magnolia Loft located above Cedric’s® Tavern.</em>\r\n\r\n<!-- /wp:paragraph -->",
+   "additional_content": "<strong>NOTE:</strong> Reservations required. Minimum age of 21 to attend.",
+   "hours": "5-9 p.m.",
+   "e_event_start": "20261016",
+   "e_event_end": "20261016",
+   "days_of_the_week": [
+    "friday"
+   ],
+   "location_select_event": [
+    "Deerpark"
+   ]
+  }
+ },
+ {
+  "id": 7009,
+  "link": "https://www.biltmore.com/event/winter-at-biltmore/",
+  "title": {
+   "rendered": "Winter at Biltmore"
+  },
+  "acf": {
+   "sub_headline": "Included with admission",
+   "card_snippet": "Escape to Biltmore where the ultimate winter getaway awaits.",
+   "cost": "Included with admission",
+   "good_to_know": "",
+   "additional_content": "",
+   "hours": "",
+   "e_event_start": "20270111",
+   "e_event_end": "20270324",
+   "days_of_the_week": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday",
+    "saturday",
+    "sunday"
+   ],
+   "location_select_event": [
+    "Biltmore House"
+   ]
+  }
+ },
+ {
+  "id": 345252,
+  "link": "https://www.biltmore.com/event/deerpark-dining-event-celebrate-the-season/",
+  "title": {
+   "rendered": "Deerpark Dining Event: Celebrate the Season"
+  },
+  "acf": {
+   "sub_headline": "Passholder exclusive ",
+   "card_snippet": "Holiday dinner dance festivity. Details coming soon!",
+   "cost": "",
+   "good_to_know": "",
+   "additional_content": "",
+   "hours": "6 p.m.",
+   "e_event_start": "20261218",
+   "e_event_end": "20261218",
+   "days_of_the_week": [
+    "friday"
+   ],
+   "location_select_event": [
+    "Deerpark"
+   ]
+  }
+ },
+ {
+  "id": 153583,
+  "link": "https://www.biltmore.com/event/antler-hill-village-illumination/",
+  "title": {
+   "rendered": "Antler Hill Village Illumination"
+  },
+  "acf": {
+   "sub_headline": "Included with admission",
+   "card_snippet": "Bask in the glow of a glittering cascade of lights.",
+   "cost": "Included with admission",
+   "good_to_know": "",
+   "additional_content": "",
+   "hours": "5 p.m.–12 a.m.",
+   "e_event_start": "20261103",
+   "e_event_end": "20270110",
+   "days_of_the_week": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday",
+    "saturday",
+    "sunday"
+   ],
+   "location_select_event": [
+    "Antler Hill Village"
+   ]
+  }
+ },
+ {
+  "id": 332384,
+  "link": "https://www.biltmore.com/event/luminere/",
+  "title": {
+   "rendered": "Luminere<sup>™</sup>"
+  },
+  "acf": {
+   "sub_headline": "Included with select ticket types",
+   "card_snippet": "Biltmore's story comes to life in an evening outdoor light and sound experience.",
+   "cost": "",
+   "good_to_know": "Advance reservations are required for evening visits.",
+   "additional_content": "",
+   "hours": "Select evenings",
+   "e_event_start": "20260326",
+   "e_event_end": "20261018",
+   "days_of_the_week": [
+    "thursday",
+    "friday",
+    "saturday",
+    "sunday"
+   ],
+   "location_select_event": []
+  }
+ },
+ {
+  "id": 326467,
+  "link": "https://www.biltmore.com/event/biltmore-grown-market/",
+  "title": {
+   "rendered": "Biltmore® Grown Market"
+  },
+  "acf": {
+   "sub_headline": "Passholder exclusive",
+   "card_snippet": "Meet our farmers, savor free samples, and save 20% on Biltmore Grown!",
+   "cost": "",
+   "good_to_know": "Due to the popularity of last year’s event, and to ensure the best possible experience for all, <strong>reservations are required for this year’s Biltmore Grown markets</strong>.\r\n\r\n&nbsp;\r\n<h5>Guest policy:</h5>\r\n<ul>\r\n \t<li>Passholders may bring up to three guests with them per reservation.</li>\r\n \t<li><strong>Guests joining you before 4 p.m</strong>. must have an estate admission ticket, a Biltmore Annual Pass, or a stay at one of the estate’s overnight properties.</li>\r\n \t<li>Guests joining you after 4 p.m. do NOT require estate admission as long as they arrive with you in the same vehicle.</li>\r\n</ul>\r\n<!-- /wp:paragraph -->",
+   "additional_content": "<strong>November 13 is fully booked.</strong>\r\n\r\n<strong>November 14 FREE reservations now available!</strong>\r\n\r\n&nbsp;\r\n\r\n<em>Reservations required. Dates subject to change.</em>",
+   "hours": "November 13-14",
+   "e_event_start": null,
+   "e_event_end": null,
+   "days_of_the_week": [
+    "friday",
+    "saturday"
+   ],
+   "location_select_event": [
+    "Deerpark"
+   ]
+  }
+ },
+ {
+  "id": 319608,
+  "link": "https://www.biltmore.com/event/deerpark-dining-event-biltmore-in-bloom/",
+  "title": {
+   "rendered": "Deerpark Dining Event: Biltmore in Bloom"
+  },
+  "acf": {
+   "sub_headline": "Passholder exclusive",
+   "card_snippet": "A celebration of spring’s return. Details coming soon!",
+   "cost": "",
+   "good_to_know": "",
+   "additional_content": "",
+   "hours": "6 p.m.",
+   "e_event_start": "20270424",
+   "e_event_end": "20270424",
+   "days_of_the_week": [
+    "saturday"
+   ],
+   "location_select_event": [
+    "Deerpark"
+   ]
+  }
+ },
+ {
+  "id": 154697,
+  "link": "https://www.biltmore.com/event/christmas-at-biltmore/",
+  "title": {
+   "rendered": "Christmas at Biltmore™"
+  },
+  "acf": {
+   "sub_headline": "Included with admission",
+   "card_snippet": "Explore America’s Largest Home® at its most enchanting.",
+   "cost": "Included with admission",
+   "good_to_know": "",
+   "additional_content": "",
+   "hours": "",
+   "e_event_start": "20261103",
+   "e_event_end": "20270110",
+   "days_of_the_week": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday",
+    "saturday",
+    "sunday"
+   ],
+   "location_select_event": [
+    "Biltmore House",
+    "Antler Hill Village"
+   ]
+  }
+ },
+ {
+  "id": 104945,
+  "link": "https://www.biltmore.com/event/summer-at-biltmore/",
+  "title": {
+   "rendered": "Summer at Biltmore"
+  },
+  "acf": {
+   "sub_headline": "Included with admission",
+   "card_snippet": "Summer at Biltmore offers an abundance of opportunities to explore our 8,000-acres.",
+   "cost": "Included with admission",
+   "good_to_know": "",
+   "additional_content": "",
+   "hours": "",
+   "e_event_start": "20270521",
+   "e_event_end": "20270906",
+   "days_of_the_week": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday",
+    "saturday",
+    "sunday"
+   ],
+   "location_select_event": [
+    "Biltmore House",
+    "Gardens",
+    "Antler Hill Village",
+    "Winery"
+   ]
+  }
+ },
+ {
+  "id": 6979,
+  "link": "https://www.biltmore.com/event/fall-at-biltmore/",
+  "title": {
+   "rendered": "Fall at Biltmore"
+  },
+  "acf": {
+   "sub_headline": "Included with admission",
+   "card_snippet": "Immerse yourself in a kaleidoscope of color as George Vanderbilt’s magnificent estate.",
+   "cost": "Included with admission",
+   "good_to_know": "",
+   "additional_content": "",
+   "hours": "",
+   "e_event_start": "20260908",
+   "e_event_end": "20261102",
+   "days_of_the_week": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday",
+    "saturday",
+    "sunday"
+   ],
+   "location_select_event": [
+    "Biltmore House",
+    "Gardens",
+    "Antler Hill Village"
+   ]
+  }
+ },
+ {
+  "id": 118041,
+  "link": "https://www.biltmore.com/event/candlelight-christmas-evenings/",
+  "title": {
+   "rendered": "Candlelight Christmas Evenings™"
+  },
+  "acf": {
+   "sub_headline": "By reservation only. Pricing varies by date.",
+   "card_snippet": "Candlelight and live music bring holiday warmth to Biltmore House.",
+   "cost": "",
+   "good_to_know": "Advance reservations are required for evening visits.",
+   "additional_content": "",
+   "hours": "Select Evenings",
+   "e_event_start": "20261103",
+   "e_event_end": "20270109",
+   "days_of_the_week": [
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday",
+    "saturday",
+    "sunday"
+   ],
+   "location_select_event": [
+    "Biltmore House",
+    "Antler Hill Village"
+   ]
+  }
+ }
+]

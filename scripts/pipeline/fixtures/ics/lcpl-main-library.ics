@@ -1,0 +1,285 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Springshare//LibCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Events
+X-WR-CALDESC:
+X-WR-TIMEZONE:America/New_York
+X-PUBLISHED-TTL:PT15M
+BEGIN:VEVENT
+DTSTART:20261015T143000Z
+DTEND:20261015T150000Z
+DTSTAMP:20261015T000000Z
+SUMMARY:Preschool Story Time (Ages 3-6) @ Main Library
+DESCRIPTION:Enjoy stories\, songs and rhymes that build early literacy skills and spark imagination. This program is designed for children ages three to six and their caregivers\, but all are welcome.
+LOCATION:Leon County Main Library
+CATEGORIES:Story Times
+UID:LibCal-15236-16550924
+URL:https://leoncountyfl.libcal.com/event/16550924
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261015T150000Z
+DTEND:20261015T153000Z
+DTSTAMP:20261015T000000Z
+SUMMARY:Stay and Play @ Main Library
+DESCRIPTION:After Story Time\, stay to play\, explore and connect with other families. Hands-on activities encourage learning through play — and you’re welcome to come just for Stay and Play if you can’t make it to Story Time!\n
+LOCATION:Leon County Main Library
+CATEGORIES:Story Times
+UID:LibCal-15236-10421928
+URL:https://leoncountyfl.libcal.com/event/10421928
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261015T190000Z
+DTEND:20261015T210000Z
+DTSTAMP:20261015T000000Z
+SUMMARY:Craft and Create: Open Lab
+DESCRIPTION:\n\nExplore endless creative possibilities in the Open Lab! Bring your own project or try one of ours\, including:\n\n\n	Buttons\, bracelets or Perler bead designs\n	Embroidery\, cross-stitch\, knitting\, crocheting or visible mending\n	Junk journaling\, scrapbooking or paper quilling\n	Painting\, dot painting\, rock painting\, adult coloring or book bedazzling\n	Cricut Maker 4 projects\n\n\nYou may also bring your own supplies to use the Cricut AutoPress or Mug Press. With hands-on activities for every maker\, stop by and get creative!\n\nStay after Open Lab to join us for Craft and Create: Custom Wooden Planter With Cricut from 5-7 p.m.\n\n
+LOCATION:Lake Jackson Branch Library
+CATEGORIES:
+UID:LibCal-15236-17558926
+URL:https://leoncountyfl.libcal.com/event/17558926
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261015T200000Z
+DTEND:20261015T210000Z
+DTSTAMP:20261015T000000Z
+SUMMARY:Teen Advisory Board
+DESCRIPTION:The Teen Advisory Board gives teens a voice in shaping teen programs at the LeRoy Collins Leon County Public Library. While earning volunteer service hours\, members work together to plan and implement programs and promote them to other teens.\n\nResponsibilities\n\n\n	Attend bi-monthly TAB meetings every first and third Thursday from 4 to 5 p.m.\n	Brainstorm ideas for teen programming\, including cost\, materials and marketing.\n	Attend at least one teen program each semester (fall\, spring and summer) as a representative of the TAB.\n	\n	Update the teen bulletin board with upcoming events and other content of interest.\n	\n\n\nReasons to Join\n\n\n	Earn volunteer hours\n	Plan programming\n	Recommend purchases\n\n\nApply to be on the Teen Advisory Board here.
+LOCATION:Leon County Main Library
+CATEGORIES:
+UID:LibCal-15236-15868867
+URL:https://leoncountyfl.libcal.com/event/15868867
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261015T210000Z
+DTEND:20261015T230000Z
+DTSTAMP:20261015T000000Z
+SUMMARY:Craft and Create: Custom Wooden Planter With Cricut
+DESCRIPTION:Create a custom wooden planter using Cricut in this hands-on workshop for teens and adults. Use Cricut Design Space to create a unique design\, cut it from heat-transfer vinyl and apply it to your planter. Choose a monogram\, favorite phrase or decorative pattern to create a one-of-a-kind piece for your home or as a gift.\n\n.       \n\nAll materials are provided. Participants are encouraged to bring a laptop\, though a limited number of library laptops will be available. If using your own laptop\, please download the free Cricut Design Space software before the workshop.\n\nCome early for Craft and Create: Open Lab from 3-5 p.m.
+LOCATION:Lake Jackson Branch Library
+CATEGORIES:
+UID:LibCal-15236-17558934
+URL:https://leoncountyfl.libcal.com/event/17558934
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261015T220000Z
+DTEND:20261015T233000Z
+DTSTAMP:20261015T000000Z
+SUMMARY:Community Music Jam
+DESCRIPTION:On the third Thursday of every month\, the Jane G. Sauls Ft. Braden Branch Library will be hosting our Community Music Jam for all local musicians and enjoyers of music. Binders holding chord books for different instruments\, as well as songs with chords and lyrics\, will be provided.\n\nThis event is open to all ages to attend whether performing or listening.\n\nAll music is welcome! Only rules: no amplifiers allowed (acoustic only) and no profanity or derogatory lyrics.\n\nCurrent Song List\, Lyrics\, and Chords: Community Music Jam\n
+LOCATION:Jane G. Sauls Fort Braden Branch Library
+CATEGORIES:
+UID:LibCal-15236-10233849
+URL:https://leoncountyfl.libcal.com/calendar/events/MusicJam
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261015T223000Z
+DTEND:20261015T233000Z
+DTSTAMP:20261015T000000Z
+SUMMARY:Science Night With MagLab
+DESCRIPTION:Enjoy a free\, fun\, and family-friendly science event for all ages\, especially great for kids ages 5-10. Each session features an exciting science topic with hands-on experiments or demonstrations\, a Q&A with a guest expert\, and an activity using simple household items.\n\nThe program lasts about 45 minutes. Plus\, library staff will recommend books and other library materials related to each Science Night topic so you can keep the learning going at home.
+LOCATION:Leon County Main Library
+CATEGORIES:
+UID:LibCal-15236-17324557
+URL:https://leoncountyfl.libcal.com/event/17324557
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T140000Z
+DTEND:20261016T163000Z
+DTSTAMP:20261016T000000Z
+SUMMARY:Coffee and Cards @ Woodville Branch
+DESCRIPTION:Ready for some fun? Join us every Wednesday and Friday for card games\, coffee\, and conversation. Meet new friends while playing games like bid whist\, bridge\, and more!
+LOCATION:Woodville Branch Library
+CATEGORIES:
+UID:LibCal-15236-16165561
+URL:https://leoncountyfl.libcal.com/event/16165561
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T143000Z
+DTEND:20261016T150000Z
+DTSTAMP:20261016T000000Z
+SUMMARY:Sensory Story Time @ Main Library
+DESCRIPTION:Experience an inclusive and interactive story time with songs\, stories and activities designed for children of all abilities. This program is especially welcoming to children with autism or sensory processing needs.\n\n
+LOCATION:Leon County Main Library
+CATEGORIES:Story Times
+UID:LibCal-15236-16464200
+URL:https://leoncountyfl.libcal.com/event/16464200
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T150000Z
+DTEND:20261016T153000Z
+DTSTAMP:20261016T000000Z
+SUMMARY:Sensory Stay and Play @ Main Library
+DESCRIPTION:Stay after Sensory Story Time to play\, explore and connect with other families. Activities support early learning and sensory development — and you’re welcome to come just for Stay and Play if you can’t make it to Story Time.
+LOCATION:Leon County Main Library
+CATEGORIES:Story Times
+UID:LibCal-15236-16464412
+URL:https://leoncountyfl.libcal.com/event/16464412
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T150000Z
+DTEND:20261016T180000Z
+DTSTAMP:20261016T000000Z
+SUMMARY:Library Link-Up
+DESCRIPTION:Get connected to helpful resources all in one place. Meet local organizations offering support in health services\, legal aid\, education\, career training and more. Stop by to explore what’s available and find services that fit your needs.
+LOCATION:Leon County Main Library
+CATEGORIES:
+UID:LibCal-15236-16587054
+URL:https://leoncountyfl.libcal.com/event/16587054
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261017T150000Z
+DTEND:20261017T153000Z
+DTSTAMP:20261017T000000Z
+SUMMARY:Family Story Time @ Dr. B.L. Perry\, Jr. Branch
+DESCRIPTION:Enjoy stories\, songs and rhymes that build early literacy skills for young children. This program is designed for children from birth to age five and their caregivers\, but all are welcome. The first Saturday of each month includes a craft activity.\n
+LOCATION:Dr. B.L. Perry\, Jr. Branch Library
+CATEGORIES:Story Times
+UID:LibCal-15236-10862080
+URL:https://leoncountyfl.libcal.com/event/10862080
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261017T150000Z
+DTEND:20261017T160000Z
+DTSTAMP:20261017T000000Z
+SUMMARY:Library Lecture Series: Florida and the South in the American Revolution
+DESCRIPTION:\nTravel back to 1776 and uncover the often-overlooked roles Florida and the American South played during the American Revolution. Explore this fascinating chapter of history through engaging stories and new historical insights that challenge the familiar narrative of the Revolution. Discover how events beyond the 13 colonies helped shape the struggle for American independence.\n\nAbout the Speaker\nDr. Roger Smith is a published historian and adjunct professor of American history at the University of Florida. A nationally recognized speaker on Revolutionary War history\, he has served as a consultant for AMC’s Turn and appeared in the PBS documentary Secrets of the Dead: The Secrets of Spanish Florida.\n \n
+LOCATION:Leon County Main Library
+CATEGORIES:America250
+UID:LibCal-15236-17563896
+URL:https://leoncountyfl.libcal.com/event/17563896
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261017T153000Z
+DTEND:20261017T160000Z
+DTSTAMP:20261017T000000Z
+SUMMARY:Stay and Play @ Dr. B.L. Perry\, Jr. Branch
+DESCRIPTION:After Story Time\, stay to play\, explore and connect with other families. Hands-on activities encourage learning through play — and you’re welcome to come just for Stay and Play if you can’t make it to Story Time!\n
+LOCATION:Dr. B.L. Perry\, Jr. Branch Library
+CATEGORIES:Story Times
+UID:LibCal-15236-10862297
+URL:https://leoncountyfl.libcal.com/event/10862297
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261017T173000Z
+DTEND:20261017T190000Z
+DTSTAMP:20261017T000000Z
+SUMMARY:Craft and Create for Kids: Mixed-Media Fall Bouquet
+DESCRIPTION:Celebrate the colors of autumn with a mixed-media art project inspired by a book! Create a colorful fall bouquet while exploring symmetry\, patterns\, color and collage. This hands-on program encourages creativity\, self-expression and artistic exploration.\n\n         \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n
+LOCATION:Lake Jackson Branch Library
+CATEGORIES:
+UID:LibCal-15236-17559162
+URL:https://leoncountyfl.libcal.com/event/17559162
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261017T180000Z
+DTEND:20261017T190000Z
+DTSTAMP:20261017T000000Z
+SUMMARY:Lego Club @ Main Library
+DESCRIPTION:Build\, create\, and play at Lego Club! Kids and families can enjoy hands-on building while boosting creativity\, problem-solving\, and fine motor skills in a fun\, interactive setting.\n
+LOCATION:Leon County Main Library
+CATEGORIES:
+UID:LibCal-15236-10888135
+URL:https://leoncountyfl.libcal.com/event/10888135
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261018T180000Z
+DTEND:20261018T190000Z
+DTSTAMP:20261018T000000Z
+SUMMARY:Story Builders Improv Club
+DESCRIPTION:Create characters\, tell stories\, and play theater games in this fun drop-in program! Build confidence\, creativity\, and teamwork through improvisational storytelling. No experience needed—all skill levels welcome.
+LOCATION:Leon County Main Library
+CATEGORIES:
+UID:LibCal-15236-16684862
+URL:https://leoncountyfl.libcal.com/event/16684862
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261019T200000Z
+DTEND:20261019T220000Z
+DTSTAMP:20261019T000000Z
+SUMMARY:Homework Hub @ Main Library
+DESCRIPTION:Students in kindergarten through 8th grade can receive in-person homework assistance through Homework Hub at the Leon County Public Library. Students should bring their homework to each session. Assistance is offered on a first-come\, first-served basis.\n\nTo participate\, please visit LeonCountyLibrary.org/HomeworkHub to complete and submit the permission form.\n\nFor additional support\, students can also access virtual homework help in math\, science\, reading and writing\, social studies\, and more from 2-11 p.m. daily with their library card using Brainfuse HelpNow.
+LOCATION:Leon County Main Library
+CATEGORIES:
+UID:LibCal-15236-17592783
+URL:https://leoncountyfl.libcal.com/event/17592783
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261019T210000Z
+DTEND:20261019T233000Z
+DTSTAMP:20261019T000000Z
+SUMMARY:One-on-One Financial Planning
+DESCRIPTION:Connect with a CERTIFIED FINANCIAL PLANNER™ professional for a confidential\, one-on-one session tailored to your financial goals. These short\, informative appointments offer clear steps you can begin using right away\, whether you’re budgeting\, saving for retirement\, managing debt\, or seeking guidance on a specific concern.\n\nTopics may include budgeting\, emergency savings\, debt management\, retirement planning\, Social Security\, major purchases\, insurance\, basic estate planning\, and more. Sessions are free. Register below\, and walk-ins are welcome as space allows.
+LOCATION:Leon County Main Library
+CATEGORIES:Money Skills
+UID:LibCal-15236-16588079
+URL:https://leoncountyfl.libcal.com/event/16588079
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261020T143000Z
+DTEND:20261020T150000Z
+DTSTAMP:20261020T000000Z
+SUMMARY:Baby Story Time (Ages 0-2) @ Main Library
+DESCRIPTION:Enjoy songs\, rhymes and stories that support your baby’s early language and literacy development. This program is designed for children from birth to age two and their caregivers\, but all are welcome.\n\nAfter Story Time\, stay to play\, explore and connect with other families. Hands-on activities encourage learning through play — and you’re welcome to come just for Stay and Play if you can’t make it to Story Time.
+LOCATION:Leon County Main Library
+CATEGORIES:Story Times
+UID:LibCal-15236-16577420
+URL:https://leoncountyfl.libcal.com/event/16577420
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261020T150000Z
+DTEND:20261020T153000Z
+DTSTAMP:20261020T000000Z
+SUMMARY:Stay and Play @ Main Library
+DESCRIPTION:After Story Time\, stay to play\, explore and connect with other families. Hands-on activities encourage learning through play — and you’re welcome to come just for Stay and Play if you can’t make it to Story Time!
+LOCATION:Leon County Main Library
+CATEGORIES:Story Times
+UID:LibCal-15236-16577627
+URL:https://leoncountyfl.libcal.com/event/16577627
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261020T200000Z
+DTEND:20261020T220000Z
+DTSTAMP:20261020T000000Z
+SUMMARY:Homework Hub @ Dr. B.L. Perry\, Jr. Branch
+DESCRIPTION:Students in kindergarten through 8th grade can receive in-person homework assistance through Homework Hub at the Leon County Public Library. Students should bring their homework to each session. Assistance is offered on a first-come\, first-served basis.\n\nTo participate\, please visit LeonCountyLibrary.org/HomeworkHub to complete and submit the permission form.\n\nFor additional support\, students can also access virtual homework help in math\, science\, reading and writing\, social studies\, and more from 2-11 p.m. daily with their library card using Brainfuse HelpNow.
+LOCATION:Dr. B.L. Perry\, Jr. Branch Library
+CATEGORIES:
+UID:LibCal-15236-17593007
+URL:https://leoncountyfl.libcal.com/event/17593007
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T133000Z
+DTEND:20261021T140000Z
+DTSTAMP:20261021T000000Z
+SUMMARY:Virtual Story Time
+DESCRIPTION:Tune in for an interactive online story time featuring books\, songs\, rhymes and fun designed for preschoolers and their families. Click here to join the virtual program.\n
+LOCATION:Virtual
+CATEGORIES:Story Times
+UID:LibCal-15236-16053089
+URL:https://leoncountyfl.libcal.com/event/16053089
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T140000Z
+DTEND:20261021T163000Z
+DTSTAMP:20261021T000000Z
+SUMMARY:Coffee and Cards @ Woodville Branch
+DESCRIPTION:Ready for some fun? Join us every Wednesday and Friday for card games\, coffee\, and conversation. Meet new friends while playing games like bid whist\, bridge\, and more!
+LOCATION:Woodville Branch Library
+CATEGORIES:
+UID:LibCal-15236-16165562
+URL:https://leoncountyfl.libcal.com/event/16165562
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T150000Z
+DTEND:20261021T180000Z
+DTSTAMP:20261021T000000Z
+SUMMARY:Coffee and Cards @ Dr. B.L. Perry\, Jr. Branch
+DESCRIPTION:Ready for some fun? Join us every Wednesday for card games\, coffee\, and conversation. Meet new friends while playing games like bid whist\, bridge\, and more!
+LOCATION:Dr. B.L. Perry\, Jr. Branch Library
+CATEGORIES:
+UID:LibCal-15236-16301225
+URL:https://leoncountyfl.libcal.com/event/16301225
+END:VEVENT
+END:VCALENDAR

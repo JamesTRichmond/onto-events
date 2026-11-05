@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Expansion Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:cpl-merlo-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T163000Z
+DTEND:20261024T173000Z
+SUMMARY:Lakeview Family STEAM Explorers at Merlo Branch
+DESCRIPTION:Hands-on creative engineering, coding robots, and math puzzles for elementary students at CPL Merlo Branch Library.
+LOCATION:CPL Merlo Branch Library
+URL:https://www.chipublib.org/locations/49/
+END:VEVENT
+BEGIN:VEVENT
+UID:cpl-merlo-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T200000Z
+DTEND:20261027T210000Z
+SUMMARY:Merlo Evening Readers Circle: Urban History & Memoir
+DESCRIPTION:Community adult book club exploring narrative nonfiction, urban social history, and contemporary poetry.
+LOCATION:CPL Merlo Branch Library
+URL:https://www.chipublib.org/locations/49/
+END:VEVENT
+END:VCALENDAR

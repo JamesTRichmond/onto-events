@@ -1,0 +1,74 @@
+{
+  "pages": [
+    {
+      "total": 4,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 10050352,
+          "global_id": "www.lesecologycenter.org?id=10050352",
+          "title": "Mathews-Palmer Park",
+          "description": "<p>Thank you for participating in the Hell’s Kitchen Commons Food Scrap Drop-Off. Hell’s Kitchen Commons accepts food scraps at Mathews Palmer Park (45th between 9th/10th Ave) during the park’s open hours.</p>\n<p>This is a community-managed compost drop-off site. Participants are asked to ensure the area remains clean and the bin lids remain closed after food scraps are dropped off. Participants must follow the guidelines for what to contribute. You are also invited to join the Hell’s Kitchen Commons volunteer team. Email hellskitchencommons@gmail.com to be added to their volunteer What’s App group.</p>\n<p><strong>Please note: Food waste from households only. NO businesses or other commercial generators may drop off.</strong></p>",
+          "url": "https://www.lesecologycenter.org/calendar/mathews-palmer-park/2026-10-16/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-16 11:00:00",
+          "utc_end_date": "2026-10-16 22:00:00",
+          "venue": {
+            "venue": "Mathews–Palmer Park",
+            "address": "445 W 45th St",
+            "city": "New York"
+          }
+        },
+        {
+          "id": 10051742,
+          "global_id": "www.lesecologycenter.org?id=10051742",
+          "title": "Union Square",
+          "description": "<p>Bring your compost to our original community compost drop-off location, operating since 1994. Located at the eastern edge of the Union Square Greenmarket–look for the grey barrels or ask a GrowNYC representative for the compost drop-off. For more information, please visit the Compost program page.</p>\n<p>This drop-off location is open year-round on Mondays, Wednesdays, Fridays, and Saturdays from 8am–5pm.</p>",
+          "url": "https://www.lesecologycenter.org/calendar/union-square-compost-drop-off-2020/2026-10-16/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-16 12:00:00",
+          "utc_end_date": "2026-10-16 21:00:00",
+          "venue": {
+            "venue": "Union Square Greenmarket",
+            "address": "Union Square",
+            "city": "New York"
+          }
+        },
+        {
+          "id": 55361,
+          "global_id": "www.lesecologycenter.org?id=55361",
+          "title": "Central Harlem Street Tree Care Part 2 with Harlem Valley Community Garden",
+          "description": "<p>Join LESEC at Harlem Valley Community Garden for a second session of urban forest stewardship in Central Harlem with locally made NYC compost. Meet the dedicated team of community gardeners reviving this formerly defunct community garden!</p>\n<p>This event is part of the Master Composter Certificate Course. Registration will open 2-3 weeks prior to the event.</p>",
+          "url": "https://www.lesecologycenter.org/calendar/central-harlem-street-tree-care-part-2-with-harlem-valley-community-garden/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-17 14:00:00",
+          "utc_end_date": "2026-10-17 16:00:00",
+          "venue": {
+            "venue": "Harlem Valley Garden",
+            "address": "197 West 134th Street",
+            "city": "New York"
+          }
+        },
+        {
+          "id": 55041,
+          "global_id": "www.lesecologycenter.org?id=55041",
+          "title": "Street Tree Care with City Council-member Sanchez",
+          "description": "<p>Join the office of Council Member Justin Sanchez and the LES Ecology Center and to care for our urban forest canopy in the Bronx!</p>\n<p>Trees clean our air, cool our streets, mitigate flooding, and much more!</p>\n<p>Help us take care of the trees by aerating soil, weeding, removing litter, and applying NYC-made compost and mulch. We will learn about the Urban Forest of NYC, including different types of trees found in the neighborhood, how to care for the soil, and what types of plants you may see growing in tree beds. All materials provided.</p>\n<p><button id=\"eventbrite-widget-modal-trigger-1998446082028\" type=\"button\">Sign up here!</button></p>",
+          "url": "https://www.lesecologycenter.org/calendar/street-tree-care-with-city-council-member-sanchez/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-17 15:00:00",
+          "utc_end_date": "2026-10-17 17:00:00",
+          "venue": {
+            "venue": "CM Sanchez Office",
+            "address": "1307 Southern Boulevard",
+            "city": "Bronx"
+          }
+        }
+      ]
+    }
+  ]
+}

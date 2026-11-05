@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:cpl-blackstone-branch-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Historic Blackstone Family Storytime & Architecture Tour
+DESCRIPTION:Children reading session beneath the historic rotunda dome followed by an architectural scavenger hunt.
+LOCATION:CPL Blackstone Branch Library
+URL:https://www.chipublib.org/locations/14/
+END:VEVENT
+BEGIN:VEVENT
+UID:cpl-blackstone-branch-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Kenwood & Hyde Park History Roundtable
+DESCRIPTION:Local historical society lecture examining the architectural heritage of South Lake Park Avenue.
+LOCATION:CPL Blackstone Branch Library
+URL:https://www.chipublib.org/locations/14/
+END:VEVENT
+END:VCALENDAR

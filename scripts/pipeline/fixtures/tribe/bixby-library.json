@@ -1,0 +1,180 @@
+{
+  "capturedAt": "2026-10-08T04:58:55.880Z",
+  "evidence": "Real public capture, selected occurrences. Prose, contacts and producer metadata omitted; no dates rewritten. Fixture counts are not live supply.",
+  "pages": [
+    {
+      "total_pages": 1,
+      "total": 10,
+      "events": [
+        {
+          "id": 10006259,
+          "global_id": "bixbylibrary.org?id=10006259",
+          "title": "Tai Chi for Fall Prevention (Ongoing)",
+          "url": "https://bixbylibrary.org/event/tai-chi-for-fall-prevention-ongoing/2026-10-08/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-10-08 10:00:00",
+          "end_date": "2026-10-08 11:00:00",
+          "utc_start_date": "2026-10-08 14:00:00",
+          "utc_end_date": "2026-10-08 15:00:00",
+          "timezone": "America/New_York",
+          "description": "",
+          "venue": {
+            "venue": "Bixby Memorial Free Library &#8211; Otter Creek Room"
+          }
+        },
+        {
+          "id": 10006200,
+          "global_id": "bixbylibrary.org?id=10006200",
+          "title": "Tai Chi for Beginners",
+          "url": "https://bixbylibrary.org/event/tai-chi-for-beginners-5/2026-10-08/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-10-08 11:00:00",
+          "end_date": "2026-10-08 12:00:00",
+          "utc_start_date": "2026-10-08 15:00:00",
+          "utc_end_date": "2026-10-08 16:00:00",
+          "timezone": "America/New_York",
+          "description": "",
+          "venue": {
+            "venue": "Bixby Memorial Free Library &#8211; Otter Creek Room"
+          }
+        },
+        {
+          "id": 10006065,
+          "global_id": "bixbylibrary.org?id=10006065",
+          "title": "Bring Your Book Donations",
+          "url": "https://bixbylibrary.org/event/bring-your-book-donations-15/2026-10-08/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-10-08 15:00:00",
+          "end_date": "2026-10-08 18:00:00",
+          "utc_start_date": "2026-10-08 19:00:00",
+          "utc_end_date": "2026-10-08 22:00:00",
+          "timezone": "America/New_York",
+          "description": "",
+          "venue": {
+            "venue": "Bixby Memorial Free Library"
+          }
+        },
+        {
+          "id": 10006434,
+          "global_id": "bixbylibrary.org?id=10006434",
+          "title": "Beginner Mah Jongg Meetup",
+          "url": "https://bixbylibrary.org/event/beginner-mah-jongg-meetup/2026-10-08/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-10-08 16:00:00",
+          "end_date": "2026-10-08 18:00:00",
+          "utc_start_date": "2026-10-08 20:00:00",
+          "utc_end_date": "2026-10-08 22:00:00",
+          "timezone": "America/New_York",
+          "description": "",
+          "venue": {
+            "venue": "Bixby Memorial Free Library &#8211; Otter Creek Room"
+          }
+        },
+        {
+          "id": 10002116,
+          "global_id": "bixbylibrary.org?id=10002116",
+          "title": "Storytime",
+          "url": "https://bixbylibrary.org/event/storytime-8-4-2-3/2026-10-09/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-10-09 10:30:00",
+          "end_date": "2026-10-09 11:00:00",
+          "utc_start_date": "2026-10-09 14:30:00",
+          "utc_end_date": "2026-10-09 15:00:00",
+          "timezone": "America/New_York",
+          "description": "",
+          "venue": {
+            "venue": "Bixby Memorial Free Library &#8211; Children&#8217;s Room"
+          }
+        },
+        {
+          "id": 10006072,
+          "global_id": "bixbylibrary.org?id=10006072",
+          "title": "Book Sale",
+          "url": "https://bixbylibrary.org/event/book-sale/2026-10-10/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-10-10 09:00:00",
+          "end_date": "2026-10-10 13:00:00",
+          "utc_start_date": "2026-10-10 13:00:00",
+          "utc_end_date": "2026-10-10 17:00:00",
+          "timezone": "America/New_York",
+          "description": "",
+          "venue": {
+            "venue": "Bixby Memorial Free Library &#8211; Otter Creek Room"
+          }
+        },
+        {
+          "id": 24813,
+          "global_id": "bixbylibrary.org?id=24813",
+          "title": "Tech Savvy Saturday",
+          "url": "https://bixbylibrary.org/event/tech-savvy-saturday-5/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-10-10 10:00:00",
+          "end_date": "2026-10-10 13:00:00",
+          "utc_start_date": "2026-10-10 14:00:00",
+          "utc_end_date": "2026-10-10 17:00:00",
+          "timezone": "America/New_York",
+          "description": "",
+          "venue": []
+        },
+        {
+          "id": 10005159,
+          "global_id": "bixbylibrary.org?id=10005159",
+          "title": "Fiber Arts Circle",
+          "url": "https://bixbylibrary.org/event/fiber-arts-circle-6/2026-10-10/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-10-10 12:00:00",
+          "end_date": "2026-10-10 14:00:00",
+          "utc_start_date": "2026-10-10 16:00:00",
+          "utc_end_date": "2026-10-10 18:00:00",
+          "timezone": "America/New_York",
+          "description": "",
+          "venue": {
+            "venue": "Bixby Memorial Free Library &#8211; Community Room"
+          }
+        },
+        {
+          "id": 22072,
+          "global_id": "bixbylibrary.org?id=22072",
+          "title": "Scrapbook and Sip",
+          "url": "https://bixbylibrary.org/event/scrapbook-and-sip/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-10-10 13:00:00",
+          "end_date": "2026-10-10 14:30:00",
+          "utc_start_date": "2026-10-10 17:00:00",
+          "utc_end_date": "2026-10-10 18:30:00",
+          "timezone": "America/New_York",
+          "description": "",
+          "venue": {
+            "venue": "Bixby Memorial Free Library &#8211; Bixby Hall"
+          }
+        },
+        {
+          "id": 10005853,
+          "global_id": "bixbylibrary.org?id=10005853",
+          "title": "Tai Chi Yang 24 Practice",
+          "url": "https://bixbylibrary.org/event/tai-chi-yang-24-practice-3/2026-11-03/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "start_date": "2026-11-03 10:00:00",
+          "end_date": "2026-11-03 11:00:00",
+          "utc_start_date": "2026-11-03 15:00:00",
+          "utc_end_date": "2026-11-03 16:00:00",
+          "timezone": "America/New_York",
+          "description": "",
+          "venue": {
+            "venue": "Bixby Memorial Free Library &#8211; Bixby Hall"
+          }
+        }
+      ]
+    }
+  ]
+}

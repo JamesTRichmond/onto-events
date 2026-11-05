@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Pensacola Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:saenger-theatre-pensacola-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:Classic Movie Matinee at the Historic 1925 Saenger
+DESCRIPTION:Community repertory film screening and pipe organ prelude inside the Spanish Baroque Saenger Theatre.
+LOCATION:Pensacola Saenger Theatre
+URL:https://www.pensacolasaenger.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:saenger-theatre-pensacola-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Downtown Performing Arts Showcase at the Saenger
+DESCRIPTION:Evening concert and touring stage production on South Palafox Street.
+LOCATION:Pensacola Saenger Theatre
+URL:https://www.pensacolasaenger.com/events/
+END:VEVENT
+END:VCALENDAR

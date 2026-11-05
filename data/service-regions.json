@@ -1,0 +1,4743 @@
+[
+  {
+    "id": "utah",
+    "name": "Utah and neighboring road-trip towns",
+    "timezone": "America/Denver",
+    "bounds": {
+      "latMin": 36.5,
+      "latMax": 44.5,
+      "lngMin": -115.5,
+      "lngMax": -108.5
+    }
+  },
+  {
+    "id": "vermont-corridor",
+    "name": "Vermont corridor",
+    "region": "VT",
+    "countryCode": "US",
+    "timezone": "America/New_York",
+    "bounds": {
+      "latMin": 43.4,
+      "latMax": 44.7,
+      "lngMin": -73.5,
+      "lngMax": -72.15
+    },
+    "localityAliases": {
+      "white river junction": "Hartford",
+      "quechee": "Hartford",
+      "wilder": "Hartford",
+      "west hartford": "Hartford",
+      "south royalton": "Royalton",
+      "so. royalton": "Royalton",
+      "s. royalton": "Royalton",
+      "royalton village": "Royalton",
+      "village of woodstock": "Woodstock",
+      "town of woodstock": "Woodstock",
+      "west woodstock": "Woodstock",
+      "south woodstock": "Woodstock",
+      "taftsville": "Woodstock",
+      "south pomfret": "Pomfret",
+      "north pomfret": "Pomfret",
+      "pomfret": "Pomfret",
+      "east barnard": "Barnard",
+      "barnard": "Barnard",
+      "bridgewater corners": "Bridgewater",
+      "plymouth notch": "Plymouth",
+      "brownsville": "West Windsor",
+      "post mills": "Thetford",
+      "thetford center": "Thetford",
+      "north thetford": "Thetford",
+      "east thetford": "Thetford",
+      "south strafford": "Strafford",
+      "north tunbridge": "Tunbridge",
+      "east randolph": "Randolph",
+      "north randolph": "Randolph",
+      "south randolph": "Randolph",
+      "randolph center": "Randolph",
+      "proctorsville": "Cavendish",
+      "perkinsville": "Weathersfield",
+      "ascutney": "Weathersfield",
+      "rutland": "Rutland City",
+      "barre": "Barre City",
+      "ferrisburg": "Ferrisburgh",
+      "buels gore": "Buel's Gore",
+      "underhill flats": "Underhill",
+      "underhill center": "Underhill",
+      "jericho center": "Jericho",
+      "bread loaf": "Ripton",
+      "east middlebury": "Middlebury",
+      "middlebury college": "Middlebury",
+      "lake dunmore": "Salisbury",
+      "branbury": "Salisbury",
+      "chimney point": "Addison",
+      "basin harbor": "Ferrisburgh",
+      "middlebury, vt": "Middlebury",
+      "middlebury vt": "Middlebury",
+      "vergennes, vt": "Vergennes",
+      "bristol, vt": "Bristol",
+      "brandon, vt": "Brandon",
+      "addison county": "Middlebury"
+    },
+    "hubs": [
+      {
+        "name": "Burlington",
+        "municipality": "Burlington"
+      },
+      {
+        "name": "White River Junction",
+        "municipality": "Hartford"
+      },
+      {
+        "name": "Woodstock",
+        "municipality": "Woodstock"
+      },
+      {
+        "name": "Royalton",
+        "municipality": "Royalton"
+      },
+      {
+        "name": "Montpelier",
+        "municipality": "Montpelier"
+      },
+      {
+        "name": "Rutland",
+        "municipality": "Rutland City"
+      },
+      {
+        "name": "Middlebury",
+        "municipality": "Middlebury"
+      },
+      {
+        "name": "Bristol",
+        "municipality": "Bristol"
+      },
+      {
+        "name": "Vergennes",
+        "municipality": "Vergennes"
+      }
+    ],
+    "groups": [
+      {
+        "id": "burlington",
+        "name": "Burlington",
+        "municipalities": [
+          "Burlington",
+          "South Burlington",
+          "Winooski",
+          "Colchester",
+          "Essex",
+          "Essex Junction",
+          "Williston",
+          "Shelburne",
+          "Charlotte",
+          "Hinesburg",
+          "Milton",
+          "Westford",
+          "Jericho",
+          "Underhill",
+          "St. George"
+        ]
+      },
+      {
+        "id": "burlington-montpelier",
+        "name": "Burlington–Montpelier",
+        "municipalities": [
+          "Richmond",
+          "Bolton",
+          "Huntington",
+          "Buel's Gore",
+          "Waterbury",
+          "Duxbury",
+          "Moretown",
+          "Middlesex",
+          "Montpelier",
+          "East Montpelier",
+          "Berlin",
+          "Barre City",
+          "Barre Town"
+        ]
+      },
+      {
+        "id": "montpelier-white-river",
+        "name": "Montpelier–White River",
+        "municipalities": [
+          "Northfield",
+          "Williamstown",
+          "Brookfield",
+          "Braintree",
+          "Randolph",
+          "Bethel",
+          "Royalton",
+          "Sharon",
+          "Hartford",
+          "Norwich",
+          "Chelsea",
+          "Tunbridge",
+          "Strafford",
+          "Thetford",
+          "Bradford",
+          "Fairlee",
+          "West Fairlee",
+          "Corinth",
+          "Topsham",
+          "Orange",
+          "Washington",
+          "Vershire",
+          "Newbury",
+          "Rochester",
+          "Stockbridge"
+        ]
+      },
+      {
+        "id": "white-river-rutland",
+        "name": "White River–Rutland",
+        "municipalities": [
+          "Woodstock",
+          "Bridgewater",
+          "Killington",
+          "Mendon",
+          "Rutland City",
+          "Rutland Town",
+          "Pomfret",
+          "Barnard",
+          "Hartland",
+          "Plymouth",
+          "Windsor",
+          "West Windsor",
+          "Reading",
+          "Ludlow",
+          "Cavendish",
+          "Chester",
+          "Springfield",
+          "Weathersfield",
+          "Andover",
+          "Baltimore",
+          "Weston"
+        ]
+      },
+      {
+        "id": "rutland-middlebury",
+        "name": "Rutland–Middlebury",
+        "municipalities": [
+          "Pittsford",
+          "Brandon",
+          "Leicester",
+          "Salisbury",
+          "Middlebury",
+          "Cornwall",
+          "Weybridge",
+          "Ripton",
+          "Goshen",
+          "Whiting",
+          "Orwell",
+          "Hancock",
+          "Granville"
+        ]
+      },
+      {
+        "id": "bristol-vergennes",
+        "name": "Bristol–Vergennes",
+        "municipalities": [
+          "Bristol",
+          "Lincoln",
+          "Starksboro",
+          "Monkton",
+          "New Haven",
+          "Vergennes",
+          "Ferrisburgh",
+          "Addison",
+          "Panton",
+          "Waltham",
+          "Bridport",
+          "Shoreham"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "asheville",
+    "name": "Asheville and Buncombe County",
+    "region": "NC",
+    "countryCode": "US",
+    "timezone": "America/New_York",
+    "bounds": {
+      "latMin": 35.39,
+      "latMax": 35.83,
+      "lngMin": -82.89,
+      "lngMax": -82.16
+    },
+    "anchor": {
+      "name": "Asheville City Hall",
+      "lat": 35.5956,
+      "lng": -82.5486,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Asheville_City_Hall",
+      "checkedOn": "2026-10-08"
+    },
+    "localityAliases": {
+      "city of asheville": "Asheville",
+      "town of biltmore forest": "Biltmore Forest",
+      "town of black mountain": "Black Mountain",
+      "town of montreat": "Montreat",
+      "town of weaverville": "Weaverville",
+      "town of woodfin": "Woodfin"
+    },
+    "hubs": [
+      {
+        "name": "Asheville",
+        "municipality": "Asheville"
+      },
+      {
+        "name": "Black Mountain",
+        "municipality": "Black Mountain"
+      },
+      {
+        "name": "Weaverville",
+        "municipality": "Weaverville"
+      }
+    ],
+    "groups": [
+      {
+        "id": "buncombe-municipalities",
+        "name": "Buncombe County municipalities",
+        "municipalities": [
+          "Asheville",
+          "Biltmore Forest",
+          "Black Mountain",
+          "Montreat",
+          "Weaverville",
+          "Woodfin"
+        ]
+      },
+      {
+        "id": "buncombe-unincorporated",
+        "name": "Unincorporated Buncombe County (census-designated places)",
+        "municipalities": [
+          "Avery Creek",
+          "Barnardsville",
+          "Bent Creek",
+          "Emma",
+          "Fairview",
+          "Royal Pines",
+          "Swannanoa"
+        ]
+      },
+      {
+        "id": "buncombe-communities",
+        "name": "Unincorporated Buncombe County communities (single-county postal names)",
+        "municipalities": [
+          "Candler",
+          "Leicester"
+        ]
+      }
+    ],
+    "evidence": {
+      "method": "Search-index results (REPORTED); direct reads of the county site were denied by the session's egress policy.",
+      "municipalities": {
+        "sourceUrl": "https://www.buncombenc.gov/632/Municipalities",
+        "checkedOn": "2026-10-08"
+      },
+      "unincorporated": {
+        "sourceUrl": "https://geo.mytopo.com/feature-class/north-carolina/buncombe/census/",
+        "checkedOn": "2026-10-08"
+      },
+      "communities": {
+        "sourceUrls": [
+          "https://en.wikipedia.org/wiki/Candler,_North_Carolina",
+          "https://en.wikipedia.org/wiki/Leicester,_North_Carolina"
+        ],
+        "checkedOn": "2026-10-08",
+        "note": "Each is an unincorporated community in Buncombe County (VERIFIED read 2026-10-08), and every venue registered there has a Buncombe County GIS civic address point. Arden stays out: its postal area spans Buncombe and Henderson counties."
+      },
+      "bounds": {
+        "sourceUrl": "https://dc.lib.unc.edu/cdm/ref/collection/ncmaps/id/6495",
+        "checkedOn": "2026-10-08",
+        "note": "County extent about -82.87 to -82.18 W and 35.41 to 35.81 N, padded about 0.02 degrees. A sanity envelope, not a boundary."
+      }
+    }
+  },
+  {
+    "id": "tallahassee",
+    "name": "Tallahassee and Capital Region",
+    "region": "FL",
+    "countryCode": "US",
+    "timezone": "America/New_York",
+    "bounds": {
+      "latMin": 29.95,
+      "latMax": 30.75,
+      "lngMin": -85,
+      "lngMax": -83.75
+    },
+    "anchor": {
+      "name": "Tallahassee City Hall",
+      "lat": 30.4383,
+      "lng": -84.2807,
+      "sourceUrl": "https://www.talgov.com",
+      "checkedOn": "2026-10-15"
+    },
+    "localityAliases": {
+      "city of tallahassee": "Tallahassee",
+      "town of woodville": "Woodville",
+      "bradfordville": "Bradfordville",
+      "chaires": "Chaires",
+      "miccosukee": "Miccosukee",
+      "fort braden": "Fort Braden",
+      "ft braden": "Fort Braden",
+      "ft. braden": "Fort Braden",
+      "capitola": "Capitola",
+      "baum": "Baum",
+      "ochlockonee": "Ochlockonee",
+      "lake iamonia": "Lake Iamonia",
+      "iamonia": "Lake Iamonia",
+      "centerville": "Centerville",
+      "wadesboro": "Wadesboro",
+      "black creek": "Black Creek",
+      "silver lake": "Silver Lake",
+      "crawfordville": "Crawfordville",
+      "town of crawfordville": "Crawfordville",
+      "wakulla springs": "Crawfordville",
+      "st marks": "St. Marks",
+      "st. marks": "St. Marks",
+      "saint marks": "St. Marks",
+      "city of st marks": "St. Marks",
+      "city of st. marks": "St. Marks",
+      "panacea": "Panacea",
+      "sopchoppy": "Sopchoppy",
+      "city of sopchoppy": "Sopchoppy",
+      "shell point": "Shell Point Beach",
+      "shell point beach": "Shell Point Beach",
+      "medart": "Medart",
+      "quincy": "Quincy",
+      "city of quincy": "Quincy",
+      "havana": "Havana",
+      "town of havana": "Havana",
+      "midway": "Midway",
+      "city of midway": "Midway",
+      "gretna": "Gretna",
+      "city of gretna": "Gretna",
+      "chattahoochee": "Chattahoochee",
+      "city of chattahoochee": "Chattahoochee",
+      "greensboro": "Greensboro",
+      "town of greensboro": "Greensboro",
+      "monticello": "Monticello",
+      "city of monticello": "Monticello",
+      "lloyd": "Lloyd",
+      "wacissa": "Wacissa",
+      "lamont": "Lamont",
+      "waukeenah": "Waukeenah",
+      "drifton": "Drifton"
+    },
+    "hubs": [
+      {
+        "name": "Tallahassee",
+        "municipality": "Tallahassee"
+      },
+      {
+        "name": "Crawfordville",
+        "municipality": "Crawfordville"
+      },
+      {
+        "name": "Quincy",
+        "municipality": "Quincy"
+      },
+      {
+        "name": "Monticello",
+        "municipality": "Monticello"
+      }
+    ],
+    "groups": [
+      {
+        "id": "leon-municipalities",
+        "name": "Leon County Incorporated Municipalities",
+        "municipalities": [
+          "Tallahassee"
+        ]
+      },
+      {
+        "id": "leon-communities",
+        "name": "Leon County Unincorporated Communities",
+        "municipalities": [
+          "Woodville",
+          "Miccosukee",
+          "Fort Braden",
+          "Chaires",
+          "Bradfordville",
+          "Capitola",
+          "Baum",
+          "Ochlockonee",
+          "Lake Iamonia",
+          "Centerville",
+          "Wadesboro",
+          "Black Creek",
+          "Silver Lake"
+        ]
+      },
+      {
+        "id": "wakulla-springs-coast",
+        "name": "Wakulla Springs & Coastal Communities",
+        "municipalities": [
+          "Crawfordville",
+          "St. Marks",
+          "Panacea",
+          "Sopchoppy",
+          "Shell Point Beach",
+          "Medart"
+        ]
+      },
+      {
+        "id": "gadsden-historic-corridor",
+        "name": "Gadsden Historic Corridor",
+        "municipalities": [
+          "Quincy",
+          "Havana",
+          "Midway",
+          "Gretna",
+          "Chattahoochee",
+          "Greensboro"
+        ]
+      },
+      {
+        "id": "jefferson-canopy-corridor",
+        "name": "Jefferson Canopy Corridor",
+        "municipalities": [
+          "Monticello",
+          "Lloyd",
+          "Wacissa",
+          "Lamont",
+          "Waukeenah",
+          "Drifton"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jacksonville",
+    "offlineBundle": "jacksonville-events.ts",
+    "name": "Jacksonville and Duval County",
+    "region": "FL",
+    "countryCode": "US",
+    "timezone": "America/New_York",
+    "bounds": {
+      "latMin": 30.1,
+      "latMax": 30.59,
+      "lngMin": -82.05,
+      "lngMax": -81.37
+    },
+    "boundaryId": "duval-county-2025",
+    "boundarySourceUrl": "https://www2.census.gov/geo/tiger/GENZ2025/shp/cb_2025_us_county_500k.zip",
+    "boundaryCheckedOn": "2026-10-15",
+    "boundaryNotes": "U.S. Census Bureau 2025 generalized 1:500,000 county geography, GEOID 12031. A bundled approximate county filter, not legal boundary or navigation guidance.",
+    "anchor": {
+      "name": "Jacksonville Public Library Main Library",
+      "lat": 30.3298,
+      "lng": -81.6589,
+      "sourceUrl": "https://jaxpubliclibrary.org/locations/main-library",
+      "checkedOn": "2026-10-15"
+    },
+    "localityAliases": {
+      "jax": "Jacksonville",
+      "city of jacksonville": "Jacksonville",
+      "jacksonville, fl": "Jacksonville",
+      "jacksonville fl": "Jacksonville",
+      "city of jacksonville beach": "Jacksonville Beach",
+      "city of atlantic beach": "Atlantic Beach",
+      "city of neptune beach": "Neptune Beach",
+      "town of baldwin": "Baldwin",
+      "mayport": "Jacksonville"
+    },
+    "hubs": [
+      {
+        "name": "Jacksonville",
+        "municipality": "Jacksonville"
+      }
+    ],
+    "groups": [
+      {
+        "id": "duval-municipalities",
+        "name": "Duval County municipalities",
+        "municipalities": [
+          "Jacksonville",
+          "Jacksonville Beach",
+          "Atlantic Beach",
+          "Neptune Beach",
+          "Baldwin"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hoboken",
+    "name": "Hoboken and the Hudson waterfront",
+    "region": "NJ",
+    "countryCode": "US",
+    "timezone": "America/New_York",
+    "bounds": {
+      "latMin": 40.73039,
+      "latMax": 40.82358,
+      "lngMin": -74.05697,
+      "lngMax": -73.98474
+    },
+    "boundaryId": "hoboken-waterfront-places-2026",
+    "boundarySourceUrl": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer",
+    "boundaryCheckedOn": "2026-10-18",
+    "boundaryNotes": "U.S. Census Bureau TIGERweb current incorporated places (Hoboken city GEOID 3432250, Union City city 3474630, West New York town 3479610, Guttenberg town 3428650) and county subdivisions (Weehawken township 3401777930, North Bergen township 3401752470). Rings rounded to 5 decimal degrees. A bundled approximate municipal filter so these New Jersey towns are not claimed by the New York City box. Not a legal boundary or navigation guidance.",
+    "anchor": {
+      "name": "Hoboken City Hall",
+      "lat": 40.73729239,
+      "lng": -74.03139353,
+      "sourceUrl": "https://services8.arcgis.com/LDmC4ZVHdfKcEzxl/arcgis/rest/services/RecDesk_Hoboken_Public_Properties_/FeatureServer/0/query?where=Public_Spa%3D%27City%20Hall%27%20AND%20Facility%3D%27City%20Building%27&outFields=Address,Lat,Long&f=json",
+      "checkedOn": "2026-10-18"
+    },
+    "localityAliases": {
+      "hoboken": "Hoboken",
+      "hoboken, nj": "Hoboken",
+      "hoboken nj": "Hoboken",
+      "city of hoboken": "Hoboken",
+      "weehawken": "Weehawken",
+      "weehawken, nj": "Weehawken",
+      "weehawken township": "Weehawken",
+      "union city": "Union City",
+      "union city, nj": "Union City",
+      "west new york": "West New York",
+      "west new york, nj": "West New York",
+      "guttenberg": "Guttenberg",
+      "guttenberg, nj": "Guttenberg",
+      "north bergen": "North Bergen",
+      "north bergen, nj": "North Bergen",
+      "north bergen township": "North Bergen"
+    },
+    "hubs": [
+      {
+        "name": "Hoboken",
+        "municipality": "Hoboken"
+      },
+      {
+        "name": "Weehawken",
+        "municipality": "Weehawken"
+      },
+      {
+        "name": "Union City",
+        "municipality": "Union City"
+      },
+      {
+        "name": "West New York",
+        "municipality": "West New York"
+      },
+      {
+        "name": "Guttenberg",
+        "municipality": "Guttenberg"
+      },
+      {
+        "name": "North Bergen",
+        "municipality": "North Bergen"
+      }
+    ],
+    "groups": [
+      {
+        "id": "hoboken-waterfront-municipalities",
+        "name": "Hoboken and adjoining Hudson River municipalities",
+        "municipalities": [
+          "Hoboken",
+          "Weehawken",
+          "Union City",
+          "West New York",
+          "Guttenberg",
+          "North Bergen"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nyc",
+    "preparationOnly": false,
+    "name": "New York City",
+    "region": "NY",
+    "countryCode": "US",
+    "timezone": "America/New_York",
+    "bounds": {
+      "latMin": 40.49,
+      "latMax": 40.92,
+      "lngMin": -74.26,
+      "lngMax": -73.7
+    },
+    "anchor": {
+      "name": "New York City Hall",
+      "lat": 40.712739,
+      "lng": -74.005939,
+      "sourceUrl": "https://www.nyc.gov/",
+      "checkedOn": "2026-10-16"
+    },
+    "localityAliases": {
+      "new york city": "New York",
+      "queens, ny": "Queens",
+      "manhattan": "New York",
+      "nyc": "New York",
+      "the bronx": "Bronx",
+      "williamsburg": "Brooklyn",
+      "greenpoint": "Brooklyn",
+      "bushwick": "Brooklyn",
+      "east williamsburg": "Brooklyn",
+      "downtown brooklyn": "Brooklyn",
+      "dumbo": "Brooklyn",
+      "brooklyn heights": "Brooklyn",
+      "fort greene": "Brooklyn",
+      "clinton hill": "Brooklyn",
+      "brooklyn navy yard": "Brooklyn",
+      "navy yard": "Brooklyn",
+      "vinegar hill": "Brooklyn",
+      "park slope": "Brooklyn",
+      "prospect heights": "Brooklyn",
+      "crown heights": "Brooklyn",
+      "crown heights north": "Brooklyn",
+      "crown heights south": "Brooklyn",
+      "bedford-stuyvesant": "Brooklyn",
+      "bed-stuy": "Brooklyn",
+      "bedford stuyvesant": "Brooklyn",
+      "cobble hill": "Brooklyn",
+      "boerum hill": "Brooklyn",
+      "carroll gardens": "Brooklyn",
+      "gowanus": "Brooklyn",
+      "red hook": "Brooklyn",
+      "flatbush": "Brooklyn",
+      "little caribbean": "Brooklyn",
+      "east flatbush": "Brooklyn",
+      "brownsville": "Brooklyn",
+      "east new york": "Brooklyn",
+      "canarsie": "Brooklyn",
+      "coney island": "Brooklyn",
+      "brighton beach": "Brooklyn",
+      "sheepshead bay": "Brooklyn",
+      "manhattan beach": "Brooklyn",
+      "gerritsen beach": "Brooklyn",
+      "sunset park": "Brooklyn",
+      "industry city": "Brooklyn",
+      "bay ridge": "Brooklyn",
+      "dyker heights": "Brooklyn",
+      "bensonhurst": "Brooklyn",
+      "borough park": "Brooklyn",
+      "midwood": "Brooklyn",
+      "brooklyn, ny": "Brooklyn",
+      "brooklyn ny": "Brooklyn"
+    },
+    "hubs": [
+      {
+        "name": "New York",
+        "municipality": "New York"
+      }
+    ],
+    "groups": [
+      {
+        "id": "nyc-boroughs",
+        "name": "New York City boroughs",
+        "municipalities": [
+          "New York",
+          "Brooklyn",
+          "Queens",
+          "Bronx",
+          "Staten Island",
+          "Long Island City"
+        ]
+      },
+      {
+        "id": "brooklyn-north-waterfront",
+        "name": "Brooklyn North Waterfront & Arts",
+        "municipalities": [
+          "Williamsburg",
+          "Greenpoint",
+          "Bushwick",
+          "East Williamsburg"
+        ]
+      },
+      {
+        "id": "brooklyn-downtown-cultural",
+        "name": "Brooklyn Downtown & Cultural District",
+        "municipalities": [
+          "Downtown Brooklyn",
+          "DUMBO",
+          "Brooklyn Heights",
+          "Fort Greene",
+          "Clinton Hill",
+          "Brooklyn Navy Yard",
+          "Vinegar Hill"
+        ]
+      },
+      {
+        "id": "brooklyn-central-brownstone",
+        "name": "Brooklyn Central Brownstone Belt",
+        "municipalities": [
+          "Park Slope",
+          "Prospect Heights",
+          "Crown Heights North",
+          "Bedford-Stuyvesant",
+          "Cobble Hill",
+          "Boerum Hill",
+          "Carroll Gardens",
+          "Gowanus",
+          "Red Hook"
+        ]
+      },
+      {
+        "id": "brooklyn-caribbean-east",
+        "name": "East Brooklyn & Caribbean Core",
+        "municipalities": [
+          "Flatbush",
+          "East Flatbush",
+          "Crown Heights South",
+          "Brownsville",
+          "East New York",
+          "Canarsie"
+        ]
+      },
+      {
+        "id": "brooklyn-south-coastal",
+        "name": "Brooklyn South Coastal & Boardwalk",
+        "municipalities": [
+          "Coney Island",
+          "Brighton Beach",
+          "Sheepshead Bay",
+          "Manhattan Beach",
+          "Gerritsen Beach"
+        ]
+      },
+      {
+        "id": "brooklyn-southwest-diverse",
+        "name": "Brooklyn Southwest Diverse & Makers",
+        "municipalities": [
+          "Sunset Park",
+          "Industry City",
+          "Bay Ridge",
+          "Dyker Heights",
+          "Bensonhurst",
+          "Borough Park",
+          "Midwood"
+        ]
+      }
+    ],
+    "offlineBundle": "brooklyn-events.ts"
+  },
+  {
+    "id": "miami",
+    "offlineBundle": "miami-events.ts",
+    "name": "Miami and Miami-Dade County",
+    "region": "FL",
+    "countryCode": "US",
+    "timezone": "America/New_York",
+    "bounds": {
+      "latMin": 25.1,
+      "latMax": 25.98,
+      "lngMin": -80.88,
+      "lngMax": -80.11
+    },
+    "anchor": {
+      "name": "Miami-Dade Public Library Main Library",
+      "lat": 25.7753,
+      "lng": -80.1963,
+      "sourceUrl": "https://www.mdpls.org/branch-main",
+      "checkedOn": "2026-10-15"
+    },
+    "localityAliases": {
+      "city of miami": "Miami",
+      "miami, fl": "Miami",
+      "miami fl": "Miami",
+      "city of miami beach": "Miami Beach",
+      "south beach": "Miami Beach",
+      "coconut grove": "Miami",
+      "brickell": "Miami",
+      "wynwood": "Miami",
+      "little havana": "Miami",
+      "downtown miami": "Miami",
+      "city of coral gables": "Coral Gables",
+      "village of key biscayne": "Key Biscayne",
+      "city of doral": "Doral",
+      "city of hialeah": "Hialeah",
+      "city of aventura": "Aventura",
+      "city of south miami": "South Miami",
+      "village of pinecrest": "Pinecrest",
+      "city of sunny isles beach": "Sunny Isles Beach",
+      "city of miami gardens": "Miami Gardens",
+      "city of north miami": "North Miami",
+      "village of miami shores": "Miami Shores",
+      "city of homestead": "Homestead",
+      "town of cutler bay": "Cutler Bay",
+      "cutler bay": "Cutler Bay",
+      "village of palmetto bay": "Palmetto Bay",
+      "palmetto bay": "Palmetto Bay",
+      "town of surfside": "Surfside",
+      "surfside": "Surfside",
+      "village of bal harbour": "Bal Harbour",
+      "bal harbour": "Bal Harbour",
+      "city of hialeah gardens": "Hialeah Gardens",
+      "hialeah gardens": "Hialeah Gardens",
+      "city of north miami beach": "North Miami Beach",
+      "north miami beach": "North Miami Beach",
+      "city of miami springs": "Miami Springs",
+      "miami springs": "Miami Springs",
+      "city of opa-locka": "Opa-locka",
+      "opa-locka": "Opa-locka",
+      "city of florida city": "Florida City",
+      "florida city": "Florida City",
+      "city of sweetwater": "Sweetwater",
+      "sweetwater": "Sweetwater",
+      "city of west miami": "West Miami",
+      "west miami": "West Miami",
+      "allapattah": "Miami",
+      "design district": "Miami",
+      "miami design district": "Miami",
+      "little haiti": "Miami",
+      "midtown miami": "Miami",
+      "edgewater": "Miami",
+      "el portal": "Miami",
+      "village of el portal": "Miami"
+    },
+    "hubs": [
+      {
+        "name": "Miami",
+        "municipality": "Miami"
+      },
+      {
+        "name": "Miami Beach",
+        "municipality": "Miami Beach"
+      },
+      {
+        "name": "Coral Gables",
+        "municipality": "Coral Gables"
+      }
+    ],
+    "groups": [
+      {
+        "id": "miami-dade-municipalities",
+        "name": "Miami-Dade County municipalities",
+        "municipalities": [
+          "Miami",
+          "Miami Beach",
+          "Coral Gables",
+          "Hialeah",
+          "Doral",
+          "Aventura",
+          "Key Biscayne",
+          "South Miami",
+          "Pinecrest",
+          "Sunny Isles Beach",
+          "Homestead",
+          "Miami Gardens",
+          "North Miami",
+          "Miami Shores",
+          "Cutler Bay",
+          "Palmetto Bay",
+          "Surfside",
+          "Bal Harbour",
+          "Hialeah Gardens",
+          "North Miami Beach",
+          "Miami Springs",
+          "Opa-locka",
+          "Florida City",
+          "Sweetwater",
+          "West Miami"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tampa-bay",
+    "offlineBundle": "tampa-bay-events.ts",
+    "name": "Tampa Bay and Greater Suncoast",
+    "region": "FL",
+    "countryCode": "US",
+    "timezone": "America/New_York",
+    "bounds": {
+      "latMin": 27.35,
+      "latMax": 28.45,
+      "lngMin": -83,
+      "lngMax": -81.85
+    },
+    "anchor": {
+      "name": "John F. Germany Public Library",
+      "lat": 27.951,
+      "lng": -82.4632,
+      "sourceUrl": "https://hcplc.org/locations/john-f-germany",
+      "checkedOn": "2026-10-15"
+    },
+    "localityAliases": {
+      "city of tampa": "Tampa",
+      "tampa, fl": "Tampa",
+      "tampa fl": "Tampa",
+      "downtown tampa": "Tampa",
+      "ybor city": "Tampa",
+      "ybor": "Tampa",
+      "channelside": "Tampa",
+      "hyde park": "Tampa",
+      "westshore": "Tampa",
+      "seminole heights": "Tampa",
+      "tampa heights": "Tampa",
+      "city of temple terrace": "Temple Terrace",
+      "city of plant city": "Plant City",
+      "town 'n' country": "Town 'n' Country",
+      "town n country": "Town 'n' Country",
+      "carrollwood": "Carrollwood",
+      "brandon": "Brandon",
+      "riverview": "Riverview",
+      "lutz": "Lutz",
+      "westchase": "Westchase",
+      "citrus park": "Citrus Park",
+      "keystone": "Keystone",
+      "apollo beach": "Apollo Beach",
+      "ruskin": "Ruskin",
+      "sun city center": "Sun City Center",
+      "thonotosassa": "Thonotosassa",
+      "gibsonton": "Riverview",
+      "valrico": "Valrico",
+      "seffner": "Seffner",
+      "city of st. petersburg": "St. Petersburg",
+      "city of st petersburg": "St. Petersburg",
+      "st. petersburg": "St. Petersburg",
+      "st petersburg": "St. Petersburg",
+      "st. pete": "St. Petersburg",
+      "st pete": "St. Petersburg",
+      "city of clearwater": "Clearwater",
+      "city of largo": "Largo",
+      "city of pinellas park": "Pinellas Park",
+      "city of dunedin": "Dunedin",
+      "city of tarpon springs": "Tarpon Springs",
+      "city of safety harbor": "Safety Harbor",
+      "city of gulfport": "Gulfport",
+      "city of oldsmar": "Oldsmar",
+      "st. pete beach": "St. Pete Beach",
+      "st pete beach": "St. Pete Beach",
+      "pass-a-grille": "St. Pete Beach",
+      "pass a grille": "St. Pete Beach",
+      "indian shores": "Indian Shores",
+      "palm harbor": "Palm Harbor",
+      "seminole": "Seminole",
+      "city of seminole": "Seminole",
+      "madeira beach": "Madeira Beach",
+      "city of madeira beach": "Madeira Beach",
+      "treasure island": "Treasure Island",
+      "city of treasure island": "Treasure Island",
+      "indian rocks beach": "Indian Rocks Beach",
+      "tierra verde": "Tierra Verde",
+      "east lake": "East Lake",
+      "belleair": "Belleair",
+      "kenneth city": "Kenneth City",
+      "city of bradenton": "Bradenton",
+      "bradenton, fl": "Bradenton",
+      "bradenton fl": "Bradenton",
+      "city of palmetto": "Palmetto",
+      "palmetto, fl": "Palmetto",
+      "holmes beach": "Holmes Beach",
+      "bradenton beach": "Bradenton Beach",
+      "anna maria": "Anna Maria",
+      "anna maria island": "Anna Maria",
+      "lakewood ranch": "Lakewood Ranch",
+      "ellenton": "Ellenton",
+      "parrish": "Parrish",
+      "cortez": "Cortez",
+      "city of lakeland": "Lakeland",
+      "lakeland, fl": "Lakeland",
+      "lakeland fl": "Lakeland",
+      "downtown lakeland": "Lakeland",
+      "city of bartow": "Bartow",
+      "bartow, fl": "Bartow",
+      "city of mulberry": "Mulberry",
+      "mulberry, fl": "Mulberry",
+      "city of auburndale": "Auburndale",
+      "city of winter haven": "Winter Haven",
+      "winter haven, fl": "Winter Haven",
+      "city of new port richey": "New Port Richey",
+      "new port richey, fl": "New Port Richey",
+      "city of port richey": "Port Richey",
+      "port richey, fl": "Port Richey",
+      "city of zephyrhills": "Zephyrhills",
+      "zephyrhills, fl": "Zephyrhills",
+      "city of dade city": "Dade City",
+      "dade city, fl": "Dade City",
+      "san antonio, fl": "San Antonio",
+      "wesley chapel": "Wesley Chapel",
+      "wesley chapel, fl": "Wesley Chapel",
+      "land o lakes": "Land O' Lakes",
+      "land o' lakes": "Land O' Lakes",
+      "land o' lakes, fl": "Land O' Lakes",
+      "trinity": "Trinity",
+      "trinity, fl": "Trinity",
+      "holiday": "Holiday",
+      "holiday, fl": "Holiday",
+      "hudson": "Hudson",
+      "hudson, fl": "Hudson"
+    },
+    "hubs": [
+      {
+        "name": "Tampa",
+        "municipality": "Tampa"
+      },
+      {
+        "name": "St. Petersburg",
+        "municipality": "St. Petersburg"
+      },
+      {
+        "name": "Clearwater",
+        "municipality": "Clearwater"
+      },
+      {
+        "name": "Lakeland",
+        "municipality": "Lakeland"
+      },
+      {
+        "name": "Bradenton",
+        "municipality": "Bradenton"
+      }
+    ],
+    "groups": [
+      {
+        "id": "hillsborough-municipalities",
+        "name": "Hillsborough County municipalities",
+        "municipalities": [
+          "Tampa",
+          "Temple Terrace",
+          "Plant City"
+        ]
+      },
+      {
+        "id": "hillsborough-communities",
+        "name": "Hillsborough County census communities",
+        "municipalities": [
+          "Town 'n' Country",
+          "Carrollwood",
+          "Brandon",
+          "Riverview",
+          "Lutz",
+          "Westchase",
+          "Citrus Park",
+          "Keystone",
+          "Apollo Beach",
+          "Ruskin",
+          "Sun City Center",
+          "Thonotosassa",
+          "Valrico",
+          "Seffner"
+        ]
+      },
+      {
+        "id": "pinellas-municipalities",
+        "name": "Pinellas County municipalities",
+        "municipalities": [
+          "St. Petersburg",
+          "Clearwater",
+          "Largo",
+          "Pinellas Park",
+          "Dunedin",
+          "Tarpon Springs",
+          "Safety Harbor",
+          "Gulfport",
+          "Oldsmar",
+          "St. Pete Beach",
+          "Indian Shores",
+          "Seminole",
+          "Madeira Beach",
+          "Treasure Island",
+          "Belleair",
+          "Kenneth City",
+          "Indian Rocks Beach"
+        ]
+      },
+      {
+        "id": "pinellas-communities",
+        "name": "Pinellas County census communities",
+        "municipalities": [
+          "Palm Harbor",
+          "East Lake",
+          "Tierra Verde"
+        ]
+      },
+      {
+        "id": "pasco-municipalities",
+        "name": "Pasco County municipalities",
+        "municipalities": [
+          "New Port Richey",
+          "Port Richey",
+          "Zephyrhills",
+          "Dade City",
+          "San Antonio"
+        ]
+      },
+      {
+        "id": "pasco-communities",
+        "name": "Pasco County census communities",
+        "municipalities": [
+          "Wesley Chapel",
+          "Land O' Lakes",
+          "Trinity",
+          "Holiday",
+          "Hudson"
+        ]
+      },
+      {
+        "id": "manatee-municipalities",
+        "name": "Manatee County municipalities",
+        "municipalities": [
+          "Bradenton",
+          "Palmetto",
+          "Holmes Beach",
+          "Bradenton Beach",
+          "Anna Maria"
+        ]
+      },
+      {
+        "id": "manatee-communities",
+        "name": "Manatee County census communities",
+        "municipalities": [
+          "Lakewood Ranch",
+          "Ellenton",
+          "Parrish",
+          "Cortez"
+        ]
+      },
+      {
+        "id": "polk-municipalities",
+        "name": "Polk County municipalities",
+        "municipalities": [
+          "Lakeland",
+          "Bartow",
+          "Mulberry",
+          "Auburndale",
+          "Winter Haven"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "orlando",
+    "offlineBundle": "orlando-events.ts",
+    "name": "Orlando and Orange County",
+    "region": "FL",
+    "countryCode": "US",
+    "timezone": "America/New_York",
+    "bounds": {
+      "latMin": 28.34,
+      "latMax": 28.79,
+      "lngMin": -81.66,
+      "lngMax": -80.98
+    },
+    "anchor": {
+      "name": "Orlando Public Library Main Library",
+      "lat": 28.5412,
+      "lng": -81.3789,
+      "sourceUrl": "https://www.ocls.info/locations-hours/orlando-public-library",
+      "checkedOn": "2026-10-15"
+    },
+    "localityAliases": {
+      "city of orlando": "Orlando",
+      "orlando fl": "Orlando",
+      "downtown orlando": "Orlando",
+      "city of winter park": "Winter Park",
+      "winter park": "Winter Park",
+      "city of apopka": "Apopka",
+      "apopka": "Apopka",
+      "city of ocoee": "Ocoee",
+      "ocoee": "Ocoee",
+      "city of winter garden": "Winter Garden",
+      "winter garden": "Winter Garden",
+      "city of maitland": "Maitland",
+      "maitland": "Maitland",
+      "town of windermere": "Windermere",
+      "windermere": "Windermere",
+      "town of eatonville": "Eatonville",
+      "eatonville": "Eatonville",
+      "historic eatonville": "Eatonville",
+      "city of belle isle": "Belle Isle",
+      "belle isle": "Belle Isle",
+      "city of edgewood": "Edgewood",
+      "edgewood": "Edgewood",
+      "town of oakland": "Oakland",
+      "oakland": "Oakland",
+      "city of bay lake": "Bay Lake",
+      "bay lake": "Bay Lake",
+      "city of lake buena vista": "Lake Buena Vista",
+      "lake buena vista": "Lake Buena Vista",
+      "dr. phillips": "Doctor Phillips",
+      "dr phillips": "Doctor Phillips",
+      "doctor phillips": "Doctor Phillips",
+      "hunters creek": "Hunters Creek",
+      "hunter's creek": "Hunters Creek",
+      "horizon west": "Horizon West",
+      "alafaya": "Alafaya"
+    },
+    "hubs": [
+      {
+        "name": "Orlando",
+        "municipality": "Orlando"
+      },
+      {
+        "name": "Winter Park",
+        "municipality": "Winter Park"
+      },
+      {
+        "name": "Winter Garden",
+        "municipality": "Winter Garden"
+      }
+    ],
+    "groups": [
+      {
+        "id": "orange-county-municipalities",
+        "name": "Orange County municipalities",
+        "municipalities": [
+          "Orlando",
+          "Winter Park",
+          "Apopka",
+          "Ocoee",
+          "Winter Garden",
+          "Maitland",
+          "Windermere",
+          "Eatonville",
+          "Belle Isle",
+          "Edgewood",
+          "Oakland",
+          "Bay Lake",
+          "Lake Buena Vista"
+        ]
+      },
+      {
+        "id": "orange-county-communities",
+        "name": "Orange County unincorporated communities",
+        "municipalities": [
+          "Alafaya",
+          "Pine Hills",
+          "Meadow Woods",
+          "Hunters Creek",
+          "Horizon West",
+          "Doctor Phillips",
+          "Conway",
+          "Oak Ridge",
+          "Azalea Park",
+          "Lockhart",
+          "Pine Castle",
+          "Union Park",
+          "Wedgefield",
+          "Tangerine",
+          "Zellwood",
+          "Bithlo",
+          "Christmas"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "key-west",
+    "offlineBundle": "key-west-events.ts",
+    "name": "Key West and the Florida Keys",
+    "region": "FL",
+    "countryCode": "US",
+    "timezone": "America/New_York",
+    "bounds": {
+      "latMin": 24.45,
+      "latMax": 25.38,
+      "lngMin": -81.9,
+      "lngMax": -80.2
+    },
+    "anchor": {
+      "name": "Key West Public Library",
+      "lat": 24.5574,
+      "lng": -81.7997,
+      "sourceUrl": "https://keyslibraries.org/locations/key-west/",
+      "checkedOn": "2026-10-15"
+    },
+    "localityAliases": {
+      "city of key west": "Key West",
+      "key west, fl": "Key West",
+      "key west fl": "Key West",
+      "old town key west": "Key West",
+      "stock island": "Stock Island",
+      "big coppitt key": "Big Coppitt Key",
+      "sugarloaf key": "Sugarloaf Key",
+      "cudjoe key": "Cudjoe Key",
+      "summerland key": "Summerland Key",
+      "big pine key": "Big Pine Key",
+      "marathon": "Marathon",
+      "city of marathon": "Marathon",
+      "key colony beach": "Key Colony Beach",
+      "duck key": "Duck Key",
+      "layton": "Layton",
+      "islamorada": "Islamorada",
+      "plantation key": "Islamorada",
+      "upper matecumbe key": "Islamorada",
+      "lower matecumbe key": "Islamorada",
+      "tavernier": "Tavernier",
+      "key largo": "Key Largo",
+      "north key largo": "Key Largo"
+    },
+    "hubs": [
+      {
+        "name": "Key West",
+        "municipality": "Key West"
+      },
+      {
+        "name": "Marathon",
+        "municipality": "Marathon"
+      },
+      {
+        "name": "Islamorada",
+        "municipality": "Islamorada"
+      },
+      {
+        "name": "Key Largo",
+        "municipality": "Key Largo"
+      }
+    ],
+    "groups": [
+      {
+        "id": "monroe-municipalities",
+        "name": "Monroe County Incorporated Municipalities",
+        "municipalities": [
+          "Key West",
+          "Marathon",
+          "Key Colony Beach",
+          "Layton",
+          "Islamorada"
+        ]
+      },
+      {
+        "id": "monroe-communities",
+        "name": "Florida Keys Unincorporated Communities",
+        "municipalities": [
+          "Stock Island",
+          "Big Coppitt Key",
+          "Sugarloaf Key",
+          "Cudjoe Key",
+          "Summerland Key",
+          "Big Pine Key",
+          "Duck Key",
+          "Tavernier",
+          "Key Largo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gainesville",
+    "offlineBundle": "gainesville-events.ts",
+    "name": "Gainesville and Alachua County",
+    "region": "FL",
+    "countryCode": "US",
+    "timezone": "America/New_York",
+    "bounds": {
+      "latMin": 29.4,
+      "latMax": 29.92,
+      "lngMin": -82.72,
+      "lngMax": -82.02
+    },
+    "anchor": {
+      "name": "Alachua County Library District Headquarters Branch",
+      "lat": 29.6515,
+      "lng": -82.3216,
+      "sourceUrl": "https://www.aclib.us/headquarters",
+      "checkedOn": "2026-10-17"
+    },
+    "localityAliases": {
+      "city of gainesville": "Gainesville",
+      "gainesville fl": "Gainesville",
+      "downtown gainesville": "Gainesville",
+      "uf": "Gainesville",
+      "university of florida": "Gainesville",
+      "city of alachua": "Alachua",
+      "alachua": "Alachua",
+      "city of high springs": "High Springs",
+      "high springs": "High Springs",
+      "city of newberry": "Newberry",
+      "newberry": "Newberry",
+      "city of hawthorne": "Hawthorne",
+      "hawthorne": "Hawthorne",
+      "town of micanopy": "Micanopy",
+      "micanopy": "Micanopy",
+      "city of archer": "Archer",
+      "archer": "Archer",
+      "city of waldo": "Waldo",
+      "waldo": "Waldo",
+      "town of la crosse": "La Crosse",
+      "la crosse": "La Crosse",
+      "haile plantation": "Gainesville",
+      "haile village": "Gainesville",
+      "tioga": "Newberry",
+      "town of tioga": "Newberry",
+      "jonesville": "Gainesville",
+      "cross creek": "Cross Creek",
+      "evinston": "Micanopy",
+      "melrose": "Hawthorne",
+      "island grove": "Hawthorne",
+      "lochloosa": "Hawthorne",
+      "windsor": "Gainesville",
+      "morningside": "Gainesville"
+    },
+    "hubs": [
+      {
+        "name": "Gainesville",
+        "municipality": "Gainesville"
+      },
+      {
+        "name": "High Springs",
+        "municipality": "High Springs"
+      },
+      {
+        "name": "Micanopy",
+        "municipality": "Micanopy"
+      },
+      {
+        "name": "Alachua",
+        "municipality": "Alachua"
+      }
+    ],
+    "groups": [
+      {
+        "id": "alachua-county-municipalities",
+        "name": "Alachua County municipalities",
+        "municipalities": [
+          "Gainesville",
+          "Alachua",
+          "High Springs",
+          "Newberry",
+          "Hawthorne",
+          "Micanopy",
+          "Archer",
+          "Waldo",
+          "La Crosse"
+        ]
+      },
+      {
+        "id": "alachua-county-communities",
+        "name": "Alachua County unincorporated communities",
+        "municipalities": [
+          "Cross Creek",
+          "Jonesville",
+          "Tioga",
+          "Haile Plantation",
+          "Melrose",
+          "Evinston",
+          "Island Grove",
+          "Lochloosa",
+          "Windsor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pensacola",
+    "offlineBundle": "pensacola-events.ts",
+    "name": "Pensacola and the Florida Panhandle",
+    "region": "FL",
+    "countryCode": "US",
+    "timezone": "America/Chicago",
+    "bounds": {
+      "latMin": 30.1,
+      "latMax": 31.05,
+      "lngMin": -87.65,
+      "lngMax": -85.4
+    },
+    "anchor": {
+      "name": "Pensacola Library (WFPL Main Branch)",
+      "lat": 30.4158,
+      "lng": -87.2189,
+      "sourceUrl": "https://mywfpl.com/locations/pensacola",
+      "checkedOn": "2026-10-17"
+    },
+    "localityAliases": {
+      "city of pensacola": "Pensacola",
+      "pensacola, fl": "Pensacola",
+      "pensacola fl": "Pensacola",
+      "downtown pensacola": "Pensacola",
+      "historic pensacola": "Pensacola",
+      "east hill": "Pensacola",
+      "north hill": "Pensacola",
+      "belmont-devilliers": "Pensacola",
+      "belmont devilliers": "Pensacola",
+      "cordova park": "Pensacola",
+      "nas pensacola": "Pensacola",
+      "pensacola beach": "Pensacola Beach",
+      "casino beach": "Pensacola Beach",
+      "fort pickens": "Pensacola Beach",
+      "santa rosa island": "Pensacola Beach",
+      "perdido key": "Perdido Key",
+      "johnson beach": "Perdido Key",
+      "town of century": "Century",
+      "century": "Century",
+      "city of milton": "Milton",
+      "milton": "Milton",
+      "city of gulf breeze": "Gulf Breeze",
+      "gulf breeze": "Gulf Breeze",
+      "town of jay": "Jay",
+      "jay": "Jay",
+      "navarre": "Navarre",
+      "navarre beach": "Navarre Beach",
+      "pace": "Pace",
+      "bagdad": "Bagdad",
+      "cantonment": "Cantonment",
+      "molino": "Molino",
+      "beulah": "Beulah",
+      "bellview": "Bellview",
+      "ferry pass": "Ferry Pass",
+      "warrington": "Warrington",
+      "city of fort walton beach": "Fort Walton Beach",
+      "fort walton beach": "Fort Walton Beach",
+      "fort walton beach, fl": "Fort Walton Beach",
+      "fort walton beach fl": "Fort Walton Beach",
+      "fwb": "Fort Walton Beach",
+      "city of destin": "Destin",
+      "destin": "Destin",
+      "destin, fl": "Destin",
+      "destin fl": "Destin",
+      "destin harbor": "Destin",
+      "city of crestview": "Crestview",
+      "crestview": "Crestview",
+      "crestview, fl": "Crestview",
+      "crestview fl": "Crestview",
+      "city of niceville": "Niceville",
+      "niceville": "Niceville",
+      "niceville, fl": "Niceville",
+      "niceville fl": "Niceville",
+      "city of valparaiso": "Valparaiso",
+      "valparaiso": "Valparaiso",
+      "valparaiso, fl": "Valparaiso",
+      "valparaiso fl": "Valparaiso",
+      "city of mary esther": "Mary Esther",
+      "mary esther": "Mary Esther",
+      "mary esther, fl": "Mary Esther",
+      "mary esther fl": "Mary Esther",
+      "town of shalimar": "Shalimar",
+      "shalimar": "Shalimar",
+      "town of cinco bayou": "Cinco Bayou",
+      "cinco bayou": "Cinco Bayou",
+      "city of laurel hill": "Laurel Hill",
+      "laurel hill": "Laurel Hill",
+      "okaloosa island": "Okaloosa Island",
+      "eglin afb": "Eglin AFB",
+      "eglin air force base": "Eglin AFB",
+      "hurlburt field": "Hurlburt Field",
+      "ocean city": "Ocean City",
+      "wright": "Wright",
+      "city of defuniak springs": "DeFuniak Springs",
+      "defuniak springs": "DeFuniak Springs",
+      "defuniak springs, fl": "DeFuniak Springs",
+      "defuniak springs fl": "DeFuniak Springs",
+      "city of freeport": "Freeport",
+      "freeport": "Freeport",
+      "town of paxton": "Paxton",
+      "paxton": "Paxton",
+      "santa rosa beach": "Santa Rosa Beach",
+      "santa rosa beach, fl": "Santa Rosa Beach",
+      "santa rosa beach fl": "Santa Rosa Beach",
+      "grayton beach": "Grayton Beach",
+      "grayton beach, fl": "Grayton Beach",
+      "seaside": "Seaside",
+      "seaside, fl": "Seaside",
+      "seaside fl": "Seaside",
+      "watercolor": "WaterColor",
+      "rosemary beach": "Rosemary Beach",
+      "rosemary beach, fl": "Rosemary Beach",
+      "alys beach": "Alys Beach",
+      "alys beach, fl": "Alys Beach",
+      "miramar beach": "Miramar Beach",
+      "miramar beach, fl": "Miramar Beach",
+      "sandestin": "Sandestin",
+      "inlet beach": "Inlet Beach",
+      "seacrest": "Seacrest",
+      "blue mountain beach": "Blue Mountain Beach",
+      "point washington": "Point Washington",
+      "30a": "Santa Rosa Beach",
+      "south walton": "Santa Rosa Beach",
+      "city of panama city": "Panama City",
+      "panama city": "Panama City",
+      "panama city, fl": "Panama City",
+      "panama city fl": "Panama City",
+      "downtown panama city": "Panama City",
+      "city of panama city beach": "Panama City Beach",
+      "panama city beach": "Panama City Beach",
+      "panama city beach, fl": "Panama City Beach",
+      "panama city beach fl": "Panama City Beach",
+      "pcb": "Panama City Beach",
+      "city of lynn haven": "Lynn Haven",
+      "lynn haven": "Lynn Haven",
+      "city of callaway": "Callaway",
+      "callaway": "Callaway",
+      "city of springfield": "Springfield",
+      "springfield": "Springfield",
+      "city of parker": "Parker",
+      "parker": "Parker",
+      "city of mexico beach": "Mexico Beach",
+      "mexico beach": "Mexico Beach",
+      "st. andrews": "St. Andrews",
+      "st andrews": "St. Andrews",
+      "historic st. andrews": "St. Andrews",
+      "historic st andrews": "St. Andrews",
+      "grand lagoon": "Upper Grand Lagoon",
+      "tyndall afb": "Tyndall AFB",
+      "laguna beach": "Laguna Beach",
+      "sunnyside": "Sunnyside"
+    },
+    "hubs": [
+      {
+        "name": "Pensacola",
+        "municipality": "Pensacola"
+      },
+      {
+        "name": "Gulf Breeze",
+        "municipality": "Gulf Breeze"
+      },
+      {
+        "name": "Milton",
+        "municipality": "Milton"
+      },
+      {
+        "name": "Fort Walton Beach",
+        "municipality": "Fort Walton Beach"
+      },
+      {
+        "name": "Destin",
+        "municipality": "Destin"
+      },
+      {
+        "name": "Niceville",
+        "municipality": "Niceville"
+      },
+      {
+        "name": "Crestview",
+        "municipality": "Crestview"
+      },
+      {
+        "name": "DeFuniak Springs",
+        "municipality": "DeFuniak Springs"
+      },
+      {
+        "name": "Santa Rosa Beach",
+        "municipality": "Santa Rosa Beach"
+      },
+      {
+        "name": "Panama City",
+        "municipality": "Panama City"
+      },
+      {
+        "name": "Panama City Beach",
+        "municipality": "Panama City Beach"
+      }
+    ],
+    "groups": [
+      {
+        "id": "escambia-municipalities",
+        "name": "Escambia County municipalities",
+        "municipalities": [
+          "Pensacola",
+          "Century"
+        ]
+      },
+      {
+        "id": "escambia-communities",
+        "name": "Escambia County unincorporated communities",
+        "municipalities": [
+          "Pensacola Beach",
+          "Perdido Key",
+          "Cantonment",
+          "Molino",
+          "Beulah",
+          "Ensley",
+          "Ferry Pass",
+          "Brent",
+          "Bellview",
+          "Myrtle Grove",
+          "Warrington",
+          "West Pensacola",
+          "Gonzalez",
+          "Walnut Hill",
+          "McDavid"
+        ]
+      },
+      {
+        "id": "santa-rosa-municipalities",
+        "name": "Santa Rosa County municipalities",
+        "municipalities": [
+          "Milton",
+          "Gulf Breeze",
+          "Jay"
+        ]
+      },
+      {
+        "id": "santa-rosa-communities",
+        "name": "Santa Rosa County unincorporated communities",
+        "municipalities": [
+          "Navarre",
+          "Navarre Beach",
+          "Pace",
+          "Bagdad",
+          "Oriole Beach",
+          "Midway",
+          "Tiger Point",
+          "Holley",
+          "Avalon",
+          "Chumuckla"
+        ]
+      },
+      {
+        "id": "okaloosa-municipalities",
+        "name": "Okaloosa County municipalities",
+        "municipalities": [
+          "Fort Walton Beach",
+          "Destin",
+          "Crestview",
+          "Niceville",
+          "Valparaiso",
+          "Mary Esther",
+          "Laurel Hill",
+          "Cinco Bayou",
+          "Shalimar"
+        ]
+      },
+      {
+        "id": "okaloosa-communities",
+        "name": "Okaloosa County unincorporated communities",
+        "municipalities": [
+          "Eglin AFB",
+          "Hurlburt Field",
+          "Destin Harbor",
+          "Okaloosa Island",
+          "Ocean City",
+          "Lake Lorraine",
+          "Wright"
+        ]
+      },
+      {
+        "id": "walton-municipalities",
+        "name": "Walton County municipalities",
+        "municipalities": [
+          "DeFuniak Springs",
+          "Freeport",
+          "Paxton"
+        ]
+      },
+      {
+        "id": "walton-communities",
+        "name": "Walton County unincorporated communities",
+        "municipalities": [
+          "Santa Rosa Beach",
+          "Grayton Beach",
+          "Seaside",
+          "WaterColor",
+          "Rosemary Beach",
+          "Alys Beach",
+          "Miramar Beach",
+          "Sandestin",
+          "Inlet Beach",
+          "Seacrest",
+          "Blue Mountain Beach",
+          "Point Washington"
+        ]
+      },
+      {
+        "id": "bay-municipalities",
+        "name": "Bay County municipalities",
+        "municipalities": [
+          "Panama City",
+          "Panama City Beach",
+          "Lynn Haven",
+          "Callaway",
+          "Springfield",
+          "Parker",
+          "Mexico Beach"
+        ]
+      },
+      {
+        "id": "bay-communities",
+        "name": "Bay County unincorporated communities",
+        "municipalities": [
+          "St. Andrews",
+          "Upper Grand Lagoon",
+          "Lower Grand Lagoon",
+          "Tyndall AFB",
+          "Laguna Beach",
+          "Sunnyside",
+          "Cedar Grove"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "flagstaff",
+    "offlineBundle": "flagstaff-events.ts",
+    "name": "Flagstaff, Sedona, Grand Canyon and Northern Arizona Plateau",
+    "region": "AZ",
+    "countryCode": "US",
+    "timezone": "America/Phoenix",
+    "bounds": {
+      "latMin": 34.5,
+      "latMax": 36.95,
+      "lngMin": -112.6,
+      "lngMax": -110.8
+    },
+    "anchor": {
+      "name": "Flagstaff City-Coconino County Public Library (Downtown Main Library)",
+      "lat": 35.1995,
+      "lng": -111.6534,
+      "sourceUrl": "https://www.flagstaffpubliclibrary.org/",
+      "checkedOn": "2026-10-18"
+    },
+    "localityAliases": {
+      "city of flagstaff": "Flagstaff",
+      "flagstaff, az": "Flagstaff",
+      "flagstaff az": "Flagstaff",
+      "downtown flagstaff": "Flagstaff",
+      "historic downtown flagstaff": "Flagstaff",
+      "southside flagstaff": "Flagstaff",
+      "mars hill": "Flagstaff",
+      "mcmillan mesa": "Flagstaff",
+      "fort valley": "Fort Valley",
+      "sunnyside": "Flagstaff",
+      "ponderosa trails": "Flagstaff",
+      "continental country club": "Flagstaff",
+      "cheshire": "Flagstaff",
+      "baderville": "Fort Valley",
+      "flagstaff ranch": "Flagstaff",
+      "city of williams": "Williams",
+      "williams, az": "Williams",
+      "williams az": "Williams",
+      "town of tusayan": "Tusayan",
+      "tusayan, az": "Tusayan",
+      "grand canyon": "Grand Canyon Village",
+      "grand canyon south rim": "Grand Canyon Village",
+      "grand canyon national park": "Grand Canyon Village",
+      "grand canyon village, az": "Grand Canyon Village",
+      "sedona, az": "Sedona",
+      "oak creek canyon": "Sedona",
+      "west sedona": "Sedona",
+      "munds park, az": "Munds Park",
+      "pinewood": "Munds Park",
+      "kachina village, az": "Kachina Village",
+      "mountainaire, az": "Mountainaire",
+      "doney park, az": "Doney Park",
+      "timberline": "Doney Park",
+      "ferguson": "Doney Park",
+      "bellemont, az": "Bellemont",
+      "parks, az": "Parks",
+      "mormon lake, az": "Mormon Lake",
+      "winona, az": "Winona",
+      "meteor crater": "Winona",
+      "happy jack": "Mormon Lake",
+      "southside": "Southside",
+      "southside, flagstaff": "Southside",
+      "sunnyside, flagstaff": "Sunnyside",
+      "cheshire, flagstaff": "Cheshire",
+      "doney park": "Doney Park",
+      "kachina village": "Kachina Village",
+      "mountainaire": "Mountainaire",
+      "fort valley, az": "Fort Valley",
+      "parks": "Parks",
+      "bellemont": "Bellemont",
+      "munds park": "Munds Park",
+      "timberline-fernwood": "Timberline-Fernwood",
+      "timberline-fernwood, az": "Timberline-Fernwood",
+      "valle": "Valle",
+      "valle, az": "Valle",
+      "grand canyon junction": "Valle",
+      "tusayan": "Tusayan",
+      "grand canyon village": "Grand Canyon Village",
+      "page": "Page",
+      "page, az": "Page",
+      "page az": "Page",
+      "city of page": "Page",
+      "marble canyon": "Marble Canyon",
+      "marble canyon, az": "Marble Canyon",
+      "cameron": "Cameron",
+      "cameron, az": "Cameron",
+      "sedona": "Sedona",
+      "city of sedona": "Sedona",
+      "village of oak creek": "Village of Oak Creek",
+      "village of oak creek, az": "Village of Oak Creek",
+      "big park": "Village of Oak Creek",
+      "cottonwood": "Cottonwood",
+      "cottonwood, az": "Cottonwood",
+      "city of cottonwood": "Cottonwood",
+      "old town cottonwood": "Cottonwood",
+      "jerome": "Jerome",
+      "jerome, az": "Jerome",
+      "town of jerome": "Jerome",
+      "clarkdale": "Clarkdale",
+      "clarkdale, az": "Clarkdale",
+      "town of clarkdale": "Clarkdale",
+      "tuba city": "Tuba City",
+      "tuba city, az": "Tuba City",
+      "moenkopi": "Moenkopi",
+      "moenkopi, az": "Moenkopi",
+      "upper moenkopi": "Moenkopi",
+      "lower moenkopi": "Moenkopi"
+    },
+    "hubs": [
+      {
+        "name": "Flagstaff",
+        "municipality": "Flagstaff"
+      },
+      {
+        "name": "Sedona",
+        "municipality": "Sedona"
+      },
+      {
+        "name": "Grand Canyon Village",
+        "municipality": "Grand Canyon Village"
+      },
+      {
+        "name": "Williams",
+        "municipality": "Williams"
+      },
+      {
+        "name": "Cottonwood",
+        "municipality": "Cottonwood"
+      },
+      {
+        "name": "Page",
+        "municipality": "Page"
+      }
+    ],
+    "groups": [
+      {
+        "id": "flagstaff-urban-core",
+        "name": "Flagstaff Urban Core & Mountain Foothills",
+        "municipalities": [
+          "Flagstaff",
+          "Southside",
+          "Sunnyside",
+          "Cheshire",
+          "Doney Park",
+          "Kachina Village",
+          "Mountainaire",
+          "Fort Valley",
+          "Winona",
+          "Mormon Lake"
+        ]
+      },
+      {
+        "id": "coconino-high-country",
+        "name": "Coconino High Country & Route 66",
+        "municipalities": [
+          "Williams",
+          "Parks",
+          "Bellemont",
+          "Munds Park",
+          "Timberline-Fernwood",
+          "Valle"
+        ]
+      },
+      {
+        "id": "grand-canyon-plateau",
+        "name": "Grand Canyon & North Plateau",
+        "municipalities": [
+          "Tusayan",
+          "Grand Canyon Village",
+          "Page",
+          "Marble Canyon",
+          "Cameron",
+          "Tuba City",
+          "Moenkopi"
+        ]
+      },
+      {
+        "id": "sedona-verde-valley",
+        "name": "Sedona & Verde Valley",
+        "municipalities": [
+          "Sedona",
+          "Village of Oak Creek",
+          "Cottonwood",
+          "Jerome",
+          "Clarkdale"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "austin",
+    "offlineBundle": "austin-events.ts",
+    "name": "Austin and Greater Texas Hill Country Metro",
+    "region": "TX",
+    "countryCode": "US",
+    "timezone": "America/Chicago",
+    "bounds": {
+      "latMin": 29.65,
+      "latMax": 30.85,
+      "lngMin": -98.45,
+      "lngMax": -97.1
+    },
+    "anchor": {
+      "name": "Austin Central Library",
+      "lat": 30.2659,
+      "lng": -97.7516,
+      "sourceUrl": "https://library.austintexas.gov/central-library",
+      "checkedOn": "2026-10-18"
+    },
+    "localityAliases": {
+      "city of austin": "Austin",
+      "austin, tx": "Austin",
+      "austin tx": "Austin",
+      "downtown austin": "Downtown Austin",
+      "east austin": "East Austin",
+      "south congress": "South Congress",
+      "soco": "South Congress",
+      "red river": "Red River",
+      "red river cultural district": "Red River",
+      "clarksville": "Clarksville",
+      "hyde park": "Hyde Park",
+      "mueller": "Mueller",
+      "south lamar": "South Lamar",
+      "domain": "Domain",
+      "the domain": "Domain",
+      "south austin": "Austin",
+      "north austin": "Austin",
+      "west austin": "Austin",
+      "zilker": "Austin",
+      "barton hills": "Austin",
+      "tarrytown": "Austin",
+      "seaholm": "Austin",
+      "ut austin": "Austin",
+      "city of pflugerville": "Pflugerville",
+      "pflugerville, tx": "Pflugerville",
+      "pflugerville": "Pflugerville",
+      "city of manor": "Manor",
+      "manor, tx": "Manor",
+      "manor": "Manor",
+      "city of bee cave": "Bee Cave",
+      "bee cave, tx": "Bee Cave",
+      "bee cave": "Bee Cave",
+      "city of lakeway": "Lakeway",
+      "lakeway, tx": "Lakeway",
+      "lakeway": "Lakeway",
+      "city of west lake hills": "West Lake Hills",
+      "west lake hills, tx": "West Lake Hills",
+      "west lake hills": "West Lake Hills",
+      "westlake": "West Lake Hills",
+      "city of rollingwood": "Rollingwood",
+      "rollingwood, tx": "Rollingwood",
+      "rollingwood": "Rollingwood",
+      "city of sunset valley": "Sunset Valley",
+      "sunset valley, tx": "Sunset Valley",
+      "sunset valley": "Sunset Valley",
+      "city of lago vista": "Lago Vista",
+      "lago vista, tx": "Lago Vista",
+      "lago vista": "Lago Vista",
+      "city of jonestown": "Jonestown",
+      "jonestown, tx": "Jonestown",
+      "jonestown": "Jonestown",
+      "spicewood, tx": "Spicewood",
+      "spicewood": "Spicewood",
+      "del valle, tx": "Del Valle",
+      "del valle": "Del Valle",
+      "manchaca": "Manchaca",
+      "menchaca": "Manchaca",
+      "wells branch": "Wells Branch",
+      "webberville": "Webberville",
+      "round rock, tx": "Round Rock",
+      "round rock tx": "Round Rock",
+      "round rock": "Round Rock",
+      "city of round rock": "Round Rock",
+      "georgetown, tx": "Georgetown",
+      "georgetown tx": "Georgetown",
+      "georgetown": "Georgetown",
+      "city of georgetown": "Georgetown",
+      "cedar park, tx": "Cedar Park",
+      "cedar park tx": "Cedar Park",
+      "cedar park": "Cedar Park",
+      "city of cedar park": "Cedar Park",
+      "leander, tx": "Leander",
+      "leander tx": "Leander",
+      "leander": "Leander",
+      "city of leander": "Leander",
+      "taylor, tx": "Taylor",
+      "taylor tx": "Taylor",
+      "taylor": "Taylor",
+      "city of taylor": "Taylor",
+      "hutto, tx": "Hutto",
+      "hutto tx": "Hutto",
+      "hutto": "Hutto",
+      "city of hutto": "Hutto",
+      "liberty hill, tx": "Liberty Hill",
+      "liberty hill tx": "Liberty Hill",
+      "liberty hill": "Liberty Hill",
+      "city of liberty hill": "Liberty Hill",
+      "san marcos, tx": "San Marcos",
+      "san marcos tx": "San Marcos",
+      "san marcos": "San Marcos",
+      "city of san marcos": "San Marcos",
+      "buda, tx": "Buda",
+      "buda tx": "Buda",
+      "buda": "Buda",
+      "city of buda": "Buda",
+      "kyle, tx": "Kyle",
+      "kyle tx": "Kyle",
+      "kyle": "Kyle",
+      "city of kyle": "Kyle",
+      "dripping springs, tx": "Dripping Springs",
+      "dripping springs tx": "Dripping Springs",
+      "dripping springs": "Dripping Springs",
+      "city of dripping springs": "Dripping Springs",
+      "wimberley, tx": "Wimberley",
+      "wimberley tx": "Wimberley",
+      "wimberley": "Wimberley",
+      "city of wimberley": "Wimberley",
+      "driftwood, tx": "Driftwood",
+      "driftwood tx": "Driftwood",
+      "driftwood": "Driftwood",
+      "bastrop, tx": "Bastrop",
+      "bastrop tx": "Bastrop",
+      "bastrop": "Bastrop",
+      "city of bastrop": "Bastrop",
+      "elgin, tx": "Elgin",
+      "elgin tx": "Elgin",
+      "elgin": "Elgin",
+      "city of elgin": "Elgin",
+      "smithville, tx": "Smithville",
+      "smithville tx": "Smithville",
+      "smithville": "Smithville",
+      "city of smithville": "Smithville",
+      "lockhart, tx": "Lockhart",
+      "lockhart tx": "Lockhart",
+      "lockhart": "Lockhart",
+      "city of lockhart": "Lockhart",
+      "luling, tx": "Luling",
+      "luling tx": "Luling",
+      "luling": "Luling",
+      "city of luling": "Luling"
+    },
+    "hubs": [
+      {
+        "name": "Austin",
+        "municipality": "Austin"
+      },
+      {
+        "name": "Round Rock",
+        "municipality": "Round Rock"
+      },
+      {
+        "name": "Georgetown",
+        "municipality": "Georgetown"
+      },
+      {
+        "name": "San Marcos",
+        "municipality": "San Marcos"
+      },
+      {
+        "name": "Dripping Springs",
+        "municipality": "Dripping Springs"
+      },
+      {
+        "name": "Bastrop",
+        "municipality": "Bastrop"
+      },
+      {
+        "name": "Lockhart",
+        "municipality": "Lockhart"
+      }
+    ],
+    "groups": [
+      {
+        "id": "austin-urban-core",
+        "name": "Austin Urban Core & Cultural Districts",
+        "municipalities": [
+          "Austin",
+          "Downtown Austin",
+          "East Austin",
+          "South Congress",
+          "Red River",
+          "Clarksville",
+          "Hyde Park",
+          "Mueller",
+          "South Lamar",
+          "Domain"
+        ]
+      },
+      {
+        "id": "travis-lake-suburbs",
+        "name": "Travis Lake & Suburbs",
+        "municipalities": [
+          "Lakeway",
+          "Bee Cave",
+          "West Lake Hills",
+          "Lago Vista",
+          "Jonestown",
+          "Spicewood",
+          "Manor",
+          "Pflugerville",
+          "Del Valle",
+          "Rollingwood",
+          "Sunset Valley",
+          "Creedmoor",
+          "Point Venture",
+          "The Hills",
+          "Briarcliff",
+          "Volente",
+          "Webberville",
+          "Mustang Ridge",
+          "Wells Branch",
+          "Hornsby Bend",
+          "Hudson Bend",
+          "Shady Hollow",
+          "Lost Creek",
+          "Barton Creek",
+          "Steiner Ranch",
+          "Manchaca",
+          "Garfield",
+          "Windemere",
+          "Oak Hill",
+          "Onion Creek"
+        ]
+      },
+      {
+        "id": "williamson-north-corridor",
+        "name": "Williamson County North Corridor",
+        "municipalities": [
+          "Round Rock",
+          "Cedar Park",
+          "Georgetown",
+          "Leander",
+          "Taylor",
+          "Hutto",
+          "Liberty Hill"
+        ]
+      },
+      {
+        "id": "hays-south-springs-corridor",
+        "name": "Hays County South Springs & River Corridor",
+        "municipalities": [
+          "San Marcos",
+          "Buda",
+          "Kyle",
+          "Dripping Springs",
+          "Wimberley",
+          "Driftwood"
+        ]
+      },
+      {
+        "id": "bastrop-east-pines",
+        "name": "Bastrop County East Pines",
+        "municipalities": [
+          "Bastrop",
+          "Elgin",
+          "Smithville"
+        ]
+      },
+      {
+        "id": "caldwell-south-bbq",
+        "name": "Caldwell County South BBQ Trail",
+        "municipalities": [
+          "Lockhart",
+          "Luling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chicago",
+    "offlineBundle": "chicago-events.ts",
+    "name": "Chicago, Northalsted Gayborhood & Greater Chicagoland Counties",
+    "region": "IL",
+    "countryCode": "US",
+    "timezone": "America/Chicago",
+    "bounds": {
+      "latMin": 41.3,
+      "latMax": 42.45,
+      "lngMin": -88.4,
+      "lngMax": -87.5
+    },
+    "anchor": {
+      "name": "Harold Washington Library Center (CPL Main)",
+      "lat": 41.8763,
+      "lng": -87.6281,
+      "sourceUrl": "https://www.chipublib.org/locations/34/",
+      "checkedOn": "2026-10-31"
+    },
+    "localityAliases": {
+      "city of chicago": "Chicago",
+      "chicago, il": "Chicago",
+      "chicago il": "Chicago",
+      "the loop": "Chicago",
+      "loop": "Chicago",
+      "downtown chicago": "Chicago",
+      "northalsted": "Chicago",
+      "boystown": "Chicago",
+      "lakeview": "Chicago",
+      "lake view": "Chicago",
+      "lakeview east": "Chicago",
+      "east lakeview": "Chicago",
+      "wrigleyville": "Chicago",
+      "lincoln park": "Chicago",
+      "old town": "Chicago",
+      "river north": "Chicago",
+      "streeterville": "Chicago",
+      "gold coast": "Chicago",
+      "west loop": "Chicago",
+      "fulton market": "Chicago",
+      "south loop": "Chicago",
+      "wicker park": "Chicago",
+      "bucktown": "Chicago",
+      "logan square": "Chicago",
+      "avondale": "Chicago",
+      "albany park": "Chicago",
+      "pilsen": "Chicago",
+      "chinatown": "Chicago",
+      "bridgeport": "Chicago",
+      "bronzeville": "Chicago",
+      "hyde park": "Chicago",
+      "kenwood": "Chicago",
+      "woodlawn": "Chicago",
+      "south shore": "Chicago",
+      "uptown": "Chicago",
+      "andersonville": "Chicago",
+      "edgewater": "Chicago",
+      "rogers park": "Chicago",
+      "lincoln square": "Chicago",
+      "austin": "Chicago",
+      "garfield park": "Chicago",
+      "humboldt park": "Chicago",
+      "washington park": "Chicago",
+      "city of evanston": "Evanston",
+      "evanston, il": "Evanston",
+      "village of oak park": "Oak Park",
+      "oak park, il": "Oak Park",
+      "village of skokie": "Skokie",
+      "skokie, il": "Skokie",
+      "village of glencoe": "Glencoe",
+      "glencoe, il": "Glencoe",
+      "village of willow springs": "Willow Springs",
+      "willow springs, il": "Willow Springs",
+      "city of naperville": "Naperville",
+      "naperville, il": "Naperville",
+      "city of wheaton": "Wheaton",
+      "wheaton, il": "Wheaton",
+      "city of waukegan": "Waukegan",
+      "waukegan, il": "Waukegan",
+      "city of highland park": "Highland Park",
+      "highland park, il": "Highland Park",
+      "city of joliet": "Joliet",
+      "joliet, il": "Joliet",
+      "village of plainfield": "Plainfield",
+      "plainfield, il": "Plainfield",
+      "city of aurora": "Aurora",
+      "aurora, il": "Aurora",
+      "city of elgin": "Elgin",
+      "elgin, il": "Elgin"
+    },
+    "hubs": [
+      {
+        "name": "Chicago",
+        "municipality": "Chicago"
+      },
+      {
+        "name": "Evanston",
+        "municipality": "Evanston"
+      },
+      {
+        "name": "Naperville",
+        "municipality": "Naperville"
+      },
+      {
+        "name": "Waukegan",
+        "municipality": "Waukegan"
+      },
+      {
+        "name": "Joliet",
+        "municipality": "Joliet"
+      },
+      {
+        "name": "Aurora",
+        "municipality": "Aurora"
+      }
+    ],
+    "groups": [
+      {
+        "id": "cook-county-municipalities",
+        "name": "Cook County municipalities",
+        "municipalities": [
+          "Chicago",
+          "Evanston",
+          "Oak Park",
+          "Skokie",
+          "Glencoe",
+          "Willow Springs",
+          "Cicero",
+          "Berwyn",
+          "Des Plaines",
+          "Schaumburg",
+          "Arlington Heights",
+          "Palatine",
+          "Orland Park",
+          "Tinley Park",
+          "Northbrook",
+          "Wilmette",
+          "Winnetka",
+          "Oak Lawn",
+          "Glenview",
+          "Rolling Meadows",
+          "Palos Park",
+          "Chicago Heights",
+          "Blue Island",
+          "Harvey",
+          "Calumet City",
+          "Park Ridge"
+        ]
+      },
+      {
+        "id": "chicago-neighborhoods-and-lgbtq-corridors",
+        "name": "Chicago neighborhoods and LGBTQ+ cultural corridors",
+        "municipalities": [
+          "Northalsted",
+          "Boystown",
+          "Andersonville",
+          "Lakeview",
+          "Lincoln Park",
+          "Logan Square",
+          "Pilsen",
+          "Hyde Park",
+          "Loop",
+          "Uptown",
+          "Chinatown",
+          "Bronzeville",
+          "Wicker Park",
+          "Rogers Park"
+        ]
+      },
+      {
+        "id": "dupage-county-municipalities",
+        "name": "DuPage County municipalities",
+        "municipalities": [
+          "Naperville",
+          "Wheaton",
+          "Downers Grove",
+          "Elmhurst",
+          "Lombard",
+          "Carol Stream",
+          "Addison",
+          "Glen Ellyn",
+          "West Chicago",
+          "Woodridge"
+        ]
+      },
+      {
+        "id": "lake-county-municipalities",
+        "name": "Lake County municipalities",
+        "municipalities": [
+          "Waukegan",
+          "Highland Park",
+          "Lake Forest",
+          "Deerfield",
+          "Libertyville",
+          "Mundelein",
+          "Vernon Hills",
+          "Gurnee",
+          "Buffalo Grove",
+          "Zion"
+        ]
+      },
+      {
+        "id": "will-county-municipalities",
+        "name": "Will County municipalities",
+        "municipalities": [
+          "Joliet",
+          "Plainfield",
+          "Bolingbrook",
+          "Lockport",
+          "Romeoville",
+          "New Lenox",
+          "Homer Glen",
+          "Mokena",
+          "Frankfort",
+          "Crest Hill"
+        ]
+      },
+      {
+        "id": "kane-county-municipalities",
+        "name": "Kane County municipalities",
+        "municipalities": [
+          "Aurora",
+          "Elgin",
+          "St. Charles",
+          "Geneva",
+          "Batavia",
+          "Carpentersville",
+          "South Elgin",
+          "Algonquin",
+          "Elburn"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "westchester",
+    "preparationOnly": false,
+    "name": "Southern Westchester rivertowns",
+    "region": "NY",
+    "countryCode": "US",
+    "timezone": "America/New_York",
+    "bounds": {
+      "latMin": 40.921,
+      "latMax": 41.04,
+      "lngMin": -73.92,
+      "lngMax": -73.8
+    },
+    "anchor": {
+      "name": "Philipse Manor Hall State Historic Site",
+      "lat": 40.93574,
+      "lng": -73.8994,
+      "sourceUrl": "https://parks.ny.gov/visit/historic-sites/philipse-manor-hall-state-historic-site",
+      "checkedOn": "2026-10-18"
+    },
+    "localityAliases": {
+      "hastings": "Hastings-on-Hudson",
+      "hastings on hudson": "Hastings-on-Hudson",
+      "dobbs": "Dobbs Ferry"
+    },
+    "hubs": [
+      {
+        "name": "Yonkers",
+        "municipality": "Yonkers"
+      }
+    ],
+    "groups": [
+      {
+        "id": "yonkers",
+        "name": "Yonkers",
+        "municipalities": [
+          "Yonkers"
+        ]
+      },
+      {
+        "id": "southern-westchester-rivertowns",
+        "name": "Southern Westchester rivertowns",
+        "municipalities": [
+          "Hastings-on-Hudson",
+          "Dobbs Ferry",
+          "Bronxville"
+        ]
+      }
+    ],
+    "evidence": {
+      "bounds": {
+        "checkedOn": "2026-10-24",
+        "note": "Sanity envelope around the 24 registered places north of the NYC rectangle (latMax 40.92). Not a county boundary. It does not overlap the NYC box, so Bronx points stay in nyc. The two Mount Vernon catalog pins are south of latMin and remain inside nyc."
+      }
+    }
+  },
+  {
+    "id": "montreal",
+    "offlineBundle": "montreal-events.ts",
+    "name": "Montreal and Greater Montreal",
+    "region": "QC",
+    "countryCode": "CA",
+    "timezone": "America/Toronto",
+    "bounds": {
+      "latMin": 45.25,
+      "latMax": 45.85,
+      "lngMin": -74.15,
+      "lngMax": -73.3
+    },
+    "anchor": {
+      "name": "Grande Bibliothèque (BAnQ)",
+      "lat": 45.5154,
+      "lng": -73.5623,
+      "sourceUrl": "https://www.banq.qc.ca/a-propos/grande-bibliotheque/",
+      "checkedOn": "2026-10-31"
+    },
+    "localityAliases": {
+      "montréal": "Montreal",
+      "montreal": "Montreal",
+      "city of montreal": "Montreal",
+      "ville de montréal": "Montreal",
+      "ville de montreal": "Montreal",
+      "vieux-montreal": "Montreal",
+      "vieux-montréal": "Montreal",
+      "old montreal": "Montreal",
+      "downtown montreal": "Montreal",
+      "centre-ville": "Montreal",
+      "centre-ville de montréal": "Montreal",
+      "plateau": "Montreal",
+      "plateau-mont-royal": "Montreal",
+      "plateau mont-royal": "Montreal",
+      "mile end": "Montreal",
+      "griffintown": "Montreal",
+      "saint-henri": "Montreal",
+      "little italy": "Montreal",
+      "petite-italie": "Montreal",
+      "rosemont": "Montreal",
+      "outremont": "Montreal",
+      "westmount": "Westmount",
+      "verdun": "Montreal",
+      "cote-des-neiges": "Montreal",
+      "côte-des-neiges": "Montreal",
+      "notre-dame-de-grace": "Montreal",
+      "notre-dame-de-grâce": "Montreal",
+      "ndg": "Montreal",
+      "hochelaga": "Montreal",
+      "hochelaga-maisonneuve": "Montreal",
+      "villeray": "Montreal",
+      "saint-michel": "Montreal",
+      "parc-extension": "Montreal",
+      "ahuntsic": "Montreal",
+      "cartierville": "Montreal",
+      "saint-laurent": "Montreal",
+      "ville-marie": "Montreal",
+      "sud-ouest": "Montreal",
+      "le sud-ouest": "Montreal",
+      "lasalle": "Montreal",
+      "lachine": "Montreal",
+      "anjou": "Montreal",
+      "saint-leonard": "Montreal",
+      "montreal-nord": "Montreal",
+      "montreal-est": "Montreal",
+      "pointe-aux-trembles": "Montreal",
+      "riviere-des-prairies": "Montreal",
+      "laval": "Laval",
+      "ville de laval": "Laval",
+      "chomedey": "Laval",
+      "laval-des-rapides": "Laval",
+      "sainte-rose": "Laval",
+      "longueuil": "Longueuil",
+      "ville de longueuil": "Longueuil",
+      "vieux-longueuil": "Longueuil",
+      "saint-hubert": "Longueuil",
+      "greenfield park": "Longueuil",
+      "brossard": "Brossard",
+      "boucherville": "Boucherville",
+      "saint-lambert": "Saint-Lambert",
+      "saint-bruno": "Saint-Bruno-de-Montarville",
+      "saint-bruno-de-montarville": "Saint-Bruno-de-Montarville",
+      "terrebonne": "Terrebonne",
+      "blainville": "Blainville",
+      "saint-jerome": "Saint-Jérôme",
+      "saint-jérôme": "Saint-Jérôme",
+      "repentigny": "Repentigny"
+    },
+    "hubs": [
+      {
+        "name": "Montreal",
+        "municipality": "Montreal"
+      },
+      {
+        "name": "Laval",
+        "municipality": "Laval"
+      },
+      {
+        "name": "Longueuil",
+        "municipality": "Longueuil"
+      },
+      {
+        "name": "Brossard",
+        "municipality": "Brossard"
+      }
+    ],
+    "groups": [
+      {
+        "id": "montreal-island-municipalities",
+        "name": "Montreal Island municipalities",
+        "municipalities": [
+          "Montreal",
+          "Westmount",
+          "Côte-Saint-Luc",
+          "Hampstead",
+          "Mont-Royal",
+          "Dorval",
+          "Pointe-Claire",
+          "Kirkland",
+          "Beaconsfield",
+          "Baie-D'Urfé",
+          "Sainte-Anne-de-Bellevue",
+          "Senneville",
+          "Dollard-des-Ormeaux"
+        ]
+      },
+      {
+        "id": "montreal-neighborhood-districts",
+        "name": "Montreal neighborhood districts",
+        "municipalities": [
+          "Ville-Marie",
+          "Plateau-Mont-Royal",
+          "Mile End",
+          "Rosemont-La Petite-Patrie",
+          "Côte-des-Neiges-Notre-Dame-de-Grâce",
+          "Sud-Ouest",
+          "Griffintown",
+          "Saint-Henri",
+          "Little Italy",
+          "Outremont",
+          "Verdun",
+          "Mercier-Hochelaga-Maisonneuve",
+          "Villeray-Saint-Michel-Parc-Extension",
+          "Ahuntsic-Cartierville",
+          "Saint-Laurent"
+        ]
+      },
+      {
+        "id": "laval-municipalities",
+        "name": "Laval municipalities",
+        "municipalities": [
+          "Laval"
+        ]
+      },
+      {
+        "id": "south-shore-municipalities",
+        "name": "South Shore municipalities",
+        "municipalities": [
+          "Longueuil",
+          "Brossard",
+          "Boucherville",
+          "Saint-Lambert",
+          "Saint-Bruno-de-Montarville"
+        ]
+      },
+      {
+        "id": "north-shore-municipalities",
+        "name": "North Shore municipalities",
+        "municipalities": [
+          "Terrebonne",
+          "Blainville",
+          "Saint-Jérôme",
+          "Repentigny"
+        ]
+      }
+    ],
+    "evidence": {
+      "bounds": {
+        "checkedOn": "2026-10-31",
+        "note": "Bilingual Greater Montreal metropolitan envelope spanning the Island of Montreal, Laval across Rivière des Prairies, and South Shore (Longueuil, Brossard) across the St. Lawrence River."
+      }
+    }
+  },
+  {
+    "id": "los-angeles",
+    "offlineBundle": "los-angeles-events.ts",
+    "name": "Los Angeles and Greater Coastal Basin",
+    "region": "CA",
+    "countryCode": "US",
+    "timezone": "America/Los_Angeles",
+    "bounds": {
+      "latMin": 33.25,
+      "latMax": 34.85,
+      "lngMin": -118.96,
+      "lngMax": -117.64
+    },
+    "anchor": {
+      "name": "Los Angeles Public Library Central Library",
+      "lat": 34.0503,
+      "lng": -118.2553,
+      "sourceUrl": "https://www.lapl.org/branches/central-library",
+      "checkedOn": "2026-10-18"
+    },
+    "localityAliases": {
+      "city of los angeles": "Los Angeles",
+      "los angeles, ca": "Los Angeles",
+      "los angeles ca": "Los Angeles",
+      "downtown los angeles": "Los Angeles",
+      "downtown la": "Los Angeles",
+      "dtla": "Los Angeles",
+      "hollywood": "Hollywood",
+      "north hollywood": "North Hollywood",
+      "noho": "North Hollywood",
+      "west los angeles": "West Los Angeles",
+      "west la": "West Los Angeles",
+      "san pedro": "San Pedro",
+      "van nuys": "Van Nuys",
+      "echo park": "Echo Park",
+      "chinatown": "Chinatown",
+      "silver lake": "Silver Lake",
+      "silverlake": "Silver Lake",
+      "little tokyo": "Little Tokyo",
+      "koreatown": "Koreatown",
+      "venice": "Venice",
+      "venice beach": "Venice",
+      "brentwood": "Brentwood",
+      "pacific palisades": "Pacific Palisades",
+      "miracle mile": "Miracle Mile",
+      "westwood": "Westwood",
+      "baldwin hills": "Baldwin Hills",
+      "highland park": "Highland Park",
+      "eagle rock": "Eagle Rock",
+      "boyle heights": "Boyle Heights",
+      "exposition park": "Los Angeles",
+      "griffith park": "Griffith Park",
+      "encino": "Encino",
+      "sherman oaks": "Sherman Oaks",
+      "studio city": "Studio City",
+      "woodland hills": "Woodland Hills",
+      "san marino": "San Marino",
+      "pasadena": "Pasadena",
+      "santa monica": "Santa Monica",
+      "west hollywood": "West Hollywood",
+      "weho": "West Hollywood",
+      "culver city": "Culver City",
+      "long beach": "Long Beach",
+      "glendale": "Glendale",
+      "arcadia": "Arcadia",
+      "la cañada flintridge": "La Cañada Flintridge",
+      "la canada flintridge": "La Cañada Flintridge",
+      "palos verdes peninsula": "Palos Verdes Peninsula",
+      "lancaster": "Lancaster",
+      "palmdale": "Palmdale",
+      "santa clarita": "Santa Clarita",
+      "burbank": "Burbank",
+      "beverly hills": "Beverly Hills",
+      "torrance": "Torrance",
+      "el segundo": "El Segundo",
+      "manhattan beach": "Manhattan Beach",
+      "hermosa beach": "Hermosa Beach",
+      "redondo beach": "Redondo Beach",
+      "malibu": "Malibu",
+      "claremont": "Claremont",
+      "pomona": "Pomona",
+      "avalon": "Avalon",
+      "catalina island": "Avalon",
+      "city of anaheim": "Anaheim",
+      "anaheim": "Anaheim",
+      "santa ana": "Santa Ana",
+      "irvine": "Irvine",
+      "fullerton": "Fullerton",
+      "costa mesa": "Costa Mesa",
+      "huntington beach": "Huntington Beach",
+      "newport beach": "Newport Beach",
+      "city of ventura": "Ventura",
+      "ventura": "Ventura",
+      "san buenaventura": "Ventura",
+      "oxnard": "Oxnard",
+      "thousand oaks": "Thousand Oaks",
+      "simi valley": "Simi Valley",
+      "camarillo": "Camarillo"
+    },
+    "hubs": [
+      {
+        "name": "Los Angeles",
+        "municipality": "Los Angeles"
+      },
+      {
+        "name": "Pasadena",
+        "municipality": "Pasadena"
+      },
+      {
+        "name": "Long Beach",
+        "municipality": "Long Beach"
+      },
+      {
+        "name": "Santa Monica",
+        "municipality": "Santa Monica"
+      },
+      {
+        "name": "Glendale",
+        "municipality": "Glendale"
+      },
+      {
+        "name": "West Hollywood",
+        "municipality": "West Hollywood"
+      },
+      {
+        "name": "Culver City",
+        "municipality": "Culver City"
+      },
+      {
+        "name": "Lancaster",
+        "municipality": "Lancaster"
+      },
+      {
+        "name": "Anaheim",
+        "municipality": "Anaheim"
+      },
+      {
+        "name": "Santa Ana",
+        "municipality": "Santa Ana"
+      },
+      {
+        "name": "Irvine",
+        "municipality": "Irvine"
+      },
+      {
+        "name": "Ventura",
+        "municipality": "Ventura"
+      },
+      {
+        "name": "Thousand Oaks",
+        "municipality": "Thousand Oaks"
+      }
+    ],
+    "groups": [
+      {
+        "id": "los-angeles-major-cities",
+        "name": "Los Angeles County incorporated municipalities",
+        "municipalities": [
+          "Los Angeles",
+          "Long Beach",
+          "Glendale",
+          "Santa Clarita",
+          "Lancaster",
+          "Palmdale",
+          "Pomona",
+          "Torrance",
+          "Pasadena",
+          "Downey",
+          "El Monte",
+          "Inglewood",
+          "West Covina",
+          "Norwalk",
+          "Burbank",
+          "Compton",
+          "South Gate",
+          "Carson",
+          "Santa Monica",
+          "Whittier",
+          "Hawthorne",
+          "Alhambra",
+          "Lakewood",
+          "Bellflower",
+          "Baldwin Park",
+          "Lynwood",
+          "Redondo Beach",
+          "Pico Rivera",
+          "Montebello",
+          "Monterey Park",
+          "Gardena",
+          "Huntington Park",
+          "Arcadia",
+          "Diamond Bar",
+          "Paramount",
+          "Rosemead",
+          "Glendora",
+          "Cerritos",
+          "Covina",
+          "Azusa",
+          "La Mirada",
+          "Rancho Palos Verdes",
+          "Culver City",
+          "Monrovia",
+          "Bell Gardens",
+          "San Gabriel",
+          "Claremont",
+          "Beverly Hills",
+          "San Fernando",
+          "Calabasas",
+          "La Cañada Flintridge",
+          "West Hollywood",
+          "San Marino",
+          "Malibu",
+          "South Pasadena",
+          "Hermosa Beach",
+          "Manhattan Beach",
+          "Avalon",
+          "Palos Verdes Estates",
+          "Rolling Hills Estates",
+          "Sierra Madre",
+          "Signal Hill",
+          "El Segundo"
+        ]
+      },
+      {
+        "id": "los-angeles-neighborhoods-and-cdps",
+        "name": "Los Angeles County districts, neighborhoods, and designated areas",
+        "municipalities": [
+          "Hollywood",
+          "North Hollywood",
+          "West Los Angeles",
+          "San Pedro",
+          "Van Nuys",
+          "Echo Park",
+          "Chinatown",
+          "Silver Lake",
+          "Downtown Los Angeles",
+          "Little Tokyo",
+          "Koreatown",
+          "Venice",
+          "Brentwood",
+          "Pacific Palisades",
+          "Miracle Mile",
+          "Westwood",
+          "Baldwin Hills",
+          "Highland Park",
+          "Eagle Rock",
+          "Boyle Heights",
+          "Encino",
+          "Sherman Oaks",
+          "Studio City",
+          "Woodland Hills",
+          "Reseda",
+          "Canoga Park",
+          "Northridge",
+          "Chatsworth",
+          "Pacoima",
+          "Sun Valley",
+          "Sylmar",
+          "Tujunga",
+          "Sunland",
+          "Playa Vista",
+          "Playa del Rey",
+          "Mar Vista",
+          "Palos Verdes Peninsula",
+          "Altadena",
+          "Marina del Rey",
+          "East Los Angeles",
+          "Rowland Heights",
+          "Hacienda Heights",
+          "La Crescenta-Montrose",
+          "Castaic",
+          "Griffith Park"
+        ]
+      },
+      {
+        "id": "orange-county-northern-municipalities",
+        "name": "Orange County northern municipalities",
+        "municipalities": [
+          "Anaheim",
+          "Santa Ana",
+          "Irvine",
+          "Fullerton",
+          "Orange",
+          "Garden Grove",
+          "Buena Park",
+          "Costa Mesa",
+          "Huntington Beach",
+          "Newport Beach",
+          "Westminster",
+          "Tustin",
+          "Brea",
+          "Placentia",
+          "Yorba Linda"
+        ]
+      },
+      {
+        "id": "ventura-county-coastal-valley-municipalities",
+        "name": "Ventura County municipalities",
+        "municipalities": [
+          "Ventura",
+          "Oxnard",
+          "Thousand Oaks",
+          "Simi Valley",
+          "Camarillo",
+          "Moorpark",
+          "Santa Paula",
+          "Port Hueneme",
+          "Ojai",
+          "Fillmore"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tucson",
+    "offlineBundle": "tucson-events.ts",
+    "name": "Tucson and Southern Arizona Corridor",
+    "region": "AZ",
+    "countryCode": "US",
+    "timezone": "America/Phoenix",
+    "bounds": {
+      "latMin": 31.3,
+      "latMax": 32.7,
+      "lngMin": -111.6,
+      "lngMax": -109.8
+    },
+    "anchor": {
+      "name": "Joel D. Valdez Main Library (PCPL)",
+      "lat": 32.2229,
+      "lng": -110.9718,
+      "sourceUrl": "https://www.library.pima.gov/locations/valdez-main/",
+      "checkedOn": "2026-10-31"
+    },
+    "localityAliases": {
+      "city of tucson": "Tucson",
+      "tucson, az": "Tucson",
+      "tucson az": "Tucson",
+      "downtown tucson": "Tucson",
+      "historic downtown tucson": "Tucson",
+      "sam hughes": "Tucson",
+      "barrio viejo": "Tucson",
+      "el presidio": "Tucson",
+      "armory park": "Tucson",
+      "west university": "Tucson",
+      "fourth avenue": "Tucson",
+      "mercado district": "Tucson",
+      "university of arizona": "Tucson",
+      "u of a": "Tucson",
+      "midtown tucson": "Tucson",
+      "central tucson": "Tucson",
+      "town of oro valley": "Oro Valley",
+      "town of marana": "Marana",
+      "town of sahuarita": "Sahuarita",
+      "city of south tucson": "South Tucson",
+      "city of nogales": "Nogales",
+      "city of bisbee": "Bisbee",
+      "city of sierra vista": "Sierra Vista",
+      "city of tombstone": "Tombstone",
+      "city of douglas": "Douglas",
+      "city of benson": "Benson",
+      "city of willcox": "Willcox",
+      "city of casa grande": "Casa Grande",
+      "town of florence": "Florence",
+      "city of coolidge": "Coolidge",
+      "city of eloy": "Eloy",
+      "pima county": "Tucson",
+      "santa cruz county": "Nogales",
+      "cochise county": "Bisbee",
+      "pinal county": "Florence"
+    },
+    "hubs": [
+      {
+        "name": "Tucson",
+        "municipality": "Tucson"
+      },
+      {
+        "name": "Oro Valley",
+        "municipality": "Oro Valley"
+      },
+      {
+        "name": "Marana",
+        "municipality": "Marana"
+      },
+      {
+        "name": "Sahuarita",
+        "municipality": "Sahuarita"
+      },
+      {
+        "name": "Green Valley",
+        "municipality": "Green Valley"
+      },
+      {
+        "name": "Tubac",
+        "municipality": "Tubac"
+      },
+      {
+        "name": "Nogales",
+        "municipality": "Nogales"
+      },
+      {
+        "name": "Bisbee",
+        "municipality": "Bisbee"
+      },
+      {
+        "name": "Sierra Vista",
+        "municipality": "Sierra Vista"
+      }
+    ],
+    "groups": [
+      {
+        "id": "pima-county-metro",
+        "name": "Pima County & Tucson Metro",
+        "municipalities": [
+          "Tucson",
+          "South Tucson",
+          "Oro Valley",
+          "Marana",
+          "Sahuarita",
+          "Green Valley",
+          "Catalina Foothills",
+          "Tanque Verde",
+          "Vail",
+          "Casas Adobes",
+          "Catalina",
+          "Tortolita",
+          "Drexel Heights",
+          "Flowing Wells",
+          "Tucson Estates",
+          "Valencia West",
+          "Mount Lemmon",
+          "Summerhaven",
+          "Corona de Tucson",
+          "Arivaca",
+          "Lukeville",
+          "Ajo",
+          "Sells"
+        ]
+      },
+      {
+        "id": "santa-cruz-valley",
+        "name": "Santa Cruz Valley & Borderlands",
+        "municipalities": [
+          "Nogales",
+          "Tubac",
+          "Rio Rico",
+          "Patagonia",
+          "Tumacacori",
+          "Carmen",
+          "Sonoita",
+          "Elgin",
+          "Amado"
+        ]
+      },
+      {
+        "id": "cochise-historic-corridor",
+        "name": "Cochise Historic Corridor & Sky Islands",
+        "municipalities": [
+          "Bisbee",
+          "Sierra Vista",
+          "Tombstone",
+          "Douglas",
+          "Benson",
+          "Willcox",
+          "Huachuca City",
+          "St. David",
+          "Hereford",
+          "Palominas",
+          "Portal",
+          "Naco"
+        ]
+      },
+      {
+        "id": "pinal-borderlands",
+        "name": "Pinal Southern Borderlands",
+        "municipalities": [
+          "Casa Grande",
+          "Coolidge",
+          "Florence",
+          "Eloy",
+          "Arizona City",
+          "Maricopa",
+          "Oracle",
+          "San Manuel",
+          "Mammoth",
+          "Superior",
+          "Kearny",
+          "SaddleBrooke"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "philadelphia",
+    "offlineBundle": "philadelphia-events.ts",
+    "name": "Philadelphia and Greater Delaware Valley",
+    "region": "PA",
+    "regions": [
+      "PA",
+      "NJ"
+    ],
+    "countryCode": "US",
+    "timezone": "America/New_York",
+    "bounds": {
+      "latMin": 39.75,
+      "latMax": 40.35,
+      "lngMin": -75.5,
+      "lngMax": -74.8
+    },
+    "anchor": {
+      "name": "Free Library of Philadelphia — Parkway Central Library",
+      "lat": 39.9598,
+      "lng": -75.1712,
+      "sourceUrl": "https://libwww.freelibrary.org/locations/parkway-central-library",
+      "checkedOn": "2026-10-31"
+    },
+    "hubs": [
+      {
+        "name": "Philadelphia",
+        "municipality": "Philadelphia"
+      },
+      {
+        "name": "Upper Darby",
+        "municipality": "Upper Darby"
+      },
+      {
+        "name": "Norristown",
+        "municipality": "Norristown"
+      },
+      {
+        "name": "Doylestown",
+        "municipality": "Doylestown"
+      },
+      {
+        "name": "Camden",
+        "municipality": "Camden"
+      }
+    ],
+    "groups": [
+      {
+        "id": "philadelphia-county-municipalities",
+        "name": "Philadelphia County municipalities and neighborhoods",
+        "municipalities": [
+          "Philadelphia"
+        ]
+      },
+      {
+        "id": "delaware-county-municipalities",
+        "name": "Delaware County municipalities",
+        "municipalities": [
+          "Upper Darby",
+          "Chester",
+          "Media",
+          "Haverford",
+          "Radnor",
+          "Swarthmore",
+          "Ridley",
+          "Springfield",
+          "Lansdowne",
+          "Yeadon",
+          "Darby",
+          "Broomall",
+          "Newtown Square",
+          "Aston",
+          "Chadds Ford",
+          "Glen Mills",
+          "Wayne"
+        ]
+      },
+      {
+        "id": "montgomery-county-municipalities",
+        "name": "Montgomery County municipalities",
+        "municipalities": [
+          "Norristown",
+          "Lower Merion",
+          "King of Prussia",
+          "Conshohocken",
+          "Bryn Mawr",
+          "Ardmore",
+          "Pottstown",
+          "Lansdale",
+          "Ambler",
+          "Jenkintown",
+          "Cheltenham",
+          "Abington",
+          "Plymouth Meeting",
+          "Blue Bell",
+          "Fort Washington"
+        ]
+      },
+      {
+        "id": "bucks-county-municipalities",
+        "name": "Bucks County municipalities",
+        "municipalities": [
+          "Doylestown",
+          "Bristol",
+          "New Hope",
+          "Bensalem",
+          "Newtown",
+          "Yardley",
+          "Morrisville",
+          "Langhorne",
+          "Levittown",
+          "Perkasie",
+          "Quakertown",
+          "Washington Crossing"
+        ]
+      },
+      {
+        "id": "camden-county-municipalities",
+        "name": "Camden County NJ municipalities",
+        "municipalities": [
+          "Camden",
+          "Cherry Hill",
+          "Collingswood",
+          "Haddonfield",
+          "Haddon Township",
+          "Pennsauken",
+          "Gloucester City",
+          "Voorhees",
+          "Merchantville"
+        ]
+      }
+    ],
+    "localityAliases": {
+      "city of philadelphia": "Philadelphia",
+      "philadelphia, pa": "Philadelphia",
+      "philadelphia pa": "Philadelphia",
+      "philly": "Philadelphia",
+      "center city": "Philadelphia",
+      "center city philadelphia": "Philadelphia",
+      "center city west": "Philadelphia",
+      "old city": "Philadelphia",
+      "historic district": "Philadelphia",
+      "society hill": "Philadelphia",
+      "rittenhouse": "Philadelphia",
+      "rittenhouse square": "Philadelphia",
+      "fitler square": "Philadelphia",
+      "washington square west": "Philadelphia",
+      "logan square": "Philadelphia",
+      "fairmount": "Philadelphia",
+      "spring garden": "Philadelphia",
+      "callowhill": "Philadelphia",
+      "chinatown": "Philadelphia",
+      "northern liberties": "Philadelphia",
+      "fishtown": "Philadelphia",
+      "kensington": "Philadelphia",
+      "port richmond": "Philadelphia",
+      "south philadelphia": "Philadelphia",
+      "south philly": "Philadelphia",
+      "bella vista": "Philadelphia",
+      "queen village": "Philadelphia",
+      "passyunk square": "Philadelphia",
+      "east passyunk": "Philadelphia",
+      "pennsport": "Philadelphia",
+      "point breeze": "Philadelphia",
+      "grays ferry": "Philadelphia",
+      "university city": "Philadelphia",
+      "west philadelphia": "Philadelphia",
+      "west philly": "Philadelphia",
+      "spruce hill": "Philadelphia",
+      "powelton village": "Philadelphia",
+      "cedar park": "Philadelphia",
+      "cobbs creek": "Philadelphia",
+      "haddington": "Philadelphia",
+      "overbrook": "Philadelphia",
+      "mantua": "Philadelphia",
+      "fairmount park": "Philadelphia",
+      "west fairmount park": "Philadelphia",
+      "east fairmount park": "Philadelphia",
+      "roxborough": "Philadelphia",
+      "manayunk": "Philadelphia",
+      "east falls": "Philadelphia",
+      "chestnut hill": "Philadelphia",
+      "mount airy": "Philadelphia",
+      "mt airy": "Philadelphia",
+      "germantown": "Philadelphia",
+      "nicetown": "Philadelphia",
+      "tioga": "Philadelphia",
+      "hunting park": "Philadelphia",
+      "fairhill": "Philadelphia",
+      "olney": "Philadelphia",
+      "oak lane": "Philadelphia",
+      "logan": "Philadelphia",
+      "northeast philadelphia": "Philadelphia",
+      "northeast philly": "Philadelphia",
+      "mayfair": "Philadelphia",
+      "bustleton": "Philadelphia",
+      "somerton": "Philadelphia",
+      "fox chase": "Philadelphia",
+      "tacony": "Philadelphia",
+      "holmesburg": "Philadelphia",
+      "torresdale": "Philadelphia",
+      "bridesburg": "Philadelphia",
+      "frankford": "Philadelphia",
+      "upper darby township": "Upper Darby",
+      "haverford township": "Haverford",
+      "radnor township": "Radnor",
+      "swarthmore borough": "Swarthmore",
+      "city of chester": "Chester",
+      "borough of media": "Media",
+      "lower merion township": "Lower Merion",
+      "king of prussia pa": "King of Prussia",
+      "bryn mawr pa": "Bryn Mawr",
+      "ardmore pa": "Ardmore",
+      "conshohocken borough": "Conshohocken",
+      "norristown borough": "Norristown",
+      "borough of norristown": "Norristown",
+      "doylestown borough": "Doylestown",
+      "borough of doylestown": "Doylestown",
+      "bristol borough": "Bristol",
+      "new hope borough": "New Hope",
+      "newtown borough": "Newtown",
+      "city of camden": "Camden",
+      "camden waterfront": "Camden",
+      "cherry hill township": "Cherry Hill",
+      "collingswood borough": "Collingswood",
+      "haddonfield borough": "Haddonfield"
+    }
+  },
+  {
+    "id": "san-francisco",
+    "offlineBundle": "san-francisco-events.ts",
+    "name": "San Francisco and Bay Area Core",
+    "region": "CA",
+    "countryCode": "US",
+    "timezone": "America/Los_Angeles",
+    "bounds": {
+      "latMin": 37.4,
+      "latMax": 38.15,
+      "lngMin": -122.65,
+      "lngMax": -122.1
+    },
+    "boundaryId": "san-francisco-bay-core-2026",
+    "boundarySourceUrl": "https://raw.githubusercontent.com/codeforamerica/click_that_hood/master/public/data/california-counties.geojson",
+    "boundaryCheckedOn": "2026-10-31",
+    "boundaryNotes": "U.S. Census Bureau cartographic county boundaries for San Francisco (06075), Alameda (06001), San Mateo (06081), and Marin (06041) counties. Restricts containment strictly to the 4 launched counties.",
+    "anchor": {
+      "name": "San Francisco Public Library (Main Library)",
+      "lat": 37.7793,
+      "lng": -122.4161,
+      "sourceUrl": "https://sfpl.org/locations/main-library",
+      "checkedOn": "2026-10-31"
+    },
+    "localityAliases": {
+      "san francisco": "San Francisco",
+      "sf": "San Francisco",
+      "the city": "San Francisco",
+      "san francisco, ca": "San Francisco",
+      "san francisco ca": "San Francisco",
+      "city of san francisco": "San Francisco",
+      "mission district": "San Francisco",
+      "mission": "San Francisco",
+      "soma": "San Francisco",
+      "south of market": "San Francisco",
+      "castro": "San Francisco",
+      "haight-ashbury": "San Francisco",
+      "haight": "San Francisco",
+      "north beach": "San Francisco",
+      "chinatown": "San Francisco",
+      "marina": "San Francisco",
+      "pacific heights": "San Francisco",
+      "richmond district": "San Francisco",
+      "sunset district": "San Francisco",
+      "hayes valley": "San Francisco",
+      "potrero hill": "San Francisco",
+      "dogpatch": "San Francisco",
+      "presidio": "San Francisco",
+      "civic center": "San Francisco",
+      "financial district": "San Francisco",
+      "tenderloin": "San Francisco",
+      "japantown": "San Francisco",
+      "bernal heights": "San Francisco",
+      "bayview": "San Francisco",
+      "nob hill": "San Francisco",
+      "russian hill": "San Francisco",
+      "oakland": "Oakland",
+      "city of oakland": "Oakland",
+      "oakland, ca": "Oakland",
+      "berkeley": "Berkeley",
+      "city of berkeley": "Berkeley",
+      "berkeley, ca": "Berkeley",
+      "alameda": "Alameda",
+      "city of alameda": "Alameda",
+      "emeryville": "Emeryville",
+      "albany": "Albany",
+      "piedmont": "Piedmont",
+      "san leandro": "San Leandro",
+      "hayward": "Hayward",
+      "fremont": "Fremont",
+      "san mateo": "San Mateo",
+      "city of san mateo": "San Mateo",
+      "san mateo, ca": "San Mateo",
+      "redwood city": "Redwood City",
+      "south san francisco": "South San Francisco",
+      "daly city": "Daly City",
+      "san bruno": "San Bruno",
+      "burlingame": "Burlingame",
+      "menlo park": "Menlo Park",
+      "pacifica": "Pacifica",
+      "half moon bay": "Half Moon Bay",
+      "millbrae": "Millbrae",
+      "foster city": "Foster City",
+      "belmont": "Belmont",
+      "san carlos": "San Carlos",
+      "san rafael": "San Rafael",
+      "city of san rafael": "San Rafael",
+      "sausalito": "Sausalito",
+      "mill valley": "Mill Valley",
+      "tiburon": "Tiburon",
+      "belvedere": "Belvedere",
+      "corte madera": "Corte Madera",
+      "larkspur": "Larkspur",
+      "san anselmo": "San Anselmo",
+      "fairfax": "Fairfax",
+      "novato": "Novato"
+    },
+    "hubs": [
+      {
+        "name": "San Francisco",
+        "municipality": "San Francisco"
+      },
+      {
+        "name": "Oakland",
+        "municipality": "Oakland"
+      },
+      {
+        "name": "Berkeley",
+        "municipality": "Berkeley"
+      },
+      {
+        "name": "San Mateo",
+        "municipality": "San Mateo"
+      },
+      {
+        "name": "San Rafael",
+        "municipality": "San Rafael"
+      }
+    ],
+    "groups": [
+      {
+        "id": "san-francisco-county-municipalities",
+        "name": "San Francisco County municipalities",
+        "municipalities": [
+          "San Francisco"
+        ]
+      },
+      {
+        "id": "alameda-county-municipalities",
+        "name": "Alameda County municipalities",
+        "municipalities": [
+          "Oakland",
+          "Berkeley",
+          "Alameda",
+          "Emeryville",
+          "Albany",
+          "Piedmont",
+          "San Leandro",
+          "Hayward",
+          "Fremont"
+        ]
+      },
+      {
+        "id": "san-mateo-county-municipalities",
+        "name": "San Mateo County municipalities",
+        "municipalities": [
+          "San Mateo",
+          "Redwood City",
+          "South San Francisco",
+          "Daly City",
+          "San Bruno",
+          "Burlingame",
+          "Menlo Park",
+          "Pacifica",
+          "Half Moon Bay",
+          "Millbrae",
+          "Foster City",
+          "Belmont",
+          "San Carlos"
+        ]
+      },
+      {
+        "id": "marin-county-municipalities",
+        "name": "Marin County municipalities",
+        "municipalities": [
+          "San Rafael",
+          "Sausalito",
+          "Mill Valley",
+          "Tiburon",
+          "Belvedere",
+          "Corte Madera",
+          "Larkspur",
+          "San Anselmo",
+          "Fairfax",
+          "Novato"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "park-city",
+    "offlineBundle": "park-city-events.ts",
+    "name": "Park City and Wasatch Back",
+    "region": "UT",
+    "countryCode": "US",
+    "timezone": "America/Denver",
+    "bounds": {
+      "latMin": 40.35,
+      "latMax": 41.05,
+      "lngMin": -111.65,
+      "lngMax": -111
+    },
+    "anchor": {
+      "name": "Park City Library (Historic Park Ave)",
+      "lat": 40.6558,
+      "lng": -111.5036,
+      "sourceUrl": "https://parkcitylibrary.org/",
+      "checkedOn": "2026-10-31"
+    },
+    "localityAliases": {
+      "park city, ut": "Park City",
+      "park city ut": "Park City",
+      "city of park city": "Park City",
+      "historic main street": "Park City",
+      "historic park ave": "Park City",
+      "deer valley": "Park City",
+      "canyons village": "Park City",
+      "snyderville": "Snyderville",
+      "snyderville basin": "Snyderville",
+      "kimball junction": "Kimball Junction",
+      "silver summit": "Silver Summit",
+      "silver creek": "Silver Creek",
+      "summit park": "Summit Park",
+      "jeremy ranch": "Jeremy Ranch",
+      "pinebrook": "Pinebrook",
+      "promontory": "Promontory",
+      "kamas, ut": "Kamas",
+      "oakley, ut": "Oakley",
+      "coalville, ut": "Coalville",
+      "heber, ut": "Heber City",
+      "heber city, ut": "Heber City",
+      "heber": "Heber City",
+      "midway, ut": "Midway",
+      "soldier hollow": "Midway",
+      "jordanelle": "Heber City"
+    },
+    "hubs": [
+      {
+        "name": "Park City",
+        "municipality": "Park City"
+      },
+      {
+        "name": "Kimball Junction",
+        "municipality": "Kimball Junction"
+      },
+      {
+        "name": "Heber City",
+        "municipality": "Heber City"
+      },
+      {
+        "name": "Midway",
+        "municipality": "Midway"
+      },
+      {
+        "name": "Kamas",
+        "municipality": "Kamas"
+      },
+      {
+        "name": "Coalville",
+        "municipality": "Coalville"
+      }
+    ],
+    "groups": [
+      {
+        "id": "summit-county-municipalities",
+        "name": "Summit County municipalities & communities",
+        "municipalities": [
+          "Park City",
+          "Snyderville",
+          "Kimball Junction",
+          "Silver Summit",
+          "Silver Creek",
+          "Summit Park",
+          "Jeremy Ranch",
+          "Pinebrook",
+          "Promontory",
+          "Kamas",
+          "Oakley",
+          "Francis",
+          "Marion",
+          "Peoa",
+          "Samak",
+          "Coalville",
+          "Henefer",
+          "Echo",
+          "Wanship"
+        ]
+      },
+      {
+        "id": "wasatch-county-municipalities",
+        "name": "Wasatch County municipalities & communities",
+        "municipalities": [
+          "Heber City",
+          "Midway",
+          "Charleston",
+          "Daniel",
+          "Wallsburg",
+          "Center Creek",
+          "Timber Lakes"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "saratoga-springs",
+    "offlineBundle": "saratoga-springs-events.ts",
+    "name": "Saratoga Springs, Saratoga, Warren, and Washington Counties",
+    "region": "NY",
+    "countryCode": "US",
+    "timezone": "America/New_York",
+    "bounds": {
+      "latMin": 42.75,
+      "latMax": 43.85,
+      "lngMin": -74.25,
+      "lngMax": -73.3
+    },
+    "anchor": {
+      "name": "Saratoga Springs Public Library",
+      "lat": 43.0825,
+      "lng": -73.7844,
+      "sourceUrl": "https://www.sspl.org/",
+      "checkedOn": "2026-10-31"
+    },
+    "localityAliases": {
+      "city of saratoga springs": "Saratoga Springs",
+      "saratoga springs": "Saratoga Springs",
+      "saratoga": "Saratoga Springs",
+      "saratoga springs ny": "Saratoga Springs",
+      "downtown saratoga springs": "Saratoga Springs",
+      "ballston spa": "Ballston Spa",
+      "village of ballston spa": "Ballston Spa",
+      "clifton park": "Clifton Park",
+      "town of clifton park": "Clifton Park",
+      "wilton": "Wilton",
+      "town of wilton": "Wilton",
+      "malta": "Malta",
+      "town of malta": "Malta",
+      "halfmoon": "Halfmoon",
+      "town of halfmoon": "Halfmoon",
+      "round lake": "Round Lake",
+      "village of round lake": "Round Lake",
+      "schuylerville": "Schuylerville",
+      "village of schuylerville": "Schuylerville",
+      "corinth": "Corinth",
+      "milton": "Milton",
+      "moreau": "Moreau",
+      "greenfield": "Greenfield",
+      "stillwater": "Stillwater",
+      "waterford": "Waterford",
+      "mechanicville": "Mechanicville",
+      "galway": "Galway",
+      "south glens falls": "South Glens Falls",
+      "victory": "Victory",
+      "glens falls": "Glens Falls",
+      "city of glens falls": "Glens Falls",
+      "queensbury": "Queensbury",
+      "town of queensbury": "Queensbury",
+      "lake george": "Lake George",
+      "village of lake george": "Lake George",
+      "bolton landing": "Bolton",
+      "bolton": "Bolton",
+      "lake luzerne": "Lake Luzerne",
+      "warrensburg": "Warrensburg",
+      "chestertown": "Chester",
+      "chester": "Chester",
+      "north creek": "Johnsburg",
+      "johnsburg": "Johnsburg",
+      "horicon": "Horicon",
+      "hague": "Hague",
+      "stony creek": "Stony Creek",
+      "thurman": "Thurman",
+      "hudson falls": "Hudson Falls",
+      "village of hudson falls": "Hudson Falls",
+      "fort edward": "Fort Edward",
+      "town of fort edward": "Fort Edward",
+      "greenwich": "Greenwich",
+      "village of greenwich": "Greenwich",
+      "cambridge": "Cambridge",
+      "village of cambridge": "Cambridge",
+      "whitehall": "Whitehall",
+      "granville": "Granville",
+      "salem": "Salem",
+      "argyle": "Argyle",
+      "easton": "Easton",
+      "hartford": "Hartford",
+      "fort ann": "Fort Ann",
+      "kingsbury": "Kingsbury"
+    },
+    "hubs": [
+      {
+        "name": "Saratoga Springs",
+        "municipality": "Saratoga Springs"
+      },
+      {
+        "name": "Glens Falls",
+        "municipality": "Glens Falls"
+      },
+      {
+        "name": "Clifton Park",
+        "municipality": "Clifton Park"
+      },
+      {
+        "name": "Lake George",
+        "municipality": "Lake George"
+      }
+    ],
+    "groups": [
+      {
+        "id": "saratoga-county-municipalities",
+        "name": "Saratoga County municipalities",
+        "municipalities": [
+          "Saratoga Springs",
+          "Ballston Spa",
+          "Clifton Park",
+          "Wilton",
+          "Malta",
+          "Halfmoon",
+          "Round Lake",
+          "Schuylerville",
+          "Corinth",
+          "Milton",
+          "Moreau",
+          "Greenfield",
+          "Stillwater",
+          "Waterford",
+          "Mechanicville",
+          "Galway",
+          "South Glens Falls",
+          "Victory"
+        ]
+      },
+      {
+        "id": "warren-county-municipalities",
+        "name": "Warren County municipalities",
+        "municipalities": [
+          "Glens Falls",
+          "Queensbury",
+          "Lake George",
+          "Bolton",
+          "Lake Luzerne",
+          "Warrensburg",
+          "Chester",
+          "Johnsburg",
+          "Horicon",
+          "Hague",
+          "Stony Creek",
+          "Thurman"
+        ]
+      },
+      {
+        "id": "washington-county-municipalities",
+        "name": "Washington County municipalities",
+        "municipalities": [
+          "Hudson Falls",
+          "Fort Edward",
+          "Greenwich",
+          "Cambridge",
+          "Whitehall",
+          "Granville",
+          "Salem",
+          "Argyle",
+          "Easton",
+          "Hartford",
+          "Fort Ann",
+          "Kingsbury"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "boston",
+    "offlineBundle": "boston-events.ts",
+    "name": "Boston and Greater Boston Metropolitan Area",
+    "region": "MA",
+    "countryCode": "US",
+    "timezone": "America/New_York",
+    "bounds": {
+      "latMin": 42.15,
+      "latMax": 42.85,
+      "lngMin": -71.45,
+      "lngMax": -70.6
+    },
+    "anchor": {
+      "name": "Boston Public Library (Central Library in Copley Square)",
+      "lat": 42.3493,
+      "lng": -71.0784,
+      "sourceUrl": "https://www.bpl.org/locations/central/",
+      "checkedOn": "2026-10-31"
+    },
+    "localityAliases": {
+      "city of boston": "Boston",
+      "boston, ma": "Boston",
+      "boston ma": "Boston",
+      "downtown boston": "Boston",
+      "back bay": "Boston",
+      "beacon hill": "Boston",
+      "south end": "Boston",
+      "north end": "Boston",
+      "fenway": "Boston",
+      "seaport": "Boston",
+      "seaport district": "Boston",
+      "charlestown": "Boston",
+      "south boston": "Boston",
+      "dorchester": "Boston",
+      "jamaica plain": "Boston",
+      "allston": "Boston",
+      "brighton": "Boston",
+      "roxbury": "Boston",
+      "east boston": "Boston",
+      "west roxbury": "Boston",
+      "mattapan": "Boston",
+      "hyde park": "Boston",
+      "roslindale": "Boston",
+      "chinatown": "Boston",
+      "copley square": "Boston",
+      "city of cambridge": "Cambridge",
+      "cambridge, ma": "Cambridge",
+      "cambridge ma": "Cambridge",
+      "harvard square": "Cambridge",
+      "central square": "Cambridge",
+      "kendall square": "Cambridge",
+      "porter square": "Cambridge",
+      "inman square": "Cambridge",
+      "city of somerville": "Somerville",
+      "somerville, ma": "Somerville",
+      "somerville ma": "Somerville",
+      "davis square": "Somerville",
+      "union square": "Somerville",
+      "assembly row": "Somerville",
+      "assembly square": "Somerville",
+      "town of brookline": "Brookline",
+      "brookline, ma": "Brookline",
+      "brookline ma": "Brookline",
+      "coolidge corner": "Brookline",
+      "brookline village": "Brookline",
+      "city of newton": "Newton",
+      "newton, ma": "Newton",
+      "newton ma": "Newton",
+      "newton centre": "Newton",
+      "newton corner": "Newton",
+      "newton highlands": "Newton",
+      "chestnut hill": "Newton",
+      "city of quincy": "Quincy",
+      "quincy, ma": "Quincy",
+      "quincy ma": "Quincy",
+      "city of salem": "Salem",
+      "salem, ma": "Salem",
+      "salem ma": "Salem",
+      "city of gloucester": "Gloucester",
+      "gloucester, ma": "Gloucester",
+      "gloucester ma": "Gloucester",
+      "town of concord": "Concord",
+      "concord, ma": "Concord",
+      "concord ma": "Concord",
+      "town of lexington": "Lexington",
+      "lexington, ma": "Lexington",
+      "lexington ma": "Lexington",
+      "city of waltham": "Waltham",
+      "waltham, ma": "Waltham",
+      "waltham ma": "Waltham",
+      "city of beverly": "Beverly",
+      "beverly, ma": "Beverly",
+      "beverly ma": "Beverly",
+      "city of lynn": "Lynn",
+      "lynn, ma": "Lynn",
+      "lynn ma": "Lynn",
+      "city of medford": "Medford",
+      "medford, ma": "Medford",
+      "medford ma": "Medford",
+      "city of malden": "Malden",
+      "malden, ma": "Malden",
+      "malden ma": "Malden",
+      "town of arlington": "Arlington",
+      "arlington, ma": "Arlington",
+      "arlington ma": "Arlington",
+      "city of watertown": "Watertown",
+      "watertown, ma": "Watertown",
+      "watertown ma": "Watertown",
+      "town of milton": "Milton",
+      "milton, ma": "Milton",
+      "milton ma": "Milton",
+      "town of wellesley": "Wellesley",
+      "wellesley, ma": "Wellesley",
+      "wellesley ma": "Wellesley"
+    },
+    "hubs": [
+      {
+        "name": "Boston",
+        "municipality": "Boston"
+      },
+      {
+        "name": "Cambridge",
+        "municipality": "Cambridge"
+      },
+      {
+        "name": "Somerville",
+        "municipality": "Somerville"
+      },
+      {
+        "name": "Brookline",
+        "municipality": "Brookline"
+      },
+      {
+        "name": "Newton",
+        "municipality": "Newton"
+      },
+      {
+        "name": "Quincy",
+        "municipality": "Quincy"
+      },
+      {
+        "name": "Salem",
+        "municipality": "Salem"
+      },
+      {
+        "name": "Concord",
+        "municipality": "Concord"
+      },
+      {
+        "name": "Gloucester",
+        "municipality": "Gloucester"
+      }
+    ],
+    "groups": [
+      {
+        "id": "suffolk-county-municipalities",
+        "name": "Suffolk County municipalities",
+        "municipalities": [
+          "Boston",
+          "Chelsea",
+          "Revere",
+          "Winthrop"
+        ]
+      },
+      {
+        "id": "boston-neighborhood-districts",
+        "name": "Boston neighborhood districts",
+        "municipalities": [
+          "Back Bay",
+          "Beacon Hill",
+          "South End",
+          "North End",
+          "Fenway",
+          "Seaport",
+          "Charlestown",
+          "South Boston",
+          "Dorchester",
+          "Jamaica Plain",
+          "Allston",
+          "Brighton",
+          "Roxbury",
+          "East Boston",
+          "West Roxbury",
+          "Mattapan",
+          "Hyde Park",
+          "Roslindale",
+          "Chinatown"
+        ]
+      },
+      {
+        "id": "middlesex-county-municipalities",
+        "name": "Middlesex County municipalities",
+        "municipalities": [
+          "Cambridge",
+          "Somerville",
+          "Newton",
+          "Waltham",
+          "Medford",
+          "Malden",
+          "Arlington",
+          "Watertown",
+          "Belmont",
+          "Everett",
+          "Woburn",
+          "Lexington",
+          "Concord",
+          "Framingham",
+          "Natick",
+          "Sudbury",
+          "Acton",
+          "Winchester",
+          "Stoneham",
+          "Melrose",
+          "Wakefield",
+          "Reading",
+          "Burlington",
+          "Bedford",
+          "Lincoln",
+          "Weston",
+          "Wayland",
+          "Lowell",
+          "Marlborough"
+        ]
+      },
+      {
+        "id": "norfolk-county-municipalities",
+        "name": "Norfolk County municipalities",
+        "municipalities": [
+          "Brookline",
+          "Quincy",
+          "Milton",
+          "Dedham",
+          "Braintree",
+          "Weymouth",
+          "Wellesley",
+          "Needham",
+          "Norwood",
+          "Canton",
+          "Walpole",
+          "Cohasset",
+          "Dover",
+          "Westwood",
+          "Medfield"
+        ]
+      },
+      {
+        "id": "essex-county-municipalities",
+        "name": "Essex County municipalities",
+        "municipalities": [
+          "Salem",
+          "Gloucester",
+          "Beverly",
+          "Lynn",
+          "Peabody",
+          "Marblehead",
+          "Danvers",
+          "Swampscott",
+          "Rockport",
+          "Manchester-by-the-Sea",
+          "Essex",
+          "Newburyport",
+          "Ipswich",
+          "Andover",
+          "North Andover",
+          "Lawrence",
+          "Haverhill",
+          "Methuen"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tokyo",
+    "offlineBundle": "tokyo-events.ts",
+    "name": "Tokyo and Greater Tokyo Metropolitan Area (Shutoken 首都圏)",
+    "region": "Tokyo",
+    "countryCode": "JP",
+    "timezone": "Asia/Tokyo",
+    "bounds": {
+      "latMin": 35.15,
+      "latMax": 36.15,
+      "lngMin": 139.2,
+      "lngMax": 140.4
+    },
+    "boundarySourceUrl": "https://www.stat.go.jp/english/data/mesh/index.html",
+    "boundaryCheckedOn": "2026-10-31",
+    "boundaryNotes": "Official metropolitan geographic boundary for Tokyo Metropolis (13000), Kanagawa Prefecture (14000), Saitama Prefecture (11000), and Chiba Prefecture (12000), Japan.",
+    "anchor": {
+      "name": "Tokyo Metropolitan Central Library (東京都立中央図書館)",
+      "lat": 35.6528,
+      "lng": 139.7289,
+      "sourceUrl": "https://www.library.metro.tokyo.lg.jp/english/",
+      "checkedOn": "2026-10-31"
+    },
+    "localityAliases": {
+      "tokyo": "Tokyo",
+      "tōkyō": "Tokyo",
+      "tokyo metropolis": "Tokyo",
+      "tokyo-to": "Tokyo",
+      "city of tokyo": "Tokyo",
+      "chiyoda": "Chiyoda",
+      "chiyoda-ku": "Chiyoda",
+      "chuo": "Chuo",
+      "chuo-ku": "Chuo",
+      "minato": "Minato",
+      "minato-ku": "Minato",
+      "shinjuku": "Shinjuku",
+      "shinjuku-ku": "Shinjuku",
+      "bunkyo": "Bunkyo",
+      "bunkyo-ku": "Bunkyo",
+      "taito": "Taito",
+      "taito-ku": "Taito",
+      "sumida": "Sumida",
+      "sumida-ku": "Sumida",
+      "koto": "Koto",
+      "koto-ku": "Koto",
+      "shinagawa": "Shinagawa",
+      "shinagawa-ku": "Shinagawa",
+      "meguro": "Meguro",
+      "meguro-ku": "Meguro",
+      "ota": "Ota",
+      "ota-ku": "Ota",
+      "setagaya": "Setagaya",
+      "setagaya-ku": "Setagaya",
+      "shibuya": "Shibuya",
+      "shibuya-ku": "Shibuya",
+      "nakano": "Nakano",
+      "nakano-ku": "Nakano",
+      "suginami": "Suginami",
+      "suginami-ku": "Suginami",
+      "toshima": "Toshima",
+      "toshima-ku": "Toshima",
+      "kita": "Kita",
+      "kita-ku": "Kita",
+      "arakawa": "Arakawa",
+      "arakawa-ku": "Arakawa",
+      "itabashi": "Itabashi",
+      "itabashi-ku": "Itabashi",
+      "nerima": "Nerima",
+      "nerima-ku": "Nerima",
+      "adachi": "Adachi",
+      "adachi-ku": "Adachi",
+      "katsushika": "Katsushika",
+      "katsushika-ku": "Katsushika",
+      "edogawa": "Edogawa",
+      "edogawa-ku": "Edogawa",
+      "ginza": "Ginza",
+      "ueno": "Ueno",
+      "asakusa": "Asakusa",
+      "ikebukuro": "Ikebukuro",
+      "shimokitazawa": "Shimokitazawa",
+      "koenji": "Koenji",
+      "roppongi": "Roppongi",
+      "akihabara": "Akihabara",
+      "odaiba": "Odaiba",
+      "harajuku": "Harajuku",
+      "omotesando": "Omotesando",
+      "ebisu": "Ebisu",
+      "tsukiji": "Tsukiji",
+      "kichijoji": "Kichijoji",
+      "hachioji": "Hachioji",
+      "tachikawa": "Tachikawa",
+      "musashino": "Musashino",
+      "mitaka": "Mitaka",
+      "chofu": "Chofu",
+      "machida": "Machida",
+      "fuchu": "Fuchu",
+      "koganei": "Koganei",
+      "kodaira": "Kodaira",
+      "hino": "Hino",
+      "kokubunji": "Kokubunji",
+      "kunitachi": "Kunitachi",
+      "komae": "Komae",
+      "tama": "Tama",
+      "inagi": "Inagi",
+      "nishitokyo": "Nishitokyo",
+      "yokohama": "Yokohama",
+      "city of yokohama": "Yokohama",
+      "kawasaki": "Kawasaki",
+      "city of kawasaki": "Kawasaki",
+      "kamakura": "Kamakura",
+      "saitama": "Saitama",
+      "city of saitama": "Saitama",
+      "kawagoe": "Kawagoe",
+      "chiba": "Chiba",
+      "city of chiba": "Chiba",
+      "funabashi": "Funabashi",
+      "urayasu": "Urayasu",
+      "matsudo": "Matsudo"
+    },
+    "hubs": [
+      {
+        "name": "Tokyo Central",
+        "municipality": "Tokyo"
+      },
+      {
+        "name": "Shinjuku",
+        "municipality": "Tokyo"
+      },
+      {
+        "name": "Shibuya",
+        "municipality": "Tokyo"
+      },
+      {
+        "name": "Musashino / Kichijoji",
+        "municipality": "Musashino"
+      },
+      {
+        "name": "Yokohama",
+        "municipality": "Yokohama"
+      }
+    ],
+    "groups": [
+      {
+        "id": "tokyo-metropolis",
+        "name": "Tokyo Metropolis (東京都)",
+        "municipalities": [
+          "Tokyo",
+          "Chiyoda",
+          "Chuo",
+          "Minato",
+          "Shinjuku",
+          "Bunkyo",
+          "Taito",
+          "Sumida",
+          "Koto",
+          "Shinagawa",
+          "Meguro",
+          "Ota",
+          "Setagaya",
+          "Shibuya",
+          "Nakano",
+          "Suginami",
+          "Toshima",
+          "Kita",
+          "Arakawa",
+          "Itabashi",
+          "Nerima",
+          "Adachi",
+          "Katsushika",
+          "Edogawa"
+        ]
+      },
+      {
+        "id": "tokyo-cultural-districts",
+        "name": "Tokyo Cultural & Heritage Districts",
+        "municipalities": [
+          "Ginza",
+          "Ueno",
+          "Asakusa",
+          "Roppongi",
+          "Akihabara",
+          "Ikebukuro",
+          "Shimokitazawa",
+          "Koenji",
+          "Harajuku",
+          "Omotesando",
+          "Ebisu",
+          "Odaiba",
+          "Tsukiji",
+          "Kichijoji"
+        ]
+      },
+      {
+        "id": "tama-area-cities",
+        "name": "Western Tokyo Tama Area (多摩地域)",
+        "municipalities": [
+          "Hachioji",
+          "Tachikawa",
+          "Musashino",
+          "Mitaka",
+          "Chofu",
+          "Machida",
+          "Koganei",
+          "Kodaira",
+          "Hino",
+          "Higashimurayama",
+          "Kokubunji",
+          "Kunitachi",
+          "Fuchu",
+          "Komae",
+          "Tama",
+          "Inagi",
+          "Nishitokyo"
+        ]
+      },
+      {
+        "id": "kanto-perimeter-municipalities",
+        "name": "Greater Tokyo Kanto Perimeter (神奈川・埼玉・千葉)",
+        "municipalities": [
+          "Yokohama",
+          "Kawasaki",
+          "Kamakura",
+          "Saitama",
+          "Kawagoe",
+          "Chiba",
+          "Funabashi",
+          "Urayasu",
+          "Matsudo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "atlanta",
+    "offlineBundle": "atlanta-events.ts",
+    "name": "Atlanta and Greater Metro Counties",
+    "region": "GA",
+    "countryCode": "US",
+    "timezone": "America/New_York",
+    "bounds": {
+      "latMin": 33.352591,
+      "latMax": 34.186335,
+      "lngMin": -84.85072,
+      "lngMax": -83.798908
+    },
+    "anchor": {
+      "name": "Atlanta Central Library (Marcel Breuer)",
+      "lat": 33.7573,
+      "lng": -84.3892,
+      "sourceUrl": "https://www.fulcolibrary.org/central-library/",
+      "checkedOn": "2026-10-31"
+    },
+    "localityAliases": {
+      "atl": "Atlanta",
+      "city of atlanta": "Atlanta",
+      "atlanta": "Atlanta",
+      "atlanta, ga": "Atlanta",
+      "atlanta ga": "Atlanta",
+      "fulton": "Atlanta",
+      "fulton county": "Atlanta",
+      "dekalb": "Decatur",
+      "dekalb county": "Decatur",
+      "cobb": "Marietta",
+      "cobb county": "Marietta",
+      "gwinnett": "Lawrenceville",
+      "gwinnett county": "Lawrenceville",
+      "clayton": "Jonesboro",
+      "clayton county": "Jonesboro",
+      "midtown": "Midtown",
+      "midtown atlanta": "Midtown",
+      "downtown": "Atlanta",
+      "downtown atlanta": "Atlanta",
+      "buckhead": "Buckhead",
+      "inman park": "Inman Park",
+      "old fourth ward": "Old Fourth Ward",
+      "o4w": "Old Fourth Ward",
+      "cabbagetown": "Cabbagetown",
+      "east atlanta": "East Atlanta",
+      "east atlanta village": "East Atlanta",
+      "eav": "East Atlanta",
+      "kirkwood": "Kirkwood",
+      "virginia-highland": "Virginia-Highland",
+      "virginia highland": "Virginia-Highland",
+      "va-hi": "Virginia-Highland",
+      "west end": "West End",
+      "grant park": "Grant Park",
+      "castleberry hill": "Castleberry Hill",
+      "bankhead": "Bankhead",
+      "grove park": "Grove Park",
+      "sandy springs": "Sandy Springs",
+      "city of sandy springs": "Sandy Springs",
+      "roswell": "Roswell",
+      "city of roswell": "Roswell",
+      "johns creek": "Johns Creek",
+      "alpharetta": "Alpharetta",
+      "milton": "Milton",
+      "south fulton": "South Fulton",
+      "east point": "East Point",
+      "union city": "Union City",
+      "college park": "College Park",
+      "fairburn": "Fairburn",
+      "hapeville": "Hapeville",
+      "palmetto": "Palmetto",
+      "chattahoochee hills": "Chattahoochee Hills",
+      "mountain park": "Mountain Park",
+      "decatur": "Decatur",
+      "city of decatur": "Decatur",
+      "dunwoody": "Dunwoody",
+      "brookhaven": "Brookhaven",
+      "chamblee": "Chamblee",
+      "doraville": "Doraville",
+      "clarkston": "Clarkston",
+      "stone mountain": "Stone Mountain",
+      "stonecrest": "Stonecrest",
+      "tucker": "Tucker",
+      "lithonia": "Lithonia",
+      "avondale estates": "Avondale Estates",
+      "pine lake": "Pine Lake",
+      "marietta": "Marietta",
+      "city of marietta": "Marietta",
+      "smyrna": "Smyrna",
+      "city of smyrna": "Smyrna",
+      "kennesaw": "Kennesaw",
+      "acworth": "Acworth",
+      "powder springs": "Powder Springs",
+      "austell": "Austell",
+      "mableton": "Marietta",
+      "vinings": "Smyrna",
+      "cumberland": "Smyrna",
+      "lawrenceville": "Lawrenceville",
+      "duluth": "Duluth",
+      "norcross": "Norcross",
+      "suwanee": "Suwanee",
+      "snellville": "Snellville",
+      "sugar hill": "Sugar Hill",
+      "lilburn": "Lilburn",
+      "buford": "Buford",
+      "peachtree corners": "Peachtree Corners",
+      "dacula": "Dacula",
+      "grayson": "Grayson",
+      "berkeley lake": "Berkeley Lake",
+      "jonesboro": "Jonesboro",
+      "forest park": "Forest Park",
+      "morrow": "Morrow",
+      "riverdale": "Riverdale",
+      "lake city": "Lake City",
+      "lovejoy": "Lovejoy"
+    },
+    "hubs": [
+      {
+        "name": "Atlanta",
+        "municipality": "Atlanta"
+      },
+      {
+        "name": "Decatur",
+        "municipality": "Decatur"
+      },
+      {
+        "name": "Marietta",
+        "municipality": "Marietta"
+      },
+      {
+        "name": "Lawrenceville",
+        "municipality": "Lawrenceville"
+      },
+      {
+        "name": "Jonesboro",
+        "municipality": "Jonesboro"
+      },
+      {
+        "name": "Sandy Springs",
+        "municipality": "Sandy Springs"
+      },
+      {
+        "name": "Roswell",
+        "municipality": "Roswell"
+      },
+      {
+        "name": "Alpharetta",
+        "municipality": "Alpharetta"
+      },
+      {
+        "name": "East Point",
+        "municipality": "East Point"
+      },
+      {
+        "name": "Smyrna",
+        "municipality": "Smyrna"
+      }
+    ],
+    "groups": [
+      {
+        "id": "fulton-county-municipalities",
+        "name": "Fulton County Municipalities",
+        "municipalities": [
+          "Atlanta",
+          "Sandy Springs",
+          "Roswell",
+          "Johns Creek",
+          "Alpharetta",
+          "Milton",
+          "South Fulton",
+          "East Point",
+          "Union City",
+          "College Park",
+          "Fairburn",
+          "Hapeville",
+          "Palmetto",
+          "Chattahoochee Hills",
+          "Mountain Park"
+        ]
+      },
+      {
+        "id": "dekalb-county-municipalities",
+        "name": "DeKalb County Municipalities",
+        "municipalities": [
+          "Decatur",
+          "Dunwoody",
+          "Brookhaven",
+          "Chamblee",
+          "Doraville",
+          "Clarkston",
+          "Stone Mountain",
+          "Stonecrest",
+          "Tucker",
+          "Lithonia",
+          "Avondale Estates",
+          "Pine Lake"
+        ]
+      },
+      {
+        "id": "cobb-county-municipalities",
+        "name": "Cobb County Municipalities",
+        "municipalities": [
+          "Marietta",
+          "Smyrna",
+          "Kennesaw",
+          "Acworth",
+          "Powder Springs",
+          "Austell"
+        ]
+      },
+      {
+        "id": "gwinnett-county-municipalities",
+        "name": "Gwinnett County Municipalities",
+        "municipalities": [
+          "Lawrenceville",
+          "Duluth",
+          "Norcross",
+          "Suwanee",
+          "Snellville",
+          "Sugar Hill",
+          "Lilburn",
+          "Buford",
+          "Peachtree Corners",
+          "Dacula",
+          "Grayson",
+          "Berkeley Lake"
+        ]
+      },
+      {
+        "id": "clayton-county-municipalities",
+        "name": "Clayton County Municipalities",
+        "municipalities": [
+          "Jonesboro",
+          "Forest Park",
+          "Morrow",
+          "Riverdale",
+          "Lake City",
+          "Lovejoy"
+        ]
+      },
+      {
+        "id": "metro-atlanta-communities",
+        "name": "Metro Atlanta Communities & Neighborhoods",
+        "municipalities": [
+          "Inman Park",
+          "Midtown",
+          "Buckhead",
+          "Old Fourth Ward",
+          "Cabbagetown",
+          "East Atlanta",
+          "Kirkwood",
+          "Virginia-Highland",
+          "West End",
+          "Grant Park",
+          "Castleberry Hill",
+          "Bankhead",
+          "Grove Park"
+        ]
+      }
+    ],
+    "boundaryId": "atlanta-five-counties-2026"
+  }
+]

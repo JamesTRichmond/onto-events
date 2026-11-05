@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Flagstaff Fixture//EN
+X-WR-TIMEZONE:America/Phoenix
+BEGIN:VEVENT
+UID:fpl-east-flagstaff-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T170000Z
+DTEND:20261024T183000Z
+SUMMARY:Bilingual Family Storytime & Craft Studio
+DESCRIPTION:Bilingual English-Spanish stories, songs, and hands-on crafts at East Flagstaff Library.
+LOCATION:East Flagstaff Community Library
+URL:https://www.flagstaffpubliclibrary.org/events/east.ics
+END:VEVENT
+BEGIN:VEVENT
+UID:fpl-east-flagstaff-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261028T210000Z
+DTEND:20261028T223000Z
+SUMMARY:Bilingual Family Storytime & Craft Studio (Encore)
+DESCRIPTION:Bilingual English-Spanish stories, songs, and hands-on crafts at East Flagstaff Library.
+LOCATION:East Flagstaff Community Library
+URL:https://www.flagstaffpubliclibrary.org/events/east.ics
+END:VEVENT
+END:VCALENDAR

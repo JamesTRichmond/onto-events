@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//San Francisco Fixture//EN
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:uc-berkeley-arts-lectures-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T180000Z
+DTEND:20261024T193000Z
+SUMMARY:Berkeley Faculty Public Humanities Forum
+DESCRIPTION:Public lecture and Q&A examining digital culture, artificial intelligence ethics, and public humanities.
+LOCATION:UC Berkeley Arts & Lectures (Wheeler Auditorium)
+URL:https://events.berkeley.edu/
+END:VEVENT
+BEGIN:VEVENT
+UID:uc-berkeley-arts-lectures-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Lunch Poems at UC Berkeley
+DESCRIPTION:Monthly midday poetry reading series featuring nationally recognized poets in the Morrison Library.
+LOCATION:UC Berkeley Arts & Lectures (Wheeler Auditorium)
+URL:https://events.berkeley.edu/
+END:VEVENT
+END:VCALENDAR

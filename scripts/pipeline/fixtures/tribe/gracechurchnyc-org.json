@@ -1,0 +1,58 @@
+{
+  "pages": [
+    {
+      "total": 3,
+      "total_pages": 1,
+      "events": [
+        {
+          "id": 10007334,
+          "global_id": "gracechurchnyc.org?id=10007334",
+          "title": "Enter, Rest, Pray",
+          "description": "<p>The doors of Grace Church are open every day of the week. Come join us for our Enter, Rest, Pray open door hours.</p>\n<p>Sunday: 8:30 am – 5 pm<br />\nMonday – Saturday: 12 – 5 pm</p>",
+          "url": "https://gracechurchnyc.org/event/enter-rest-pray/2026-10-16/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-16 16:00:00",
+          "utc_end_date": "2026-10-16 21:00:00",
+          "venue": {
+            "venue": "Grace Church",
+            "address": "802 Broadway",
+            "city": "New York"
+          }
+        },
+        {
+          "id": 12457,
+          "global_id": "gracechurchnyc.org?id=12457",
+          "title": "Bach at Noon",
+          "description": "<p>Bach at Noon is offered Tuesday–Friday on <strong><a href=\"https://gracechurchnyc.org/music/bicentennial-organ/\">The Bicentennial Organ</a> </strong>by our Organist and Master of Choristers, <strong><a href=\"https://gracechurchnyc.org/staff/patrick-allen/\">Dr. Patrick Allen</a></strong>. Stop into the church at any time during this 30-minute meditation or join us via <a href=\"https://vimeo.com/gracechurchnyc\" target=\"_blank\" rel=\"noopener\"><strong>livestream</strong></a> to enjoy a diverse selection from the works of J.S. Bach. The 2026–2027 season continues through May 21, 2027.</p>\n<p><strong>16 October 2026<br />\nProgram</strong></p>\n<p>Präludium und Fuge in c-moll, BWV 546</p>\n<p>Jesu, meine Freude, BWV 610</p>\n<p>Christum wir sollen loben schon, BWV 611</p>\n<p>Wir Christenleut, BWV 612</p>\n<p>Präludium und Fuge in D-Dur, BWV 532</p>\n<p><strong>More</strong></p>\n<p>If Music be the food of Love,<br />\nPlay on…….William Shakespeare<br />\nWe invite you to donate to your local food bank to help all in need and bring non perishable food stuffs to place in the baskets located in the Narthex as you enter the Church. Please consider making a donation to help support keeping the doors open, the lights on and the music flowing at Grace Church. It takes a community to care for a community. We are very grateful for all your love, kind words, prayers and support.</p>\n<p><a class=\"button\" href=\"https://gracechurchnyc.org/music/\">Music Information</a></p>\n<p><a class=\"button\" href=\"h",
+          "url": "https://gracechurchnyc.org/event/bach-at-noon-5/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-16 16:20:00",
+          "utc_end_date": "2026-10-16 16:50:00",
+          "venue": {
+            "venue": "Grace Church",
+            "address": "802 Broadway",
+            "city": "New York"
+          }
+        },
+        {
+          "id": 12501,
+          "global_id": "gracechurchnyc.org?id=12501",
+          "title": "New York Altar Guild Workshop",
+          "description": "<p>Registration Closes October 5</p>",
+          "url": "https://gracechurchnyc.org/event/new-york-altar-guild-workshop/",
+          "all_day": false,
+          "hide_from_listings": false,
+          "utc_start_date": "2026-10-17 14:00:00",
+          "utc_end_date": "2026-10-17 18:00:00",
+          "venue": {
+            "venue": "Grace Church",
+            "address": "802 Broadway",
+            "city": "New York"
+          }
+        }
+      ]
+    }
+  ]
+}

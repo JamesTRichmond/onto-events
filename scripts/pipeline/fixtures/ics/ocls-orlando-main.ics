@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Orlando Fixture//EN
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:ocls-orlando-main-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T140000Z
+DTEND:20261024T153000Z
+SUMMARY:Orlando Public Library (OCLS Main Branch) Community Showcase
+DESCRIPTION:Main library anchor home to Dorothy Lumley Melrose Center. Storyrooms audio production coding.
+LOCATION:Orlando Public Library (OCLS Main Branch)
+URL:https://www.ocls.info/locations-hours/orlando-public-library
+END:VEVENT
+BEGIN:VEVENT
+UID:ocls-orlando-main-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T220000Z
+DTEND:20261027T233000Z
+SUMMARY:Orlando Public Library (OCLS Main Branch) Evening Program
+DESCRIPTION:VERIFIED: Flagship library with over 400 monthly events across tech storytimes and arts.
+LOCATION:Orlando Public Library (OCLS Main Branch)
+URL:https://www.ocls.info/locations-hours/orlando-public-library
+END:VEVENT
+END:VCALENDAR

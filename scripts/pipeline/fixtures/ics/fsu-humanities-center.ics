@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Calendar - FSU Humanities Center
+X-WR-TIMEZONE:Eastern Time (US & Canada)
+BEGIN:VEVENT
+DTSTAMP:20261015T235334Z
+UID:tag:localist.com\,2008:EventInstance_53931703767885
+DTSTART;VALUE=DATE:20261016
+DESCRIPTION:This conference is made possible by the Congress of Graduate Students at Florida State University. \n\nKeynote Speakers:\nZoë Johnson King (Harvard University)\nDavid Shoemaker (Cornell University)\n\nAll events will take place at Dodd Hall Auditorium (DHA 103) unless otherwise noted. All graduate student talks will be roughly 25 minutes long\, followed by comments (~10 minutes)\, a response (~5 minutes)\, and a Q&A session (~10 minutes). Keynote addresses will include a talk followed by a Q&A session.\n\nSchedule\n\nAll events will take place at Dodd Hall Auditorium (DHA 103) unless otherwise noted.\n\nFRIDAY\, OCTOBER 16\n\n3:30–5:30 p.m. — KEYNOTE ADDRESS\n\nZoë Johnson King\, Harvard University\n“Aretaic Injustice”\n\nSATURDAY\, OCTOBER 17\n\n9:00 a.m. — Coffee and Refreshments\n\n9:30 a.m. — Yiqun Chen\, Simon Fraser University\n“Whose Wrong Is This?”\nComments by Asher Baumrin\n\n10:30 a.m. — Gabriel Maruchi\, Universidade Estadual de Campinas\n“Moral Luck and Contrastive Causation”\nComments by Minsu Kim\n\n11:30 a.m. — Samuel Delorme\, UC San Diego\n“Responsibility and Externalism About Capacities”\nComments by Micah Edvenson\n\n12:30–1:30 p.m. — Break\n\n1:30 p.m. — Max Ma\, Duke University\n“Culpability and Deliberation Without Ability”\nComments by Liam Jones\n\n2:30 p.m. — Zed Zhang\, Rutgers University\n“The Reverse Deep Self View”\nComments by Letícia Palazzo-Rodrigues\n\n3:30–5:30 p.m. — KEYNOTE ADDRESS\n\nDavid Shoemaker\, Cornell University\n“Pluralistic Praise: Its Nature\, Function(s)\, Worthiness\, and Reasons”
+GEO:30.439803;-84.292645
+LOCATION:Dodd Hall Auditorium (DHA)\, 103
+SUMMARY:15th Annual Florida State University Free Will\, Moral Responsibility\, and Agency Conference
+URL;VALUE=URI:https://calendar.fsu.edu/event/15th-annual-florida-state-university-free-will-moral-responsibility-and-agency-conference-864
+CATEGORIES:Conferences
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235334Z
+UID:tag:localist.com\,2008:EventInstance_53931703769934
+DTSTART;VALUE=DATE:20261017
+DESCRIPTION:This conference is made possible by the Congress of Graduate Students at Florida State University. \n\nKeynote Speakers:\nZoë Johnson King (Harvard University)\nDavid Shoemaker (Cornell University)\n\nAll events will take place at Dodd Hall Auditorium (DHA 103) unless otherwise noted. All graduate student talks will be roughly 25 minutes long\, followed by comments (~10 minutes)\, a response (~5 minutes)\, and a Q&A session (~10 minutes). Keynote addresses will include a talk followed by a Q&A session.\n\nSchedule\n\nAll events will take place at Dodd Hall Auditorium (DHA 103) unless otherwise noted.\n\nFRIDAY\, OCTOBER 16\n\n3:30–5:30 p.m. — KEYNOTE ADDRESS\n\nZoë Johnson King\, Harvard University\n“Aretaic Injustice”\n\nSATURDAY\, OCTOBER 17\n\n9:00 a.m. — Coffee and Refreshments\n\n9:30 a.m. — Yiqun Chen\, Simon Fraser University\n“Whose Wrong Is This?”\nComments by Asher Baumrin\n\n10:30 a.m. — Gabriel Maruchi\, Universidade Estadual de Campinas\n“Moral Luck and Contrastive Causation”\nComments by Minsu Kim\n\n11:30 a.m. — Samuel Delorme\, UC San Diego\n“Responsibility and Externalism About Capacities”\nComments by Micah Edvenson\n\n12:30–1:30 p.m. — Break\n\n1:30 p.m. — Max Ma\, Duke University\n“Culpability and Deliberation Without Ability”\nComments by Liam Jones\n\n2:30 p.m. — Zed Zhang\, Rutgers University\n“The Reverse Deep Self View”\nComments by Letícia Palazzo-Rodrigues\n\n3:30–5:30 p.m. — KEYNOTE ADDRESS\n\nDavid Shoemaker\, Cornell University\n“Pluralistic Praise: Its Nature\, Function(s)\, Worthiness\, and Reasons”
+GEO:30.439803;-84.292645
+LOCATION:Dodd Hall Auditorium (DHA)\, 103
+SUMMARY:15th Annual Florida State University Free Will\, Moral Responsibility\, and Agency Conference
+URL;VALUE=URI:https://calendar.fsu.edu/event/15th-annual-florida-state-university-free-will-moral-responsibility-and-agency-conference-864
+CATEGORIES:Conferences
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235334Z
+UID:tag:localist.com\,2008:EventInstance_54008926044844
+DTSTART:20261020T160000Z
+DTEND:20261020T170000Z
+DESCRIPTION:The FSU Carothers Faculty Lecture Series opens the 2026-27 season with Professors Zina Ward (Philosophy) and Thomas Juzek (Linguistics). They will speak on how AI is shaping human language. This will be a crossover event with FSU Discovery Days! aimed to celebrate and share the cutting edge work being done at FSU. \n\nIf you would like to reserve a free lunch provided by Office of Research\, please RSVP: https://forms.cloud.microsoft/r/a50DsqqGpg.
+LOCATION:Bradley Reading Room\, Strozier Library
+SUMMARY:Carothers Faculty Lecture - Zina Ward and Thomas Juzek
+URL;VALUE=URI:https://calendar.fsu.edu/event/carothers-faculty-lecture-zina-ward-and-thomas-jusek
+CATEGORIES:Lecture
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235334Z
+UID:tag:localist.com\,2008:EventInstance_53823213224113
+DTSTART:20261106T203000Z
+DTEND:20261106T213000Z
+DESCRIPTION:Please join FSU Philosophy for the next talk in our Fall 2026 Colloquium Series:\n\nSpeaker: Hallie Liberto (University of Maryland)
+GEO:30.439803;-84.292645
+LOCATION:Dodd Hall Auditorium (DHA)\, 103
+SUMMARY:Fall Colloquium Series: Hallie Liberto
+URL;VALUE=URI:https://calendar.fsu.edu/event/fall-colloquium-series-hallie-liberto
+CATEGORIES:Lecture
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T235334Z
+UID:tag:localist.com\,2008:EventInstance_53823250706748
+DTSTART:20261113T203000Z
+DTEND:20261113T213000Z
+DESCRIPTION:Please join FSU Philosophy for the next talk in our Fall 2026 Colloquium Series:\n\nSpeaker: Sarah Stroud (UNC-Chapel Hill)
+GEO:30.439803;-84.292645
+LOCATION:Dodd Hall Auditorium (DHA)\, 103
+SUMMARY:Fall Colloquium Series: Sarah Stroud
+URL;VALUE=URI:https://calendar.fsu.edu/event/fall-colloquium-series-sarah-stroud
+CATEGORIES:Lecture
+END:VEVENT
+END:VCALENDAR

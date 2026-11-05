@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto.events//Tokyo Community Feeds//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chiba City Central Library (千葉市中央図書館)
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:tokyo-chiba-central-library-evt0@onto.events
+DTSTAMP:20260901T120000Z
+DTSTART;TZID=Asia/Tokyo:20260920T103000
+DTEND;TZID=Asia/Tokyo:20260920T113000
+SUMMARY:Chiba Bay Ecological Heritage Seminar
+DESCRIPTION:Environmental science presentation on migratory shorebird conservation along Tokyo Bay mudflats.
+LOCATION:Chiba City Central Library
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-chiba-central-library-evt1@onto.events
+DTSTAMP:20261031T120000Z
+DTSTART;TZID=Asia/Tokyo:20261107T103000
+DTEND;TZID=Asia/Tokyo:20261107T113000
+SUMMARY:Chiba Bay Ecological Heritage Seminar
+DESCRIPTION:Environmental science presentation on migratory shorebird conservation along Tokyo Bay mudflats.
+LOCATION:Chiba City Central Library
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-chiba-central-library-evt2@onto.events
+DTSTAMP:20261031T120000Z
+DTSTART;TZID=Asia/Tokyo:20261114T140000
+DTEND;TZID=Asia/Tokyo:20261114T153000
+SUMMARY:Weekend Early Literacy & Picture Book Playhouse
+DESCRIPTION:Lively animated storytelling and paper craft activities for young children and parents.
+LOCATION:Chiba City Central Library
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

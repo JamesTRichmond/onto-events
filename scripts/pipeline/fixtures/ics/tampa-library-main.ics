@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hillsborough County Public Library Cooperative//NONSGML Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HCPLC Downtown Library Events
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:hcplc-main-20261016-storytime@hcplc.org
+DTSTAMP:20261015T000000Z
+DTSTART:20261016T140000Z
+DTEND:20261016T150000Z
+SUMMARY:Family Storytime and Early Literacy
+DESCRIPTION:Interactive stories\, action rhymes\, and music designed for toddlers\, preschoolers\, and caregivers. All families welcome.
+LOCATION:John F. Germany Public Library
+URL:https://hcplc.org/events/family-storytime-germany
+CATEGORIES:Children & Family
+END:VEVENT
+BEGIN:VEVENT
+UID:hcplc-main-20261017-digital-makers@hcplc.org
+DTSTAMP:20261015T000000Z
+DTSTART:20261017T180000Z
+DTEND:20261017T193000Z
+SUMMARY:Creative Technology Lab: 3D Design & Making
+DESCRIPTION:Hands-on digital fabrication and design studio using community creative workstations. Open to teens and adult learners.
+LOCATION:John F. Germany Public Library
+URL:https://hcplc.org/events/creative-tech-lab
+CATEGORIES:Learning & Tech
+END:VEVENT
+BEGIN:VEVENT
+UID:hcplc-main-20261020-florida-history-talk@hcplc.org
+DTSTAMP:20261015T000000Z
+DTSTART:20261020T220000Z
+DTEND:20261020T233000Z
+SUMMARY:Tampa Bay Maritime Heritage: Historical Lecture
+DESCRIPTION:Explore the maritime history of Tampa Bay and the Hillsborough River with regional historians and archivists.
+LOCATION:John F. Germany Public Library
+URL:https://hcplc.org/events/tampa-maritime-heritage
+CATEGORIES:History & Culture
+END:VEVENT
+END:VCALENDAR

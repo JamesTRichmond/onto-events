@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//onto//Chicago Fixture//EN
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:skokie-public-library-event-1@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261024T150000Z
+DTEND:20261024T163000Z
+SUMMARY:BOOMbox Family Science & Maker Exploration
+DESCRIPTION:Interactive STEAM experiments, 3D printing, and tactile circuitry workshops for families in Skokie.
+LOCATION:Skokie Public Library
+URL:https://skokielibrary.info/
+END:VEVENT
+BEGIN:VEVENT
+UID:skokie-public-library-event-2@onto.events
+DTSTAMP:20261015T120000Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+SUMMARY:Skokie Courtyard World Music Concert
+DESCRIPTION:Free community performance featuring acoustic folk and international music ensembles.
+LOCATION:Skokie Public Library
+URL:https://skokielibrary.info/
+END:VEVENT
+END:VCALENDAR
