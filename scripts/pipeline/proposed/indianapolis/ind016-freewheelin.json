@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "kind": "review-proposal",
+  "ledgerId": "IND016",
+  "id": "ind016-freewheelin",
+  "name": "Freewheelin' Community Bikes",
+  "url": "https://www.freewheelinbikes.org/",
+  "listingUrl": "https://www.freewheelinbikes.org/",
+  "format": "html",
+  "fixturePath": null,
+  "city": "Indianapolis",
+  "timezone": "America/Indiana/Indianapolis",
+  "sourceKind": "community",
+  "outcome": "reported",
+  "suitability": "likely_suitable",
+  "enrolled": false,
+  "serviceRegion": null,
+  "fetchedOn": "2026-11-14",
+  "baseSha": "ff079f6edc7deaa2b055bd46d72ce9b53525b4e1",
+  "evidence": "Fetched 2026-11-14. Program names include Summer Program, Green Apron Program, Bicycle Mechanics Classes, Y.E.E.T. Program, Bike Lab, and B.R.A.K.E.S. No next date. No ICS was invented.",
+  "doesNot": [
+    "edit data/cities.ts",
+    "edit data/service-regions.json",
+    "edit data/venues.json",
+    "edit data/source-trust.ts",
+    "register a live feed"
+  ]
+}
