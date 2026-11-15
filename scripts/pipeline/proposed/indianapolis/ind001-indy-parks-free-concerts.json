@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "kind": "review-proposal",
+  "ledgerId": "IND001",
+  "id": "ind001-indy-parks-free-concerts",
+  "name": "Indy Parks free concert series",
+  "url": "https://parks.indy.gov/free-concert-series/",
+  "listingUrl": "https://parks.indy.gov/free-concert-series/",
+  "format": "html",
+  "fixturePath": null,
+  "city": "Indianapolis",
+  "timezone": "America/Indiana/Indianapolis",
+  "sourceKind": "community",
+  "outcome": "verified",
+  "suitability": "likely_suitable",
+  "enrolled": false,
+  "serviceRegion": null,
+  "fetchedOn": "2026-11-14",
+  "baseSha": "ff079f6edc7deaa2b055bd46d72ce9b53525b4e1",
+  "evidence": "Fetched 2026-11-14. Page title 2026 Free Concert Series. Parsed Broad Ripple Park, Fri. May 22 at 5:30 pm, Kids' Concert Series, ShooBeeLoo, and Garfield Park MacAllister Amphitheater, Wednesday, May 13 at 6:30 pm, KC and the 3 Kings. Both dates are before this session. parks.indy.gov/events/ and ?ical=1 were HTML shells with no show titles. No ICS was invented.",
+  "doesNot": [
+    "edit data/cities.ts",
+    "edit data/service-regions.json",
+    "edit data/venues.json",
+    "edit data/source-trust.ts",
+    "register a live feed"
+  ]
+}
