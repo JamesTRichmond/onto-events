@@ -121,3 +121,16 @@ it('contains balanced family and general ratings in the Philadelphia offline bun
   expect(ratings.has('family')).toBe(true);
   expect(ratings.has('general')).toBe(true);
 });
+
+it('keeps Philadelphia things dated from publisher pages after the October pack', () => {
+  expect(PHILADELPHIA_ACTIVITIES.length).toBeGreaterThan(6);
+  for (const activity of PHILADELPHIA_ACTIVITIES) {
+    expect(activity.sourceUrl).toMatch(/^https:\/\//);
+    expect(activity.locality).toBe('Philadelphia');
+    const starts = activity.startsAtIso ?? '';
+    const season = activity.recurrence?.seasonStart ?? '';
+    expect(starts >= '2026-11-15' || season >= '2026-11-15').toBe(true);
+  }
+  expect(PHILADELPHIA_ACTIVITIES.some((activity) => activity.title.includes('Wissahickon'))).toBe(true);
+  expect(PHILADELPHIA_ACTIVITIES.some((activity) => activity.venue.includes('Taller'))).toBe(true);
+});
