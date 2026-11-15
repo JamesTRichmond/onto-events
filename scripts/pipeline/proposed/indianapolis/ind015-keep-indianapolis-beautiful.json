@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "kind": "review-proposal",
+  "ledgerId": "IND015",
+  "id": "ind015-keep-indianapolis-beautiful",
+  "name": "Keep Indianapolis Beautiful",
+  "url": "https://www.kibi.org/program/great-indy-cleanup/",
+  "listingUrl": "https://www.kibi.org/program/great-indy-cleanup/",
+  "format": "html",
+  "fixturePath": null,
+  "city": "Indianapolis",
+  "timezone": "America/Indiana/Indianapolis",
+  "sourceKind": "community",
+  "outcome": "reported",
+  "suitability": "likely_suitable",
+  "enrolled": false,
+  "serviceRegion": null,
+  "fetchedOn": "2026-11-14",
+  "baseSha": "ff079f6edc7deaa2b055bd46d72ce9b53525b4e1",
+  "evidence": "Fetched 2026-11-14. Page says April through October, weekend dumpsters for community cleanups. No next date. News dates on the page are May 13 and May 16, 2026. /events/ is 404. No ICS was invented.",
+  "doesNot": [
+    "edit data/cities.ts",
+    "edit data/service-regions.json",
+    "edit data/venues.json",
+    "edit data/source-trust.ts",
+    "register a live feed"
+  ]
+}
