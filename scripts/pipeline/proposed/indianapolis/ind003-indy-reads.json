@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "kind": "review-proposal",
+  "ledgerId": "IND003",
+  "id": "ind003-indy-reads",
+  "name": "Indy Reads",
+  "url": "https://indyreads.org/calendar/?ical=1",
+  "listingUrl": "https://indyreads.org/calendar/",
+  "format": "ics",
+  "fixturePath": "scripts/pipeline/fixtures/ics/indy-reads.ics",
+  "city": "Indianapolis",
+  "timezone": "America/Indiana/Indianapolis",
+  "sourceKind": "community",
+  "outcome": "verified",
+  "suitability": "likely_suitable",
+  "enrolled": false,
+  "serviceRegion": null,
+  "fetchedOn": "2026-11-14",
+  "baseSha": "ff079f6edc7deaa2b055bd46d72ce9b53525b4e1",
+  "evidence": "Refetched 2026-11-14 as text/calendar, 23 VEVENT. DTSTART uses TZID=America/Indiana/Indianapolis. At 2026-11-14T21:30:00-05:00 the pinned parser returns 14 rows inside 60 days, including Crochet Circles at 2026-11-15T17:00:00.000Z, 1066 Virginia Avenue. The HTML calendar called that circle free.",
+  "doesNot": [
+    "edit data/cities.ts",
+    "edit data/service-regions.json",
+    "edit data/venues.json",
+    "edit data/source-trust.ts",
+    "register a live feed"
+  ],
+  "parsedCheck": {
+    "clock": "2026-11-14T21:30:00-05:00",
+    "timezone": "America/Indiana/Indianapolis",
+    "vevents": 23,
+    "inWindow": 14,
+    "title": "Crochet Circles",
+    "start": "2026-11-15T17:00:00.000Z"
+  }
+}
