@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mary Rigg Neighborhood Center - ECPv6.18.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mary Rigg Neighborhood Center
+X-ORIGINAL-URL:https://www.maryrigg.org
+X-WR-CALDESC:Events for Mary Rigg Neighborhood Center
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20250101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261116T100000
+DTEND;TZID=UTC:20261116T130000
+DTSTAMP:20260320T165105Z
+CREATED:20260213T134643Z
+LAST-MODIFIED:20260320T165105Z
+UID:10000077-1794823200-1794834000@www.maryrigg.org
+SUMMARY:Job Club
+DESCRIPTION:Check out our job club webpage for more details.
+URL:https://www.maryrigg.org/event/job-club-12/2026-11-16/
+LOCATION:Mary Rigg Neighborhood Center\, 1920 W. Morris St\, Indianapolis\, IN\, 46221\, United States
+CATEGORIES:Workforce/Financial
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261116T103000
+DTEND;TZID=UTC:20261116T120000
+DTSTAMP:20260710T120448Z
+CREATED:20260213T141502Z
+LAST-MODIFIED:20260710T120448Z
+UID:10001684-1794825000-1794830400@www.maryrigg.org
+SUMMARY:Food Pantry
+DESCRIPTION:Check out our food pantry webpage for more details.
+URL:https://www.maryrigg.org/event/food-pantry/2026-11-16/
+LOCATION:Mary Rigg Food Pantry\, 2102 W. Morris Street\, Indianapolis\, IN\, 46221\, United States
+CATEGORIES:Basic Needs
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261117T110000
+DTEND;TZID=UTC:20261117T130000
+DTSTAMP:20260401T180328Z
+CREATED:20260401T175747Z
+LAST-MODIFIED:20260401T180328Z
+UID:10001617-1794913200-1794920400@www.maryrigg.org
+SUMMARY:Credit: Understand It & Use It - Financial Workshop
+DESCRIPTION:Credit: Understand It & Use It \n\n\n\n\nGain a clear understanding of credit\, how it works\, and how to use it to build long‑term financial stability. \n\n\n\n \n\n 
+URL:https://www.maryrigg.org/event/credit-understand-it-use-it-financial-workshop/2026-11-17/
+LOCATION:Mary Rigg Neighborhood Center\, 1920 W. Morris St\, Indianapolis\, IN\, 46221\, United States
+CATEGORIES:Workforce/Financial
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261117T130000
+DTEND;TZID=UTC:20261117T150000
+DTSTAMP:20260320T164654Z
+CREATED:20260213T141828Z
+LAST-MODIFIED:20260320T164654Z
+UID:10000858-1794920400-1794927600@www.maryrigg.org
+SUMMARY:Food Pantry
+DESCRIPTION:Check out our food pantry webpage for more details.
+URL:https://www.maryrigg.org/event/food-pantry-2/2026-11-17/
+LOCATION:Mary Rigg Food Pantry\, 2102 W. Morris Street\, Indianapolis\, IN\, 46221\, United States
+CATEGORIES:Basic Needs
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261118T123000
+DTEND;TZID=UTC:20261118T140000
+DTSTAMP:20260320T164959Z
+CREATED:20260213T142349Z
+LAST-MODIFIED:20260320T164959Z
+UID:10001371-1795005000-1795010400@www.maryrigg.org
+SUMMARY:Food Pantry
+DESCRIPTION:Check out our food pantry webpage for more details.
+URL:https://www.maryrigg.org/event/food-pantry-3/2026-11-18/
+LOCATION:Mary Rigg Food Pantry\, 2102 W. Morris Street\, Indianapolis\, IN\, 46221\, United States
+CATEGORIES:Basic Needs
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261123T100000
+DTEND;TZID=UTC:20261123T130000
+DTSTAMP:20260320T165105Z
+CREATED:20260213T134643Z
+LAST-MODIFIED:20260320T165105Z
+UID:10000078-1795428000-1795438800@www.maryrigg.org
+SUMMARY:Job Club
+DESCRIPTION:Check out our job club webpage for more details.
+URL:https://www.maryrigg.org/event/job-club-12/2026-11-23/
+LOCATION:Mary Rigg Neighborhood Center\, 1920 W. Morris St\, Indianapolis\, IN\, 46221\, United States
+CATEGORIES:Workforce/Financial
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261123T103000
+DTEND;TZID=UTC:20261123T120000
+DTSTAMP:20260710T120448Z
+CREATED:20260213T141502Z
+LAST-MODIFIED:20260710T120448Z
+UID:10001685-1795429800-1795435200@www.maryrigg.org
+SUMMARY:Food Pantry
+DESCRIPTION:Check out our food pantry webpage for more details.
+URL:https://www.maryrigg.org/event/food-pantry/2026-11-23/
+LOCATION:Mary Rigg Food Pantry\, 2102 W. Morris Street\, Indianapolis\, IN\, 46221\, United States
+CATEGORIES:Basic Needs
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261124T110000
+DTEND;TZID=UTC:20261124T130000
+DTSTAMP:20260401T180256Z
+CREATED:20260401T175853Z
+LAST-MODIFIED:20260401T180256Z
+UID:10001641-1795518000-1795525200@www.maryrigg.org
+SUMMARY:Create a Spending Plan That Works - Financial Workshop
+DESCRIPTION:Create a Spending Plan That Works \n\n\n\n\nExplore different types of budgets\, choose the style that fits your life\, and use the time to build your personalized spending plan.
+URL:https://www.maryrigg.org/event/create-a-spending-plan-that-works-financial-workshop/2026-11-24/
+LOCATION:Mary Rigg Neighborhood Center\, 1920 W. Morris St\, Indianapolis\, IN\, 46221\, United States
+CATEGORIES:Workforce/Financial
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261124T130000
+DTEND;TZID=UTC:20261124T150000
+DTSTAMP:20260320T164654Z
+CREATED:20260213T141828Z
+LAST-MODIFIED:20260320T164654Z
+UID:10000859-1795525200-1795532400@www.maryrigg.org
+SUMMARY:Food Pantry
+DESCRIPTION:Check out our food pantry webpage for more details.
+URL:https://www.maryrigg.org/event/food-pantry-2/2026-11-24/
+LOCATION:Mary Rigg Food Pantry\, 2102 W. Morris Street\, Indianapolis\, IN\, 46221\, United States
+CATEGORIES:Basic Needs
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261125T123000
+DTEND;TZID=UTC:20261125T140000
+DTSTAMP:20260320T164959Z
+CREATED:20260213T142349Z
+LAST-MODIFIED:20260320T164959Z
+UID:10001372-1795609800-1795615200@www.maryrigg.org
+SUMMARY:Food Pantry
+DESCRIPTION:Check out our food pantry webpage for more details.
+URL:https://www.maryrigg.org/event/food-pantry-3/2026-11-25/
+LOCATION:Mary Rigg Food Pantry\, 2102 W. Morris Street\, Indianapolis\, IN\, 46221\, United States
+CATEGORIES:Basic Needs
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20260316T133819Z
+CREATED:20251013T145534Z
+LAST-MODIFIED:20260316T133819Z
+UID:10000023-1795651200-1795737599@www.maryrigg.org
+SUMMARY:Thanksgiving Day [Closed]
+DESCRIPTION:
+URL:https://www.maryrigg.org/event/thanksgiving-day-closed/
+LOCATION:IN
+CATEGORIES:Community
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261130T100000
+DTEND;TZID=UTC:20261130T130000
+DTSTAMP:20260320T165105Z
+CREATED:20260213T134643Z
+LAST-MODIFIED:20260320T165105Z
+UID:10000079-1796032800-1796043600@www.maryrigg.org
+SUMMARY:Job Club
+DESCRIPTION:Check out our job club webpage for more details.
+URL:https://www.maryrigg.org/event/job-club-12/2026-11-30/
+LOCATION:Mary Rigg Neighborhood Center\, 1920 W. Morris St\, Indianapolis\, IN\, 46221\, United States
+CATEGORIES:Workforce/Financial
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261130T103000
+DTEND;TZID=UTC:20261130T120000
+DTSTAMP:20260710T120448Z
+CREATED:20260213T141502Z
+LAST-MODIFIED:20260710T120448Z
+UID:10001686-1796034600-1796040000@www.maryrigg.org
+SUMMARY:Food Pantry
+DESCRIPTION:Check out our food pantry webpage for more details.
+URL:https://www.maryrigg.org/event/food-pantry/2026-11-30/
+LOCATION:Mary Rigg Food Pantry\, 2102 W. Morris Street\, Indianapolis\, IN\, 46221\, United States
+CATEGORIES:Basic Needs
+END:VEVENT
+END:VCALENDAR
