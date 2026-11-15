@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "kind": "review-proposal",
+  "ledgerId": "IND005",
+  "id": "ind005-mary-rigg",
+  "name": "Mary Rigg Neighborhood Center",
+  "url": "https://www.maryrigg.org/events/?ical=1",
+  "listingUrl": "https://www.maryrigg.org/events/",
+  "format": "ics",
+  "fixturePath": "scripts/pipeline/fixtures/ics/indy-mary-rigg.ics",
+  "city": "Indianapolis",
+  "timezone": "America/Indiana/Indianapolis",
+  "sourceKind": "community",
+  "outcome": "verified",
+  "suitability": "likely_suitable",
+  "enrolled": false,
+  "serviceRegion": null,
+  "fetchedOn": "2026-11-14",
+  "baseSha": "ff079f6edc7deaa2b055bd46d72ce9b53525b4e1",
+  "evidence": "Refetched 2026-11-14 as text/calendar, 13 VEVENT. DTSTART uses TZID=UTC, so Job Club stays 2026-11-16T10:00:00.000Z and the pantry row stays 2026-11-16T10:30:00.000Z. Locations on those rows: 1920 W. Morris St and 2102 W. Morris Street. All 13 fall inside the 60-day window from 2026-11-14T21:30:00-05:00.",
+  "doesNot": [
+    "edit data/cities.ts",
+    "edit data/service-regions.json",
+    "edit data/venues.json",
+    "edit data/source-trust.ts",
+    "register a live feed"
+  ],
+  "parsedCheck": {
+    "clock": "2026-11-14T21:30:00-05:00",
+    "timezone": "America/Indiana/Indianapolis",
+    "vevents": 13,
+    "inWindow": 13,
+    "title": "Job Club",
+    "start": "2026-11-16T10:00:00.000Z"
+  }
+}
