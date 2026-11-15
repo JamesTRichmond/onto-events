@@ -1,0 +1,368 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Indy Reads - ECPv6.18.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Indy Reads
+X-ORIGINAL-URL:https://indyreads.org
+X-WR-CALDESC:Events for Indy Reads
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Indiana/Indianapolis
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20250309T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20251102T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20270314T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20271107T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20280312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20281105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20261115T120000
+DTEND;TZID=America/Indiana/Indianapolis:20261115T140000
+DTSTAMP:20260120T155101Z
+CREATED:20260120T152558Z
+LAST-MODIFIED:20260120T155101Z
+UID:10001653-1794744000-1794751200@indyreads.org
+SUMMARY:Crochet Circles
+DESCRIPTION:Join Indy Reads and volunteer Kayla B. on the 1st & 3rd Sundays of each month at 12pm to learn how to crochet!Join Indy Reads for a cozy\, all-languages\, all-ages Crochet Circles hosted by  Kayla B. on the 1st & 3rd Sundays* of the month! This is a free event for all ages where crochet community can come together to meet\, learn\, and support eachother! We will teach you how to crochet if you have never crocheted before. If you have crocheted before\, join us to crochet while making new friends! Crochet hooks and yarn will be provided. Supplies may be limited. *Please note that Crochet Circles will be rescheduled when Indy Reads is closed on a first Sunday. Kayla B. is a graduate student at IU Indianapolis and has recently begun volunteering at Indy Reads. She has been crocheting for 5 years and can most frequently be found curled up with her cat and a good book. This event is Pay-What-You-Can. Here’s what your suggested donation can do for the Indy Reads community: FREE – This ticket is for attendees that would like to attend this event and are unable to purchase a ticket. Indy Reads values our community and facilitators. We are proud to provide programming to all. Thank you for being a part of our community! $10 – This donation covers the cost of one attendee to this event. Indy Reads strives to bring the very best programming to Fountain Square and all Hoosiers. Thank you for helping us to keep our quality programs accessible for all! $20 – This donation covers the cost of two attendees to this event. If you are attending as an individual\, your ticket at this level makes it possible for another who cannot afford a ticket to attend. It is only through the generosity of our community that we are able to support programs that enrich the lives of all Hoosiers. Thank you for your support! Other – “Pay-What-You-Can” really does mean pay what you can. Indy Reads appreciates that every one of our community members is able to support our vision of 100% literacy for all in different ways. Whether you can pay $5 or $50\, we are so excited to see you – and thank you for your support!
+URL:https://indyreads.org/event/crochet-circles-25/
+LOCATION:Indy Reads\, 1066 Virginia Avenue\, Indianapolis\, IN\, 46203\, United States
+ATTACH;FMTTYPE=image/jpeg:https://indyreads.org/wp-content/uploads/2025/12/Crochet-Circles-Banner-Updated.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20261115T150000
+DTEND;TZID=America/Indiana/Indianapolis:20261115T160000
+DTSTAMP:20260824T182257Z
+CREATED:20260824T182224Z
+LAST-MODIFIED:20260824T182257Z
+UID:10001833-1794754800-1794758400@indyreads.org
+SUMMARY:English Language Learning (ELL) Conversation Circles (In-Person)
+DESCRIPTION:Indy Reads welcomes English Language Learning (ELL) students of all ages to practice English with us! Every Sunday\, 3pm-4pm at Indy Reads. 1066 Virginia Avenue\, Indianapolis\, IN 46203. \n\n\n\nThis program is open to the public!
+URL:https://indyreads.org/event/english-language-learning-ell-conversation-circles-in-person-8/2026-11-15/
+LOCATION:Indy Reads\, 1066 Virginia Avenue\, Indianapolis\, IN\, 46203\, United States
+CATEGORIES:Conversation Circles
+ATTACH;FMTTYPE=image/png:https://indyreads.org/wp-content/uploads/2026/03/ELLCC-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20261120T170000
+DTEND;TZID=America/Indiana/Indianapolis:20261120T200000
+DTSTAMP:20260521T223852Z
+CREATED:20260402T155650Z
+LAST-MODIFIED:20260521T223852Z
+UID:10001748-1795194000-1795204800@indyreads.org
+SUMMARY:Do Good\, Read Scrolls: D&D at Indy Reads
+DESCRIPTION:Join Indy Reads on the third Friday of each month\, 5pm-8pm\, to learn and play Dungeons & Dragons! All levels welcome. \n\n\n\nJoin Dungeon Master (DM) Logan Taylor for Dungeons & Dragons at Indy Reads on the third Friday of each month\, 5pm-8pm! \n\n\n\nDungeons & Dragons (D&D) is a roleplaying game where players create characters and roll dice to complete quests. This program is designed for people who have never played before\, as well as players who want to make new friends in short campaigns. \n\n\n\n5pm-5:30pm: Learn to play Dungeons & Dragons! We will learn the basics of how to play together. This includes the basics of roleplaying\, the dice\, how to read a character sheet\, classes\, simple combat\, and more! \n\n\n\n5:30pm-8pm: Play Dungeons & Dragons! Using what you have learned in the first hour\, Dungeon Master (DM) Logan Taylor will take you through a short\, 2-hour adventure where you can test your character in a fantasy world. \n\n\n\nThis recurring event is recommended for ages 13+. Space is limited to 7 players per session. Register ahead to secure your spot! \n\n\n\nDice\, character sheets\, and any maps\, minis\, or terrain that we need will be provided. Happy adventuring; we’ll see you soon! \n\n\n\n\n\n\n\n\n\nLogan Taylor is a writer and teacher working in Indianapolis. He has a Bachelor of Arts in Latin and English from Wabash College. He also earned a Master of Fine Arts in Creative Writing from Butler University. Logan spends his time writing fiction\, playing tabletop RPGs\, teaching Vonnegut\, and arguing for the artistic merit of videogames on his blog.  \n\n\n\nBlog: https://medium.com/@gatherer286  \n\n\n\nInstagram: @LoganTaylorWriting  \n\n\n\n\n\n\n\n\n\nJo Shea is a marketing professional working in Indianapolis. She has a Bachelor of Arts in English and has been exploring storytelling through tabletop RPGs for over a decade. She enjoys exploring niche fandoms\, developing cosplays for the incredible cons Indy hosts\, and being a regular at small businesses across the city. \n\n\n\n\n\n\n\n\nThis event is Pay-What-You-Can. Here’s what your suggested donation can do for the Indy Reads community: \nFREE – This ticket is for attendees that would like to attend this event and are unable to purchase a ticket. Indy Reads values our community and facilitators. We are proud to provide programming to all. Thank you for being a part of our community! \n$10 – This donation covers the cost of one attendee to this event. Indy Reads strives to bring the very best programming to Fountain Square and all Hoosiers. Thank you for helping us to keep our quality programs accessible for all! \n$20 – This donation covers the cost of two attendees to this event. If you are attending as an individual\, your ticket at this level makes it possible for another who cannot afford a ticket to attend. It is only through the generosity of our community that we are able to support programs that enrich the lives of all Hoosiers. Thank you for your support! \nOther – “Pay-What-You-Can” really does mean pay what you can. Indy Reads appreciates that every one of our community members is able to support our vision of 100% literacy for all in different ways. Whether you can pay $5 or $50\, we are so excited to see you – and thank you for your support!
+URL:https://indyreads.org/event/do-good-read-scrolls-dd-at-indy-reads-16/
+LOCATION:Indy Reads\, 1066 Virginia Avenue\, Indianapolis\, IN\, 46203\, United States
+ATTACH;FMTTYPE=image/png:https://indyreads.org/wp-content/uploads/2026/04/dgrs.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20261122T140000
+DTEND;TZID=America/Indiana/Indianapolis:20261122T150000
+DTSTAMP:20251211T194951Z
+CREATED:20251211T193231Z
+LAST-MODIFIED:20251211T194951Z
+UID:10001624-1795356000-1795359600@indyreads.org
+SUMMARY:The Indy Reads Book Club
+DESCRIPTION:Join our monthly book club on the last Sunday of each month at 2pm! Let’s dive into some great books and event better conversations!The Indy Reads Book Club features a variety of authors and book genres and is open to the public. If you are a book lover looking for space to have some great conversations around some great books\, or someone who is looking to expand their reading list\, we want to chat with you! Hosted by Gya Torres and Katherine Culp\, our monthly book club is intended to be a fun\, easy space to chat about what we love about our Book of the Month. Pick up a copy at Indy Reads for 15% off and then join us on the last Sunday of each month at 2pm to discuss! Join us for one discussion or all of them! This monthly event is recommended for adults age 18+. Proceeds from sales at Indy Reads support our English literacy programming for nearly 500 adult learners each year. 2026 Book Club Reading List: January: Squire by Nadia Shammas February: A Love Song for Ricki Wilde by Tia Williams March: I Who Have Never Known Men by Jacqueline Harpman  April: Enemy of the Sun by Naseer Aruri & Edmund Ghareeb May: The Emperor of Gladness  by Ocean Vuong June: The Lesbiana’s Guide to Catholic School  by Sonora Reyes July: When Javi Dumped Mari by Mia Sosa August: Parable of the Sower by Octavia E. Butler September: House of Bone and Rain by Gabino Iglesias October: Persepolis by Marjane Satrapi November: Never Whistle at Night by Shane Hawk & Theodore C. Van Alst Jr. December: No Book– Happy Holidays! Meet the Hosts: Katherine Culp Katherine has been reader all her life! While she loves all genres\, but fantasy\, sci-fi\, and cozy mysteries are her absolute favorite! Katherine has a personal goal to read 50 books each year. She was 4 short last year\, so hopes to reach her goal this year–thank you book clubs! Her favorite way to read is by listening to audiobooks (yes that counts!). Some of Katherine’s favorite books are The Hunger Games series by Suzanne Collins\, the Percy Jackson series by Rick Riodian\, and the Legendborn series by Tracy Deon. Gya Torres Gya is a lover of all things Romance. Her favorite way to read is via audiobooks and will definitely have all kinds of trophy books to celebrate her favorite reads. She also loves to read about feminist movements\, social justice\, and memoirs. Gya loves to read multiple books at once\, since she is a mood reader and needs to find the right book for the right moment. Currently she is indulging in Katee Robert’s latest novel\, Tender Cruelty the 9th book in the Dark Olympus series. At the same time she is physically reading Mutual Aid by Dean Spade\, and I\, Medusa by Ayana Grey. This event is Pay-What-You-Can. Here’s what your suggested donation can do for the Indy Reads community: FREE – This ticket is for attendees that would like to attend this event and are unable to purchase a ticket. Indy Reads values our community and facilitators. We are proud to provide programming to all. Thank you for being a part of our community! $10 – This donation covers the cost of one attendee to this event. Indy Reads strives to bring the very best programming to Fountain Square and all Hoosiers. Thank you for helping us to keep our quality programs accessible for all! $20 – This donation covers the cost of two attendees to this event. If you are attending as an individual\, your ticket at this level makes it possible for another who cannot afford a ticket to attend. It is only through the generosity of our community that we are able to support programs that enrich the lives of all Hoosiers. Thank you for your support! Other – “Pay-What-You-Can” really does mean pay what you can. Indy Reads appreciates that every one of our community members is able to support our vision of 100% literacy for all in different ways. Whether you can pay $5 or $50\, we are so excited to see you – and thank you for your support!
+URL:https://indyreads.org/event/the-indy-reads-book-club-33/
+LOCATION:Indy Reads\, 1066 Virginia Avenue\, Indianapolis\, IN\, 46203\, United States
+ATTACH;FMTTYPE=image/jpeg:https://indyreads.org/wp-content/uploads/2025/12/Indy-Reads-Book-Club-Banner.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20261122T150000
+DTEND;TZID=America/Indiana/Indianapolis:20261122T160000
+DTSTAMP:20260824T182257Z
+CREATED:20260824T182224Z
+LAST-MODIFIED:20260824T182257Z
+UID:10001834-1795359600-1795363200@indyreads.org
+SUMMARY:English Language Learning (ELL) Conversation Circles (In-Person)
+DESCRIPTION:Indy Reads welcomes English Language Learning (ELL) students of all ages to practice English with us! Every Sunday\, 3pm-4pm at Indy Reads. 1066 Virginia Avenue\, Indianapolis\, IN 46203. \n\n\n\nThis program is open to the public!
+URL:https://indyreads.org/event/english-language-learning-ell-conversation-circles-in-person-8/2026-11-22/
+LOCATION:Indy Reads\, 1066 Virginia Avenue\, Indianapolis\, IN\, 46203\, United States
+CATEGORIES:Conversation Circles
+ATTACH;FMTTYPE=image/png:https://indyreads.org/wp-content/uploads/2026/03/ELLCC-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20261125T180000
+DTEND;TZID=America/Indiana/Indianapolis:20261125T190000
+DTSTAMP:20260925T142924Z
+CREATED:20260925T142423Z
+LAST-MODIFIED:20260925T142924Z
+UID:10001842-1795629600-1795633200@indyreads.org
+SUMMARY:Indy Reads Lit Stage Open Mic
+DESCRIPTION:Join Indy Reads on the last Wednesday of each month at 6pm for a FREE\, family-friendly open mic night. Performers of all art forms welcome!\n\n\nJoin us for Indy Reads Lit Stage on the last Wednesday* of each month at 6pm (except when Indy Reads is closed for holidays). \n*Please note\, Indy Reads has rescheduled May’s Lit Stage from May 27th to May 20th at 6pm.  \nThe word Lit is short for literacy\, the mission of Indy Reads! Lit is also a popular Black cultural word that means something is entertaining or exciting. \nThe Lit Stage open mic welcomes people of all ages\, art forms\, and languages to share your talents with our shared community. Open mic performances can include singing\, monologues\, skits\, dancing\, comedy\, poetry and essay reading\, and more! \nPerformers are welcome to use the stage area\, podium\, and microphone. We ask that performances keep to about 5 minutes. Participants can perform again if time allows. \nPlease note the Lit Stage open mic is family-friendly. Explicit language\, gestures\, and behaviors are not allowed. If you are including music in your performance\, we require radio edits only. \n\n\n\n\nThis event is Pay-What-You-Can. Here’s what your suggested donation can do for the Indy Reads community: \nFREE – This ticket is for attendees that would like to attend this event and are unable to purchase a ticket. Indy Reads values our community and facilitators. We are proud to provide programming to all. Thank you for being a part of our community! \n$10 – This donation covers the cost of one attendee to this event. Indy Reads strives to bring the very best programming to Fountain Square and all Hoosiers. Thank you for helping us to keep our quality programs accessible for all! \n$20 – This donation covers the cost of two attendees to this event. If you are attending as an individual\, your ticket at this level makes it possible for another who cannot afford a ticket to attend. It is only through the generosity of our community that we are able to support programs that enrich the lives of all Hoosiers. Thank you for your support! \nOther – “Pay-What-You-Can” really does mean pay what you can. Indy Reads appreciates that every one of our community members is able to support our vision of 100% literacy for all in different ways. Whether you can pay $5 or $50\, we are so excited to see you – and thank you for your support!
+URL:https://indyreads.org/event/indy-reads-lit-stage-open-mic-22/
+LOCATION:Indy Reads\, 1066 Virginia Avenue\, Indianapolis\, IN\, 46203\, United States
+ATTACH;FMTTYPE=image/png:https://indyreads.org/wp-content/uploads/2026/09/lit-stage.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20261129T150000
+DTEND;TZID=America/Indiana/Indianapolis:20261129T160000
+DTSTAMP:20260824T182257Z
+CREATED:20260824T182224Z
+LAST-MODIFIED:20260824T182257Z
+UID:10001835-1795964400-1795968000@indyreads.org
+SUMMARY:English Language Learning (ELL) Conversation Circles (In-Person)
+DESCRIPTION:Indy Reads welcomes English Language Learning (ELL) students of all ages to practice English with us! Every Sunday\, 3pm-4pm at Indy Reads. 1066 Virginia Avenue\, Indianapolis\, IN 46203. \n\n\n\nThis program is open to the public!
+URL:https://indyreads.org/event/english-language-learning-ell-conversation-circles-in-person-8/2026-11-29/
+LOCATION:Indy Reads\, 1066 Virginia Avenue\, Indianapolis\, IN\, 46203\, United States
+CATEGORIES:Conversation Circles
+ATTACH;FMTTYPE=image/png:https://indyreads.org/wp-content/uploads/2026/03/ELLCC-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20261206T120000
+DTEND;TZID=America/Indiana/Indianapolis:20261206T140000
+DTSTAMP:20260120T154426Z
+CREATED:20251223T184409Z
+LAST-MODIFIED:20260120T154426Z
+UID:10001638-1796558400-1796565600@indyreads.org
+SUMMARY:Crochet Circles
+DESCRIPTION:Join Indy Reads on the first and third Sundays of each month at 12pm to learn how to crochet with us!\n\n\nJoin Indy Reads for a cozy\, all-languages Crochet Circle hosted by volunteer Kayla B. on the first and third Sundays of each month! \nPlease note that Crochet Circles will be rescheduled when Indy Reads is closed on a first Sunday. \nThis is a free event for all ages. Crocheters of all levels can come together to meet other crocheters in the community! \nWe will teach you how to crochet if you have never crocheted before. \nIf you have crocheted before\, join us to crochet while making new friends! \nCrochet hooks and yarn will be provided. Supplies may be limited. \n\n\n\nKayla B. is a graduate student at IU Indianapolis and has recently begun volunteering at Indy Reads. She has been crocheting for 5 years and can most frequently be found curled up with her cat and a good book. \n\n\n\n\n\nThis event is Pay-What-You-Can. Here’s what your suggested donation can do for the Indy Reads community: \nFREE – This ticket is for attendees that would like to attend this event and are unable to purchase a ticket. Indy Reads values our community and facilitators. We are proud to provide programming to all. Thank you for being a part of our community! \n$10 – This donation covers the cost of one attendee to this event. Indy Reads strives to bring the very best programming to Fountain Square and all Hoosiers. Thank you for helping us to keep our quality programs accessible for all! \n$20 – This donation covers the cost of two attendees to this event. If you are attending as an individual\, your ticket at this level makes it possible for another who cannot afford a ticket to attend. It is only through the generosity of our community that we are able to support programs that enrich the lives of all Hoosiers. Thank you for your support! \nOther – “Pay-What-You-Can” really does mean pay what you can. Indy Reads appreciates that every one of our community members is able to support our vision of 100% literacy for all in different ways. Whether you can pay $5 or $50\, we are so excited to see you – and thank you for your support!
+URL:https://indyreads.org/event/crochet-circles-15/
+LOCATION:Indy Reads\, 1066 Virginia Avenue\, Indianapolis\, IN\, 46203\, United States
+ATTACH;FMTTYPE=image/jpeg:https://indyreads.org/wp-content/uploads/2025/12/Crochet-Circles-Banner-Updated.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20261206T150000
+DTEND;TZID=America/Indiana/Indianapolis:20261206T160000
+DTSTAMP:20260824T182257Z
+CREATED:20260824T182224Z
+LAST-MODIFIED:20260824T182257Z
+UID:10001836-1796569200-1796572800@indyreads.org
+SUMMARY:English Language Learning (ELL) Conversation Circles (In-Person)
+DESCRIPTION:Indy Reads welcomes English Language Learning (ELL) students of all ages to practice English with us! Every Sunday\, 3pm-4pm at Indy Reads. 1066 Virginia Avenue\, Indianapolis\, IN 46203. \n\n\n\nThis program is open to the public!
+URL:https://indyreads.org/event/english-language-learning-ell-conversation-circles-in-person-8/2026-12-06/
+LOCATION:Indy Reads\, 1066 Virginia Avenue\, Indianapolis\, IN\, 46203\, United States
+CATEGORIES:Conversation Circles
+ATTACH;FMTTYPE=image/png:https://indyreads.org/wp-content/uploads/2026/03/ELLCC-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20261213T150000
+DTEND;TZID=America/Indiana/Indianapolis:20261213T160000
+DTSTAMP:20260824T182257Z
+CREATED:20260824T182224Z
+LAST-MODIFIED:20260824T182257Z
+UID:10001837-1797174000-1797177600@indyreads.org
+SUMMARY:English Language Learning (ELL) Conversation Circles (In-Person)
+DESCRIPTION:Indy Reads welcomes English Language Learning (ELL) students of all ages to practice English with us! Every Sunday\, 3pm-4pm at Indy Reads. 1066 Virginia Avenue\, Indianapolis\, IN 46203. \n\n\n\nThis program is open to the public!
+URL:https://indyreads.org/event/english-language-learning-ell-conversation-circles-in-person-8/2026-12-13/
+LOCATION:Indy Reads\, 1066 Virginia Avenue\, Indianapolis\, IN\, 46203\, United States
+CATEGORIES:Conversation Circles
+ATTACH;FMTTYPE=image/png:https://indyreads.org/wp-content/uploads/2026/03/ELLCC-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20261218T170000
+DTEND;TZID=America/Indiana/Indianapolis:20261218T200000
+DTSTAMP:20260521T223909Z
+CREATED:20260402T155652Z
+LAST-MODIFIED:20260521T223909Z
+UID:10001749-1797613200-1797624000@indyreads.org
+SUMMARY:Do Good\, Read Scrolls: D&D at Indy Reads
+DESCRIPTION:Join Indy Reads on the third Friday of each month\, 5pm-8pm\, to learn and play Dungeons & Dragons! All levels welcome. \n\n\n\nJoin Dungeon Master (DM) Logan Taylor for Dungeons & Dragons at Indy Reads on the third Friday of each month\, 5pm-8pm! \n\n\n\nDungeons & Dragons (D&D) is a roleplaying game where players create characters and roll dice to complete quests. This program is designed for people who have never played before\, as well as players who want to make new friends in short campaigns. \n\n\n\n5pm-5:30pm: Learn to play Dungeons & Dragons! We will learn the basics of how to play together. This includes the basics of roleplaying\, the dice\, how to read a character sheet\, classes\, simple combat\, and more! \n\n\n\n5:30pm-8pm: Play Dungeons & Dragons! Using what you have learned in the first hour\, Dungeon Master (DM) Logan Taylor will take you through a short\, 2-hour adventure where you can test your character in a fantasy world. \n\n\n\nThis recurring event is recommended for ages 13+. Space is limited to 7 players per session. Register ahead to secure your spot! \n\n\n\nDice\, character sheets\, and any maps\, minis\, or terrain that we need will be provided. Happy adventuring; we’ll see you soon! \n\n\n\n\n\n\n\n\n\nLogan Taylor is a writer and teacher working in Indianapolis. He has a Bachelor of Arts in Latin and English from Wabash College. He also earned a Master of Fine Arts in Creative Writing from Butler University. Logan spends his time writing fiction\, playing tabletop RPGs\, teaching Vonnegut\, and arguing for the artistic merit of videogames on his blog.  \n\n\n\nBlog: https://medium.com/@gatherer286  \n\n\n\nInstagram: @LoganTaylorWriting  \n\n\n\n\n\n\n\n\n\nJo Shea is a marketing professional working in Indianapolis. She has a Bachelor of Arts in English and has been exploring storytelling through tabletop RPGs for over a decade. She enjoys exploring niche fandoms\, developing cosplays for the incredible cons Indy hosts\, and being a regular at small businesses across the city. \n\n\n\n\n\n\n\n\nThis event is Pay-What-You-Can. Here’s what your suggested donation can do for the Indy Reads community: \nFREE – This ticket is for attendees that would like to attend this event and are unable to purchase a ticket. Indy Reads values our community and facilitators. We are proud to provide programming to all. Thank you for being a part of our community! \n$10 – This donation covers the cost of one attendee to this event. Indy Reads strives to bring the very best programming to Fountain Square and all Hoosiers. Thank you for helping us to keep our quality programs accessible for all! \n$20 – This donation covers the cost of two attendees to this event. If you are attending as an individual\, your ticket at this level makes it possible for another who cannot afford a ticket to attend. It is only through the generosity of our community that we are able to support programs that enrich the lives of all Hoosiers. Thank you for your support! \nOther – “Pay-What-You-Can” really does mean pay what you can. Indy Reads appreciates that every one of our community members is able to support our vision of 100% literacy for all in different ways. Whether you can pay $5 or $50\, we are so excited to see you – and thank you for your support!
+URL:https://indyreads.org/event/do-good-read-scrolls-dd-at-indy-reads-17/
+LOCATION:Indy Reads\, 1066 Virginia Avenue\, Indianapolis\, IN\, 46203\, United States
+ATTACH;FMTTYPE=image/png:https://indyreads.org/wp-content/uploads/2026/04/dgrs.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20261220T120000
+DTEND;TZID=America/Indiana/Indianapolis:20261220T140000
+DTSTAMP:20260120T155121Z
+CREATED:20260120T152600Z
+LAST-MODIFIED:20260120T155121Z
+UID:10001654-1797768000-1797775200@indyreads.org
+SUMMARY:Crochet Circles
+DESCRIPTION:Join Indy Reads and volunteer Kayla B. on the 1st & 3rd Sundays of each month at 12pm to learn how to crochet!Join Indy Reads for a cozy\, all-languages\, all-ages Crochet Circles hosted by  Kayla B. on the 1st & 3rd Sundays* of the month! This is a free event for all ages where crochet community can come together to meet\, learn\, and support eachother! We will teach you how to crochet if you have never crocheted before. If you have crocheted before\, join us to crochet while making new friends! Crochet hooks and yarn will be provided. Supplies may be limited. *Please note that Crochet Circles will be rescheduled when Indy Reads is closed on a first Sunday. Kayla B. is a graduate student at IU Indianapolis and has recently begun volunteering at Indy Reads. She has been crocheting for 5 years and can most frequently be found curled up with her cat and a good book. This event is Pay-What-You-Can. Here’s what your suggested donation can do for the Indy Reads community: FREE – This ticket is for attendees that would like to attend this event and are unable to purchase a ticket. Indy Reads values our community and facilitators. We are proud to provide programming to all. Thank you for being a part of our community! $10 – This donation covers the cost of one attendee to this event. Indy Reads strives to bring the very best programming to Fountain Square and all Hoosiers. Thank you for helping us to keep our quality programs accessible for all! $20 – This donation covers the cost of two attendees to this event. If you are attending as an individual\, your ticket at this level makes it possible for another who cannot afford a ticket to attend. It is only through the generosity of our community that we are able to support programs that enrich the lives of all Hoosiers. Thank you for your support! Other – “Pay-What-You-Can” really does mean pay what you can. Indy Reads appreciates that every one of our community members is able to support our vision of 100% literacy for all in different ways. Whether you can pay $5 or $50\, we are so excited to see you – and thank you for your support!
+URL:https://indyreads.org/event/crochet-circles-26/
+LOCATION:Indy Reads\, 1066 Virginia Avenue\, Indianapolis\, IN\, 46203\, United States
+ATTACH;FMTTYPE=image/jpeg:https://indyreads.org/wp-content/uploads/2025/12/Crochet-Circles-Banner-Updated.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20261220T150000
+DTEND;TZID=America/Indiana/Indianapolis:20261220T160000
+DTSTAMP:20260824T182257Z
+CREATED:20260824T182224Z
+LAST-MODIFIED:20260824T182257Z
+UID:10001838-1797778800-1797782400@indyreads.org
+SUMMARY:English Language Learning (ELL) Conversation Circles (In-Person)
+DESCRIPTION:Indy Reads welcomes English Language Learning (ELL) students of all ages to practice English with us! Every Sunday\, 3pm-4pm at Indy Reads. 1066 Virginia Avenue\, Indianapolis\, IN 46203. \n\n\n\nThis program is open to the public!
+URL:https://indyreads.org/event/english-language-learning-ell-conversation-circles-in-person-8/2026-12-20/
+LOCATION:Indy Reads\, 1066 Virginia Avenue\, Indianapolis\, IN\, 46203\, United States
+CATEGORIES:Conversation Circles
+ATTACH;FMTTYPE=image/png:https://indyreads.org/wp-content/uploads/2026/03/ELLCC-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20261223T180000
+DTEND;TZID=America/Indiana/Indianapolis:20261223T190000
+DTSTAMP:20260925T142922Z
+CREATED:20260925T142424Z
+LAST-MODIFIED:20260925T142922Z
+UID:10001843-1798048800-1798052400@indyreads.org
+SUMMARY:Indy Reads Lit Stage Open Mic
+DESCRIPTION:Join Indy Reads on the last Wednesday of each month at 6pm for a FREE\, family-friendly open mic night. Performers of all art forms welcome!\n\n\nJoin us for Indy Reads Lit Stage on the last Wednesday* of each month at 6pm (except when Indy Reads is closed for holidays). \n*Please note\, Indy Reads has rescheduled May’s Lit Stage from May 27th to May 20th at 6pm.  \nThe word Lit is short for literacy\, the mission of Indy Reads! Lit is also a popular Black cultural word that means something is entertaining or exciting. \nThe Lit Stage open mic welcomes people of all ages\, art forms\, and languages to share your talents with our shared community. Open mic performances can include singing\, monologues\, skits\, dancing\, comedy\, poetry and essay reading\, and more! \nPerformers are welcome to use the stage area\, podium\, and microphone. We ask that performances keep to about 5 minutes. Participants can perform again if time allows. \nPlease note the Lit Stage open mic is family-friendly. Explicit language\, gestures\, and behaviors are not allowed. If you are including music in your performance\, we require radio edits only. \n\n\n\n\nThis event is Pay-What-You-Can. Here’s what your suggested donation can do for the Indy Reads community: \nFREE – This ticket is for attendees that would like to attend this event and are unable to purchase a ticket. Indy Reads values our community and facilitators. We are proud to provide programming to all. Thank you for being a part of our community! \n$10 – This donation covers the cost of one attendee to this event. Indy Reads strives to bring the very best programming to Fountain Square and all Hoosiers. Thank you for helping us to keep our quality programs accessible for all! \n$20 – This donation covers the cost of two attendees to this event. If you are attending as an individual\, your ticket at this level makes it possible for another who cannot afford a ticket to attend. It is only through the generosity of our community that we are able to support programs that enrich the lives of all Hoosiers. Thank you for your support! \nOther – “Pay-What-You-Can” really does mean pay what you can. Indy Reads appreciates that every one of our community members is able to support our vision of 100% literacy for all in different ways. Whether you can pay $5 or $50\, we are so excited to see you – and thank you for your support!
+URL:https://indyreads.org/event/indy-reads-lit-stage-open-mic-23/
+LOCATION:Indy Reads\, 1066 Virginia Avenue\, Indianapolis\, IN\, 46203\, United States
+ATTACH;FMTTYPE=image/png:https://indyreads.org/wp-content/uploads/2026/09/lit-stage.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20270127T180000
+DTEND;TZID=America/Indiana/Indianapolis:20270127T190000
+DTSTAMP:20260925T142918Z
+CREATED:20260925T142425Z
+LAST-MODIFIED:20260925T142918Z
+UID:10001844-1801072800-1801076400@indyreads.org
+SUMMARY:Indy Reads Lit Stage Open Mic
+DESCRIPTION:Join Indy Reads on the last Wednesday of each month at 6pm for a FREE\, family-friendly open mic night. Performers of all art forms welcome!\n\n\nJoin us for Indy Reads Lit Stage on the last Wednesday* of each month at 6pm (except when Indy Reads is closed for holidays). \n*Please note\, Indy Reads has rescheduled May’s Lit Stage from May 27th to May 20th at 6pm.  \nThe word Lit is short for literacy\, the mission of Indy Reads! Lit is also a popular Black cultural word that means something is entertaining or exciting. \nThe Lit Stage open mic welcomes people of all ages\, art forms\, and languages to share your talents with our shared community. Open mic performances can include singing\, monologues\, skits\, dancing\, comedy\, poetry and essay reading\, and more! \nPerformers are welcome to use the stage area\, podium\, and microphone. We ask that performances keep to about 5 minutes. Participants can perform again if time allows. \nPlease note the Lit Stage open mic is family-friendly. Explicit language\, gestures\, and behaviors are not allowed. If you are including music in your performance\, we require radio edits only. \n\n\n\n\nThis event is Pay-What-You-Can. Here’s what your suggested donation can do for the Indy Reads community: \nFREE – This ticket is for attendees that would like to attend this event and are unable to purchase a ticket. Indy Reads values our community and facilitators. We are proud to provide programming to all. Thank you for being a part of our community! \n$10 – This donation covers the cost of one attendee to this event. Indy Reads strives to bring the very best programming to Fountain Square and all Hoosiers. Thank you for helping us to keep our quality programs accessible for all! \n$20 – This donation covers the cost of two attendees to this event. If you are attending as an individual\, your ticket at this level makes it possible for another who cannot afford a ticket to attend. It is only through the generosity of our community that we are able to support programs that enrich the lives of all Hoosiers. Thank you for your support! \nOther – “Pay-What-You-Can” really does mean pay what you can. Indy Reads appreciates that every one of our community members is able to support our vision of 100% literacy for all in different ways. Whether you can pay $5 or $50\, we are so excited to see you – and thank you for your support!
+URL:https://indyreads.org/event/indy-reads-lit-stage-open-mic-24/
+LOCATION:Indy Reads\, 1066 Virginia Avenue\, Indianapolis\, IN\, 46203\, United States
+ATTACH;FMTTYPE=image/png:https://indyreads.org/wp-content/uploads/2026/09/lit-stage.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20270224T180000
+DTEND;TZID=America/Indiana/Indianapolis:20270224T190000
+DTSTAMP:20260925T142916Z
+CREATED:20260925T142426Z
+LAST-MODIFIED:20260925T142916Z
+UID:10001845-1803492000-1803495600@indyreads.org
+SUMMARY:Indy Reads Lit Stage Open Mic
+DESCRIPTION:Join Indy Reads on the last Wednesday of each month at 6pm for a FREE\, family-friendly open mic night. Performers of all art forms welcome!\n\n\nJoin us for Indy Reads Lit Stage on the last Wednesday* of each month at 6pm (except when Indy Reads is closed for holidays). \n*Please note\, Indy Reads has rescheduled May’s Lit Stage from May 27th to May 20th at 6pm.  \nThe word Lit is short for literacy\, the mission of Indy Reads! Lit is also a popular Black cultural word that means something is entertaining or exciting. \nThe Lit Stage open mic welcomes people of all ages\, art forms\, and languages to share your talents with our shared community. Open mic performances can include singing\, monologues\, skits\, dancing\, comedy\, poetry and essay reading\, and more! \nPerformers are welcome to use the stage area\, podium\, and microphone. We ask that performances keep to about 5 minutes. Participants can perform again if time allows. \nPlease note the Lit Stage open mic is family-friendly. Explicit language\, gestures\, and behaviors are not allowed. If you are including music in your performance\, we require radio edits only. \n\n\n\n\nThis event is Pay-What-You-Can. Here’s what your suggested donation can do for the Indy Reads community: \nFREE – This ticket is for attendees that would like to attend this event and are unable to purchase a ticket. Indy Reads values our community and facilitators. We are proud to provide programming to all. Thank you for being a part of our community! \n$10 – This donation covers the cost of one attendee to this event. Indy Reads strives to bring the very best programming to Fountain Square and all Hoosiers. Thank you for helping us to keep our quality programs accessible for all! \n$20 – This donation covers the cost of two attendees to this event. If you are attending as an individual\, your ticket at this level makes it possible for another who cannot afford a ticket to attend. It is only through the generosity of our community that we are able to support programs that enrich the lives of all Hoosiers. Thank you for your support! \nOther – “Pay-What-You-Can” really does mean pay what you can. Indy Reads appreciates that every one of our community members is able to support our vision of 100% literacy for all in different ways. Whether you can pay $5 or $50\, we are so excited to see you – and thank you for your support!
+URL:https://indyreads.org/event/indy-reads-lit-stage-open-mic-25/
+LOCATION:Indy Reads\, 1066 Virginia Avenue\, Indianapolis\, IN\, 46203\, United States
+ATTACH;FMTTYPE=image/png:https://indyreads.org/wp-content/uploads/2026/09/lit-stage.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20270324T180000
+DTEND;TZID=America/Indiana/Indianapolis:20270324T190000
+DTSTAMP:20260925T142914Z
+CREATED:20260925T142427Z
+LAST-MODIFIED:20260925T142914Z
+UID:10001846-1805911200-1805914800@indyreads.org
+SUMMARY:Indy Reads Lit Stage Open Mic
+DESCRIPTION:Join Indy Reads on the last Wednesday of each month at 6pm for a FREE\, family-friendly open mic night. Performers of all art forms welcome!\n\n\nJoin us for Indy Reads Lit Stage on the last Wednesday* of each month at 6pm (except when Indy Reads is closed for holidays). \n*Please note\, Indy Reads has rescheduled May’s Lit Stage from May 27th to May 20th at 6pm.  \nThe word Lit is short for literacy\, the mission of Indy Reads! Lit is also a popular Black cultural word that means something is entertaining or exciting. \nThe Lit Stage open mic welcomes people of all ages\, art forms\, and languages to share your talents with our shared community. Open mic performances can include singing\, monologues\, skits\, dancing\, comedy\, poetry and essay reading\, and more! \nPerformers are welcome to use the stage area\, podium\, and microphone. We ask that performances keep to about 5 minutes. Participants can perform again if time allows. \nPlease note the Lit Stage open mic is family-friendly. Explicit language\, gestures\, and behaviors are not allowed. If you are including music in your performance\, we require radio edits only. \n\n\n\n\nThis event is Pay-What-You-Can. Here’s what your suggested donation can do for the Indy Reads community: \nFREE – This ticket is for attendees that would like to attend this event and are unable to purchase a ticket. Indy Reads values our community and facilitators. We are proud to provide programming to all. Thank you for being a part of our community! \n$10 – This donation covers the cost of one attendee to this event. Indy Reads strives to bring the very best programming to Fountain Square and all Hoosiers. Thank you for helping us to keep our quality programs accessible for all! \n$20 – This donation covers the cost of two attendees to this event. If you are attending as an individual\, your ticket at this level makes it possible for another who cannot afford a ticket to attend. It is only through the generosity of our community that we are able to support programs that enrich the lives of all Hoosiers. Thank you for your support! \nOther – “Pay-What-You-Can” really does mean pay what you can. Indy Reads appreciates that every one of our community members is able to support our vision of 100% literacy for all in different ways. Whether you can pay $5 or $50\, we are so excited to see you – and thank you for your support!
+URL:https://indyreads.org/event/indy-reads-lit-stage-open-mic-26/
+LOCATION:Indy Reads\, 1066 Virginia Avenue\, Indianapolis\, IN\, 46203\, United States
+ATTACH;FMTTYPE=image/png:https://indyreads.org/wp-content/uploads/2026/09/lit-stage.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20270428T180000
+DTEND;TZID=America/Indiana/Indianapolis:20270428T190000
+DTSTAMP:20260925T142911Z
+CREATED:20260925T142428Z
+LAST-MODIFIED:20260925T142911Z
+UID:10001847-1808935200-1808938800@indyreads.org
+SUMMARY:Indy Reads Lit Stage Open Mic
+DESCRIPTION:Join Indy Reads on the last Wednesday of each month at 6pm for a FREE\, family-friendly open mic night. Performers of all art forms welcome!\n\n\nJoin us for Indy Reads Lit Stage on the last Wednesday* of each month at 6pm (except when Indy Reads is closed for holidays). \n*Please note\, Indy Reads has rescheduled May’s Lit Stage from May 27th to May 20th at 6pm.  \nThe word Lit is short for literacy\, the mission of Indy Reads! Lit is also a popular Black cultural word that means something is entertaining or exciting. \nThe Lit Stage open mic welcomes people of all ages\, art forms\, and languages to share your talents with our shared community. Open mic performances can include singing\, monologues\, skits\, dancing\, comedy\, poetry and essay reading\, and more! \nPerformers are welcome to use the stage area\, podium\, and microphone. We ask that performances keep to about 5 minutes. Participants can perform again if time allows. \nPlease note the Lit Stage open mic is family-friendly. Explicit language\, gestures\, and behaviors are not allowed. If you are including music in your performance\, we require radio edits only. \n\n\n\n\nThis event is Pay-What-You-Can. Here’s what your suggested donation can do for the Indy Reads community: \nFREE – This ticket is for attendees that would like to attend this event and are unable to purchase a ticket. Indy Reads values our community and facilitators. We are proud to provide programming to all. Thank you for being a part of our community! \n$10 – This donation covers the cost of one attendee to this event. Indy Reads strives to bring the very best programming to Fountain Square and all Hoosiers. Thank you for helping us to keep our quality programs accessible for all! \n$20 – This donation covers the cost of two attendees to this event. If you are attending as an individual\, your ticket at this level makes it possible for another who cannot afford a ticket to attend. It is only through the generosity of our community that we are able to support programs that enrich the lives of all Hoosiers. Thank you for your support! \nOther – “Pay-What-You-Can” really does mean pay what you can. Indy Reads appreciates that every one of our community members is able to support our vision of 100% literacy for all in different ways. Whether you can pay $5 or $50\, we are so excited to see you – and thank you for your support!
+URL:https://indyreads.org/event/indy-reads-lit-stage-open-mic-27/
+LOCATION:Indy Reads\, 1066 Virginia Avenue\, Indianapolis\, IN\, 46203\, United States
+ATTACH;FMTTYPE=image/png:https://indyreads.org/wp-content/uploads/2026/09/lit-stage.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20270526T180000
+DTEND;TZID=America/Indiana/Indianapolis:20270526T190000
+DTSTAMP:20260925T142848Z
+CREATED:20260925T142429Z
+LAST-MODIFIED:20260925T142848Z
+UID:10001848-1811354400-1811358000@indyreads.org
+SUMMARY:Indy Reads Lit Stage Open Mic
+DESCRIPTION:Join Indy Reads on the last Wednesday of each month at 6pm for a FREE\, family-friendly open mic night. Performers of all art forms welcome!\n\n\nJoin us for Indy Reads Lit Stage on the last Wednesday* of each month at 6pm (except when Indy Reads is closed for holidays). \n*Please note\, Indy Reads has rescheduled May’s Lit Stage from May 27th to May 20th at 6pm.  \nThe word Lit is short for literacy\, the mission of Indy Reads! Lit is also a popular Black cultural word that means something is entertaining or exciting. \nThe Lit Stage open mic welcomes people of all ages\, art forms\, and languages to share your talents with our shared community. Open mic performances can include singing\, monologues\, skits\, dancing\, comedy\, poetry and essay reading\, and more! \nPerformers are welcome to use the stage area\, podium\, and microphone. We ask that performances keep to about 5 minutes. Participants can perform again if time allows. \nPlease note the Lit Stage open mic is family-friendly. Explicit language\, gestures\, and behaviors are not allowed. If you are including music in your performance\, we require radio edits only. \n\n\n\n\nThis event is Pay-What-You-Can. Here’s what your suggested donation can do for the Indy Reads community: \nFREE – This ticket is for attendees that would like to attend this event and are unable to purchase a ticket. Indy Reads values our community and facilitators. We are proud to provide programming to all. Thank you for being a part of our community! \n$10 – This donation covers the cost of one attendee to this event. Indy Reads strives to bring the very best programming to Fountain Square and all Hoosiers. Thank you for helping us to keep our quality programs accessible for all! \n$20 – This donation covers the cost of two attendees to this event. If you are attending as an individual\, your ticket at this level makes it possible for another who cannot afford a ticket to attend. It is only through the generosity of our community that we are able to support programs that enrich the lives of all Hoosiers. Thank you for your support! \nOther – “Pay-What-You-Can” really does mean pay what you can. Indy Reads appreciates that every one of our community members is able to support our vision of 100% literacy for all in different ways. Whether you can pay $5 or $50\, we are so excited to see you – and thank you for your support!
+URL:https://indyreads.org/event/indy-reads-lit-stage-open-mic-28/
+LOCATION:Indy Reads\, 1066 Virginia Avenue\, Indianapolis\, IN\, 46203\, United States
+ATTACH;FMTTYPE=image/png:https://indyreads.org/wp-content/uploads/2026/09/lit-stage.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20270623T180000
+DTEND;TZID=America/Indiana/Indianapolis:20270623T190000
+DTSTAMP:20260925T142843Z
+CREATED:20260925T142430Z
+LAST-MODIFIED:20260925T142843Z
+UID:10001849-1813773600-1813777200@indyreads.org
+SUMMARY:Indy Reads Lit Stage Open Mic
+DESCRIPTION:Join Indy Reads on the last Wednesday of each month at 6pm for a FREE\, family-friendly open mic night. Performers of all art forms welcome!\n\n\nJoin us for Indy Reads Lit Stage on the last Wednesday* of each month at 6pm (except when Indy Reads is closed for holidays). \n*Please note\, Indy Reads has rescheduled May’s Lit Stage from May 27th to May 20th at 6pm.  \nThe word Lit is short for literacy\, the mission of Indy Reads! Lit is also a popular Black cultural word that means something is entertaining or exciting. \nThe Lit Stage open mic welcomes people of all ages\, art forms\, and languages to share your talents with our shared community. Open mic performances can include singing\, monologues\, skits\, dancing\, comedy\, poetry and essay reading\, and more! \nPerformers are welcome to use the stage area\, podium\, and microphone. We ask that performances keep to about 5 minutes. Participants can perform again if time allows. \nPlease note the Lit Stage open mic is family-friendly. Explicit language\, gestures\, and behaviors are not allowed. If you are including music in your performance\, we require radio edits only. \n\n\n\n\nThis event is Pay-What-You-Can. Here’s what your suggested donation can do for the Indy Reads community: \nFREE – This ticket is for attendees that would like to attend this event and are unable to purchase a ticket. Indy Reads values our community and facilitators. We are proud to provide programming to all. Thank you for being a part of our community! \n$10 – This donation covers the cost of one attendee to this event. Indy Reads strives to bring the very best programming to Fountain Square and all Hoosiers. Thank you for helping us to keep our quality programs accessible for all! \n$20 – This donation covers the cost of two attendees to this event. If you are attending as an individual\, your ticket at this level makes it possible for another who cannot afford a ticket to attend. It is only through the generosity of our community that we are able to support programs that enrich the lives of all Hoosiers. Thank you for your support! \nOther – “Pay-What-You-Can” really does mean pay what you can. Indy Reads appreciates that every one of our community members is able to support our vision of 100% literacy for all in different ways. Whether you can pay $5 or $50\, we are so excited to see you – and thank you for your support!
+URL:https://indyreads.org/event/indy-reads-lit-stage-open-mic-29/
+LOCATION:Indy Reads\, 1066 Virginia Avenue\, Indianapolis\, IN\, 46203\, United States
+ATTACH;FMTTYPE=image/png:https://indyreads.org/wp-content/uploads/2026/09/lit-stage.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20270728T190000
+DTEND;TZID=America/Indiana/Indianapolis:20270728T220000
+DTSTAMP:20260925T142837Z
+CREATED:20260925T142431Z
+LAST-MODIFIED:20260925T142837Z
+UID:10001850-1816801200-1816812000@indyreads.org
+SUMMARY:Indy Reads Lit Stage Open Mic
+DESCRIPTION:Join Indy Reads on the last Wednesday of each month at 6pm for a FREE\, family-friendly open mic night. Performers of all art forms welcome!\n\n\nJoin us for Indy Reads Lit Stage on the last Wednesday* of each month at 6pm (except when Indy Reads is closed for holidays). \n*Please note\, Indy Reads has rescheduled May’s Lit Stage from May 27th to May 20th at 6pm.  \nThe word Lit is short for literacy\, the mission of Indy Reads! Lit is also a popular Black cultural word that means something is entertaining or exciting. \nThe Lit Stage open mic welcomes people of all ages\, art forms\, and languages to share your talents with our shared community. Open mic performances can include singing\, monologues\, skits\, dancing\, comedy\, poetry and essay reading\, and more! \nPerformers are welcome to use the stage area\, podium\, and microphone. We ask that performances keep to about 5 minutes. Participants can perform again if time allows. \nPlease note the Lit Stage open mic is family-friendly. Explicit language\, gestures\, and behaviors are not allowed. If you are including music in your performance\, we require radio edits only. \n\n\n\n\nThis event is Pay-What-You-Can. Here’s what your suggested donation can do for the Indy Reads community: \nFREE – This ticket is for attendees that would like to attend this event and are unable to purchase a ticket. Indy Reads values our community and facilitators. We are proud to provide programming to all. Thank you for being a part of our community! \n$10 – This donation covers the cost of one attendee to this event. Indy Reads strives to bring the very best programming to Fountain Square and all Hoosiers. Thank you for helping us to keep our quality programs accessible for all! \n$20 – This donation covers the cost of two attendees to this event. If you are attending as an individual\, your ticket at this level makes it possible for another who cannot afford a ticket to attend. It is only through the generosity of our community that we are able to support programs that enrich the lives of all Hoosiers. Thank you for your support! \nOther – “Pay-What-You-Can” really does mean pay what you can. Indy Reads appreciates that every one of our community members is able to support our vision of 100% literacy for all in different ways. Whether you can pay $5 or $50\, we are so excited to see you – and thank you for your support!
+URL:https://indyreads.org/event/indy-reads-lit-stage-open-mic-30/
+LOCATION:Indy Reads\, 1066 Virginia Avenue\, Indianapolis\, IN\, 46203\, United States
+ATTACH;FMTTYPE=image/png:https://indyreads.org/wp-content/uploads/2026/09/lit-stage.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20270825T190000
+DTEND;TZID=America/Indiana/Indianapolis:20270825T220000
+DTSTAMP:20260925T142829Z
+CREATED:20260925T142432Z
+LAST-MODIFIED:20260925T142829Z
+UID:10001851-1819220400-1819231200@indyreads.org
+SUMMARY:Indy Reads Lit Stage Open Mic
+DESCRIPTION:Join Indy Reads on the last Wednesday of each month at 6pm for a FREE\, family-friendly open mic night. Performers of all art forms welcome!\n\n\nJoin us for Indy Reads Lit Stage on the last Wednesday* of each month at 6pm (except when Indy Reads is closed for holidays). \n*Please note\, Indy Reads has rescheduled May’s Lit Stage from May 27th to May 20th at 6pm.  \nThe word Lit is short for literacy\, the mission of Indy Reads! Lit is also a popular Black cultural word that means something is entertaining or exciting. \nThe Lit Stage open mic welcomes people of all ages\, art forms\, and languages to share your talents with our shared community. Open mic performances can include singing\, monologues\, skits\, dancing\, comedy\, poetry and essay reading\, and more! \nPerformers are welcome to use the stage area\, podium\, and microphone. We ask that performances keep to about 5 minutes. Participants can perform again if time allows. \nPlease note the Lit Stage open mic is family-friendly. Explicit language\, gestures\, and behaviors are not allowed. If you are including music in your performance\, we require radio edits only. \n\n\n\n\nThis event is Pay-What-You-Can. Here’s what your suggested donation can do for the Indy Reads community: \nFREE – This ticket is for attendees that would like to attend this event and are unable to purchase a ticket. Indy Reads values our community and facilitators. We are proud to provide programming to all. Thank you for being a part of our community! \n$10 – This donation covers the cost of one attendee to this event. Indy Reads strives to bring the very best programming to Fountain Square and all Hoosiers. Thank you for helping us to keep our quality programs accessible for all! \n$20 – This donation covers the cost of two attendees to this event. If you are attending as an individual\, your ticket at this level makes it possible for another who cannot afford a ticket to attend. It is only through the generosity of our community that we are able to support programs that enrich the lives of all Hoosiers. Thank you for your support! \nOther – “Pay-What-You-Can” really does mean pay what you can. Indy Reads appreciates that every one of our community members is able to support our vision of 100% literacy for all in different ways. Whether you can pay $5 or $50\, we are so excited to see you – and thank you for your support!
+URL:https://indyreads.org/event/indy-reads-lit-stage-open-mic-31/
+LOCATION:Indy Reads\, 1066 Virginia Avenue\, Indianapolis\, IN\, 46203\, United States
+ATTACH;FMTTYPE=image/png:https://indyreads.org/wp-content/uploads/2026/09/lit-stage.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20270922T190000
+DTEND;TZID=America/Indiana/Indianapolis:20270922T220000
+DTSTAMP:20260925T142818Z
+CREATED:20260925T142433Z
+LAST-MODIFIED:20260925T142818Z
+UID:10001852-1821639600-1821650400@indyreads.org
+SUMMARY:Indy Reads Lit Stage Open Mic
+DESCRIPTION:Join Indy Reads on the last Wednesday of each month at 6pm for a FREE\, family-friendly open mic night. Performers of all art forms welcome!\n\n\nJoin us for Indy Reads Lit Stage on the last Wednesday* of each month at 6pm (except when Indy Reads is closed for holidays). \n*Please note\, Indy Reads has rescheduled May’s Lit Stage from May 27th to May 20th at 6pm.  \nThe word Lit is short for literacy\, the mission of Indy Reads! Lit is also a popular Black cultural word that means something is entertaining or exciting. \nThe Lit Stage open mic welcomes people of all ages\, art forms\, and languages to share your talents with our shared community. Open mic performances can include singing\, monologues\, skits\, dancing\, comedy\, poetry and essay reading\, and more! \nPerformers are welcome to use the stage area\, podium\, and microphone. We ask that performances keep to about 5 minutes. Participants can perform again if time allows. \nPlease note the Lit Stage open mic is family-friendly. Explicit language\, gestures\, and behaviors are not allowed. If you are including music in your performance\, we require radio edits only. \n\n\n\n\nThis event is Pay-What-You-Can. Here’s what your suggested donation can do for the Indy Reads community: \nFREE – This ticket is for attendees that would like to attend this event and are unable to purchase a ticket. Indy Reads values our community and facilitators. We are proud to provide programming to all. Thank you for being a part of our community! \n$10 – This donation covers the cost of one attendee to this event. Indy Reads strives to bring the very best programming to Fountain Square and all Hoosiers. Thank you for helping us to keep our quality programs accessible for all! \n$20 – This donation covers the cost of two attendees to this event. If you are attending as an individual\, your ticket at this level makes it possible for another who cannot afford a ticket to attend. It is only through the generosity of our community that we are able to support programs that enrich the lives of all Hoosiers. Thank you for your support! \nOther – “Pay-What-You-Can” really does mean pay what you can. Indy Reads appreciates that every one of our community members is able to support our vision of 100% literacy for all in different ways. Whether you can pay $5 or $50\, we are so excited to see you – and thank you for your support!
+URL:https://indyreads.org/event/indy-reads-lit-stage-open-mic-32/
+LOCATION:Indy Reads\, 1066 Virginia Avenue\, Indianapolis\, IN\, 46203\, United States
+ATTACH;FMTTYPE=image/png:https://indyreads.org/wp-content/uploads/2026/09/lit-stage.png
+END:VEVENT
+END:VCALENDAR
