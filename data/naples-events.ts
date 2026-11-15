@@ -132,7 +132,7 @@ export const LOCAL_ACTIVITIES: Activity[] = [
     sourceEventId: 'naples-botanical-garden:music-in-the-garden-20261212',
     sourceName: 'Naples Botanical Garden',
     source: 'live',
-    sourceUrl: 'https://www.naplesgarden.org/events/music-in-the-garden/2026-11-14/',
+    sourceUrl: 'https://www.naplesgarden.org/events/music-in-the-garden/2026-12-12/',
     title: 'Music in the Garden',
     description:
       'Naples Botanical Garden lists area musicians on the garden stage for this date. October through May the show is 2:00–4:00 p.m.; the June date is 12:00–2:00 p.m. Chairs and blankets are encouraged. Included with garden admission; free for members. The garden also lists December 12, January 9, February 13, March 13, April 17, May 8, and June 12.',
@@ -159,7 +159,7 @@ export const LOCAL_ACTIVITIES: Activity[] = [
     sourceEventId: 'naples-botanical-garden:music-in-the-garden-20270109',
     sourceName: 'Naples Botanical Garden',
     source: 'live',
-    sourceUrl: 'https://www.naplesgarden.org/events/music-in-the-garden/2026-11-14/',
+    sourceUrl: 'https://www.naplesgarden.org/events/music-in-the-garden/2027-01-09/',
     title: 'Music in the Garden',
     description:
       'Naples Botanical Garden lists area musicians on the garden stage for this date. October through May the show is 2:00–4:00 p.m.; the June date is 12:00–2:00 p.m. Chairs and blankets are encouraged. Included with garden admission; free for members. The garden also lists December 12, January 9, February 13, March 13, April 17, May 8, and June 12.',
@@ -186,7 +186,7 @@ export const LOCAL_ACTIVITIES: Activity[] = [
     sourceEventId: 'naples-botanical-garden:music-in-the-garden-20270213',
     sourceName: 'Naples Botanical Garden',
     source: 'live',
-    sourceUrl: 'https://www.naplesgarden.org/events/music-in-the-garden/2026-11-14/',
+    sourceUrl: 'https://www.naplesgarden.org/events/music-in-the-garden/2027-02-13/',
     title: 'Music in the Garden',
     description:
       'Naples Botanical Garden lists area musicians on the garden stage for this date. October through May the show is 2:00–4:00 p.m.; the June date is 12:00–2:00 p.m. Chairs and blankets are encouraged. Included with garden admission; free for members. The garden also lists December 12, January 9, February 13, March 13, April 17, May 8, and June 12.',
@@ -213,7 +213,7 @@ export const LOCAL_ACTIVITIES: Activity[] = [
     sourceEventId: 'naples-botanical-garden:music-in-the-garden-20270313',
     sourceName: 'Naples Botanical Garden',
     source: 'live',
-    sourceUrl: 'https://www.naplesgarden.org/events/music-in-the-garden/2026-11-14/',
+    sourceUrl: 'https://www.naplesgarden.org/events/music-in-the-garden/2027-03-13/',
     title: 'Music in the Garden',
     description:
       'Naples Botanical Garden lists area musicians on the garden stage for this date. October through May the show is 2:00–4:00 p.m.; the June date is 12:00–2:00 p.m. Chairs and blankets are encouraged. Included with garden admission; free for members. The garden also lists December 12, January 9, February 13, March 13, April 17, May 8, and June 12.',
@@ -240,7 +240,7 @@ export const LOCAL_ACTIVITIES: Activity[] = [
     sourceEventId: 'naples-botanical-garden:music-in-the-garden-20270417',
     sourceName: 'Naples Botanical Garden',
     source: 'live',
-    sourceUrl: 'https://www.naplesgarden.org/events/music-in-the-garden/2026-11-14/',
+    sourceUrl: 'https://www.naplesgarden.org/events/music-in-the-garden/2027-04-17/',
     title: 'Music in the Garden',
     description:
       'Naples Botanical Garden lists area musicians on the garden stage for this date. October through May the show is 2:00–4:00 p.m.; the June date is 12:00–2:00 p.m. Chairs and blankets are encouraged. Included with garden admission; free for members. The garden also lists December 12, January 9, February 13, March 13, April 17, May 8, and June 12.',
@@ -267,7 +267,7 @@ export const LOCAL_ACTIVITIES: Activity[] = [
     sourceEventId: 'naples-botanical-garden:music-in-the-garden-20270508',
     sourceName: 'Naples Botanical Garden',
     source: 'live',
-    sourceUrl: 'https://www.naplesgarden.org/events/music-in-the-garden/2026-11-14/',
+    sourceUrl: 'https://www.naplesgarden.org/events/music-in-the-garden/2027-05-08/',
     title: 'Music in the Garden',
     description:
       'Naples Botanical Garden lists area musicians on the garden stage for this date. October through May the show is 2:00–4:00 p.m.; the June date is 12:00–2:00 p.m. Chairs and blankets are encouraged. Included with garden admission; free for members. The garden also lists December 12, January 9, February 13, March 13, April 17, May 8, and June 12.',
@@ -294,7 +294,7 @@ export const LOCAL_ACTIVITIES: Activity[] = [
     sourceEventId: 'naples-botanical-garden:music-in-the-garden-20270612',
     sourceName: 'Naples Botanical Garden',
     source: 'live',
-    sourceUrl: 'https://www.naplesgarden.org/events/music-in-the-garden/2026-11-14/',
+    sourceUrl: 'https://www.naplesgarden.org/events/music-in-the-garden/2027-06-12/',
     title: 'Music in the Garden',
     description:
       'Naples Botanical Garden lists area musicians on the garden stage for this date. October through May the show is 2:00–4:00 p.m.; the June date is 12:00–2:00 p.m. Chairs and blankets are encouraged. Included with garden admission; free for members. The garden also lists December 12, January 9, February 13, March 13, April 17, May 8, and June 12.',
