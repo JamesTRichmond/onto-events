@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "kind": "review-proposal",
+  "ledgerId": "IND004",
+  "id": "ind004-john-boner",
+  "name": "John Boner Neighborhood Centers",
+  "url": "https://jbncenters.org/events/?ical=1",
+  "listingUrl": "https://jbncenters.org/events/",
+  "format": "ics",
+  "fixturePath": "scripts/pipeline/fixtures/ics/indy-john-boner.ics",
+  "city": "Indianapolis",
+  "timezone": "America/Indiana/Indianapolis",
+  "sourceKind": "community",
+  "outcome": "verified",
+  "suitability": "likely_suitable",
+  "enrolled": false,
+  "serviceRegion": null,
+  "fetchedOn": "2026-11-14",
+  "baseSha": "ff079f6edc7deaa2b055bd46d72ce9b53525b4e1",
+  "evidence": "Refetched 2026-11-14 as text/calendar, 7 VEVENT. DTSTART uses TZID=America/New_York. At 2026-11-14T21:30:00-05:00 the pinned parser returns all 7, including Digital Literacy: Computer Basics at 2026-11-17T18:00:00.000Z, 2236 E. 10th St.",
+  "doesNot": [
+    "edit data/cities.ts",
+    "edit data/service-regions.json",
+    "edit data/venues.json",
+    "edit data/source-trust.ts",
+    "register a live feed"
+  ],
+  "parsedCheck": {
+    "clock": "2026-11-14T21:30:00-05:00",
+    "timezone": "America/Indiana/Indianapolis",
+    "vevents": 7,
+    "inWindow": 7,
+    "title": "Digital Literacy: Computer Basics",
+    "start": "2026-11-17T18:00:00.000Z"
+  }
+}
