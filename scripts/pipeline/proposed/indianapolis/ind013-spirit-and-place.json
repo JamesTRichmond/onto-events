@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "kind": "review-proposal",
+  "ledgerId": "IND013",
+  "id": "ind013-spirit-and-place",
+  "name": "Spirit & Place",
+  "url": "https://www.spiritandplace.org/",
+  "listingUrl": "https://www.spiritandplace.org/",
+  "format": "html",
+  "fixturePath": null,
+  "city": "Indianapolis",
+  "timezone": "America/Indiana/Indianapolis",
+  "sourceKind": "community",
+  "outcome": "verified",
+  "suitability": "likely_suitable",
+  "enrolled": false,
+  "serviceRegion": null,
+  "fetchedOn": "2026-11-14",
+  "baseSha": "ff079f6edc7deaa2b055bd46d72ce9b53525b4e1",
+  "evidence": "Fetched 2026-11-14. Parsed: 2026 Spirit & Place Festival, Connections, Nov. 5-15, 2026. Individual festival rows were not parsed. /festival/ was 404. No ICS was invented.",
+  "doesNot": [
+    "edit data/cities.ts",
+    "edit data/service-regions.json",
+    "edit data/venues.json",
+    "edit data/source-trust.ts",
+    "register a live feed"
+  ]
+}
