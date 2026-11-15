@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "kind": "review-proposal",
+  "ledgerId": "IND018",
+  "id": "ind018-concord",
+  "name": "Concord Neighborhood Center",
+  "url": "https://concordindy.org/",
+  "listingUrl": "https://concordindy.org/",
+  "format": "html",
+  "fixturePath": null,
+  "city": "Indianapolis",
+  "timezone": "America/Indiana/Indianapolis",
+  "sourceKind": "community",
+  "outcome": "reported",
+  "suitability": "likely_suitable",
+  "enrolled": false,
+  "serviceRegion": null,
+  "fetchedOn": "2026-11-14",
+  "baseSha": "ff079f6edc7deaa2b055bd46d72ce9b53525b4e1",
+  "evidence": "Fetched 2026-11-14. Title says caring for families since 1875. Menu names Programs & Services and Early Childhood. /events/ is 404. No next date. No ICS was invented.",
+  "doesNot": [
+    "edit data/cities.ts",
+    "edit data/service-regions.json",
+    "edit data/venues.json",
+    "edit data/source-trust.ts",
+    "register a live feed"
+  ]
+}
