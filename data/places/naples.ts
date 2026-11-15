@@ -295,4 +295,28 @@ export const NAPLES_SPOTS: EvergreenSpot[] = [
     badSky: [],
     dayparts: ['morning', 'midday', 'afterSchool'],
   },
+
+  {
+    ...shared,
+    id: 'spot-naples-zoo',
+    title: 'Naples Zoo',
+    placeKind: 'hang',
+    category: 'outdoors',
+    venue: 'Naples Zoo at Caribbean Gardens',
+    area: 'Goodlette-Frank Road',
+    address: '1590 Goodlette-Frank Rd, Naples, FL 34102',
+    lat: 26.169302,
+    lng: -81.788611,
+    setting: 'mixed',
+    rating: 'family',
+    short: 'Zoo and gardens on Goodlette-Frank Road. Open 9:00 a.m. to 4:30 p.m.',
+    description:
+      'Naples Zoo said on August 14, 2026 that regular hours of 9:00 a.m. to 4:30 p.m. resume October 1 after a summer schedule. Collier County residents get free admission on the first Saturday of each month until 3:30 p.m. with proof of residency; visitors under 16 need an adult.',
+    stewardship: 'Follow keeper signs. Do not feed animals except where the zoo says you can.',
+    hours: '9:00 a.m.–4:30 p.m. daily, the regular hours the zoo said resume October 1.',
+    sourceName: 'Naples Zoo',
+    sourceUrl: 'https://www.napleszoo.org/news/posts/new-hours-new-faces',
+    price: 'Admission; Collier residents free the first Saturday until 3:30 p.m.',
+    dayparts: ['morning', 'midday', 'afterSchool'],
+  },
 ];
