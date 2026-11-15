@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "kind": "review-proposal",
+  "ledgerId": "IND008",
+  "id": "ind008-indy-arts-council",
+  "name": "Indy Arts Council",
+  "url": "https://indyarts.org/",
+  "listingUrl": "https://indyarts.org/",
+  "format": "html",
+  "fixturePath": null,
+  "city": "Indianapolis",
+  "timezone": "America/Indiana/Indianapolis",
+  "sourceKind": "community",
+  "outcome": "verified",
+  "suitability": "likely_suitable",
+  "enrolled": false,
+  "serviceRegion": null,
+  "fetchedOn": "2026-11-14",
+  "baseSha": "ff079f6edc7deaa2b055bd46d72ce9b53525b4e1",
+  "evidence": "Fetched 2026-11-14. Art & Soul exhibition December 4-17, 2026 and January 5-7, 2027. First Friday reception 5-9 p.m. December 4. Flyer artwork by Kate Oberreich. No ICS was invented.",
+  "doesNot": [
+    "edit data/cities.ts",
+    "edit data/service-regions.json",
+    "edit data/venues.json",
+    "edit data/source-trust.ts",
+    "register a live feed"
+  ]
+}
