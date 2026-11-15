@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "kind": "review-proposal",
+  "ledgerId": "IND002",
+  "id": "ind002-flanner-house",
+  "name": "Flanner House",
+  "url": "https://flannerhouse.org/events/?ical=1",
+  "listingUrl": "https://flannerhouse.org/events/",
+  "format": "ics",
+  "fixturePath": "scripts/pipeline/fixtures/ics/indy-flanner-house.ics",
+  "city": "Indianapolis",
+  "timezone": "America/Indiana/Indianapolis",
+  "sourceKind": "community",
+  "outcome": "verified",
+  "suitability": "likely_suitable",
+  "enrolled": false,
+  "serviceRegion": null,
+  "fetchedOn": "2026-11-14",
+  "baseSha": "ff079f6edc7deaa2b055bd46d72ce9b53525b4e1",
+  "evidence": "Refetched 2026-11-14 as text/calendar, 4 VEVENT. DTSTART uses TZID=America/Indiana/Indianapolis. At 2026-11-14T21:30:00-05:00 the pinned parser returns 4 Arts With a Purpose rows, the first at 2026-11-17T15:30:00.000Z, Ujamaa Bookstore, 2424 Doctor M.L.K. Jr St.",
+  "doesNot": [
+    "edit data/cities.ts",
+    "edit data/service-regions.json",
+    "edit data/venues.json",
+    "edit data/source-trust.ts",
+    "register a live feed"
+  ],
+  "parsedCheck": {
+    "clock": "2026-11-14T21:30:00-05:00",
+    "timezone": "America/Indiana/Indianapolis",
+    "vevents": 4,
+    "inWindow": 4,
+    "title": "Arts With a Purpose",
+    "start": "2026-11-17T15:30:00.000Z"
+  }
+}
