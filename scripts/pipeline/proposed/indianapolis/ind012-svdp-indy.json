@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "kind": "review-proposal",
+  "ledgerId": "IND012",
+  "id": "ind012-svdp-indy",
+  "name": "St. Vincent de Paul Indianapolis",
+  "url": "https://www.svdpindy.org/calendar/",
+  "listingUrl": "https://www.svdpindy.org/calendar/",
+  "format": "html",
+  "fixturePath": null,
+  "city": "Indianapolis",
+  "timezone": "America/Indiana/Indianapolis",
+  "sourceKind": "community",
+  "outcome": "verified",
+  "suitability": "likely_suitable",
+  "enrolled": false,
+  "serviceRegion": null,
+  "fetchedOn": "2026-11-14",
+  "baseSha": "ff079f6edc7deaa2b055bd46d72ce9b53525b4e1",
+  "evidence": "Fetched 2026-11-14. ?ical=1 was HTML, not ICS. Parsed: Discovery Days, Nov 20, 2026, 11:00 am. The same page also names a November 2026 Stuff-A-Truck at St. Monica. No ICS was invented.",
+  "doesNot": [
+    "edit data/cities.ts",
+    "edit data/service-regions.json",
+    "edit data/venues.json",
+    "edit data/source-trust.ts",
+    "register a live feed"
+  ]
+}
