@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "kind": "review-proposal",
+  "ledgerId": "IND014",
+  "id": "ind014-indy-public-library",
+  "name": "Indianapolis Public Library",
+  "url": "https://www.indypl.org/programs-events",
+  "listingUrl": "https://www.indypl.org/programs-events",
+  "format": "html",
+  "fixturePath": null,
+  "city": "Indianapolis",
+  "timezone": "America/Indiana/Indianapolis",
+  "sourceKind": "community",
+  "outcome": "verified",
+  "suitability": "likely_suitable",
+  "enrolled": false,
+  "serviceRegion": null,
+  "fetchedOn": "2026-11-14",
+  "baseSha": "ff079f6edc7deaa2b055bd46d72ce9b53525b4e1",
+  "evidence": "Fetched 2026-11-14. Parsed: Indy Library Store Next Sale Dec. 11-15. The year is not on that line. attend.indypl.org/events is a Communico shell with no titles. api.communico.co returned 401. No ICS was invented.",
+  "doesNot": [
+    "edit data/cities.ts",
+    "edit data/service-regions.json",
+    "edit data/venues.json",
+    "edit data/source-trust.ts",
+    "register a live feed"
+  ]
+}
