@@ -4740,4 +4740,91 @@
     ],
     "boundaryId": "atlanta-five-counties-2026"
   }
+,
+  {
+    "id": "naples",
+    "offlineBundle": "naples-events.ts",
+    "name": "Naples and Collier County",
+    "region": "FL",
+    "countryCode": "US",
+    "timezone": "America/New_York",
+    "boundaryId": "collier-county-2025",
+    "bounds": {
+      "latMin": 25.8008,
+      "latMax": 26.5171,
+      "lngMin": -82.245,
+      "lngMax": -80.8726
+    },
+    "anchor": {
+      "name": "Naples Regional Library",
+      "lat": 26.146459,
+      "lng": -81.798961,
+      "sourceUrl": "https://library.collier.gov/About-Us/Locations/Naples-Regional-Branch",
+      "checkedOn": "2026-11-14"
+    },
+    "localityAliases": {
+      "city of naples": "Naples",
+      "naples, fl": "Naples",
+      "naples fl": "Naples",
+      "old naples": "Naples",
+      "downtown naples": "Naples",
+      "north naples": "Naples",
+      "city of marco island": "Marco Island",
+      "marco island": "Marco Island",
+      "marco island, fl": "Marco Island",
+      "city of everglades city": "Everglades City",
+      "everglades city": "Everglades City",
+      "immokalee": "Immokalee",
+      "golden gate": "Golden Gate",
+      "east naples": "East Naples",
+      "naples park": "Naples Park",
+      "goodland": "Goodland",
+      "chokoloskee": "Chokoloskee",
+      "ave maria": "Ave Maria",
+      "orangetree": "Orangetree"
+    },
+    "hubs": [
+      {
+        "name": "Naples",
+        "municipality": "Naples"
+      },
+      {
+        "name": "Marco Island",
+        "municipality": "Marco Island"
+      },
+      {
+        "name": "Immokalee",
+        "municipality": "Immokalee"
+      },
+      {
+        "name": "Everglades City",
+        "municipality": "Everglades City"
+      }
+    ],
+    "groups": [
+      {
+        "id": "collier-municipalities",
+        "name": "Collier County municipalities",
+        "municipalities": [
+          "Naples",
+          "Marco Island",
+          "Everglades City"
+        ]
+      },
+      {
+        "id": "collier-communities",
+        "name": "Collier County communities",
+        "municipalities": [
+          "Immokalee",
+          "Golden Gate",
+          "East Naples",
+          "Naples Park",
+          "Goodland",
+          "Chokoloskee",
+          "Ave Maria",
+          "Orangetree"
+        ]
+      }
+    ]
+  }
 ]

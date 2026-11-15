@@ -13,6 +13,7 @@ export type ServiceRegionId =
   | 'tampa-bay'
   | 'orlando'
   | 'key-west'
+  | 'naples'
   | 'gainesville'
   | 'pensacola'
   | 'flagstaff'
@@ -39,6 +40,7 @@ export const MIAMI = regions.find(region => region.id === 'miami')!;
 export const TAMPA_BAY = regions.find(region => region.id === 'tampa-bay')!;
 export const ORLANDO = regions.find(region => region.id === 'orlando')!;
 export const KEY_WEST = regions.find(region => region.id === 'key-west')!;
+export const NAPLES = regions.find(region => region.id === 'naples')!;
 export const GAINESVILLE = regions.find(region => region.id === 'gainesville')!;
 export const NYC = regions.find(region => region.id === 'nyc')!;
 export const PENSACOLA = regions.find(region => region.id === 'pensacola')!;

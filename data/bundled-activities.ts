@@ -16,6 +16,7 @@ import { LOCAL_ACTIVITIES as MIAMI_ACTIVITIES, LOCAL_GENERATED_AT as MIAMI_GENER
 import { LOCAL_ACTIVITIES as TAMPA_ACTIVITIES, LOCAL_GENERATED_AT as TAMPA_GENERATED_AT } from './tampa-bay-events';
 import { LOCAL_ACTIVITIES as ORLANDO_ACTIVITIES, LOCAL_GENERATED_AT as ORLANDO_GENERATED_AT } from './orlando-events';
 import { LOCAL_ACTIVITIES as KEY_WEST_ACTIVITIES, LOCAL_GENERATED_AT as KEY_WEST_GENERATED_AT } from './key-west-events';
+import { LOCAL_ACTIVITIES as NAPLES_ACTIVITIES, LOCAL_GENERATED_AT as NAPLES_GENERATED_AT } from './naples-events';
 import { LOCAL_ACTIVITIES as GAINESVILLE_ACTIVITIES, LOCAL_GENERATED_AT as GAINESVILLE_GENERATED_AT } from './gainesville-events';
 import { LOCAL_ACTIVITIES as PENSACOLA_ACTIVITIES, LOCAL_GENERATED_AT as PENSACOLA_GENERATED_AT } from './pensacola-events';
 import { LOCAL_ACTIVITIES as AUSTIN_ACTIVITIES, LOCAL_GENERATED_AT as AUSTIN_GENERATED_AT } from './austin-events';
@@ -44,6 +45,7 @@ export const BUNDLED_ACTIVITIES: Activity[] = [
       region !== 'tampa-bay' &&
       region !== 'orlando' &&
       region !== 'key-west' &&
+      region !== 'naples' &&
       region !== 'gainesville' &&
       region !== 'pensacola' &&
       region !== 'austin' &&
@@ -66,6 +68,7 @@ export const BUNDLED_ACTIVITIES: Activity[] = [
   ...TAMPA_ACTIVITIES,
   ...ORLANDO_ACTIVITIES,
   ...KEY_WEST_ACTIVITIES,
+  ...NAPLES_ACTIVITIES,
   ...GAINESVILLE_ACTIVITIES,
   ...PENSACOLA_ACTIVITIES,
   ...AUSTIN_ACTIVITIES,
@@ -94,6 +97,7 @@ export const BUNDLED_REGION_GENERATED_AT: Partial<Record<import('@/lib/service-r
   'tampa-bay': TAMPA_GENERATED_AT,
   orlando: ORLANDO_GENERATED_AT,
   'key-west': KEY_WEST_GENERATED_AT,
+  naples: NAPLES_GENERATED_AT,
   gainesville: GAINESVILLE_GENERATED_AT,
   pensacola: PENSACOLA_GENERATED_AT,
   austin: AUSTIN_GENERATED_AT,

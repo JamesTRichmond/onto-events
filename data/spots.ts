@@ -6,6 +6,7 @@ import { CHICAGO_SPOTS } from '@/data/places/chicago';
 import { GAINESVILLE_SPOTS } from '@/data/places/gainesville';
 import { JACKSONVILLE_SPOTS } from '@/data/places/jacksonville';
 import { KEY_WEST_SPOTS } from '@/data/places/key-west';
+import { NAPLES_SPOTS } from '@/data/places/naples';
 import { MIAMI_SPOTS } from '@/data/places/miami';
 import { ORLANDO_SPOTS } from '@/data/places/orlando';
 import { PENSACOLA_SPOTS } from '@/data/places/pensacola';
@@ -43,6 +44,7 @@ export type PlaceBasin =
   | 'wendover'
   | 'jacksonville'
   | 'orlando'
+  | 'naples'
   | 'pensacola'
   | 'austin'
   | 'flagstaff'
@@ -1122,6 +1124,7 @@ export const SPOTS: EvergreenSpot[] = [
   ...TAMPA_SPOTS,
   ...ORLANDO_SPOTS,
   ...KEY_WEST_SPOTS,
+  ...NAPLES_SPOTS,
   ...GAINESVILLE_SPOTS,
   ...BROOKLYN_SPOTS,
   ...MANHATTAN_SPOTS,
