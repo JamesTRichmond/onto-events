@@ -1,0 +1,103 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Flanner House - ECPv6.18.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Flanner House
+X-ORIGINAL-URL:https://flannerhouse.org
+X-WR-CALDESC:Events for Flanner House
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Indiana/Indianapolis
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20250309T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20251102T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20270314T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20271107T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20261117T103000
+DTEND;TZID=America/Indiana/Indianapolis:20261117T113000
+DTSTAMP:20251216T025000Z
+CREATED:20251216T024838Z
+LAST-MODIFIED:20251216T025000Z
+UID:10000102-1794911400-1794915000@flannerhouse.org
+SUMMARY:Arts With a Purpose
+DESCRIPTION:Arts with a Purpose is designed for children and their families to introduce them to the fine arts. Different workshop each day {from music to painting and more!} \n 
+URL:https://flannerhouse.org/event/636/2026-11-17/
+LOCATION:Ujamaa Bookstore\, 2424 Doctor M.L.K. Jr St\,\, Indianapolis\, IN\, 46208\, United States
+ATTACH;FMTTYPE=image/png:https://ffscdn.s3.us-east-1.amazonaws.com/flannerhouse.org/2025/12/Frame-202-5.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20261120T103000
+DTEND;TZID=America/Indiana/Indianapolis:20261120T113000
+DTSTAMP:20251216T025000Z
+CREATED:20251216T024838Z
+LAST-MODIFIED:20251216T025000Z
+UID:10000103-1795170600-1795174200@flannerhouse.org
+SUMMARY:Arts With a Purpose
+DESCRIPTION:Arts with a Purpose is designed for children and their families to introduce them to the fine arts. Different workshop each day {from music to painting and more!} \n 
+URL:https://flannerhouse.org/event/636/2026-11-20/
+LOCATION:Ujamaa Bookstore\, 2424 Doctor M.L.K. Jr St\,\, Indianapolis\, IN\, 46208\, United States
+ATTACH;FMTTYPE=image/png:https://ffscdn.s3.us-east-1.amazonaws.com/flannerhouse.org/2025/12/Frame-202-5.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20261124T103000
+DTEND;TZID=America/Indiana/Indianapolis:20261124T113000
+DTSTAMP:20251216T025000Z
+CREATED:20251216T024838Z
+LAST-MODIFIED:20251216T025000Z
+UID:10000104-1795516200-1795519800@flannerhouse.org
+SUMMARY:Arts With a Purpose
+DESCRIPTION:Arts with a Purpose is designed for children and their families to introduce them to the fine arts. Different workshop each day {from music to painting and more!} \n 
+URL:https://flannerhouse.org/event/636/2026-11-24/
+LOCATION:Ujamaa Bookstore\, 2424 Doctor M.L.K. Jr St\,\, Indianapolis\, IN\, 46208\, United States
+ATTACH;FMTTYPE=image/png:https://ffscdn.s3.us-east-1.amazonaws.com/flannerhouse.org/2025/12/Frame-202-5.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Indiana/Indianapolis:20261127T103000
+DTEND;TZID=America/Indiana/Indianapolis:20261127T113000
+DTSTAMP:20251216T025000Z
+CREATED:20251216T024838Z
+LAST-MODIFIED:20251216T025000Z
+UID:10000105-1795775400-1795779000@flannerhouse.org
+SUMMARY:Arts With a Purpose
+DESCRIPTION:Arts with a Purpose is designed for children and their families to introduce them to the fine arts. Different workshop each day {from music to painting and more!} \n 
+URL:https://flannerhouse.org/event/636/2026-11-27/
+LOCATION:Ujamaa Bookstore\, 2424 Doctor M.L.K. Jr St\,\, Indianapolis\, IN\, 46208\, United States
+ATTACH;FMTTYPE=image/png:https://ffscdn.s3.us-east-1.amazonaws.com/flannerhouse.org/2025/12/Frame-202-5.png
+END:VEVENT
+END:VCALENDAR
